@@ -11,25 +11,26 @@ redirect_from:
 
 Curriculum Vitae
 ======
-You can download a PDF version of my CV [here](https://zhenghua-qi.github.io/files/Curriculum Vitae_latest.pdf).
+You can download a PDF version of my CV [here](https://cliohsu1997.github.io/files/Curriculum Vitae_latest.pdf).
 
 ---
 
 Education
 ======
-* Ph.D. Candidate in Economics, *Hong Kong University of Science and Technology*, Aug 2019 - Present
-* M.Sc. in Finance and Economics, *London School of Economics and Political Science*, Aug 2018 - Jun 2019
-* B.Ec. in Finance, *Shandong University*, Sep 2014 - Jun 2018
+* Ph.D. Candidate in Economics, *Hong Kong University of Science and Technology*, Aug 2020 - Present
+* Bachelor in Mathematics and Economics, *Hong Kong University of Science and Technology*, Sep 2015 – Dec 2019
 
 ---
 
 Research
 ======
 
+<!--
 - **[Job Market Paper]** Bank Loan Reliance and Inflation Inattention, with Tiziano Ropele
 - Endogenous Firm Entry and the Supply-Side Effects of Monetary Policy, with Marc Dordal i Carreras and Seung Joo Lee
 - Diagnostic Expectations in Housing Price Dynamics, with Byoungchan Lee
 - The Scarring Effects of Initial Conditions on Firms, work in progress
+-->
 
 ---
 
@@ -37,20 +38,20 @@ Professional Experience
 =====
 
 **Research**
-- Research Assistant for Prof. Byoungchan Lee, 2021 - 2022
-- Research Assistant for Prof. Marc Dordal i Carreras, 2024 - present
+- Research Assistant for Prof. Benjamin Bernard, *National Taiwan University*, Jan 2020 - Jul 2020
   
 **Teaching**
-- Teaching Assistant, Department of Economics, 2019 - 2024 <br>Macroeconomics, Money and Banking, The Economics of Entrepreneurship and Innovation, Microeconomic Analysis
+- Teaching Assistant, Department of Economics, 2020 - 2025 <br>ECON2123 (L6) - Macroeconomics, ECON 4114 - Industrial Organization & Competitive Strategy, ECON4134 (L1) - Economics of Uncertainty and Information, ECON5210 (L1) - Microeconomic Theory I, ECON5220 (L1) - Microeconomic Theory II
+- Teaching Assistant Coordinator, Business School, 2025 - 2026
 
 ---
 
 Awards
 ======
-- Overseas Research Award from HKUST, Jun 2023
-- Dean’s Postgraduate Scholarship from HKUST, Apr 2023
-- Postgraduate Studentship from the HKUST, 2019 - present
-- China National Scholarship for Undergraduate Students, Nov 2015
+- Postgraduate Studentship from the HKUST, 2020 - present
+- Red Bird PhD Award, 2022
+- Academic Achievement Medal, 2019
+- University Scholarship (730K HKD), 2015 - 2019
 
 ---
 
