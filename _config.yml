@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhenghua QI (齐正华)"
+title                    : "HSU Ke Cheng(許可證)"
 title_separator          : "-"
-name                     : &name "Zhenghua QI"
+name                     : &name "HSU Ke Cheng"
 description              : &description "PhD candidate at Hong Kong University of Science and Technology"
-url                      : https://zhenghua-qi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cliohsu1997.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhenghua-QI/zhenghua-qi.github.io"
+repository               : "cliohsu1997/cliohsu1997.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhenghua QI"
+  name             : "HSU Ke Cheng"
   avatar           : "profile.jpg"
   bio              : "PhD candidate at Hong Kong University of Science and Technology"
   location         : "Hong Kong SAR"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : zqiae@connect.ust.hk
+  email            : khsu@connect.ust.hk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : cliohsu1997 
   google_plus      :
   keybase          :
   instagram        :
