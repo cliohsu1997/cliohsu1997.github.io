@@ -16,6 +16,10 @@
 \pagestyle{empty}
 \onehalfspacing
 
+% Fixed date column so every year aligns on the same right edge
+\newlength{\cvdatewidth}
+\setlength{\cvdatewidth}{11em}
+
 \newcommand{\sectionheader}[1]{%
   \vspace{0.85em}
   {\large\bfseries #1}\\[-0.15em]
@@ -23,11 +27,11 @@
   \vspace{0.35em}
 }
 
-% Left entry + right-aligned date (optional indent in #1)
-\newcommand{\datedline}[2]{%
-  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}l r@{}}
-  #1 & #2
-  \end{tabular*}\par
+% #1 = left indent, #2 = text, #3 = date (optional empty)
+\newcommand{\cvline}[3][0em]{%
+  \noindent\hspace{#1}%
+  \makebox[\dimexpr\linewidth-#1-\cvdatewidth\relax][l]{\raggedright #2}%
+  \makebox[\cvdatewidth][r]{#3}\par\vspace{0.08em}%
 }
 
 \begin{document}
@@ -52,11 +56,13 @@
 
 \sectionheader{EDUCATION}
 Hong Kong University of Science and Technology\\
-\hspace{1.5em}\datedline{Ph.D.\ in Economics}{2022 -- 2027 (expected)}\\[0.35em]
+\cvline[1.5em]{Ph.D.\ in Economics}{2022 -- 2027 (expected)}
+\vspace{0.25em}
 Hong Kong University of Science and Technology\\
-\hspace{1.5em}\datedline{M.Phil.\ in Economics}{2020 -- 2022}\\[0.35em]
+\cvline[1.5em]{M.Phil.\ in Economics}{2020 -- 2022}
+\vspace{0.25em}
 Hong Kong University of Science and Technology\\
-\hspace{1.5em}\datedline{B.Sc.\ in Mathematics and Economics}{2015 -- 2019}
+\cvline[1.5em]{B.Sc.\ in Mathematics and Economics}{2015 -- 2019}
 
 \sectionheader{WORKING PAPERS}
 \begin{itemize}
@@ -73,27 +79,35 @@ Hong Kong University of Science and Technology\\
 \end{itemize}
 
 \sectionheader{PROFESSIONAL EXPERIENCE}
-\textit{Research}\\[0.15em]
-\hspace{1.5em}\datedline{Research Assistant for Prof.\ Benjamin Bernard, National Taiwan University}{2020}
 
-\vspace{0.45em}
-\textit{Teaching}\\[0.15em]
-\hspace{1.5em}\datedline{Lecturer, Math Camp for MSc in Economics, HKUST}{2026}\\[0.15em]
-\hspace{1.5em}\datedline{Teaching Assistant Coordinator, Business School, HKUST}{2025 -- 2026}\\[0.15em]
-\hspace{1.5em}\datedline{Teaching Assistant, Department of Economics, HKUST}{2020 -- 2025}\\[0.1em]
-\hspace{3em} Macroeconomics; Industrial Organization \& Competitive Strategy;\\
-\hspace{3em} Economics of Uncertainty and Information; Microeconomic Theory I; Microeconomic Theory II
+% Level 1: Research / Teaching / Presentations
+\textit{Research}\\[0.12em]
+% Level 2
+\cvline[1.5em]{Research Assistant for Prof.\ Benjamin Bernard, National Taiwan University}{2020}
 
-\vspace{0.55em}
-Presentations: ($^{\ast}$ for scheduled)\\[0.1em]
+\vspace{0.4em}
+\textit{Teaching}\\[0.12em]
+% Level 2
+\cvline[1.5em]{Lecturer, Math Camp for MSc in Economics, HKUST}{2026}
+\cvline[1.5em]{Teaching Assistant Coordinator, Business School, HKUST}{2025 -- 2026}
+\cvline[1.5em]{Teaching Assistant, Department of Economics, HKUST}{2020 -- 2025}
+% Level 3: courses under TA
+\hspace{3em} ECON2123 -- Macroeconomics\\
+\hspace{3em} ECON4114 -- Industrial Organization \& Competitive Strategy\\
+\hspace{3em} ECON4134 -- Economics of Uncertainty and Information\\
+\hspace{3em} ECON5210 -- Microeconomic Theory I\\
+\hspace{3em} ECON5220 -- Microeconomic Theory II
+
+\vspace{0.4em}
+\textit{Presentations} ($^{\ast}$ for scheduled)\\[0.12em]
 \hspace{1.5em} HKUST Business School PhD Conference; CEP Brownbag in HKUST; 中国经济学年会夏季论坛$^{\ast}$;\\
 \hspace{1.5em} APIOC 2023; AMES 2023 NTU Singapore
 
 \sectionheader{FELLOWSHIPS AND AWARDS}
-\hspace{1.5em}\datedline{Postgraduate Studentship from the HKUST}{2020 -- present}\\[0.15em]
-\hspace{1.5em}\datedline{Red Bird PhD Award}{2022}\\[0.15em]
-\hspace{1.5em}\datedline{Academic Achievement Medal}{2019}\\[0.15em]
-\hspace{1.5em}\datedline{University Scholarship (730K HKD)}{2015 -- 2019}
+\cvline[1.5em]{Postgraduate Studentship from the HKUST}{2020 -- present}
+\cvline[1.5em]{Red Bird PhD Award}{2022}
+\cvline[1.5em]{Academic Achievement Medal}{2019}
+\cvline[1.5em]{University Scholarship (730K HKD)}{2015 -- 2019}
 
 \sectionheader{SKILLS}
 \hspace{1.5em} Technical Skills: R, Python, C++, \LaTeX, AWS\\
