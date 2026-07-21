@@ -28,21 +28,44 @@
     {% endif %}
 
     {% if post.custom_excerpt %}
-      <h3 class="archive__item-title" itemprop="headline" style="display: inline; margin-right: 5px;">
+      <div class="publi-text-block">
+      <h3 class="archive__item-title" itemprop="headline">
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       </h3>
+      {% if post.coauthors %}
+        <span class="publi-coauthors">(joint with {{ post.coauthors }})</span>
+      {% endif %}
+      {% if post.status2 == 'jmp' %}
+        <p><i>Job Market Paper</i></p>
+      {% elsif post.status2 == 'accepted' %}
+        <p>Accepted for publication in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+      {% elsif post.status2 == 'submitted' %}
+        <p><i>Submitted</i></p>
+      {% endif %}
+      {% if site.read_more != 'enabled' %}
+        <div class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</div>
+      {% else %}
+        <div class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }} <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a></strong></div>
+      {% endif %}
+      {% if post.presented_at %}
+        <p class="publi-presented">Presented at: {{ post.presented_at }}</p>
+      {% endif %}
+      </div>
     {% else %}
       <h3 class="archive__item-title" itemprop="headline" style="display: inline; text-decoration: none; margin-right: 5px;">
         {{ title }}
       </h3>
-    {% endif %}
-<!--     <span style="font-weight: normal; display: inline; font-size: 18px;">(joint with {{ post.coauthors }})</span> -->
-    {% if post.coauthors %}
-      <span style="font-weight: normal; display: inline; font-size: 18px;">
-          (joint with {{ post.coauthors }})
-      </span>
+      {% if post.coauthors %}
+        <span style="font-weight: normal; display: inline; font-size: 0.85em;">
+            (joint with {{ post.coauthors }})
+        </span>
+      {% endif %}
+      {% if post.presented_at %}
+        <p>Presented at: {{ post.presented_at }}</p>
+      {% endif %}
     {% endif %}
 
+    {% unless post.custom_excerpt %}
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
@@ -72,16 +95,7 @@
     {% elsif post.date %}
       <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
     {% endif %}
-
-    {% if post.custom_excerpt and site.read_more != 'enabled' %}
-      <div class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</div>
-    {% elsif post.custom_excerpt and site.read_more == 'enabled' %}
-      <div class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }} <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a></strong></div>
-    {% endif %}
-
-    {% if post.presented_at %}
-      <p>Presented at: {{ post.presented_at }}</p>
-    {% endif %}
+    {% endunless %}
 
 
     <!-- {% if post.citation and post.pubpaperurl %}

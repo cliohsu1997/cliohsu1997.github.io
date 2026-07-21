@@ -42,7 +42,6 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
-  font-size: 1.25em;
 
   a + a {
     opacity: 0.5;
@@ -58,23 +57,47 @@
   }
 }
 
+/* Title sets the scale; abstract is exactly 80% of the title size */
+.publi-text-block {
+  font-size: 1.15rem;
+
+  .archive__item-title {
+    display: inline;
+    margin-right: 5px;
+    font-size: 1em; /* = 1.15rem */
+  }
+
+  .publi-coauthors {
+    font-weight: normal;
+    font-size: 0.85em;
+  }
+
+  .archive__item-excerpt {
+    margin-top: 0.35em;
+    font-size: 0.8em; /* 80% of title */
+    line-height: 1.65;
+    max-width: 42em;
+    text-decoration: none;
+
+    p {
+      margin: 0;
+      font-size: 1em; /* keep 80%; do not shrink again */
+      text-decoration: none;
+    }
+
+    a {
+      text-decoration: none;
+    }
+  }
+
+  .publi-presented {
+    font-size: 0.8em;
+  }
+}
+
 .archive__item-excerpt {
   margin-top: 0.35em;
-  /* 80% of .archive__item-title (1.25em * 0.8 = 1em) */
-  font-size: 1em;
-  line-height: 1.7;
-  max-width: 34em;
   text-decoration: none;
-
-  p {
-    font-size: 1em;
-    margin: 0;
-    text-decoration: none;
-  }
-
-  a {
-    text-decoration: none;
-  }
 
   & + p {
     text-indent: 0;
