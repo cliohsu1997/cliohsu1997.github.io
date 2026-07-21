@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+**Lecturer, Math Camp for MSc in Economics, 2026**
+
 **Teaching Assistant, Department of Economics, 2020 – 2025**
 
 - ECON2123 (L6) – Macroeconomics
