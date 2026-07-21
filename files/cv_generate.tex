@@ -8,6 +8,8 @@
 \usepackage{hyperref}
 \usepackage{enumitem}
 \usepackage{setspace}
+\usepackage{tabularx}
+\usepackage{array}
 
 \hypersetup{colorlinks=true, urlcolor=blue, linkcolor=black}
 \setlist[itemize]{leftmargin=1.2em, itemsep=0.45em, topsep=0.3em, parsep=0.15em}
@@ -16,9 +18,9 @@
 \pagestyle{empty}
 \onehalfspacing
 
-% Fixed date column so every year aligns on the same right edge
-\newlength{\cvdatewidth}
-\setlength{\cvdatewidth}{11em}
+% Fixed width for ALL dates so 2020 / 2025--2026 / 2020--present share one right edge
+\newlength{\cvdatecol}
+\setlength{\cvdatecol}{10.5em}
 
 \newcommand{\sectionheader}[1]{%
   \vspace{0.85em}
@@ -27,11 +29,19 @@
   \vspace{0.35em}
 }
 
-% #1 = left indent, #2 = text, #3 = date (optional empty)
+% #1 indent, #2 left text, #3 date (right-aligned in fixed column)
 \newcommand{\cvline}[3][0em]{%
-  \noindent\hspace{#1}%
-  \makebox[\dimexpr\linewidth-#1-\cvdatewidth\relax][l]{\raggedright #2}%
-  \makebox[\cvdatewidth][r]{#3}\par\vspace{0.08em}%
+  \par\nobreak
+  \noindent\hspace*{#1}%
+  \begin{tabularx}{\dimexpr\textwidth-#1\relax}{@{}X@{\hspace{0.75em}}>{\raggedleft\arraybackslash}p{\cvdatecol}@{}}
+  #2 & #3 \\
+  \end{tabularx}%
+  \vspace{0.1em}%
+}
+
+% Course lines under TA (same sub-sub level, no date)
+\newcommand{\courseline}[1]{%
+  \par\noindent\hspace*{3.2em}#1\par\vspace{0.05em}%
 }
 
 \begin{document}
@@ -57,10 +67,10 @@
 \sectionheader{EDUCATION}
 Hong Kong University of Science and Technology\\
 \cvline[1.5em]{Ph.D.\ in Economics}{2022 -- 2027 (expected)}
-\vspace{0.25em}
+\vspace{0.2em}
 Hong Kong University of Science and Technology\\
 \cvline[1.5em]{M.Phil.\ in Economics}{2020 -- 2022}
-\vspace{0.25em}
+\vspace{0.2em}
 Hong Kong University of Science and Technology\\
 \cvline[1.5em]{B.Sc.\ in Mathematics and Economics}{2015 -- 2019}
 
@@ -80,25 +90,24 @@ Hong Kong University of Science and Technology\\
 
 \sectionheader{PROFESSIONAL EXPERIENCE}
 
-% Level 1: Research / Teaching / Presentations
+% Same level: Research / Teaching / Presentations
 \textit{Research}\\[0.12em]
-% Level 2
 \cvline[1.5em]{Research Assistant for Prof.\ Benjamin Bernard, National Taiwan University}{2020}
 
-\vspace{0.4em}
+\vspace{0.35em}
 \textit{Teaching}\\[0.12em]
-% Level 2
+% Same sub-level
 \cvline[1.5em]{Lecturer, Math Camp for MSc in Economics, HKUST}{2026}
 \cvline[1.5em]{Teaching Assistant Coordinator, Business School, HKUST}{2025 -- 2026}
 \cvline[1.5em]{Teaching Assistant, Department of Economics, HKUST}{2020 -- 2025}
-% Level 3: courses under TA
-\hspace{3em} ECON2123 -- Macroeconomics\\
-\hspace{3em} ECON4114 -- Industrial Organization \& Competitive Strategy\\
-\hspace{3em} ECON4134 -- Economics of Uncertainty and Information\\
-\hspace{3em} ECON5210 -- Microeconomic Theory I\\
-\hspace{3em} ECON5220 -- Microeconomic Theory II
+% Same sub-sub level: courses
+\courseline{ECON2123 -- Macroeconomics}
+\courseline{ECON4114 -- Industrial Organization \& Competitive Strategy}
+\courseline{ECON4134 -- Economics of Uncertainty and Information}
+\courseline{ECON5210 -- Microeconomic Theory I}
+\courseline{ECON5220 -- Microeconomic Theory II}
 
-\vspace{0.4em}
+\vspace{0.35em}
 \textit{Presentations} ($^{\ast}$ for scheduled)\\[0.12em]
 \hspace{1.5em} HKUST Business School PhD Conference; CEP Brownbag in HKUST; 中国经济学年会夏季论坛$^{\ast}$;\\
 \hspace{1.5em} APIOC 2023; AMES 2023 NTU Singapore
