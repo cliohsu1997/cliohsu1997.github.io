@@ -20,8 +20,8 @@ I received my bachelor's degree in Mathematics and Economics from Hong Kong Univ
 
 - I am on the 2026-2027 job market.
 
-- **[Job Market Paper]** Return Shipping Insurance: 
-<!-- [Slides](https://zhenghua-qi.github.io/files/inflation_slides_latest.pdf) [Draft](https://zhenghua-qi.github.io/files/JMP_latest.pdf) -->
+- **[Job Market Paper]** Designing Return Policy in E-Commerce: The Role of Excess Return and Surplus Extraction
+  [Draft](https://cliohsu1997.github.io/files/RSI.pdf)
 
 - Please feel free to contact me at:
   <br>Email: [khsu@connect.ust.hk](mailto: khsu@connect.ust.hk)
