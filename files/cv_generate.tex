@@ -23,6 +23,13 @@
   \vspace{0.35em}
 }
 
+% Left entry + right-aligned date (optional indent in #1)
+\newcommand{\datedline}[2]{%
+  \noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}l r@{}}
+  #1 & #2
+  \end{tabular*}\par
+}
+
 \begin{document}
 
 \begin{center}
@@ -45,11 +52,11 @@
 
 \sectionheader{EDUCATION}
 Hong Kong University of Science and Technology\\
-\hspace{1.5em} Ph.D.\ in Economics \hfill 2020 -- 2027 (expected)\\[0.45em]
+\hspace{1.5em}\datedline{Ph.D.\ in Economics}{2022 -- 2027 (expected)}\\[0.35em]
 Hong Kong University of Science and Technology\\
-\hspace{1.5em} M.Phil.\ in Economics \hfill 2020 -- 2022\\[0.45em]
+\hspace{1.5em}\datedline{M.Phil.\ in Economics}{2020 -- 2022}\\[0.35em]
 Hong Kong University of Science and Technology\\
-\hspace{1.5em} B.Sc.\ in Mathematics and Economics \hfill 2015 -- 2019
+\hspace{1.5em}\datedline{B.Sc.\ in Mathematics and Economics}{2015 -- 2019}
 
 \sectionheader{WORKING PAPERS}
 \begin{itemize}
@@ -66,25 +73,27 @@ Hong Kong University of Science and Technology\\
 \end{itemize}
 
 \sectionheader{PROFESSIONAL EXPERIENCE}
-\hspace{1.5em} Research:\\
-\hspace{3em} Research Assistant for Prof.\ Benjamin Bernard, National Taiwan University (2020)\\[0.35em]
-\hspace{1.5em} Teaching:\\
-\hspace{3em} Lecturer, Math Camp for MSc in Economics, HKUST (2026)\\
-\hspace{3em} Teaching Assistant Coordinator, Business School, HKUST (2025--2026)\\
-\hspace{3em} Teaching Assistant, Department of Economics, HKUST (2020--2025)\\
-\hspace{3em} Macroeconomics, Industrial Organization \& Competitive Strategy, Economics of Uncertainty and Information,\\
-\hspace{3em} Microeconomic Theory I, Microeconomic Theory II
+\textit{Research}\\[0.15em]
+\hspace{1.5em}\datedline{Research Assistant for Prof.\ Benjamin Bernard, National Taiwan University}{2020}
 
 \vspace{0.45em}
-Presentations: ($^{\ast}$ for scheduled)\\
-\hspace{1.5em} HKUST Business School PhD Conference, CEP Brownbag in HKUST, 中国经济学年会夏季论坛$^{\ast}$,\\
-\hspace{1.5em} APIOC 2023, AMES 2023 NTU Singapore
+\textit{Teaching}\\[0.15em]
+\hspace{1.5em}\datedline{Lecturer, Math Camp for MSc in Economics, HKUST}{2026}\\[0.15em]
+\hspace{1.5em}\datedline{Teaching Assistant Coordinator, Business School, HKUST}{2025 -- 2026}\\[0.15em]
+\hspace{1.5em}\datedline{Teaching Assistant, Department of Economics, HKUST}{2020 -- 2025}\\[0.1em]
+\hspace{3em} Macroeconomics; Industrial Organization \& Competitive Strategy;\\
+\hspace{3em} Economics of Uncertainty and Information; Microeconomic Theory I; Microeconomic Theory II
+
+\vspace{0.55em}
+Presentations: ($^{\ast}$ for scheduled)\\[0.1em]
+\hspace{1.5em} HKUST Business School PhD Conference; CEP Brownbag in HKUST; 中国经济学年会夏季论坛$^{\ast}$;\\
+\hspace{1.5em} APIOC 2023; AMES 2023 NTU Singapore
 
 \sectionheader{FELLOWSHIPS AND AWARDS}
-\hspace{1.5em} 2020--present Postgraduate Studentship from the HKUST\\
-\hspace{1.5em} 2022 Red Bird PhD Award\\
-\hspace{1.5em} 2019 Academic Achievement Medal\\
-\hspace{1.5em} 2015--2019 University Scholarship (730K HKD)
+\hspace{1.5em}\datedline{Postgraduate Studentship from the HKUST}{2020 -- present}\\[0.15em]
+\hspace{1.5em}\datedline{Red Bird PhD Award}{2022}\\[0.15em]
+\hspace{1.5em}\datedline{Academic Achievement Medal}{2019}\\[0.15em]
+\hspace{1.5em}\datedline{University Scholarship (730K HKD)}{2015 -- 2019}
 
 \sectionheader{SKILLS}
 \hspace{1.5em} Technical Skills: R, Python, C++, \LaTeX, AWS\\
