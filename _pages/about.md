@@ -19,11 +19,5 @@ My research interests are in Industrial Organization Theory and Empirical Indust
 * Ph.D. Candidate in Economics, *Hong Kong University of Science and Technology*, Aug 2020 - Present
 * Bachelor in Mathematics and Economics, *Hong Kong University of Science and Technology*, Sep 2015 – Dec 2019
 
-## Professional Experience
-
-**Research**
-
-- Research Assistant for Prof. Benjamin Bernard, *National Taiwan University*, Jan 2020 - Jul 2020
-
 Please feel free to contact me at:  
 Email: [khsu@connect.ust.hk](mailto:khsu@connect.ust.hk)
