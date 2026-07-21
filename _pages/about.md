@@ -20,4 +20,5 @@ My research interests are in Industrial Organization Theory and Empirical Indust
 * Bachelor in Mathematics and Economics, *Hong Kong University of Science and Technology*, Sep 2015 – Dec 2019
 
 Please feel free to contact me at:  
-Email: [khsu@connect.ust.hk](mailto:khsu@connect.ust.hk)
+Email: [khsu@connect.ust.hk](mailto:khsu@connect.ust.hk)  
+LinkedIn: [linkedin.com/in/hsu-ke-cheng](https://www.linkedin.com/in/hsu-ke-cheng)
