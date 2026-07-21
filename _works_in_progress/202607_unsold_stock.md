@@ -5,5 +5,7 @@ permalink: /works_in_progress/unsold-stock
 status2: 'in_progress'
 title: "Too Much Unsold Stock?: Environmental Consequences of Price Commitment"
 coauthors: "Kohei Kawaguchi and Kei Kawai"
+custom_excerpt: "true"
+excerpt: ""
 output: false
 ---
