@@ -36,12 +36,11 @@
   \begin{tabularx}{\dimexpr\textwidth-#1\relax}{@{}X@{\hspace{0.75em}}>{\raggedleft\arraybackslash}p{\cvdatecol}@{}}
   #2 & #3 \\
   \end{tabularx}%
-  \vspace{0.1em}%
 }
 
 % Course lines under TA (same sub-sub level, no date)
 \newcommand{\courseline}[1]{%
-  \par\noindent\hspace*{3.2em}#1\par\vspace{0.05em}%
+  \par\noindent\hspace*{3.2em}#1\par
 }
 
 \begin{document}
@@ -65,14 +64,16 @@
 \hspace{1.5em} Field of concentration: IO Theory and Empirical IO
 
 \sectionheader{EDUCATION}
-Hong Kong University of Science and Technology\\
+{\setstretch{1.05}
+Hong Kong University of Science and Technology\\[-0.15em]
 \cvline[1.5em]{Ph.D.\ in Economics}{2022 -- 2027 (expected)}
-\vspace{0.2em}
-Hong Kong University of Science and Technology\\
+\vspace{0.08em}
+Hong Kong University of Science and Technology\\[-0.15em]
 \cvline[1.5em]{M.Phil.\ in Economics}{2020 -- 2022}
-\vspace{0.2em}
-Hong Kong University of Science and Technology\\
+\vspace{0.08em}
+Hong Kong University of Science and Technology\\[-0.15em]
 \cvline[1.5em]{B.Sc.\ in Mathematics and Economics}{2015 -- 2019}
+}
 
 \sectionheader{WORKING PAPERS}
 \begin{itemize}
@@ -89,13 +90,13 @@ Hong Kong University of Science and Technology\\
 \end{itemize}
 
 \sectionheader{PROFESSIONAL EXPERIENCE}
-
+{\setstretch{1.05}
 % Same level: Research / Teaching / Presentations
-\textit{Research}\\[0.12em]
+\textit{Research}\\[-0.05em]
 \cvline[1.5em]{Research Assistant for Prof.\ Benjamin Bernard, National Taiwan University}{2020}
 
-\vspace{0.35em}
-\textit{Teaching}\\[0.12em]
+\vspace{0.15em}
+\textit{Teaching}\\[-0.05em]
 % Same sub-level
 \cvline[1.5em]{Lecturer, Math Camp for MSc in Economics, HKUST}{2026}
 \cvline[1.5em]{Teaching Assistant Coordinator, Business School, HKUST}{2025 -- 2026}
@@ -107,10 +108,11 @@ Hong Kong University of Science and Technology\\
 \courseline{ECON5210 -- Microeconomic Theory I}
 \courseline{ECON5220 -- Microeconomic Theory II}
 
-\vspace{0.35em}
-\textit{Presentations} ($^{\ast}$ for scheduled)\\[0.12em]
+\vspace{0.15em}
+\textit{Presentations} ($^{\ast}$ for scheduled)\\[-0.05em]
 \hspace{1.5em} HKUST Business School PhD Conference; CEP Brownbag in HKUST; 中国经济学年会夏季论坛$^{\ast}$;\\
 \hspace{1.5em} APIOC 2023; AMES 2023 NTU Singapore
+}
 
 \sectionheader{FELLOWSHIPS AND AWARDS}
 \cvline[1.5em]{Postgraduate Studentship from the HKUST}{2020 -- present}
