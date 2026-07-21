@@ -59,7 +59,12 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  font-size: $type-size-5;
+  text-decoration: none;
+
+  a {
+    text-decoration: none;
+  }
 
   & + p {
     text-indent: 0;
