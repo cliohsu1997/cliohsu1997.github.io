@@ -76,9 +76,9 @@
     {% endif %}
 
     {% if post.custom_excerpt and site.read_more != 'enabled' %}
-      <div class="archive__item-excerpt" itemprop="description" style="font-size: 1.2em; line-height: 1.75; max-width: 34em; text-decoration: none;">{{ post.excerpt | markdownify }}</div>
+      <div class="archive__item-excerpt" itemprop="description" style="font-size: 0.8em; line-height: 1.7; max-width: 34em; text-decoration: none;">{{ post.excerpt | markdownify }}</div>
     {% elsif post.custom_excerpt and site.read_more == 'enabled' %}
-      <div class="archive__item-excerpt" itemprop="description" style="font-size: 1.2em; line-height: 1.75; max-width: 34em; text-decoration: none;">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }} <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a></strong></div>
+      <div class="archive__item-excerpt" itemprop="description" style="font-size: 0.8em; line-height: 1.7; max-width: 34em; text-decoration: none;">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }} <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a></strong></div>
     {% endif %}
 
     {% if post.presented_at %}
