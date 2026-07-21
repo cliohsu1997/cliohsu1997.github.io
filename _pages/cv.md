@@ -15,21 +15,6 @@ You can download a PDF version of my CV [here](https://cliohsu1997.github.io/fil
 
 ---
 
-Education
-======
-* Ph.D. Candidate in Economics, *Hong Kong University of Science and Technology*, Aug 2020 - Present
-* Bachelor in Mathematics and Economics, *Hong Kong University of Science and Technology*, Sep 2015 – Dec 2019
-
----
-
-Professional Experience
-=====
-
-**Research**
-- Research Assistant for Prof. Benjamin Bernard, *National Taiwan University*, Jan 2020 - Jul 2020
-
----
-
 Awards
 ======
 - Postgraduate Studentship from the HKUST, 2020 - present
