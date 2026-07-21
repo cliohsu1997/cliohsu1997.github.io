@@ -42,6 +42,7 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
+  font-size: 1.25em;
 
   a + a {
     opacity: 0.5;
@@ -58,9 +59,18 @@
 }
 
 .archive__item-excerpt {
-  margin-top: 0;
-  font-size: 0.8em;
+  margin-top: 0.35em;
+  /* 80% of .archive__item-title (1.25em * 0.8 = 1em) */
+  font-size: 1em;
+  line-height: 1.7;
+  max-width: 34em;
   text-decoration: none;
+
+  p {
+    font-size: 1em;
+    margin: 0;
+    text-decoration: none;
+  }
 
   a {
     text-decoration: none;

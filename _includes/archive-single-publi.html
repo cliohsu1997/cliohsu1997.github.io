@@ -59,8 +59,6 @@
       <p><i>Submitted</i> </p>
     {% elsif post.status2 == 'jmp' %}
       <p><i>Job Market Paper</i> </p>
-    {% elsif post.status2 == 'in_progress' %}
-      <p><i>In Progress</i> </p>
     {% elsif post.collection == 'published_papers' %}
       <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'policy_papers' %}
@@ -76,9 +74,9 @@
     {% endif %}
 
     {% if post.custom_excerpt and site.read_more != 'enabled' %}
-      <div class="archive__item-excerpt" itemprop="description" style="font-size: 0.8em; line-height: 1.7; max-width: 34em; text-decoration: none;">{{ post.excerpt | markdownify }}</div>
+      <div class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</div>
     {% elsif post.custom_excerpt and site.read_more == 'enabled' %}
-      <div class="archive__item-excerpt" itemprop="description" style="font-size: 0.8em; line-height: 1.7; max-width: 34em; text-decoration: none;">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }} <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a></strong></div>
+      <div class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }} <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a></strong></div>
     {% endif %}
 
     {% if post.presented_at %}
