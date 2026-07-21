@@ -76,9 +76,17 @@
     {% endif %}
 
     {% if post.custom_excerpt and site.read_more != 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+      {% if post.status2 == 'jmp' %}
+        <p class="archive__item-excerpt" itemprop="description"><span style="text-decoration: underline;">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</span></p>
+      {% else %}
+        <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+      {% endif %}
     {% elsif post.custom_excerpt and site.read_more == 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    {% endif %}
+
+    {% if post.presented_at %}
+      <p>Presented at: {{ post.presented_at }}</p>
     {% endif %}
 
 
