@@ -114,13 +114,5 @@
   {% endif %}
   </p>
 
-  {% if post.citation and post.custom_excerpt and post.pubpaperurl %}
-    Recommended citation: {{ post.citation }} {{ post.pubpaperurl }}
-  {% elsif post.citation and post.custom_excerpt and post.wppaperurl %}
-    Recommended citation: {{ post.citation }} {{ post.wppaperurl }}
-  {% elsif post.citation and post.custom_excerpt %}
-    Recommended citation: {{ post.citation }}
-  {% endif %}
-
   </article>
 </div>
