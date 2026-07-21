@@ -9,7 +9,14 @@ author_profile: true
 
 <h2>Working Papers</h2>
 <ol style="padding-left: 20px;">
-{% for post in site.working_papers reversed %}
+{% assign jmp_papers = site.working_papers | where: "status2", "jmp" %}
+{% assign other_working_papers = site.working_papers | where_exp: "item", "item.status2 != 'jmp'" %}
+{% for post in jmp_papers %}
+  <li style="padding-left: 5px; margin-bottom: 20px;"> 
+    {% include archive-single-publi.html %}
+  </li>
+{% endfor %}
+{% for post in other_working_papers %}
   <li style="padding-left: 5px; margin-bottom: 20px;"> 
     {% include archive-single-publi.html %}
   </li>
