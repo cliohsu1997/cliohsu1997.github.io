@@ -16,15 +16,14 @@ author_profile: true
 - [Day 5: Dynamic programming — two-period savings and the Bellman equation](https://docs.google.com/gview?embedded=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fcliohsu1997%2Fmath_camp_2026%2Fmain%2Fslides%2Fday%205%2Fday05_dynamic_programming.pdf)
 - [Duality](https://docs.google.com/gview?embedded=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fcliohsu1997%2Fmath_camp_2026%2Fmain%2Fslides%2Fduality%2Fduality_notes.pdf)
 
-**Average teaching evaluation: 4.51/5**
+**Average teaching evaluation: 4.48/5**
 
 **Teaching Assistant Coordinator, Business School, 2025 – 2026**
 
 **Teaching Assistant, Department of Economics, 2020 – 2025**
 
-- ECON2123 (L6) – Macroeconomics
+- ECON2123 (L6) – Macroeconomics (4.36/5)
 - ECON 4114 – Industrial Organization & Competitive Strategy (3.95/5)
 - ECON4134 (L1) – Economics of Uncertainty and Information (4.66/5)
 - ECON4999T (4.25/5)
 - ECON5210 (L1) – Microeconomic Theory I (4.85/5; 4.83/5)
-- ECON5220 (L1) – Microeconomic Theory II
