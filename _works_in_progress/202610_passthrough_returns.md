@@ -3,7 +3,7 @@ date: 2026-10-14
 collection: works_in_progress
 permalink: /works_in_progress/passthrough-returns
 status2: 'in_progress'
-title: "Pass-Through, Welfare, and Incidence under Product Returns in Perfect Competition"
+title: "Pass-Through and Incidence with Product Returns"
 coauthors: "Ce Bian and Liang Zhao"
 custom_excerpt: "true"
 excerpt: "*Preliminary result:* We study how a production-cost increase, a return-handling-cost increase, and a platform tax that is only partly refunded on returns pass through into the price and affect welfare in a competitive market with product returns. Each shock can generate negative pass-through, and that price fall can improve consumer and producer surplus jointly through a reduction in the return rate. Joint surplus then splits into an ex-ante loss on the purchase margin and an ex-post term on the keep-or-return margin. A formula that ignores returns keeps only the first piece and can reverse the welfare implication. Counting platform revenue, the first-order social effect of a small tax is the ex-post term alone. A larger fee retained on refunds scales the effect but does not change its sign."
