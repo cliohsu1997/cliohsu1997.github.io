@@ -2,7 +2,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
-\usepackage[margin=0.32in]{geometry}
+\usepackage[margin=0.28in]{geometry}
 \usepackage{hyperref}
 \hypersetup{colorlinks=false, urlcolor=black, pdfborder=0 0 0}
 
@@ -73,10 +73,10 @@ Awards: Dean's List (2016--2019); University Scholarship (730K HKD); Academic Ac
 \textbf{Return Policy Design in E-Commerce} \textit{(Job Market Paper)}\\
 \vspace{-6pt}
 \begin{itemize}
-  \item Built and estimated a structural model of purchase, return-shipping insurance take-up, and return decisions under monopoly pricing, using within-retailer switches between automatic and optional return-shipping insurance on Taobao (2017--2023; \(\sim\)62M RMB revenue; six apparel categories; \(\sim\)20--30\% returns).
-  \item Developed a reproducible, testable estimation pipeline on AWS and HPC/SLURM: version-controlled steps that clean and link orders, prices, insurance, and returns; scraped and OCR-digitized product attributes in Python; accelerated Monte Carlo simulation and constrained optimization in R/C++, with unit-tested code and checks that the estimator recovers true parameters on simulated data.
+  \item Built and estimated a structural model of purchase, insurance take-up, and return decisions under monopoly pricing, using within-retailer switches between automatic and optional coverage on Taobao (2017--2023; \(\sim\)62M RMB revenue; six apparel categories; \(\sim\)20--30\% returns).
+  \item Developed a reproducible, testable estimation pipeline on AWS and HPC/SLURM: version-controlled steps that clean and link orders, prices, insurance, and returns; scraped and OCR-digitized product attributes in Python; accelerated Monte Carlo and constrained optimization in R/C++, with unit-tested code and recovery checks on simulated data.
   \item Estimated category-specific demand, consumer uncertainty about product fit, and return responses using method of moments (GMM); used bootstrap inference to rank policies by seller profit, consumer surplus, and social welfare.
-  \item Produced figures (purchase/return rates, insurance take-up, welfare shares by category) for slides and tables; counterfactuals show a discounted-price + restocking-fee menu beats automatic and optional insurance in most categories (\(\sim\)75--78\% of first-best welfare), with moderate fees (\(\sim\)10--15\%) when one rule must apply.
+  \item Quantified a purchase--return efficiency trade-off: automatic coverage expands valuable purchases in high-margin categories, while optional coverage outperforms it by \(\sim\)15--30 pp of first-best welfare in thinner-margin categories by curbing excessive returns; partial RPD (discounted price + \(\sim\)10--15\% restocking fee) beats both outside dresses, attaining \(\sim\)75--78\% of first-best welfare.
 \end{itemize}
 \vspace{-3pt}
 \textbf{Inventory and Pricing under Resale Price Maintenance (RPM)} \textit{(w/ K.\ Kawaguchi, HKUST; K.\ Kawai, U.\ Tokyo)}\\
@@ -85,8 +85,8 @@ Awards: Dean's List (2016--2019); University Scholarship (730K HKD); Academic Ac
   \item Specified a dynamic oligopoly model of pricing and inventory under demand uncertainty and RPM, with equilibrium stockouts and unsold returns (35--40\% of Japanese books printed are discarded), to quantify pro-competitive inventory effects versus waste from price commitment.
   \item Built title-by-market-by-month analysis datasets from monthly bookstore point-of-sale data (deliveries, sales, returns; 1{,}000+ stores) through a tested, end-to-end pipeline: linked products across sources via standardized ISBNs; drew representative samples across book categories; used Hausman-style price instruments to address price endogeneity; collected local demographic data to capture municipality-level market heterogeneity in the estimation; adjusted for launch timing using Amazon release dates.
   \item Tackled endogeneity in demand and supply regressions with instrumental variables (2SLS) and structural model inversion; validated the estimator on simulated data (Monte Carlo); applied LASSO and panel fixed effects to select demographic controls; implemented iterative simulation of equilibrium in C++.
-  \item Showed that the classical static model overestimates marginal cost by \(\sim\)20\%, quantifying the bias from ignoring dynamic demand uncertainty and inventory decisions.
-  \item Produced descriptive statistics and weekly short-turnaround empirical figures (sales/return/stockout rates, demand distributions by category, substitution patterns) and counterfactuals on deposit-refund policies that cut unsold stock while preserving inventory incentives.
+  \item Showed that the classical static model overestimates marginal cost by \(\sim\)20\% when ignoring dynamic demand uncertainty and inventory decisions.
+  \item Produced descriptive statistics and short-turnaround figures (sales/return/stockout rates, category demand distributions, substitution patterns) and counterfactuals on deposit-refund policies that cut unsold stock while preserving inventory incentives.
 \end{itemize}
 
 \vspace{0.15pt}
