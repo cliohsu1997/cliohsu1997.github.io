@@ -10,4 +10,5 @@
 | City University of Macau | Faculty | Macau | — | — | — | `Macau/City University of Macau/` | — |
 | MUST | Faculty | Macau | — | — | — | `Macau/MUST/` | — |
 | University of Macau | Faculty | Macau | — | — | — | `Macau/University of Macau/` | — |
-| (TBD) | — | Beijing | — | — | — | `Beijing/` | — |
+| Compass Lexecon | Economist — Beijing — Q3 2026 (JR260969) | Beijing / Shanghai | ~2026-11-27 | Workday portal | https://fticonsulting.wd108.myworkdayjobs.com/en-US/CompassLexeconCareers/details/Economist---Beijing---Q3-2026_JR260969 | `Beijing/Compass Lexecon - Economist Beijing Q3 2026/` | To apply |
+| Econic Partners | PhD Associate / Analyst / Intern (Beijing) | Beijing | — | Email / careers | pli@econic.com (Peixuan Li); https://econicpartners.com/careers/ | `Beijing/Econic Partners - PhD Associate Beijing/` | Outreach |
