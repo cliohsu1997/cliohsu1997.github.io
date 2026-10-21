@@ -42,7 +42,7 @@ Grouped by location.
 
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
 | --- | --- | --- | --- | --- | --- | --- |
-| CUHK-SZ (Zhang Yiming Project, PR2026/049/01) | Post Doctoral Fellow | 2026-12-31 (rolling) | Email (cover letter; CV; papers) | zhangyiming@cuhk.edu.cn; https://www.cuhk.edu.cn/zh-hans/recruitment/15323 | `Shenzhen/CUHK Zhang Yiming/` | To apply |
+| CUHK-SZ (Zhang Yiming Project, PR2026/049/01) | Post Doctoral Fellow | 2026-11-01 (earliest; official Chinese page 2026-12-31) | Email (cover letter; CV; papers) | zhangyiming@cuhk.edu.cn; https://www.cuhk.edu.cn/zh-hans/recruitment/15323 ; https://econjobmarket.org/positions/12463 | `Shenzhen/CUHK Zhang Yiming/` | To apply |
 | CUHK-SZ (Han Jiang / 姜翰 Project, PR2026/023/01) | Post Doctoral Fellow | 2026-08-31 (official page; open until filled) | Email (CN/EN CV; application form; two recommenders’ contacts; one first/corresponding-author English paper) | jianghan@cuhk.edu.cn; https://www.cuhk.edu.cn/zh-hans/recruitment/9485 | `Shenzhen/CUHK Jianghan/` | To apply |
 
 ## Singapore

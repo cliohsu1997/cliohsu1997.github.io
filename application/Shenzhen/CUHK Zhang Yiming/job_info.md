@@ -5,9 +5,11 @@
 - **Supervisor:** Prof. Yiming Zhang (with Qiuping Yu, Yong-Pin Zhou, Yunan Ji)
 - **Location:** Shenzhen
 - **Duration:** About 2 years; start as mutually agreed; rolling review
-- **Deadline:** 2026-12-31 (or until filled)
+- **Deadline (use earliest across posts):** **2026-11-01** (EJM English listing). Official CUHK-SZ Chinese page lists 2026-12-31; POMS English PDF says open until filled / rolling. Trackers use **1 Nov 2026**.
 - **Official page:** https://www.cuhk.edu.cn/zh-hans/recruitment/15323
+- **English / EJM:** https://econjobmarket.org/positions/12463 (deadline 1 Nov 2026 midnight UTC)
 - **English / POMS post:** https://www.poms.org/sites/default/files/2025-10/Ridesharing%20Job%20Post_Final_1022.pdf
+- **Note:** EJM also lists work location as Beijing (on-site at the collaborating company); affiliation remains CUHK-SZ SME.
 - **Submit to:** zhangyiming@cuhk.edu.cn
 - **Email subject:** `PostdocApplication-[Your Name]`
 
