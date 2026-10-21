@@ -40,6 +40,10 @@ Day-to-day work can include:
 
 (No separate recommendation letters listed for writers to send.)
 
+## Status
+
+- **Application list:** Complete (Workday submitted; CV + cover letter / personal-statement answers prepared)
+
 ## Fit notes
 
 Staff-owned European economics consultancy (Amsterdam, Berlin, Brussels, Cologne, Dublin, London, Madrid, Paris, Prague). Strong match: PhD empirical IO, large-data modelling, R/Python, clear written communication under deadlines. Do not claim prior economic-consulting employment. Target **PhD / Experienced Track** (JR10237), not the standard Masters Graduate Analyst track.
