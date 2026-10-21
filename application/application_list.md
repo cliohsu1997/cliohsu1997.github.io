@@ -30,6 +30,12 @@ Grouped by location.
 | --- | --- | --- | --- | --- | --- | --- |
 | Yamanashi Gakuin University, iCLA | Faculty | — | Form + materials | — | `Japan/Yamanashi Gakuin University/` | In progress |
 
+## UK
+
+| Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| Frontier Economics | 2027 Graduate Economic Analyst — PhD / Experienced Track — London (JR10237) | 2026-11-13 | Workday (CV; cover letter / personal statement) | https://frontiereconomics.wd3.myworkdayjobs.com/en-US/Frontier_Economics_Careers/details/XMLNAME-2027-Graduate-Economic-Analyst---PhD-Experienced-Track-----London_JR10237 | `UK/Frontier Economics - Graduate Economic Analyst PhD Track/` | To apply |
+
 ## Macau
 
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
