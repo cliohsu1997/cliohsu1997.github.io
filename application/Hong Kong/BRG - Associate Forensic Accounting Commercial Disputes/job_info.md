@@ -39,4 +39,4 @@ Day-to-day: subject-matter research; data collection; economic, statistical, and
 
 ## Fit notes
 
-This is a **graduate forensic accounting / valuation / commercial disputes** Associate track, not a PhD competition-economist hire. Transferable fit: large-data cleaning, quantitative modeling, clear writing under deadlines, Mandarin + English. Do **not** claim forensic accounting or CPA experience. HK permanent resident (right to work satisfied). Prefer the consulting-style resume (`application/Resume_HSU_Ke_Cheng.pdf`) over the banking UBS resume.
+This is a **graduate forensic accounting / valuation / commercial disputes** Associate track, not a PhD competition-economist hire. Transferable fit: large-data cleaning, quantitative modeling, clear writing under deadlines, Mandarin + English. Do **not** claim forensic accounting or CPA experience. HK permanent resident (right to work satisfied). Use the BRG-tailored resume in this folder (`Resume_HSU_Ke_Cheng_BRG_Hong_Kong.pdf`), not the banking UBS resume.
