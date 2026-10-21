@@ -1,0 +1,98 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[margin=0.34in]{geometry}
+\usepackage{hyperref}
+\hypersetup{colorlinks=false, urlcolor=black, pdfborder=0 0 0}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\renewcommand{\baselinestretch}{0.86}
+\setlength{\lineskip}{0pt}
+\setlength{\lineskiplimit}{0pt}
+
+\makeatletter
+\renewcommand{\@listi}{%
+  \leftmargin=\leftmargini
+  \rightmargin=0pt
+  \labelsep=4pt
+  \labelwidth=16pt
+  \itemindent=0pt
+  \listparindent=0pt
+  \topsep=0pt
+  \partopsep=0pt
+  \parsep=0pt
+  \itemsep=-3pt
+}
+\let\saveditemize\itemize
+\let\savedenditemize\enditemize
+\renewcommand{\itemize}{\bgroup\setlength{\baselineskip}{0.82\baselineskip}\saveditemize}
+\renewcommand{\enditemize}{\savedenditemize\egroup}
+\makeatother
+
+\begin{document}
+
+{\Large \textbf{HSU, Ke-Cheng (Clio)}}\\[2pt]
+(852) 6840 9753 \quad $|$ \quad \href{mailto:khsu@connect.ust.hk}{khsu@connect.ust.hk} \quad $|$ \quad \href{https://github.com/cliohsu1997}{github.com/cliohsu1997} \quad $|$ \quad \href{https://cliohsu1997.github.io/}{cliohsu1997.github.io}
+
+\vspace{1pt}
+
+{\large \textbf{Professional Summary}}\\[1pt]
+PhD candidate in Economics at HKUST. Analyzes how firms price, compete, and manage inventory, using large proprietary retail and e-commerce datasets and data collected through web scraping and APIs in Python. Builds testable models of demand, cost, and margins in Python, R, and C++, and writes the analysis up clearly for a non-technical reader. PhD coursework includes merger simulation, market entry and exit, and firm-conduct analysis. Seeking a Global Banking internship.
+
+\vspace{1pt}
+
+{\large \textbf{Education}}\\[1pt]
+\textbf{The Hong Kong University of Science and Technology}, Hong Kong\\
+\textit{Doctor of Philosophy in Economics} \hfill Expected Graduation: June 2027\\
+Focus: firm pricing, competition, and industry analysis.\\
+\textit{Master of Philosophy in Economics} \hfill 2020--2022\\
+CGA: 4.1/4.3.\\
+\textit{Bachelor of Science in Mathematics and Economics, Minor in Actuarial Mathematics} \hfill 2015--2019\\
+CGA: 3.9/4.3.\\
+Awards: Dean's List (2016--2019); University Scholarship (730K HKD); Academic Achievement Medal (top 1\%); Postgraduate studentship (1.5M HKD); Redbird scholarship (40K HKD).
+
+\vspace{1pt}
+
+{\large \textbf{Experience}}\\[1pt]
+\textbf{Research Assistant}, National Taiwan University \hfill 2020\\
+\vspace{1pt}
+\begin{itemize}
+  \item Modeled crisis intervention in MATLAB as negotiation between a regulator and bank creditors; a voluntary bail-in occurs only when the threat not to bail out is credible.
+  \item Showed that sparser interbank networks make that threat more credible in large shocks and reduce free-riding among contributing creditors.
+\end{itemize}
+\textbf{Teaching Assistant \& Lecturer}, Department of Economics, HKUST \hfill 2020--present\\
+\vspace{1pt}
+\begin{itemize}
+  \item Lecturer for MSc Math Camp (4.53/5); TA for PhD and undergraduate economics (avg 4.72/5).
+\end{itemize}
+
+\vspace{1pt}
+
+{\large \textbf{Projects}}\\[1pt]
+\textbf{Pricing and Inventory in Japanese Book Retail} \textit{(w/ K.\ Kawaguchi, HKUST; K.\ Kawai, U.\ Tokyo)}\\
+\vspace{1pt}
+\begin{itemize}
+  \item Built a dynamic model of pricing and inventory for a retail oligopoly under resale price maintenance and uncertain demand, including stockouts and unsold returns (35--40\% of books printed are discarded).
+  \item Constructed title-by-market-by-month panels from bookstore point-of-sale data (deliveries, sales, returns; tens of billions of records across 1{,}000+ stores), linked by ISBN and merged with local demographics and title-level information scraped from Amazon in Python.
+  \item Estimated demand and cost with instrumental variables (2SLS) and Hausman-style price instruments; checked the estimator with Monte Carlo; selected controls with LASSO and panel fixed effects; coded the equilibrium iteration in C++. Ignoring inventory and uncertain demand overstates marginal cost by about 20\% and would misstate margins.
+\end{itemize}
+\vspace{3pt}
+\textbf{Pricing and Returns in Apparel E-Commerce} \textit{(Taobao, 2017--2023)}\\
+\vspace{1pt}
+\begin{itemize}
+  \item Collected product attributes in Python: wrote a scraping library, connected to an API, and used OCR to convert product images into text.
+  \item Cleaned raw Taobao exports of orders, products, delivery, insurance, and addresses into linked transaction tables (2017--2023; \(\sim\)62M RMB; six apparel categories; return rates \(\sim\)20--30\%): dropped non-products, giveaways, partial refunds, and orders missing logistics; separated retailer-provided from consumer-purchased insurance; standardized addresses to provinces.
+  \item Estimated how purchases and returns respond to price and insurance via GMM (Python, R, C++ on AWS and HPC). Broader insurance expands purchases where margins are high; selective adoption protects seller profit where margins are thin by cutting returns.
+\end{itemize}
+
+\vspace{1pt}
+
+{\large \textbf{Skills}}\\[1pt]
+\textbf{Languages:} Mandarin (Native), English (Fluent), Cantonese (Basic).\\
+\textbf{Technical:} Python, R, MATLAB, Stata, C++, \LaTeX, AWS, HPC/SLURM; web scraping, APIs, OCR; instrumental variables, maximum likelihood estimation, generalized method of moments, LASSO, bootstrap, Monte Carlo simulation, nonlinear optimization.\\
+\textbf{References:} Kei Kawai (UTokyo; Compass Lexecon), Kohei Kawaguchi (HKUST; UTokyo Econ Consulting), Pak Hung Au (HKUST).
+
+\end{document}
