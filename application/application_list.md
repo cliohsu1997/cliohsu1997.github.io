@@ -42,7 +42,7 @@ Grouped by location.
 
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
 | --- | --- | --- | --- | --- | --- | --- |
-| RBB Economics | Economist — #26/27 (Melbourne preferred; open to Sydney) | Rolling (not stated) | Online form (cover letter; CV; transcripts) | https://cezanneondemand.intervieweb.it/rbbecon/jobs/2627-application-to-rbb-economics-63289/en/ | `Australia/RBB Economics - Economist/` | To apply |
+| RBB Economics | Economist — #26/27 (Melbourne preferred; open to Sydney) | Rolling (not stated) | Online form (cover letter; CV; transcripts) | https://cezanneondemand.intervieweb.it/rbbecon/jobs/2627-application-to-rbb-economics-63289/en/ | `Australia/RBB Economics - Economist/` | Complete |
 
 ## Shanghai
 
@@ -62,7 +62,7 @@ Grouped by location.
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
 | --- | --- | --- | --- | --- | --- | --- |
 | National University of Singapore, SGFIN | Research Analyst / Associate / Fellow in Database and Quantitative Analysis | — | NUS Careers portal | https://careers.nus.edu.sg/job/Research-Analyst-Associate-Fellow-in-Database-and-Quantitative-Analysis/24251-en_GB/ | `Singapore/NUS SGFIN - Research Analyst Associate Fellow/` | To apply |
-| RBB Economics | Economist — #26/27 (Singapore) | Rolling (not stated) | Online form (cover letter; CV; transcripts) | https://cezanneondemand.intervieweb.it/rbbecon/jobs/2627-application-to-rbb-economics-63289/en/ | `Singapore/RBB Economics - Economist/` | To apply |
+| RBB Economics | Economist — #26/27 (Singapore) | Rolling (not stated) | Online form (cover letter; CV; transcripts) | https://cezanneondemand.intervieweb.it/rbbecon/jobs/2627-application-to-rbb-economics-63289/en/ | `Singapore/RBB Economics - Economist/` | Complete |
 
 ## Taipei
 
