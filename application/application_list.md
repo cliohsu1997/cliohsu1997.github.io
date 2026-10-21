@@ -18,6 +18,12 @@ Grouped by location.
 | --- | --- | --- | --- | --- | --- | --- |
 | Zhejiang University International Business School (ZIBS) | Postdoctoral Position in Marketing | 2026-12-15 | Email PDF materials | zibs-hr@intl.zju.edu.cn | `China/ZIBS - Postdoctoral Position in Marketing/` | To apply |
 
+## Hong Kong
+
+| Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| Berkeley Research Group (BRG) | Associate — Forensic Accounting / Commercial Disputes (JR101112) | Rolling (not stated) | Workday (CV; cover letter) | https://thinkbrg.wd5.myworkdayjobs.com/en-US/BRG_External_Career_Site/details/Associate---Forensic-Accounting---Commercial-Disputes_JR101112 | `Hong Kong/BRG - Associate Forensic Accounting Commercial Disputes/` | Complete |
+
 ## Japan
 
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
