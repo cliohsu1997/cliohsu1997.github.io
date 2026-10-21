@@ -55,5 +55,5 @@ Grouped by location.
 
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
 | --- | --- | --- | --- | --- | --- | --- |
-| UBS | 2027 Off-Cycle Internship — Global Banking (340768BR) | 2026-11-30 | UBS graduate job board | https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=348163&partnerid=25008&siteid=5176 | `Taiwan/UBS - 2027 Off-Cycle Internship Global Banking/` | To apply |
+| UBS | 2027 Off-Cycle Internship — Global Banking (340768BR) | 2026-11-30 | UBS graduate job board | https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=348163&partnerid=25008&siteid=5176 | `Taiwan/UBS - 2027 Off-Cycle Internship Global Banking/` | Complete |
 | Chung-Hua Institution for Economic Research | Assistant Research Fellow (equivalent to assistant professor) | 2026-12-31 | Email items 1–4; letters sent directly by writers | fangru@cier.edu.tw; https://www.cier.edu.tw/recruit-ch/25298/ | `Taiwan/CIER - Assistant Research Fellow/` | To apply |
