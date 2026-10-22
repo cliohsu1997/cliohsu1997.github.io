@@ -1,0 +1,100 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[margin=0.34in]{geometry}
+\usepackage{hyperref}
+\hypersetup{colorlinks=false, urlcolor=black, pdfborder=0 0 0}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\renewcommand{\baselinestretch}{0.82}
+\setlength{\lineskip}{0pt}
+\setlength{\lineskiplimit}{0pt}
+
+\makeatletter
+\renewcommand{\@listi}{%
+  \leftmargin=\leftmargini
+  \rightmargin=0pt
+  \labelsep=4pt
+  \labelwidth=16pt
+  \itemindent=0pt
+  \listparindent=0pt
+  \topsep=0pt
+  \partopsep=0pt
+  \parsep=0pt
+  \itemsep=-3pt
+}
+\let\saveditemize\itemize
+\let\savedenditemize\enditemize
+\renewcommand{\itemize}{\bgroup\setlength{\baselineskip}{0.80\baselineskip}\saveditemize}
+\renewcommand{\enditemize}{\savedenditemize\egroup}
+\makeatother
+
+\begin{document}
+
+{\Large \textbf{HSU, Ke-Cheng (Clio)}}\\[2pt]
+(852) 6840 9753 \quad $|$ \quad \href{mailto:khsu@connect.ust.hk}{khsu@connect.ust.hk} \quad $|$ \quad \href{https://github.com/cliohsu1997}{github.com/cliohsu1997} \quad $|$ \quad \href{https://cliohsu1997.github.io/}{cliohsu1997.github.io}
+
+\vspace{1pt}
+
+{\large \textbf{Professional Summary}}\\[1pt]
+Native Taiwanese speaker who grew up in Taiwan and came to Hong Kong for university studies; Hong Kong permanent resident. Ph.D.\ candidate in Economics at HKUST. Analyzes how companies compete, set prices, and manage risk on large datasets; builds tested models in Python, R, and C++; and turns results into clear written updates and figures under deadlines. Earlier research modeled bank crises on interbank networks; Ph.D.-level coursework covers merger simulation, entry/exit counterfactuals, and firm-conduct identification. Professionally fluent in English. Seeking Analyst, Taiwan Institutional Sales (Fixed Income Division) at Morgan Stanley, Hong Kong.
+
+\vspace{1pt}
+
+{\large \textbf{Education}}\\[1pt]
+\textbf{The Hong Kong University of Science and Technology}, Hong Kong\\
+\textit{Doctor of Philosophy in Economics} \hfill Expected Graduation: June 2027\\
+\textit{Master of Philosophy in Economics}, CGA: 4.1/4.3 \hfill 2020--2022\\
+\textit{Bachelor of Science in Mathematics and Economics, Minor in Actuarial Mathematics}, CGA: 3.9/4.3 \hfill 2015--2019\\
+Awards: Full University Scholarship (730K HKD); Academic Achievement Medal (top 1\%); Postgraduate studentship (1.5M HKD); Redbird scholarship (40K HKD).
+
+\vspace{1pt}
+
+{\large \textbf{Experience}}\\[1pt]
+\textbf{Research Assistant}, National Taiwan University \hfill 2020\\
+\vspace{1pt}
+\begin{itemize}
+  \item Built a MATLAB model of a bank crisis on an interbank lending network, as a negotiation between the regulator and the banks' creditors, who share losses only if the regulator's no-bailout threat is credible.
+  \item Found that less tightly linked networks make that threat more credible in a large shock.
+\end{itemize}
+\textbf{Teaching Assistant \& Lecturer}, Department of Economics, HKUST \hfill 2020--present\\
+\vspace{1pt}
+\begin{itemize}
+  \item Lecturer for MSc Math Camp (rated 4.53/5); TA for PhD and undergraduate economics (avg 4.72/5); clear Mandarin and English explanation under deadlines.
+\end{itemize}
+
+\vspace{1pt}
+
+{\large \textbf{Projects}}\\[1pt]
+\textbf{Pricing and Inventory in Japanese Book Retail} \textit{(w/ K.\ Kawaguchi, HKUST \& UTokyo Econ Consulting; K.\ Kawai, U.\ Tokyo \& Compass Lexecon)}\\
+\vspace{1pt}
+\begin{itemize}
+  \item Modeled how competing bookstores set prices and hold stock when demand is uncertain and the retail price is fixed in advance; unsold copies are returned and 35--40\% of print runs are discarded.
+  \item Cleaned point-of-sale records from 1{,}000+ stores (hundreds of billions of observations) into a dataset by title, city, and month, adding population figures and book details scraped from Amazon in Python.
+  \item Estimated demand and supply costs by non-linear optimization; wrote tests and simulated datasets to confirm the pipeline recovers the right numbers, with heavy computation in C++.
+  \item Ignoring inventory and uncertain demand overstates cost by about 20\% and would misstate margins. Delivered as figures, tables, and a weekly report on a fixed deadline.
+\end{itemize}
+\vspace{1pt}
+\textbf{Pricing and Returns in Apparel E-Commerce} \textit{(Taobao, 2017--2023)}\\
+\vspace{1pt}
+\begin{itemize}
+  \item Built a structural model of purchase, insurance, and return decisions under seller pricing, for a Taobao apparel retailer that repeatedly switched between automatic return-shipping insurance and optional, buyer-purchased insurance (2017--2023; about 62 million RMB; six categories; 20--30\% of orders returned).
+  \item Automated data extraction with a Python scraper, an API, and AI-based OCR, converting product images into analyzable text.
+  \item Estimated the model by the generalized method of moments in a tested pipeline (Python, R, and C++ on AWS and a computing cluster), recovering category-specific purchase values, demand uncertainty, and return responses.
+  \item A stricter return policy curbs wasteful returns but excludes worthwhile purchases: automatic insurance wins at high margins; optional insurance wins at thin margins, by 15--30 percentage points of first-best welfare.
+  \item Presented at the Asia-Pacific Industrial Organization Conference 2026, the Econometric Society Australasia Meeting 2026, and the China Economics Annual Conference Summer Forum 2026.
+\end{itemize}
+
+\vspace{1pt}
+
+{\large \textbf{Skills}}\\[1pt]
+\textbf{Languages:} Native Taiwanese speaker; Mandarin (Native); English (Fluent); Cantonese (Basic).\\
+\textbf{Technical:} Python, R, MATLAB, Stata, C++, Excel, \LaTeX, AWS; web scraping, OCR; regression, maximum likelihood, generalized method of moments, non-linear optimization.\\
+\textbf{AI:} Experimental and responsible use of AI tools (LLM-assisted coding, OCR); outputs verified by tests.\\
+\textbf{Right to work:} Hong Kong permanent resident.\\
+\textbf{References:} Kei Kawai (UTokyo), Kohei Kawaguchi (HKUST), Pak Hung Au (HKUST).
+
+\end{document}

@@ -37,6 +37,7 @@ Grouped by location.
 | Berkeley Research Group (BRG) | Associate — Forensic Accounting / Commercial Disputes (JR101112) | Rolling (not stated) | Workday (CV; cover letter) | https://thinkbrg.wd5.myworkdayjobs.com/en-US/BRG_External_Career_Site/details/Associate---Forensic-Accounting---Commercial-Disputes_JR101112 | `Hong Kong/BRG - Associate Forensic Accounting Commercial Disputes/` | Complete |
 | The Hong Kong Jockey Club | Manager, Business Planning and Analytics (Requisition ID 5508) | Rolling (not stated) | HKJC careers portal (CV; cover letter) | https://careers.hkjc.com/job/Happy-Valley-Manager%2C-Business-Planning-and-Analytics-Hong/1368668866/?applySourceOverride=SeekHK | `Hong Kong/HKJC - Manager Business Planning and Analytics/` | In progress |
 | GreenPrice (Green Price Limited) | Graduate Trainee – Buyer (Taiwan / English) | Rolling (not stated) | Careers form (resume; cover letter) | https://forms.gle/7p6isDjS9DkywsEr9 ; https://hk.jobsdb.com/job/95135985 | `Hong Kong/GreenPrice - Graduate Trainee Buyer Taiwan English/` | Complete |
+| Morgan Stanley | Analyst — Taiwan Institutional Sales, Fixed Income Division (Hong Kong; JR044975) | Rolling (not stated) | Careers / Workday (resume; cover letter) | https://morganstanley.eightfold.ai/careers/job/549800531335 ; https://ms.wd5.myworkdayjobs.com/en-US/External/job/Fixed-Income-Division---Analyst--Taiwan-Institutional-Sales--Hong-Kong-_JR044975 | `Taiwan/Morgan Stanley - Analyst Taiwan Institutional Sales FID/` | In progress |
 
 ## Japan
 
@@ -89,4 +90,5 @@ Grouped by location.
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
 | --- | --- | --- | --- | --- | --- | --- |
 | UBS | 2027 Off-Cycle Internship — Global Banking (340768BR) | 2026-11-30 | UBS graduate job board | https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=348163&partnerid=25008&siteid=5176 | `Taiwan/UBS - 2027 Off-Cycle Internship Global Banking/` | Complete |
+| Morgan Stanley | Analyst — Taiwan Institutional Sales, Fixed Income Division (Hong Kong desk; JR044975) | Rolling (not stated) | Careers / Workday (resume; cover letter) | https://morganstanley.eightfold.ai/careers/job/549800531335 ; https://ms.wd5.myworkdayjobs.com/en-US/External/job/Fixed-Income-Division---Analyst--Taiwan-Institutional-Sales--Hong-Kong-_JR044975 | `Taiwan/Morgan Stanley - Analyst Taiwan Institutional Sales FID/` | In progress |
 | Chung-Hua Institution for Economic Research | Assistant Research Fellow (equivalent to assistant professor) | 2026-12-31 | Email items 1–4; letters sent directly by writers | fangru@cier.edu.tw; https://www.cier.edu.tw/recruit-ch/25298/ | `Taiwan/CIER - Assistant Research Fellow/` | To apply |
