@@ -1,0 +1,33 @@
+---
+description: Writing rules for job-application CVs and cover letters (application/**)
+globs: application/**/*.tex, application/**/*.md
+alwaysApply: false
+---
+
+# Application Materials Rules (CV / Cover Letter)
+
+## Facts
+- NEVER add facts the user did not provide or ask for (e.g., residency status, skills, claims). Polish what exists; do not invent.
+- Preserve the exact meaning of findings when simplifying. Example: stockout substitution is "wait for restock rather than buying from other bookstores" — NOT "other regions".
+- Keep numbers concrete and unchanged (~62M RMB, ~20%, 1,000+ stores, ratings).
+
+## Style
+- Every bullet leads with a strong verb (Showed, Built, Estimated, Lectured).
+- One idea per bullet. Do NOT bundle unrelated points with semicolons (finding + reports + benchmark = three bullets).
+- Multi-part bullets are allowed only as sequential stages of one activity (build -> estimate -> validate).
+- State capabilities directly. No hedges ("PhD-level coursework in X" -> just list X) and no buzzword stuffing ("statistical inference", "data visualization" as standalone skill items).
+
+## HR readability
+- Every claim needs its evidence in the same bullet: "Showed through descriptive statistics and regressions that ..."
+- Translate econ jargon to plain language: GMM/bootstrap inference -> bootstrap tests; first-best welfare -> best-possible outcome; counterfactual -> what-if.
+- Keep keyword-scan terms recruiters look for: Python, R, C++, AWS, HPC/SLURM, 2SLS, LASSO, Monte Carlo, AI-based OCR.
+- Skills lines list only concrete tools.
+
+## Consistency
+- CV and cover letter must use identical phrasing and numbers for the same fact.
+- Graduation date appears once (Education), not repeated in the summary.
+
+## Workflow
+- After any .tex edit: run pdflatex twice, then delete .aux/.log/.out.
+- CV and cover letter must each stay on 1 page.
+- Commit only when the user explicitly asks; verb-first, one-line commit messages; logical groups in separate commits.
