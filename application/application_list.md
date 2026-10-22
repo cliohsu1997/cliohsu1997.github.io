@@ -39,6 +39,7 @@ Grouped by location.
 | GreenPrice (Green Price Limited) | Graduate Trainee – Buyer (Taiwan / English) | Rolling (not stated) | Careers form (resume; cover letter) | https://forms.gle/7p6isDjS9DkywsEr9 ; https://hk.jobsdb.com/job/95135985 | `Hong Kong/GreenPrice - Graduate Trainee Buyer Taiwan English/` | Complete |
 | Morgan Stanley | Analyst — Taiwan Institutional Sales, Fixed Income Division (Hong Kong; JR044975) | Rolling (not stated) | Careers / Workday (resume; cover letter) | https://morganstanley.eightfold.ai/careers/job/549800531335 ; https://ms.wd5.myworkdayjobs.com/en-US/External/job/Fixed-Income-Division---Analyst--Taiwan-Institutional-Sales--Hong-Kong-_JR044975 | `Taiwan/Morgan Stanley - Analyst Taiwan Institutional Sales FID/` | In progress |
 | FTI Consulting | Graduate Consultant — Economic & Financial Consulting (JR261504; Valuation & Data Analytics) | 2026-11-19 | Workday (CV; cover letter) | https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/Graduate-Consultant--Economic---Financial-Consulting_JR261504 | `Hong Kong/FTI Consulting - Graduate Consultant Economic Financial Consulting/` | In progress |
+| Bank for International Settlements (BIS) | Data Scientist / Research Analyst — EFMAP (JR100491) | 2026-11-03 | Workday (CV; cover letter) | https://www.bis.org/vacancy/jr100491 ; https://bis.wd3.myworkdayjobs.com/en-US/External/job/Data-Scientist---Research-Analyst_JR100491 | `Hong Kong/BIS - Data Scientist Research Analyst EFMAP/` | In progress |
 
 ## Japan
 
