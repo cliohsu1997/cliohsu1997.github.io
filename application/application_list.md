@@ -18,12 +18,19 @@ Grouped by location.
 | --- | --- | --- | --- | --- | --- | --- |
 | Zhejiang University International Business School (ZIBS) | Postdoctoral Position in Marketing | 2026-12-15 | Email PDF materials | zibs-hr@intl.zju.edu.cn | `China/ZIBS - Postdoctoral Position in Marketing/` | To apply |
 
+## Guangdong
+
+| Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| HKUST (Guangzhou), CNCC Thrust (Wang / Houde) | Postdoctoral Researcher — Environmental Economics / Empirical IO (EJM 12293) | Until filled (rolling) | Email (CV; job market paper); subject `Postdoc Application – [Your Name]` | wenjunwang@hkust-gz.edu.cn; https://econjobmarket.org/positions/12293 | `Guangdong/HKUST GZ - Postdoc Environmental Economics/` | To apply |
+
 ## Hong Kong
 
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
 | --- | --- | --- | --- | --- | --- | --- |
 | Berkeley Research Group (BRG) | Associate — Forensic Accounting / Commercial Disputes (JR101112) | Rolling (not stated) | Workday (CV; cover letter) | https://thinkbrg.wd5.myworkdayjobs.com/en-US/BRG_External_Career_Site/details/Associate---Forensic-Accounting---Commercial-Disputes_JR101112 | `Hong Kong/BRG - Associate Forensic Accounting Commercial Disputes/` | Complete |
 | The Hong Kong Jockey Club | Manager, Business Planning and Analytics (Requisition ID 5508) | Rolling (not stated) | HKJC careers portal (CV; cover letter) | https://careers.hkjc.com/job/Happy-Valley-Manager%2C-Business-Planning-and-Analytics-Hong/1368668866/?applySourceOverride=SeekHK | `Hong Kong/HKJC - Manager Business Planning and Analytics/` | In progress |
+| GreenPrice (Green Price Limited) | Graduate Trainee – Buyer (Taiwan / English) | Rolling (not stated) | Careers form (resume; cover letter) | https://forms.gle/7p6isDjS9DkywsEr9 ; https://hk.jobsdb.com/job/95135985 | `Hong Kong/GreenPrice - Graduate Trainee Buyer Taiwan English/` | In progress |
 
 ## Japan
 

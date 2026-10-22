@@ -1,0 +1,95 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[margin=0.28in]{geometry}
+\usepackage{hyperref}
+\hypersetup{colorlinks=false, urlcolor=black, pdfborder=0 0 0}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\renewcommand{\baselinestretch}{0.82}
+\setlength{\lineskip}{0pt}
+\setlength{\lineskiplimit}{0pt}
+
+\makeatletter
+\renewcommand{\@listi}{%
+  \leftmargin=\leftmargini
+  \rightmargin=0pt
+  \labelsep=4pt
+  \labelwidth=16pt
+  \itemindent=0pt
+  \listparindent=0pt
+  \topsep=0pt
+  \partopsep=0pt
+  \parsep=0pt
+  \itemsep=-11pt
+}
+\let\saveditemize\itemize
+\let\savedenditemize\enditemize
+\renewcommand{\itemize}{\bgroup\setlength{\baselineskip}{0.65\baselineskip}\saveditemize}
+\renewcommand{\enditemize}{\savedenditemize\egroup}
+\makeatother
+
+\begin{document}
+
+{\Large \textbf{HSU, Ke-Cheng (Clio)}}\\[1pt]
+(852) 6840 9753 \quad $|$ \quad \href{mailto:khsu@connect.ust.hk}{khsu@connect.ust.hk} \quad $|$ \quad \href{https://github.com/cliohsu1997}{github.com/cliohsu1997} \quad $|$ \quad \href{https://cliohsu1997.github.io/}{cliohsu1997.github.io}
+
+\vspace{0.15pt}
+
+{\large \textbf{Professional Summary}}\\[-0.5pt]
+Grew up in Taiwan; moved to Hong Kong for university studies. PhD candidate in Economics at HKUST, strong at analyzing returns and inventory on retail and e-commerce data. One paper designs return policy; another studies how firms should stock inventory under demand uncertainty, accounting for stockouts and leftovers. Native Mandarin speaker from Taiwan; professionally fluent in English; Hong Kong permanent resident. Clear communicator who prepares management-ready reports under deadlines. Seeking Graduate Trainee -- Buyer (Taiwan / English) at GreenPrice.
+
+\vspace{0.15pt}
+
+{\large \textbf{Education}}\\[-0.5pt]
+\textbf{The Hong Kong University of Science and Technology}, Hong Kong\\
+\textit{Doctor of Philosophy in Economics} \hfill Expected Graduation: June 2027\\
+Research interests: Empirical industrial organization and digital economics.\\
+\textit{Master of Philosophy in Economics} \hfill 2020--2022\\
+CGA: 4.1/4.3.\\
+\textit{Bachelor of Science in Mathematics and Economics, Minor in Actuarial Mathematics} \hfill 2015--2019\\
+CGA: 3.9/4.3.\\
+Awards: Dean's List (2016--2019); University Scholarship (730K HKD); Academic Achievement Medal (top 1\%); Postgraduate studentship (1.5M HKD); Redbird scholarship (40K HKD).
+
+\vspace{0.15pt}
+
+{\large \textbf{Experience}}\\[-0.5pt]
+\textbf{Research Assistant}, National Taiwan University \hfill 2020\\
+\vspace{-6pt}
+\begin{itemize}
+  \item Modeled crisis intervention as regulator--creditor negotiation; derived and simulated equilibrium predictions to support policy design.
+\end{itemize}
+\textbf{Teaching Assistant \& Lecturer}, Department of Economics, HKUST \hfill 2020--present\\
+\vspace{-6pt}
+\begin{itemize}
+  \item Lecturer for MSc Math Camp (4.53/5); TA for PhD and undergraduate economics (avg 4.72/5); clear explanation and stakeholder-facing communication under deadlines.
+\end{itemize}
+
+\vspace{0.15pt}
+
+{\large \textbf{Projects}}\\[-0.5pt]
+\textbf{Inventory and Pricing under Resale Price Maintenance (RPM)} \textit{(w/ K.\ Kawaguchi, HKUST; K.\ Kawai, U.\ Tokyo)}\\
+\vspace{-6pt}
+\begin{itemize}
+  \item Built a dynamic oligopoly model of pricing and inventory under demand uncertainty and RPM; constructed title-by-market-by-month panels from monthly bookstore POS data (deliveries, sales, returns; tens of billions of records across 1{,}000+ stores), linked via standardized ISBNs and merged with local demographics and title-level information scraped from Amazon in Python.
+  \item Tracked stockouts, returns, and substitution patterns; estimated demand and supply with instrumental variables; reported what the numbers imply for pricing and inventory decisions through weekly descriptive statistics, regressions, and figures.
+\end{itemize}
+\vspace{-3pt}
+\textbf{Return Policy Design in E-Commerce} \textit{(Job Market Paper)}\\
+\vspace{-6pt}
+\begin{itemize}
+  \item Built and estimated a structural model of purchase, return-shipping-insurance take-up, and return decisions using Taobao apparel transactions (2017--2023; six categories; $\sim$20--30\% return rates); cleaned and linked orders, prices, insurance, and returns; prepared charts and written summaries ranking policies by profit, consumer surplus, and welfare.
+  \item Developed a reproducible pipeline in Python, R, and C++ on AWS and HPC/SLURM; delivered careful quantitative work to fixed deadlines.
+\end{itemize}
+
+\vspace{0.15pt}
+
+{\large \textbf{Skills}}\\[-0.5pt]
+\textbf{Languages:} Mandarin (Native, Taiwan); English (Fluent); Cantonese (Basic).\\
+\textbf{Technical:} Python, R, Stata, C++, Excel, \LaTeX; data cleaning, competitive / pricing analysis, management reporting.\\
+\textbf{Right to work:} Hong Kong permanent resident.\\
+\textbf{References:} Kei Kawai (UTokyo; Compass Lexecon), Kohei Kawaguchi (HKUST; UTokyo Econ Consulting), Pak Hung Au (HKUST).
+
+\end{document}
