@@ -30,4 +30,4 @@ Social enterprise diverting short-dated food from landfill to half-price retail 
 
 ## Fit notes
 
-Grew up in Taiwan; came to Hong Kong for university studies (HKUST). Native Mandarin (Taiwan); fluent English; HK permanent resident. Strong analytical / reporting habit from empirical IO and retail/e-commerce data; no claim of buyer or B2B sales tenure. Status: **In progress**.
+Grew up in Taiwan; came to Hong Kong for university studies (HKUST). Native Mandarin (Taiwan); fluent English; HK permanent resident. Strong analytical / reporting habit from empirical IO and retail/e-commerce data; no claim of buyer or B2B sales tenure. Status: **Complete**.
