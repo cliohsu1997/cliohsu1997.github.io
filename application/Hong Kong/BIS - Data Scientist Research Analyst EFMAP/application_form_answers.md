@@ -34,6 +34,20 @@ A central issue is how the kink is chosen. The paper imposes 3.125% from the FOM
 
 ---
 
+## 4. Research interests and completed work
+
+*(Please summarise your research interests and a brief overview of any work that you have already completed on this.)*
+
+My research is in digital economics and industrial organization. I study how rules and contracts change what buyers and sellers do when they must act before they know the outcome, and fixing a bad outcome later is costly. Because they look ahead to that later cost, the first choice and the later fix are linked.
+
+On the consumer side, the buyer must decide whether to buy before knowing if the product is a good match, and may return it later at a cost; return policy therefore shapes both whether people buy and whether they send items back. On the seller side, firms choose inventory before they know demand, so they can run out of stock or be left with unsold goods.
+
+My job market paper, “Designing Return Policy in E-Commerce: A Trade-off between Purchase and Return Efficiency,” applies this idea to online returns. Buyers may return too much because they do not bear the seller’s cost of handling returns. A stricter return policy curbs inefficient ex-post returns, but the resulting lower return rates make higher product prices more attractive for sellers, leading to possible exclusion of ex-ante efficient purchases. I compare automatic coverage that reimburses return-shipping costs (RI) with optional coverage (CI) by estimating a structural model of purchase, insurance, and return decisions under monopoly pricing across six apparel categories. A lenient return policy like RI performs better in high-margin, high-salvage categories by expanding valuable purchases, whereas a strict return policy like CI performs better in thinner-margin categories by curbing excessive returns. Partial RPD, a menu pairing a discounted price with a medium restocking fee as penalty, performs better than RI and CI for most categories by better balancing purchase and return efficiency.
+
+Other completed work follows the same theme: with Ce Bian and Liang Zhao, how taxes and fees pass through when returns matter; and with Kohei Kawaguchi and Kei Kawai, how fixed retail prices and inventory interact in Japanese bookstores when unsold books are returned and discarded. Earlier, as a research assistant at National Taiwan University, I built a model of a bank crisis on an interbank lending network and studied when a regulator’s no-bailout threat is credible.
+
+---
+
 ## Optional: notice period
 
 *(What is your notice period?)*
