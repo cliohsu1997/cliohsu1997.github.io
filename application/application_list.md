@@ -38,6 +38,7 @@ Grouped by location.
 | The Hong Kong Jockey Club | Manager, Business Planning and Analytics (Requisition ID 5508) | Rolling (not stated) | HKJC careers portal (CV; cover letter) | https://careers.hkjc.com/job/Happy-Valley-Manager%2C-Business-Planning-and-Analytics-Hong/1368668866/?applySourceOverride=SeekHK | `Hong Kong/HKJC - Manager Business Planning and Analytics/` | In progress |
 | GreenPrice (Green Price Limited) | Graduate Trainee – Buyer (Taiwan / English) | Rolling (not stated) | Careers form (resume; cover letter) | https://forms.gle/7p6isDjS9DkywsEr9 ; https://hk.jobsdb.com/job/95135985 | `Hong Kong/GreenPrice - Graduate Trainee Buyer Taiwan English/` | Complete |
 | Morgan Stanley | Analyst — Taiwan Institutional Sales, Fixed Income Division (Hong Kong; JR044975) | Rolling (not stated) | Careers / Workday (resume; cover letter) | https://morganstanley.eightfold.ai/careers/job/549800531335 ; https://ms.wd5.myworkdayjobs.com/en-US/External/job/Fixed-Income-Division---Analyst--Taiwan-Institutional-Sales--Hong-Kong-_JR044975 | `Taiwan/Morgan Stanley - Analyst Taiwan Institutional Sales FID/` | In progress |
+| FTI Consulting | Graduate Consultant — Economic & Financial Consulting (JR261504; Valuation & Data Analytics) | 2026-11-19 | Workday (CV; cover letter) | https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/Graduate-Consultant--Economic---Financial-Consulting_JR261504 | `Hong Kong/FTI Consulting - Graduate Consultant Economic Financial Consulting/` | In progress |
 
 ## Japan
 
