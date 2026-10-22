@@ -24,6 +24,12 @@ Grouped by location.
 | --- | --- | --- | --- | --- | --- | --- |
 | HKUST (Guangzhou), CNCC Thrust (Wang / Houde) | Postdoctoral Researcher — Environmental Economics / Empirical IO (EJM 12293) | Until filled (rolling) | Email (CV; job market paper); subject `Postdoc Application – [Your Name]` | wenjunwang@hkust-gz.edu.cn; https://econjobmarket.org/positions/12293 | `Guangdong/HKUST GZ - Postdoc Environmental Economics/` | To apply |
 
+## Shandong
+
+| Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| Dalhousie University (joint with SDUFE, Jinan) | Instructor of Economics (2 positions; F825P; limited term) | 2026-11-20 (review begins; open until filled) | PeopleAdmin (CV; cover letter; teaching statement; list of three referees) | https://dal.peopleadmin.ca/postings/22333 | `Shandong/Dalhousie - Instructor of Economics SDUFE/` | To apply |
+
 ## Hong Kong
 
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
