@@ -6,7 +6,7 @@
 - **Location:** Shenzhen
 - **Ref:** PR2026/023/01
 - **Official page:** https://www.cuhk.edu.cn/zh-hans/recruitment/9485
-- **Listed deadline on official page:** 2026-08-31 (page also says open until a suitable candidate starts; confirm before applying)
+- **Listed deadline on official page:** **2026-12-31** (as of check on 22 Oct 2026; earlier mirrors/pages showed 2026-08-31 or 2026-10-31). Page also says the vacancy remains open until a suitable candidate starts.
 - **Submit to:** jianghan@cuhk.edu.cn
 
 ## Role focus (from the posting)

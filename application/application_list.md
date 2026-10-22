@@ -39,12 +39,13 @@ Grouped by location.
 | GreenPrice (Green Price Limited) | Graduate Trainee – Buyer (Taiwan / English) | Rolling (not stated) | Careers form (resume; cover letter) | https://forms.gle/7p6isDjS9DkywsEr9 ; https://hk.jobsdb.com/job/95135985 | `Hong Kong/GreenPrice - Graduate Trainee Buyer Taiwan English/` | Complete |
 | FTI Consulting | Graduate Consultant — Economic & Financial Consulting (JR261504; Valuation & Data Analytics) | 2026-11-19 | Workday (CV; cover letter) | https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/Graduate-Consultant--Economic---Financial-Consulting_JR261504 | `Hong Kong/FTI Consulting - Graduate Consultant Economic Financial Consulting/` | Complete |
 | Bank for International Settlements (BIS) | Data Scientist / Research Analyst — EFMAP (JR100491) | 2026-11-03 | Workday (CV; cover letter) | https://www.bis.org/vacancy/jr100491 ; https://bis.wd3.myworkdayjobs.com/en-US/External/job/Data-Scientist---Research-Analyst_JR100491 | `Hong Kong/BIS - Data Scientist Research Analyst EFMAP/` | Complete |
+| Accenture | Song — AI-Native Analyst Program (campus; 2nd pref: Industry & Enterprise) | Rolling (online assessment by Nov 2026) | Accenture campus portal (CV; cover letter; online form) | https://careersite.tupu360.com/accentureats/position/detail?positionId=6a9e09037280da28da0794a2&recruitmentType=CAMPUSRECRUITMENT&currentLang=en | `Hong Kong/Accenture - Song AI-Native Analyst Program/` | To apply |
 
 ## Basel
 
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
 | --- | --- | --- | --- | --- | --- | --- |
-| Bank for International Settlements (BIS) | 2027 PhD Fellowship Programme (JR100516; Basel MED) | 2026-11-06 (23:59 CET) | Workday (CV; online form) | https://www.bis.org/vacancy/jr100516 ; https://bis.wd3.myworkdayjobs.com/en-US/External/job/XMLNAME-2027-PhD-Fellowship-Programme_JR100516 | `Basel/BIS - 2027 PhD Fellowship Programme/` | In progress |
+| Bank for International Settlements (BIS) | 2027 PhD Fellowship Programme (JR100516; Basel MED) | 2026-11-06 (23:59 CET) | Workday (CV; online form) | https://www.bis.org/vacancy/jr100516 ; https://bis.wd3.myworkdayjobs.com/en-US/External/job/XMLNAME-2027-PhD-Fellowship-Programme_JR100516 | `Basel/BIS - 2027 PhD Fellowship Programme/` | Complete |
 
 ## Japan
 
@@ -83,7 +84,7 @@ Grouped by location.
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
 | --- | --- | --- | --- | --- | --- | --- |
 | CUHK-SZ (Zhang Yiming Project, PR2026/049/01) | Post Doctoral Fellow | 2026-11-01 (earliest; official Chinese page 2026-12-31) | Email (cover letter; CV; papers) | zhangyiming@cuhk.edu.cn; https://www.cuhk.edu.cn/zh-hans/recruitment/15323 ; https://econjobmarket.org/positions/12463 | `Shenzhen/CUHK Zhang Yiming/` | Complete |
-| CUHK-SZ (Han Jiang / 姜翰 Project, PR2026/023/01) | Post Doctoral Fellow | 2026-08-31 (official page; open until filled) | Email (CN/EN CV; application form; two recommenders’ contacts; one first/corresponding-author English paper) | jianghan@cuhk.edu.cn; https://www.cuhk.edu.cn/zh-hans/recruitment/9485 | `Shenzhen/CUHK Jianghan/` | To apply |
+| CUHK-SZ (Han Jiang / 姜翰 Project, PR2026/023/01) | Post Doctoral Fellow | 2026-12-31 (official page; open until filled) | Email (CN/EN CV; application form; two recommenders’ contacts; one first/corresponding-author English paper) | jianghan@cuhk.edu.cn; https://www.cuhk.edu.cn/zh-hans/recruitment/9485 | `Shenzhen/CUHK Jianghan/` | To apply |
 
 ## Singapore
 
