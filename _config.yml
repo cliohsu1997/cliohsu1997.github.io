@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "HSU Ke Cheng(許可證)"
+title                    : "Ke-Cheng Hsu"
 title_separator          : "-"
-name                     : &name "HSU Ke Cheng"
-description              : &description "PhD candidate at Hong Kong University of Science and Technology"
+name                     : &name "Ke-Cheng Hsu"
+description              : &description "PhD candidate in Economics at the Hong Kong University of Science and Technology"
 url                      : https://cliohsu1997.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cliohsu1997/cliohsu1997.github.io"

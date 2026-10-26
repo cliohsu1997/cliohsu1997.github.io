@@ -1,11 +1,8 @@
 ---
-permalink: /
+published: false
 title: "About me"
 excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+author_profile: false
 ---
 
 Welcome to my website! I am a PhD candidate in Economics at HKUST Business School.

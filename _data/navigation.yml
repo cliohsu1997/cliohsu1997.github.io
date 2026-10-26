@@ -1,25 +1,12 @@
-# main links links
 main:
-  # - title: "Publications"
-  #   url: /publications/
-
   - title: "Research"
-    url: /research/
-
-  # - title: "Talks"
-  #   url: /talks/    
+    url: /#research
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
+    url: /#teaching
+
+  - title: "References"
+    url: /#references
+
   - title: "CV"
-    url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+    url: /files/CV_HSU_Ke_Cheng.pdf
