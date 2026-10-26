@@ -25,7 +25,7 @@ Economics, technology, and strategy consulting for tech leaders, Fortune 100 com
 ## Applicant materials
 
 - Cover letter: `Cover_Letter_HSU_Ke_Cheng_Keystone_London.tex` / `.pdf`
-- Resume / CV: `../../Resume_HSU_Ke_Cheng.pdf` (consulting resume)
+- Resume / CV: `Resume_HSU_Ke_Cheng_Keystone_London.pdf` / `.tex` (Keystone-specific copy of the general consulting resume `../../Resume_HSU_Ke_Cheng.pdf`; checked against the posting 2026-10-26 and used as-is)
 - JMP / writing sample: optional unless the portal asks; available from `files/JMP_package_HSU_Ke_Cheng/`
 
 ## Recent Keystone competition work (for cover letter / interview)
