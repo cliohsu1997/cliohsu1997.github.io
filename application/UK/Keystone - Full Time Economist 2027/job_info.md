@@ -42,6 +42,8 @@ The claim alleges Google is dominant in (1) and (2) and used that position to **
 
 Cover letter cites only this example (buy-side tools + DFP + AdX). Other Keystone work (e.g. FiberCop–TIM MSA in Italy) is background for interviews, not in the letter.
 
+**Full memo:** `memo_google_adtech_stack.md` (names, buyer vs seller, story, claim summary).
+
 ## Notes
 
 - Expected graduation June 2027; willing to accelerate if helpful for a 2027 start.
