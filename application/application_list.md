@@ -58,6 +58,7 @@ Grouped by location.
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
 | --- | --- | --- | --- | --- | --- | --- |
 | Frontier Economics | 2027 Graduate Economic Analyst — PhD / Experienced Track — London (JR10237) | 2026-11-13 | Workday (CV; cover letter / personal statement) | https://frontiereconomics.wd3.myworkdayjobs.com/en-US/Frontier_Economics_Careers/details/XMLNAME-2027-Graduate-Economic-Analyst---PhD-Experienced-Track-----London_JR10237 | `UK/Frontier Economics - Graduate Economic Analyst PhD Track/` | Complete |
+| Keystone | Full Time Economist 2027 — London (Greenhouse 8211974) | None stated (rolling; Greenhouse deadline null) | Greenhouse (CV; cover letter) | https://www.keystone.com/career?gh_jid=8211974 | `UK/Keystone - Full Time Economist 2027/` | To apply |
 
 ## Macau
 
