@@ -30,9 +30,17 @@ Economics, technology, and strategy consulting for tech leaders, Fortune 100 com
 
 ## Recent Keystone competition work (for cover letter / interview)
 
-- **Google UK ad-tech class action (~$4bn):** Advertisers allege Google favored its own ad-tech stack (including AdX). Andrea Coscelli (Keystone partner; former CMA head) is acting as an economic expert. Strong fit with digital / platform competition.
-- **FiberCop–TIM MSA (Italy, AGCM):** Keystone advised FiberCop on the wholesale fiber Master Service Agreement investigation; work included exclusivity / preferential supply, discount schemes, and infrastructure-investment recoupment. Commitments approved after a market test.
-- **Crypto exchanges:** Firm publication on market definition for crypto exchanges (practitioner guide).
+### One example used in the cover letter — Google UK open-display claim (AGC / KP Law)
+
+Open-web display ads are sold programmatically in milliseconds. Three layers matter:
+
+1. **Buy-side (advertisers):** tools that decide *whether and how much to bid* for an impression — Google Ads and DV360 (demand-side / buying tools).
+2. **Sell-side (publishers):** the **publisher ad server** that manages slots on a site and chooses which demand source wins — Google’s DFP.
+3. **Exchange / SSP:** the **auction marketplace** that matches bids to publisher inventory — Google’s **AdX**.
+
+The claim alleges Google is dominant in (1) and (2) and used that position to **steer** transactions through AdX (self-preferencing), so rival exchanges competed on worse terms and advertisers paid more for less effective ads. Practices named in the CAT summary include buy-side favouring of AdX and sell-side devices such as “Last Look.” Keystone (team headed by Andrea Coscelli) is the economic expert for the proposed class representative.
+
+Cover letter cites only this example (buy-side tools + DFP + AdX). Other Keystone work (e.g. FiberCop–TIM MSA in Italy) is background for interviews, not in the letter.
 
 ## Notes
 
