@@ -36,6 +36,7 @@ Grouped by location.
 | --- | --- | --- | --- | --- | --- | --- |
 | Berkeley Research Group (BRG) | Associate — Forensic Accounting / Commercial Disputes (JR101112) | Rolling (not stated) | Workday (CV; cover letter) | https://thinkbrg.wd5.myworkdayjobs.com/en-US/BRG_External_Career_Site/details/Associate---Forensic-Accounting---Commercial-Disputes_JR101112 | `Hong Kong/BRG - Associate Forensic Accounting Commercial Disputes/` | Complete |
 | The Hong Kong Jockey Club | Manager, Business Planning and Analytics (Requisition ID 5508) | Rolling (not stated) | HKJC careers portal (CV; cover letter) | https://careers.hkjc.com/job/Happy-Valley-Manager%2C-Business-Planning-and-Analytics-Hong/1368668866/?applySourceOverride=SeekHK | `Hong Kong/HKJC - Manager Business Planning and Analytics/` | Complete |
+| The Hong Kong Jockey Club | Management Trainee Programme 2027 | 2026-10-31 | HKJC MT application (CV; cover letter) | https://careers.hkjc.com/job/Happy-Valley-Management-Trainee-Hong/1366549566/ | `Hong Kong/HKJC - Management Trainee 2027/` | To apply |
 | GreenPrice (Green Price Limited) | Graduate Trainee – Buyer (Taiwan / English) | Rolling (not stated) | Careers form (resume; cover letter) | https://forms.gle/7p6isDjS9DkywsEr9 ; https://hk.jobsdb.com/job/95135985 | `Hong Kong/GreenPrice - Graduate Trainee Buyer Taiwan English/` | Complete |
 | FTI Consulting | Graduate Consultant — Economic & Financial Consulting (JR261504; Valuation & Data Analytics) | 2026-11-19 | Workday (CV; cover letter) | https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/Graduate-Consultant--Economic---Financial-Consulting_JR261504 | `Hong Kong/FTI Consulting - Graduate Consultant Economic Financial Consulting/` | Complete |
 | Bank for International Settlements (BIS) | Data Scientist / Research Analyst — EFMAP (JR100491) | 2026-11-03 | Workday (CV; cover letter) | https://www.bis.org/vacancy/jr100491 ; https://bis.wd3.myworkdayjobs.com/en-US/External/job/Data-Scientist---Research-Analyst_JR100491 | `Hong Kong/BIS - Data Scientist Research Analyst EFMAP/` | Complete |
@@ -46,6 +47,12 @@ Grouped by location.
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
 | --- | --- | --- | --- | --- | --- | --- |
 | Bank for International Settlements (BIS) | 2027 PhD Fellowship Programme (JR100516; Basel MED) | 2026-11-06 (23:59 CET) | Workday (CV; online form) | https://www.bis.org/vacancy/jr100516 ; https://bis.wd3.myworkdayjobs.com/en-US/External/job/XMLNAME-2027-PhD-Fellowship-Programme_JR100516 | `Basel/BIS - 2027 PhD Fellowship Programme/` | Complete |
+
+## Brussels
+
+| Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| Analysis Group | Analyst Intern — Generalist — Brussels (2027 start; iCIMS 3045) | 2027-03-12 (EJM; midnight UTC). iCIMS page did not state a deadline | iCIMS (CV; unofficial transcript; cover letter with availability) | https://analystcareers-analysisgroup.icims.com/jobs/3045/analyst-intern---generalist---brussels-%282027-start-date%29/job ; https://econjobmarket.org/positions/12872 | `Brussels/Analysis Group - Analyst Intern Generalist 2027/` | Will not apply (master's-level role; no EU work-authorization sponsorship for the internship) |
 
 ## Japan
 
@@ -58,7 +65,7 @@ Grouped by location.
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
 | --- | --- | --- | --- | --- | --- | --- |
 | Frontier Economics | 2027 Graduate Economic Analyst — PhD / Experienced Track — London (JR10237) | 2026-11-13 | Workday (CV; cover letter / personal statement) | https://frontiereconomics.wd3.myworkdayjobs.com/en-US/Frontier_Economics_Careers/details/XMLNAME-2027-Graduate-Economic-Analyst---PhD-Experienced-Track-----London_JR10237 | `UK/Frontier Economics - Graduate Economic Analyst PhD Track/` | Complete |
-| Keystone | Full Time Economist 2027 — London (Greenhouse 8211974) | None stated (rolling; Greenhouse deadline null) | Greenhouse (CV; cover letter) | https://www.keystone.com/career?gh_jid=8211974 | `UK/Keystone - Full Time Economist 2027/` | To apply |
+| Keystone | Full Time Economist 2027 — London (Greenhouse 8211974) | None stated (rolling; Greenhouse deadline null) | Greenhouse (CV; cover letter) | https://www.keystone.com/career?gh_jid=8211974 | `UK/Keystone - Full Time Economist 2027/` | Complete |
 
 ## Macau
 
