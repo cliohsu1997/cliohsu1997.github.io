@@ -1,6 +1,6 @@
 # Personal introduction (about 3 minutes)
 
-Spoken opening for a 30-minute academic interview. Do not present paper results here.
+Spoken opening for a 30-minute academic interview. Target: about 400–450 words (~3 minutes at a calm pace). Framed from the rehearsal on the call: dynamic uncertainty on the consumer side and the seller side.
 
 Clock for the half hour:
 
@@ -10,14 +10,16 @@ Clock for the half hour:
 
 ---
 
-Hello, I'm Ke-Cheng Hsu. Please call me Clio. I'm a Ph.D. candidate in economics at the Hong Kong University of Science and Technology, and I expect to finish in June 2027. My advisors are Pak Hung Au and Kohei Kawaguchi. Kei Kawai is on my thesis committee.
+Hello, I'm Ke-Cheng Hsu. Please call me Clio. I'm a Ph.D. candidate in economics at the Hong Kong University of Science and Technology, and I expect to finish in June 2027. My fields are industrial organization and the digital economy.
 
-I grew up in Taiwan and came to Hong Kong for university. My bachelor's is in mathematics and economics at HKUST, with a minor in actuarial mathematics. I stayed in the same department for the M.Phil. and the Ph.D. The M.Phil., with Pak Hung Au, was about search. People do not know whether a product fits, and the cost of search decides which products they even look at. The dissertation stays with that uncertainty. It asks what happens after the purchase, when sending the good back is costly, and what a seller does when demand is not yet known.
+The theme that runs through my work is how people make decisions under dynamic uncertainty. By that I mean a choice made before the uncertainty is resolved, when adjusting later is costly. The early decision and the later adjustment have to be thought about together.
 
-The question I work on is a decision made before the uncertainty is resolved, when adjusting later is costly. The early choice and the later adjustment are determined together. A rule that looks sensible on one margin can do harm on the other. For a shopper, the uncertainty is whether the product fits. For a seller, it is how many people will buy.
+On the consumer side, the uncertainty is about whether a product fits. If that uncertainty is resolved before the purchase, the problem is search: the buyer decides which products to look at, and the cost of search shapes what they even consider. If the uncertainty is resolved only after the purchase, the problem is returns: the buyer decides whether to keep the good or send it back, and the return policy shapes both the purchase and the return. My specialization is return policy. I study how lenient a seller's return policy should be when buyers learn fit after they buy, and how that policy trades off more sales against more returns.
 
-I like the work to start from the data. I clean the records, write down what the descriptives already show, and only then estimate a model that can rank a rule a seller or a platform could actually change. I am on the academic market because I want to keep doing that, and because I want teaching to be part of the job rather than something I fit in around it.
+On the seller side, the uncertainty is about demand. Sellers choose price and inventory before they know how many people will buy. If demand exceeds inventory, there is a stockout, and that is costly. If demand falls short, there is leftover stock, and that is costly too. So the seller decides in anticipation of that costly adjustment later. My work with coauthors on inventory and pricing under resale price maintenance is in that spirit: how a pricing rule interacts with how much stores order, and how much ends up unsold.
 
-I teach as well. I lecture the M.Sc. math camp, four days from calculus through optimization, rated 4.53 out of 5. As a teaching assistant my average is 4.72, including undergraduate macroeconomics, the economics of uncertainty and information, and Ph.D. microeconomic theory. This year I am also a teaching-assistant coordinator in the business school. I would be glad to teach industrial organization, empirical methods, and a core undergraduate course.
+So across the projects I ask the same kind of question: how do people decide under dynamic uncertainty, and what happens when a rule that looks good on one margin does harm on the other? I like the work to start from the data. I clean the records, write down what the descriptives already show, and only then estimate a model that can rank a policy a seller or a platform could change.
 
-I will use the next twenty minutes on return policy for an online apparel seller, and the last five minutes on two shorter papers: price commitment and unsold books, with Kohei Kawaguchi and Kei Kawai, and search costs and product design, with Pak Hung Au. Please stop me whenever something is unclear.
+I am on the academic market because I want to keep doing this research, and because I want teaching to be part of the job. I lecture the M.Sc. math camp and I have been a teaching assistant for undergraduate and Ph.D. courses. I would be glad to teach industrial organization, empirical methods, and a core undergraduate course.
+
+I will use the next twenty minutes on return policy, and the last five minutes on the inventory paper and the search paper. Please stop me whenever something is unclear. I would be happy to take questions.
