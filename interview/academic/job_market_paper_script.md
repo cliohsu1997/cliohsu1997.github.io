@@ -20,7 +20,7 @@ RI is a more generous return policy than CI because all purchases are insured. T
 
 The starkest contrast is in category tops, like T-shirts, where both the scrap value and match value uncertainty are very low. In this case, return is very costly and reimbursement strongly increases the return rate such that RI performs worse than CI in both purchase and return efficiency. In this category, RI leads to more than a 50% loss in welfare relative to first-best welfare by enabling many inefficient purchases and returns.
 
-RSI is imperfect itself because it creates both the moral hazard and the adverse selection issue.
+RSI is imperfect itself because it creates both the moral hazard and the adverse selection issue. It exposes consumer over-return because return is subsidized, ex ante.
 
 We then consider an alternative policy which we call a return penalty discount, RPD. For that policy, a consumer chooses between buying the product at the full price with full refund or purchasing it at a discount rate, but later on needs to pay a penalty when returning the product. RPD is better in that it partially solves the ex-post over-return. Under the discount branch, the consumer returns without receiving the full refund, so the over-return tendency is mitigated. There is also no expansion at the low end, since the consumers who choose the discount option are those high-value consumers. Moreover, it allows the seller to price discriminate using the product-level information.
 
