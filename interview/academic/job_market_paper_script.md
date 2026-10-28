@@ -20,4 +20,4 @@ RI is a more generous return policy than CI because all purchases are insured. T
 
 The starkest contrast is in category tops, like T-shirts, where both the scrap value and match value uncertainty are very low. In this case, return is very costly and reimbursement strongly increases the return rate such that RI performs worse than CI in both purchase and return efficiency. In this category, RI leads to more than a 50% loss in welfare relative to first-best welfare by enabling many inefficient purchases and returns.
 
-RSI is imperfect itself because it creates excessive return and it attracts those low-value consumers who return frequently to buy the insurance. So there is expansion in demand from those low-value consumers, which creates an adverse selection problem in terms of return rate.
+RSI is imperfect itself because it creates exposed excessive return and attracts those low-value consumers who return frequently to buy the insurance. So there is expansion in demand at the low end, which creates an adverse selection problem.
