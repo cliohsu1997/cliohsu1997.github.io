@@ -22,6 +22,6 @@ The starkest contrast is in category tops, like T-shirts, where both the scrap v
 
 RSI is imperfect itself because it creates excessive return, and ex ante it attracts those low-value consumers who return frequently to buy the insurance, thereby causing expansion of demand at the low end. This creates an adverse selection problem.
 
-We then consider an alternative policy which we call return penalty discount, RPD. For this policy, a consumer chooses between buying the product at full price with full refund, or purchasing it at a discount rate but later on needs to pay some penalty when returning the product. RPD is better in terms of that it partially solves the exposed over-return. On the discount branch, consumer returns without receiving the full refund. So the over-return tendency is mitigated.
+We then consider an alternative policy which we call a return penalty discount, RPD. For that policy, a consumer chooses between buying the product at the full price with full refund or purchasing it at a discount rate, but later on needs to pay a penalty when returning the product. RPD is better in that it partially solves the exposed over-return.
 
 Now imagine a scenario where the return probability is low but return is extremely costly to handle. In this case, the insurance company who sets the premium would set the premium too low, such that many consumers buy the insurance and return, creating a negative externality on the sellers and a large handling cost for the seller.
