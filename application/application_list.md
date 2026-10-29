@@ -136,6 +136,13 @@ Grouped by location.
 | National University of Singapore, SGFIN | Research Analyst / Associate / Fellow in Database and Quantitative Analysis | — | NUS Careers portal | https://careers.nus.edu.sg/job/Research-Analyst-Associate-Fellow-in-Database-and-Quantitative-Analysis/24251-en_GB/ | `Singapore/NUS SGFIN - Research Analyst Associate Fellow/` | To apply |
 | RBB Economics | Economist — #26/27 (Singapore) | Rolling (not stated) | Online form (cover letter; CV; transcripts) | https://cezanneondemand.intervieweb.it/rbbecon/jobs/2627-application-to-rbb-economics-63289/en/ | `Singapore/RBB Economics - Economist/` | Complete |
 
+## Taoyuan
+
+| Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| National Central University (NCU), Department of Economics | Assistant Professor or above (JOE 2026-02_111477598) | 2026-12-02 (Taipei Time) | Email cover letter+CV PDF to ncu66301@ncu.edu.tw (subject `Faculty Position Application for NCU Economics`); upload materials via JOE; three letters | https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477598 ; ncu66301@ncu.edu.tw | `Taoyuan/NCU Economics - Faculty/` | To apply |
+| National Central University (NCU), Graduate Institute of Industrial Economics | Assistant / Associate / Full Professor (JOE 2026-02_111477690; applied microeconometrics / empirical IO) | 2026-12-12 | Mail package; email cover letter+CV PDF to ncu6450@ncu.edu.tw; three letters to ncu6450@ncu.edu.tw | https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477690 ; ncu6450@ncu.edu.tw | `Taoyuan/NCU Industrial Economics - Faculty/` | To apply |
+
 ## Taipei
 
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
