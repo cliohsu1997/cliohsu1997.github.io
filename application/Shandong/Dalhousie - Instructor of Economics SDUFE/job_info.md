@@ -5,9 +5,10 @@
 - **Posting Number:** F825P
 - **Location:** Shandong — Jinan, China (teach at SDUFE; all courses in English). PeopleAdmin location field says “See Note”; posting states positions are located in Jinan.
 - **Appointment period:** February 2027 – February 2028
-- **Deadline (use earliest hard date):** **2026-11-20** (PeopleAdmin Close Date; review begins then). Open Until Filled = Yes; review continues until filled. Trackers use **20 Nov 2026**.
+- **Deadline (use earliest hard date):** **2026-11-20** (PeopleAdmin Close Date; review begins then). Open Until Filled = Yes; review continues until filled. Trackers use **20 Nov 2026**. JOE listing deadline **2027-01-15** (same posting).
 - **Open Date:** 2026-10-21
 - **Apply:** PeopleAdmin — https://dal.peopleadmin.ca/postings/22333
+- **JOE:** https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478389
 - **Bargaining unit:** Dalhousie Faculty Association (DFA)
 
 ## Role focus (from the posting)

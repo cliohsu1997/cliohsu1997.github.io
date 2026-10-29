@@ -1,5 +1,5 @@
 ---
-date: 2023-01-01
+date: 2024-01-01
 collection: working_papers
 permalink: /working_paper/product-design-search-costs
 title: "Product Design with Heterogeneous Search Costs"
