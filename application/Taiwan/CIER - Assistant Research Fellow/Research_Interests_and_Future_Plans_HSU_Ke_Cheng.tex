@@ -1,51 +1,35 @@
-\documentclass[10pt,letterpaper]{article}
-\usepackage[margin=0.64in]{geometry}
-\usepackage{lmodern}
+\documentclass[11pt,letterpaper]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{setspace}
+\usepackage{enumitem}
 \usepackage{hyperref}
-\hypersetup{colorlinks=false, urlcolor=black, pdfborder=0 0 0}
+\hypersetup{colorlinks=true, allcolors=black}
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{0.12em}
+\setlength{\parskip}{0.3em}
+\setstretch{1.0}
 \pagestyle{empty}
 
 \begin{document}
 
 \begin{center}
-{\large\bfseries Research Interests and Future Plans}\\[0.15em]
-Ke-Cheng Hsu (Clio)\\
-Ph.D.\ Candidate in Economics, The Hong Kong University of Science and Technology\\
-\href{mailto:khsu@connect.ust.hk}{khsu@connect.ust.hk}\\[0.35em]
-Prepared for the Assistant Research Fellow search, Chung-Hua Institution for Economic Research.
+{\Large Statement of Research Interests and Future Plans}\\[0.25em]
+Ke Cheng Hsu \\[0.15em]
+{\small Application for Assistant Research Fellow, Chung-Hua Institution for Economic Research (CIER)}
 \end{center}
 
-I am an empirical industrial organization researcher. My agenda is digital platforms and the design of marketplace rules, and the translation of those rules into economic policy analysis. A platform chooses the refund menu, the fee, and the constraints on price. Each choice changes who buys, who returns, how sellers price, and who bears the cost. I estimate structural models, in Python, R, and C++, that rank such rules by welfare, and I would write that ranking as policy analysis for CIER. I expect to complete the Ph.D.\ in June 2027.
+\noindent\textbf{Research and research agenda.} My research lies in industrial organization and digital economics. I have two working papers and two works in progress. My work focuses mainly on product return policies, with one project on consumer search and another on dynamic oligopoly under demand uncertainty.
 
-My job-market paper, ``Designing Return Policy in E-Commerce: A Trade-off between Purchase and Return Efficiency,'' treats return-shipping insurance as a marketplace rule on Taobao. A women's apparel retailer switched between automatic coverage, paid by the seller, and optional coverage, bought by the buyer. A stricter rule cuts wasteful returns, but the lower return rate makes a higher price more attractive and can shut out purchases that would have been worth making. I estimate purchase, insurance take-up, and returns under the seller's monopoly pricing by the generalized method of moments, across six apparel categories. Automatic coverage does better where margins and salvage value are high, because it brings in valuable purchases. Optional coverage does better where margins are thin, by about 15 to 30 percentage points of first-best welfare, and by about 50 percentage points in the thinnest category. A counterfactual menu, a discounted price plus a 10 to 15 percent restocking fee, beats both rules in most categories. That menu is a policy instrument: it trades participation against wasteful returns, and it changes the price the seller sets.
-
-Two further projects ask the same style of question. With Ce Bian and Liang Zhao, I study pass-through when buyers can return the good. A platform commission or a sales tax can lower the equilibrium price and raise welfare. When a higher price makes a return more likely, the seller's effective margin shrinks and supply can slope down, so a higher fee can cut both the price and the return rate. Treating the sale as final can get the sign of that policy wrong. With Kohei Kawaguchi and Kei Kawai, I study Japanese book retail under resale price maintenance. The retail price is fixed before demand is known, which supports inventory when demand is low, and unsold copies are returned and discarded. Ignoring inventory and uncertain demand overstates marginal cost by about 20 percent and misstates the environmental cost. We ask how much waste the commitment creates, and whether a deposit-refund tax can reduce it.
-
-My M.Phil.\ thesis with Pak Hung Au shows that heterogeneous search costs sort buyers across products and can raise prices when search becomes cheaper, a margin that platform search design moves. Earlier, as a research assistant at National Taiwan University, I modeled a bank crisis on an interbank lending network and asked when a regulator's no-bailout threat is credible.
-
-At CIER I would turn these rankings into written policy analysis for digital markets.
-
-\textbf{Platform return, refund, and fee rules.} I would move from one seller's insurance menu to rules a marketplace can set across sellers: who is covered, who pays the cost of a return, and how a restocking fee changes who participates and how much is returned.
-
-\textbf{Platform fees and taxes when a purchase can be reversed.} Building on the work with Bian and Zhao, I would rank commission schedules and sales taxes when returns feed back into price, and state when a standard tax analysis misstates who pays.
-
-\textbf{Pricing commitments and waste.} Building on the work with Kawaguchi and Kawai, I would compare the inventory benefit of a price that cannot adjust with the unsold stock and environmental cost it creates, including under rules that fix prices or limit discounting. For a merger or a conduct question in a digital market, I would draw on Ph.D.\ coursework in merger simulation, entry and exit, and conduct identification, and I would label that exercise as coursework until it is estimated on the market at issue.
-
-CIER's specialty is economic policy analysis. I would write each ranking as a policy note: the marketplace rule, who buys and who returns, how the price moves, and what evidence would reverse the conclusion.
-
-\vspace{0.05em}
-{\bfseries List of works}
-
-\begin{itemize}
-  \setlength{\itemsep}{0.02em}
-  \setlength{\topsep}{0.06em}
-  \setlength{\parsep}{0pt}
-  \item ``Designing Return Policy in E-Commerce: A Trade-off between Purchase and Return Efficiency.'' Job-market paper. Presented at the Asia-Pacific Industrial Organization Conference 2026, the Econometric Society Australasia Meeting 2026, and the China Economics Annual Conference Summer Forum 2026.
-  \item ``Too Much Unsold Stock?: Environmental Consequences of Price Commitment,'' with Kohei Kawaguchi and Kei Kawai. Work in progress.
-  \item ``Pass-Through and Incidence with Product Returns,'' with Ce Bian and Liang Zhao. Work in progress.
-  \item ``Product Design with Heterogeneous Search Costs,'' M.Phil.\ thesis, with Pak Hung Au. Presented at the Asia-Pacific Industrial Organization Conference 2023 and the Asian Meeting of the Econometric Society 2023.
+\begin{itemize}[leftmargin=1.6em,itemsep=0em,topsep=0.05em,parsep=0em]
+\item \textbf{Designing Return Policy in E-Commerce} (job market paper). A return policy affects two margins, whether shoppers buy and whether they return the item after delivery. A stricter policy cuts wasteful returns, but lower return rates make a higher price more profitable for the seller and can price out valuable purchases. I estimate a structural model of purchase, insurance, and return decisions across six apparel categories. Pairing a discounted price with a moderate restocking fee balances both margins better than free returns or optional insurance.
+\item \textbf{Product Design with Heterogeneous Search Costs} (with Pak Hung Au). We introduce search-cost heterogeneity into a sequential search model. Low-search-cost consumers seek niche products, while high-search-cost consumers buy standardized products. When search costs fall, more consumers switch to searching niche products, which can raise prices for both product types.
+\item \textbf{Pass-Through and Incidence with Product Returns} (with Ce Bian and Liang Zhao, work in progress). When a higher price raises return probability, the seller earns a smaller effective margin and cuts supply. A tax can therefore lower the equilibrium price and raise social welfare by reducing returns.
+\item \textbf{Too Much Unsold Stock?} (with Kohei Kawaguchi and Kei Kawai, work in progress). In the Japanese book market, publishers fix retail prices and bookstores return unsold copies to be pulped. Fixed prices encourage bookstores to stock more copies under uncertain demand, but prevent discounting when demand is low. We estimate a dynamic oligopoly model on monthly bookstore data to measure the waste and evaluate a deposit-refund tax.
 \end{itemize}
+
+My five-year agenda extends the study of product returns in three steps. First, I will study search, purchase, and return decisions jointly because search resolves match uncertainty only partially. Second, I will study how substitutes and complements affect returns. In bracketing, a shopper orders several sizes or colors of the same item, keeps one, and returns the rest because those variants are perfect substitutes. I will test whether encouraging complementary purchases can reduce these returns. Third, I will study how return policies on two-sided platforms shape buyer and seller participation and pricing.
+
+\noindent\textbf{Contributions to policy analysis at CIER.} My structural models evaluate how market rules change firm pricing, consumer behavior, and social welfare. At CIER, I can contribute quantitative policy analysis in three areas. First, for digital platform governance and consumer protection, my research on return policies, search costs, and two-sided platforms provides a framework to evaluate cooling-off rules, return-shipping regulations, and platform fees. Second, for tax incidence in retail markets, my work on pass-through shows that ignoring product returns can reverse the predicted price and welfare effects of sales taxes and platform commissions. Third, for environmental and circular-economy policy, my work on unsold inventory and product returns measures the waste created by retail pricing rules and shipping subsidies, and evaluates policy instruments such as deposit-refund taxes and restocking fees. Across these areas, I combine structural modeling with estimation in R, Python, and C++ to deliver clear, evidence-based policy recommendations.
 
 \end{document}
