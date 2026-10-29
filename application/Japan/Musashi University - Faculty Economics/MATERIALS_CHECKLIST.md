@@ -1,7 +1,9 @@
 # Musashi University — materials checklist (D126070158)
 
 **Deadline:** 2026-10-31 (receipt) via JREC-IN Web Application  
-**Zip name example:** `1031HsuKeCheng.zip` (single-byte alphanumeric, no spaces, max 30MB, no password)  
+**Zip to upload (submitting Oct 29):** `1029HsuKeCheng.zip` (single-byte alphanumeric, no spaces, ~2.6MB, no password)  
+**Path:** `application/Japan/Musashi University - Faculty Economics/1029HsuKeCheng.zip`  
+
 **Do not** email attachments to `job6@sec.musashi.ac.jp` without prior permission.
 
 ## Portal reminder PDF
