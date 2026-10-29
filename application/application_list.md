@@ -4,6 +4,24 @@ Grouped by location.
 
 **Status note:** `Complete` means everything the applicant must submit is done, except recommendation letters (tracked in `recommendation_letters_to_send.xlsx` / `.pdf`).
 
+## Dalian
+
+| Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| Dongbei University of Finance and Economics (DUFE), Institute for Advanced Economic Research (IAER) | Assistant / Associate / Full Professor (JOE 2026-02_111478252; all fields; priority econometrics) | 2026-12-15 (full consideration; JOE open until 2027-01-31) | JOE (cover letter; CV; JMP; teaching evaluations; research papers; transcripts optional); three letters via JOE for Assistant | https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478252 ; iaer@dufe.edu.cn ; https://iaer.dufe.edu.cn | `Dalian/DUFE IAER - Faculty Economics/` | To apply |
+
+## Wuhan
+
+| Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| Huazhong University of Science and Technology (HUST), School of Economics | Assistant / Associate / Full Professor (JOE 2026-02_111478111; all fields; priority digital economics / FinTech / big data & AI) | 2026-11-30 | JOE or email (cover letter; CV; JMP; research papers; teaching evaluations; teaching statement; research statement); three letters via JOE (or email) | https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478111 ; eco_hust@163.com ; http://eco.hust.edu.cn | `Wuhan/HUST School of Economics - Faculty/` | To apply |
+
+## Changsha
+
+| Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| Hunan University, School of Economics and Trade (SET) | Assistant / Associate / Full Professor (JOE 2026-02_111478275; all fields; e.g. trade, IO, digital economics) | 2026-12-31 | JOE (cover letter; CV; JMP; research papers; teaching evaluations; transcripts); letters via JOE | https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478275 ; xrxrui@hnu.edu.cn ; http://cet.hnu.edu.cn/ | `Changsha/Hunan University SET - Faculty Economics/` | To apply |
+
 ## Beijing
 
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
@@ -11,12 +29,20 @@ Grouped by location.
 | Compass Lexecon | Economist — Beijing — Q3 2026 (JR260969) | ~2026-11-27 | Workday portal | https://fticonsulting.wd108.myworkdayjobs.com/en-US/CompassLexeconCareers/details/Economist---Beijing---Q3-2026_JR260969 | `Beijing/Compass Lexecon - Economist Beijing Q3 2026/` | Complete |
 | Compass Lexecon | Analyst — Beijing | — | Workday portal | — | `Beijing/Compass Lexecon - Economist Beijing Q3 2026/` | Complete |
 | Econic Partners | PhD Associate / Analyst / Intern (Beijing) | — | Email / careers | pli@econic.com (Peixuan Li); https://econicpartners.com/careers/ | `Beijing/Econic Partners - PhD Associate Beijing/` | Complete |
+| Capital University of Economics and Business (CUEB), International School of Economics and Management (ISEM) | Assistant / Associate / Full Professor (JOE 2026-02_111478355; any field; indicate research group) | 2026-11-30 | Email (cover letter indicating research field(s)/group; CV; samples of written work); two letters via writers | hr_isem@163.com ; https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478355 | `Beijing/CUEB ISEM - Faculty Economics/` | To apply |
 
 ## Haining
 
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
 | --- | --- | --- | --- | --- | --- | --- |
 | Zhejiang University International Business School (ZIBS) | Postdoctoral Position in Marketing | 2026-12-15 | Email PDF materials | zibs-hr@intl.zju.edu.cn | `China/ZIBS - Postdoctoral Position in Marketing/` | To apply |
+
+## Guangzhou
+
+| Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| Jinan University, Institute for Economic and Social Research (IESR) | Tenure-track Assistant / Associate / Full Professor (JOE 2026-02_111477972; esp. applied micro) | 2026-12-01 | Cover letter; CV; JMP; research statement; three letters via writers | https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477972 ; iesr_job@126.com ; https://iesr.jnu.edu.cn/Home/main.htm | `Guangzhou/Jinan University IESR - Faculty Economics/` | To apply |
+| Jinan University, Institute for Economic and Social Research (IESR) | International Research Fellow — 3-year fixed-term (JOE 2026-02_111478202; Economics / AI / Statistics) | 2027-07-31 | JOE or email (cover letter; CV; 3-year research statement; degree certificates); letters via JOE; mark “International Research Fellow” | https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478202 ; iesr_job@126.com ; https://iesr.jnu.edu.cn/Home/main.htm | `Guangzhou/Jinan University IESR - International Research Fellow/` | To apply |
 
 ## Guangdong
 
@@ -115,4 +141,5 @@ Grouped by location.
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
 | --- | --- | --- | --- | --- | --- | --- |
 | UBS | 2027 Off-Cycle Internship — Global Banking (340768BR) | 2026-11-30 | UBS graduate job board | https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&jobid=348163&partnerid=25008&siteid=5176 | `Taiwan/UBS - 2027 Off-Cycle Internship Global Banking/` | Complete |
+| Institute of Economics, Academia Sinica (IEAS) | Assistant / Associate / Research Fellow (JOE 2026-02_111477843; equiv. to asst/assoc/full professor) | 2026-12-01 | Cover letter; CV; JMP; three letters | https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477843 ; searchcommit@econ.sinica.edu.tw ; https://www.econ.sinica.edu.tw/ | `Taiwan/IEAS Academia Sinica - Research Fellow/` | To apply |
 | Chung-Hua Institution for Economic Research | Assistant Research Fellow (equivalent to assistant professor) | 2026-12-31 | Email items 1–4; letters sent directly by writers | fangru@cier.edu.tw; https://www.cier.edu.tw/recruit-ch/25298/ | `Taiwan/CIER - Assistant Research Fellow/` | To apply |
