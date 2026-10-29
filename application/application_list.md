@@ -59,6 +59,7 @@ Grouped by location.
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
 | --- | --- | --- | --- | --- | --- | --- |
 | Yamanashi Gakuin University, iCLA | Faculty | — | Form + materials | — | `Japan/Yamanashi Gakuin University/` | In progress |
+| Musashi University, SLAS | Full-time Faculty — Economics (Micro / Applied Micro; D126070158) | 2026-10-31 (receipt) | JREC-IN Portal zip (cover letter; CV since high school; publication list; up to 3 papers + 400-word summaries; two referees’ contacts) | https://jrecin.jst.go.jp/seek/SeekJorDetail/Changelang?id=D126070158&lang=1 ; https://www.musashigakuen.jp/recruit/university/smrcr400000007mx.html ; job6@sec.musashi.ac.jp | `Japan/Musashi University - Faculty Economics/` | In progress |
 
 ## UK
 
@@ -93,6 +94,8 @@ Grouped by location.
 | --- | --- | --- | --- | --- | --- | --- |
 | CUHK-SZ (Zhang Yiming Project, PR2026/049/01) | Post Doctoral Fellow | 2026-11-01 (earliest; official Chinese page 2026-12-31) | Email (cover letter; CV; papers) | zhangyiming@cuhk.edu.cn; https://www.cuhk.edu.cn/zh-hans/recruitment/15323 ; https://econjobmarket.org/positions/12463 | `Shenzhen/CUHK Zhang Yiming/` | Complete |
 | CUHK-SZ (Han Jiang / 姜翰 Project, PR2026/023/01) | Post Doctoral Fellow | 2026-12-31 (official page; open until filled) | Email (CN/EN CV; application form; two recommenders’ contacts; one first/corresponding-author English paper) | jianghan@cuhk.edu.cn; https://www.cuhk.edu.cn/zh-hans/recruitment/9485 | `Shenzhen/CUHK Jianghan/` | To apply |
+| CUHK-SZ (Wang Jingqi / 王竞奇 Project, PR2026/057/01) | Post Doctoral Fellow | 2026-12-31 (official page; open until filled) | Email (CN/EN CV; application form; two recommenders’ contacts) | wangjingqi@cuhk.edu.cn; https://www.cuhk.edu.cn/zh-hans/recruitment/15546 | `Shenzhen/CUHK Wang Jingqi/` | In progress |
+| CUHK-SZ (Shen Rui / 申睿 Project, PR2026/035/01) | Post Doctoral Fellow | 2026-12-31 (official page; open until filled) | Email (CN/EN CV; application form; article PDF; two recommenders’ contacts) | ruishen@cuhk.edu.cn; https://www.cuhk.edu.cn/zh-hans/recruitment/14460 | `Shenzhen/CUHK Shen Rui/` | In progress |
 
 ## Singapore
 
