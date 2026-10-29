@@ -82,6 +82,12 @@ Grouped by location.
 | --- | --- | --- | --- | --- | --- | --- |
 | RBB Economics | Economist — #26/27 (Melbourne preferred; open to Sydney) | Rolling (not stated) | Online form (cover letter; CV; transcripts) | https://cezanneondemand.intervieweb.it/rbbecon/jobs/2627-application-to-rbb-economics-63289/en/ | `Australia/RBB Economics - Economist/` | Complete |
 
+## Jiangsu
+
+| Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| Duke Kunshan University (DKU) | Faculty Position in Economics (Professor of the Practice teaching track; AJO #32544) | 2026-10-12 (priority; open until filled, listed until 2027-02-28) | AJO (cover letter with DKU interest; CV; teaching statement; teaching–research integration statement; three letters via writers) | https://academicjobsonline.org/ajo/jobs/32544 ; social-sciences@dukekunshan.edu.cn | `Jiangsu/Duke Kunshan University - Faculty Economics/` | In progress |
+
 ## Shanghai
 
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |

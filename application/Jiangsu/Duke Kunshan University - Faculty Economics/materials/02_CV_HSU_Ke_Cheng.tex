@@ -1,0 +1,162 @@
+\documentclass[11pt,letterpaper]{article}
+
+\usepackage[margin=0.9in]{geometry}
+\usepackage{fontspec}
+\usepackage{xeCJK}
+\setmainfont{Times New Roman}
+\setCJKmainfont{Microsoft YaHei}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{setspace}
+\usepackage{tabularx}
+\usepackage{array}
+
+\hypersetup{colorlinks=true, allcolors=black}
+\setlist[itemize]{leftmargin=1.2em, itemsep=0.3em, topsep=0.2em, parsep=0.1em}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.18em}
+\pagestyle{empty}
+\setstretch{1.22}
+
+% Fixed width for ALL dates so 2020 / 2025--2026 / 2020--present share one right edge
+\newlength{\cvdatecol}
+\setlength{\cvdatecol}{10.5em}
+
+\newcommand{\sectionheader}[1]{%
+  \vspace{0.55em}
+  {\large\bfseries #1}\\[-0.15em]
+  \rule{\textwidth}{0.4pt}\par
+  \vspace{0.25em}
+}
+
+% #1 indent, #2 left text, #3 date (right-aligned in fixed column)
+\newcommand{\cvline}[3][0em]{%
+  \par\nobreak
+  \noindent\hspace*{#1}%
+  \begin{tabularx}{\dimexpr\textwidth-#1\relax}{@{}X@{\hspace{0.75em}}>{\raggedleft\arraybackslash}p{\cvdatecol}@{}}
+  #2 & #3 \\
+  \end{tabularx}%
+}
+
+% Course lines under TA (same sub-sub level, no date)
+\newcommand{\courseline}[1]{%
+  \par\addvspace{0.28em}%
+  \noindent\hspace*{3.2em}#1\par
+}
+
+\begin{document}
+
+\begin{center}
+{\LARGE\bfseries Ke Cheng HSU (Clio) 許可證}\\[0.55em]
+\href{mailto:khsu@connect.ust.hk}{khsu@connect.ust.hk}\\[0.2em]
+\href{https://cliohsu1997.github.io}{https://cliohsu1997.github.io/}
+\end{center}
+
+\vspace{0.7em}
+
+\textbf{BUSINESS ADDRESS}\\[0.2em]
+\hspace{1.5em} Department of Economics, 5067 Lee Shau Kee Business Building\\
+\hspace{1.5em} The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+
+\vspace{0.55em}
+
+\textbf{RESEARCH FIELDS}\\[0.2em]
+\hspace{1.5em} Industrial Organization, Digital Economics, Quantitative Marketing
+
+\sectionheader{EDUCATION}
+{\setstretch{0.88}
+Hong Kong University of Science and Technology\\[-0.35em]
+\cvline[1.5em]{Ph.D.\ in Economics}{2022 -- 2027 (expected)}
+\vspace{-0.15em}
+\cvline[1.5em]{M.Phil.\ in Economics}{2020 -- 2022}
+\vspace{-0.15em}
+\cvline[1.5em]{B.Sc.\ in Mathematics and Economics (Minor in Actuarial Mathematics)}{2015 -- 2019}
+}
+
+\vspace{-0.55em}
+\sectionheader{WORKING PAPERS}
+\begin{itemize}
+  \item ``Designing Return Policy in E-Commerce: A Trade-off between Purchase and Return Efficiency'' \textit{(Job Market Paper)}\\[0.2em]
+  \textit{Abstract:} We study the effect of return policies by asking whether they encourage efficient returns and purchases. A stricter return policy curbs inefficient ex-post returns, but the resulting lower return rates make higher product prices more attractive for sellers, leading to possible exclusion of ex-ante efficient purchases. We compare automatic coverage that reimburses return-shipping costs (RI) with optional coverage (CI) by estimating a structural model of purchase, insurance, and return decisions under monopoly pricing across six apparel categories. A lenient return policy like RI performs better in high-margin, high-salvage categories by expanding valuable purchases, whereas a strict return policy like CI performs better in thinner-margin categories by curbing excessive returns. Partial RPD, a menu pairing a discounted price with a medium restocking fee as penalty, performs better than RI and CI for most categories by better balancing purchase and return efficiency.\\[0.2em]
+  \textit{Presented at ($^{\ast}$ for scheduled):} APIOC 2026$^{\ast}$; 2026 Econometric Society Australasia Meeting (ESAM 2026)$^{\ast}$; 中國經濟學年會夏季論壇 2026$^{\ast}$; HKUST Business School PhD Conference; CEP Brownbag in HKUST.
+
+  \item ``Product Design with Heterogeneous Search Costs'', MPhil thesis, with Pak Hung AU\\[0.2em]
+  \textit{Abstract:} Building on Wolinsky's (1986) sequential search model with differentiated products, this paper introduces search cost heterogeneity to analyze how firms leverage observable product designs to influence consumer search behavior. In equilibrium, consumers' search patterns form a partitioned structure: those with low search costs tend to seek niche products, while consumers facing higher search costs gravitate toward standardized products. In the case of two product designs, a reduction in search costs may lead to higher prices for both if the endogenous shift in consumer search modes---the composition effect---dominates the search-encouraging effect. Additionally, we demonstrate that prices respond asymmetrically to decreases in search costs based on the relative position within the distribution where the shock occurs.\\[0.2em]
+  \textit{Presented at:} APIOC 2023; AMES 2023 NTU Singapore.
+\end{itemize}
+
+\sectionheader{WORK IN PROGRESS}
+\begin{itemize}
+  \item ``Too Much Unsold Stock?: Environmental Consequences of Price Commitment'', with Kohei Kawaguchi and Kei Kawai\\[0.2em]
+  \textit{Abstract:} Resale price maintenance is procompetitive because it encourages sellers to carry inventory in the low-demand state. When realized demand falls short of that inventory, however, the seller cannot lower the price to clear the market, and the unsold copies are returned at an environmental cost. We build a dynamic oligopoly model with demand uncertainty, estimate it on monthly bookstore data, and ask how much unsold stock is due to price commitment and how a deposit-refund tax can reduce waste.
+  \item ``Pass-Through and Incidence with Product Returns'', with Ce Bian and Liang Zhao\\[0.2em]
+  \textit{Abstract:} We study pass-through and incidence with product returns. In contrast to the case without returns, a tax such as a platform commission fee or a sales tax can create negative pass-through and improve social welfare. When a high price significantly raises consumers' return probability, the seller reduces the quantity supplied because of a lower effective margin. This downward-sloping supply curve can lower the equilibrium price in response to a tax increase, raising social surplus by reducing the return rate.
+\end{itemize}
+
+\sectionheader{EXPERIENCE}
+{\setstretch{0.88}
+\textit{Research}\\[-0.5em]
+\cvline[1.5em]{Research Assistant for Prof.\ Benjamin Bernard, National Taiwan University}{2020}
+
+\vspace{-0.1em}
+\textit{Teaching}\\[-0.5em]
+\cvline[1.5em]{Lecturer, Math Camp for MSc in Economics, HKUST (4.53/5)}{2026}
+\vspace{-0.12em}
+\cvline[1.5em]{Teaching Assistant Coordinator, Business School, HKUST}{2025 -- 2026}
+\vspace{-0.12em}
+\cvline[1.5em]{Teaching Assistant, Department of Economics, HKUST (average 4.72/5)}{2020 -- 2025}
+\vspace{0.1em}
+\courseline{ECON2123 -- Macroeconomics (4.53/5)}
+\courseline{ECON4134 -- Economics of Uncertainty and Information (4.83/5)}
+\courseline{ECON4999T -- Economics of Uncertainty and Information (4.56/5)}
+\courseline{ECON5210 -- Microeconomic Theory I (4.85/5; 4.82/5)}
+
+}
+
+\sectionheader{FELLOWSHIPS AND AWARDS}
+{\setstretch{0.9}
+\cvline[1.5em]{Research Travel Grant}{2023; 2026}
+\vspace{-0.12em}
+\cvline[1.5em]{Red Bird PhD Award}{2022}
+\vspace{-0.12em}
+\cvline[1.5em]{Postgraduate Studentship from the HKUST}{2020 -- present}
+\vspace{-0.12em}
+\cvline[1.5em]{Academic Achievement Medal}{2019}
+\vspace{-0.12em}
+\cvline[1.5em]{University Scholarship (730K HKD)}{2015 -- 2019}
+}
+
+\sectionheader{SKILLS}
+Technical Skills: R, Python, C++, \LaTeX, AWS\\
+Languages: English (fluent), Mandarin (native), Cantonese (basic)
+
+\sectionheader{REFERENCES (THESIS SUPERVISION COMMITTEE)}
+{\setstretch{0.95}
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+\textbf{\href{https://aupakhung.weebly.com/}{Pak Hung AU}}\\
+Associate Professor\\
+Department of Economics\\
+Hong Kong University of Science and Technology\\
+\href{mailto:aupakhung@ust.hk}{aupakhung@ust.hk}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.48\textwidth}
+\textbf{\href{https://www.kohei-kawaguchi.com/}{Kohei Kawaguchi}}\\
+Associate Professor\\
+Department of Economics\\
+Hong Kong University of Science and Technology\\
+\href{mailto:kkawaguchi@ust.hk}{kkawaguchi@ust.hk}
+\end{minipage}
+
+\vspace{1.0em}
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+\textbf{\href{https://www.e.u-tokyo.ac.jp/fservice/faculty/kawai/kawai-e/kawai01-e.html}{Kei Kawai}}\\
+Professor\\
+Department of Economics\\
+University of Tokyo\\
+\href{mailto:kawaixkei@gmail.com}{kawaixkei@gmail.com}
+\end{minipage}
+}
+
+\end{document}
