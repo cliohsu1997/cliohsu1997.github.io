@@ -3,27 +3,45 @@
 \usepackage{lmodern}
 \usepackage{booktabs}
 \usepackage{tabularx}
+\usepackage[table]{xcolor}
 \usepackage{hyperref}
 \hypersetup{colorlinks=true, urlcolor=black, pdfborder=0 0 0}
 \setlength{\parindent}{0pt}
 \pagestyle{empty}
-\renewcommand{\arraystretch}{1.25}
+\renewcommand{\arraystretch}{1.35}
+
+\definecolor{headerblue}{HTML}{1F4E79}
+\definecolor{subheader}{HTML}{5B6B7A}
+\definecolor{tosend}{HTML}{E2EFDA}
+\definecolor{pending}{HTML}{FFF2CC}
+
+\newcommand{\headercell}[1]{\textcolor{white}{\bfseries #1}}
 
 \begin{document}
 
-{\Large\bfseries Recommendation letters to send out}\\[0.25em]
-Updated 29 October 2026. Materials column lists recommendation letters only. Rows ordered by deadline.
+{\color{headerblue}\LARGE\bfseries Recommendation Letters to Send Out}\\[-0.15em]
+{\color{headerblue}\rule{\textwidth}{1.6pt}}\\[-0.35em]
+{\color{headerblue}\rule{\textwidth}{0.4pt}}
 
-\vspace{0.6em}
+\vspace{0.45em}
+{\color{subheader}\small
+Ke Cheng Hsu (Clio) $\cdot$ Department of Economics, HKUST $\cdot$ Updated 29 October 2026}\\[0.2em]
+{\small
+Only send rows with Status \textbf{To send}. Leave \textbf{Pending} rows unsent. After sending, change \textbf{Sent?} from No to Yes. Use the \textbf{Referees} column to choose which letters to attach. Rows ordered by deadline.
+}
+
+\vspace{0.7em}
 \begin{tabularx}{\textwidth}{@{}>{\raggedright\arraybackslash}p{4.0cm}>{\raggedright\arraybackslash}p{2.2cm}>{\raggedright\arraybackslash}p{1.8cm}>{\raggedright\arraybackslash}p{2.4cm}>{\raggedright\arraybackslash}p{3.8cm}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}p{3.0cm}>{\raggedright\arraybackslash}p{1.4cm}>{\raggedright\arraybackslash}p{1.0cm}@{}}
-\toprule
-Institution & Position & Deadline & How to apply & Email / contact & Materials & Referees & Status & Sent? \\
-\midrule
-Fudan University (School of Economics) & Assistant Professor & 1 Nov 2026 & Email (writers send letters directly) & \href{mailto:econsearch@fudan.edu.cn}{econsearch@fudan.edu.cn} & Three recommendation letters & Pak Hung Au, Kohei Kawaguchi, Kei Kawai & To send & No \\
-CUHK-SZ (Zhang Yiming Project, PR2026/049/01) & Post Doctoral Fellow & 1 Nov 2026 & Email & \href{mailto:zhangyiming@cuhk.edu.cn}{zhangyiming@cuhk.edu.cn} & Two recommendation letters & Kohei Kawaguchi, Kei Kawai & To send & No \\
+\rowcolor{headerblue}
+\headercell{Institution} & \headercell{Position} & \headercell{Deadline} & \headercell{How to apply} & \headercell{Email / contact} & \headercell{Materials} & \headercell{Referees} & \headercell{Status} & \headercell{Sent?} \\
+\rowcolor{tosend}
+Fudan University (School of Economics) & Assistant Professor & 1 Nov 2026 & Email (writers send letters directly) & \href{mailto:econsearch@fudan.edu.cn}{econsearch@fudan.edu.cn} & Three recommendation letters & Pak Hung Au, Kohei Kawaguchi, Kei Kawai & \textbf{To send} & No \\
+\rowcolor{tosend}
+CUHK-SZ (Zhang Yiming Project, PR2026/049/01) & Post Doctoral Fellow & 1 Nov 2026 & Email & \href{mailto:zhangyiming@cuhk.edu.cn}{zhangyiming@cuhk.edu.cn} & Two recommendation letters & Kohei Kawaguchi, Kei Kawai & \textbf{To send} & No \\
+\rowcolor{pending}
 Dalhousie University (joint with SDUFE, Jinan; F825P) & Instructor of Economics & 20 Nov 2026 & PeopleAdmin & \href{https://dal.peopleadmin.ca/postings/22333}{PeopleAdmin F825P} & Three referees (list of contacts; letters if requested) & Pak Hung Au, Kohei Kawaguchi, Kei Kawai & Pending & No \\
+\rowcolor{pending}
 Chung-Hua Institution for Economic Research (CIER) & Assistant Research Fellow & 31 Dec 2026 & Email (writers send letters directly) & \href{mailto:fangru@cier.edu.tw}{fangru@cier.edu.tw} & Three recommendation letters & Pak Hung Au, Kohei Kawaguchi, Kei Kawai & Pending & No \\
-\bottomrule
 \end{tabularx}
 
 \end{document}
