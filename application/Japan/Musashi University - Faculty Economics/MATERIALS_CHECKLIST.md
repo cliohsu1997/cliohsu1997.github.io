@@ -12,8 +12,8 @@
 
 | # | Requirement | File in `materials/` | Status |
 | --- | --- | --- | --- |
-| 1 | Cover letter | `02_Cover_Letter_HSU_Ke_Cheng_Musashi.pdf` | Draft ready — review before submit |
-| 2 | CV (email; info since high school) | `01_CV_HSU_Ke_Cheng.pdf` | Copied from site CV — **add high-school line if missing** |
+| 1 | Cover letter | `01_Cover_Letter_HSU_Ke_Cheng_Musashi.pdf` | Draft ready — review before submit |
+| 2 | CV (email; info since high school) | `02_CV_HSU_Ke_Cheng.pdf` | Copied from site CV — **add high-school line if missing** |
 | 3 | Complete list of publications | `03_Publication_List_HSU_Ke_Cheng.pdf` | Ready |
 | 4 | Up to 3 papers (**submitting 2**) | `04a_Paper1_JMP_…pdf`, `04b_Paper2_Product_Design_…pdf` | Ready |
 | 5 | ~400-word English summary each | `05_Summaries_400words_HSU_Ke_Cheng.pdf` (JMP + search paper only) | Ready |
