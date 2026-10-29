@@ -2,7 +2,7 @@
 date: 2023-01-01
 collection: working_papers
 permalink: /working_paper/product-design-search-costs
-title: "Product Design with Heterogeneous Search Costs (MPhil thesis)"
+title: "Product Design with Heterogeneous Search Costs"
 coauthors: "Pak Hung AU"
 excerpt: "Building on Wolinsky's (1986) sequential search model with differentiated products, this paper introduces search cost heterogeneity to analyze how firms leverage observable product designs to influence consumer search behavior. In equilibrium, consumers' search patterns form a partitioned structure: those with low search costs tend to seek niche products, while consumers facing higher search costs gravitate toward standardized products. In the case of two product designs, a reduction in search costs may lead to higher prices for both if the endogenous shift in consumer search modes—the composition effect—dominates the search-encouraging effect. Additionally, we demonstrate that prices respond asymmetrically to decreases in search costs based on the relative position within the distribution where the shock occurs. Specifically, improvements in search technology benefiting consumers with initially low search costs tend to have anti-competitive effects, whereas those benefiting higher-cost searchers can be pro-competitive."
 custom_excerpt: "true"
