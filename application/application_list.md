@@ -92,7 +92,7 @@ Grouped by location.
 
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
 | --- | --- | --- | --- | --- | --- | --- |
-| Fudan University | Assistant Professor | 2026-11-01 | Email (cover letter; CV; job market paper) | econsearch@fudan.edu.cn | `Shanghai/Fudan University - Assistant Professor/` | To apply |
+| Fudan University (School of Economics) | Assistant / Associate / Full Professor (JOE 2026-02_111477852; primary field e.g. Digital Economics) | 2026-11-01 (23:59 Beijing Time) | Email (cover letter; CV; job market paper(s); subject `Name + Field + Desired Position`); three letters via writers | econsearch@fudan.edu.cn ; https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477852 | `Shanghai/Fudan University - Assistant Professor/` | In progress |
 
 ## Shenzhen
 
