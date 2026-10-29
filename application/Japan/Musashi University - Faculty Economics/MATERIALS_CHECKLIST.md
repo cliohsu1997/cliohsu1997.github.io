@@ -15,7 +15,7 @@
 | # | Requirement | File in `materials/` | Status |
 | --- | --- | --- | --- |
 | 1 | Cover letter | `01_Cover_Letter_HSU_Ke_Cheng_Musashi.pdf` | Draft ready — review before submit |
-| 2 | CV (email; info since high school) | `02_CV_HSU_Ke_Cheng.pdf` | Copied from site CV — **add high-school line if missing** |
+| 2 | CV (email; info since high school) | `02_CV_HSU_Ke_Cheng.pdf` (from `02_CV_HSU_Ke_Cheng_Musashi.tex`) | Ready — includes Taipei Municipal Chien Kuo High School (2012--2015) |
 | 3 | Complete list of publications | `03_Publication_List_HSU_Ke_Cheng.pdf` | Ready |
 | 4 | Up to 3 papers (**submitting 2**) | `04a_Paper1_JMP_…pdf`, `04b_Paper2_Product_Design_…pdf` | Ready |
 | 5 | ~400-word English summary each | `05_Summaries_400words_HSU_Ke_Cheng.pdf` (JMP + search paper only) | Ready |
@@ -29,7 +29,6 @@
 
 ## Before submit
 
-1. Confirm CV includes high school (posting asks for info since high school).
-2. Proofread cover letter for Musashi / UoL PDP teaching fit.
+1. Proofread cover letter for Musashi / UoL PDP teaching fit.
 3. Build zip: all PDFs above (and any exported JREC forms if required as files).
 4. Upload on JREC-IN; agree to personal-information provision.

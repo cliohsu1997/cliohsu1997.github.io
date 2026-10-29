@@ -40,7 +40,7 @@ Further docs (degree certificates, etc.) may be requested later. Disclose any di
 - Portal screenshot/instructions: `Attach_application_document_JRECIN_Web_application.pdf`
 - Checklist: `MATERIALS_CHECKLIST.md`
 - Packaged drafts under `materials/` (cover letter, CV, publication list, 3 papers, summaries, referee contacts)
-- **Still needed before submit:** confirm CV covers **high school**; fill JREC-IN portal Application Form + Achievement/Activities list; zip as `1031HsuKeCheng.zip` (≤30MB)
+- **Still needed before submit:** fill JREC-IN portal Application Form + Achievement/Activities list; upload `1029HsuKeCheng.zip` (≤30MB)
 
 ## Recommendation letters
 
