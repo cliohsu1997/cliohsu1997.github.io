@@ -50,7 +50,7 @@ Grouped by location.
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
 | --- | --- | --- | --- | --- | --- | --- |
 | Jinan University, Institute for Economic and Social Research (IESR) | Tenure-track Assistant / Associate / Full Professor (JOE 2026-02_111477972; esp. applied micro) | 2026-12-01 | Cover letter; CV; JMP; research statement; three letters via writers | [JOE](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477972) ; [iesr_job@126.com](mailto:iesr_job@126.com) ; [link](https://iesr.jnu.edu.cn/Home/main.htm) | `Guangzhou/Jinan University IESR - Faculty Economics/` | To apply |
-| Jinan University, Institute for Economic and Social Research (IESR) | International Research Fellow — 3-year fixed-term (JOE 2026-02_111478202; Economics / AI / Statistics) | 2027-07-31 | JOE or email (cover letter; CV; 3-year research statement; degree certificates); letters via JOE; mark “International Research Fellow” | [JOE](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478202) ; [iesr_job@126.com](mailto:iesr_job@126.com) ; [link](https://iesr.jnu.edu.cn/Home/main.htm) | `Guangzhou/Jinan University IESR - International Research Fellow/` | To apply |
+| Jinan University, Institute for Economic and Social Research (IESR) | International Research Fellow — 3-year fixed-term (JOE 2026-02_111478202; Economics / AI / Statistics) | 2027-07-31 | Email (cover letter; CV; 3-year research statement; degree certificates; ≥2 letters to school email); mark “International Research Fellow” | [iesr_job@126.com](mailto:iesr_job@126.com) ; [JOE](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478202) ; [link](https://iesr.jnu.edu.cn/Home/main.htm) | `Guangzhou/Jinan University IESR - International Research Fellow/` | To apply |
 
 ## Guangdong
 
@@ -123,11 +123,41 @@ Grouped by location.
 | Macau University of Science and Technology (MUST) | Faculty | — | — | — | `Macau/MUST/` | Complete |
 | University of Macau | Faculty | — | — | — | `Macau/University of Macau/` | Complete |
 
+## Brisbane
+
+| Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| The University of Queensland (UQ), School of Economics | Lecturer / Senior Lecturer ×2 (JOE 2026-02_111478036; R-69343; any field; Level B/C) | 2026-11-01 (11pm AEST) | JOE only (cover letter addressing About You; CV; JMP; Q&A); **two** letters | [JOE](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478036) ; [EJM](https://econjobmarket.org/positions/12721) ; [booklet](https://content.app.uq.edu.au/bkbiqrpxuy/positiondescriptions/r-69343_lsl_economics_appointmentbooklet.pdf) ; [c.mezzetti@uq.edu.au](mailto:c.mezzetti@uq.edu.au) ; [talent@uq.edu.au](mailto:talent@uq.edu.au) | `Brisbane/UQ School of Economics - Lecturer/` | To apply |
+
+## Canberra
+
+| Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| Australian National University (ANU), Research School of Economics | Lecturer / Senior Lecturer (JOE 2026-02_111477886; several tenure-track; pref. econometrics / empirical) | 2026-12-05 (midnight UTC; ANU page 2026-12-06 AEDT) | EJM (cover letter; CV; JMP; optional video/extra papers); three letters via EJM | [JOE](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477886) ; [EJM](https://econjobmarket.org/positions/12610) ; [schoolmanager.rse@anu.edu.au](mailto:schoolmanager.rse@anu.edu.au) | `Canberra/ANU Research School of Economics - Lecturer/` | To apply |
+
+## Sydney
+
+| Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| UNSW Sydney, School of Economics | Lecturer / Senior Lecturer / Associate Professor (JOE 2026-02_111478270; one or more; any field) | 2026-11-27 | EJM (letter of application; CV; research paper); three letters via EJM | [JOE](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478270) ; [EJM](https://econjobmarket.org/positions/12744) ; [dobrescu@unsw.edu.au](mailto:dobrescu@unsw.edu.au) ; [link](http://www.economics.unsw.edu.au) | `Sydney/UNSW School of Economics - Faculty/` | To apply |
+
 ## Australia
 
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
 | --- | --- | --- | --- | --- | --- | --- |
 | RBB Economics | Economist — #26/27 (Melbourne preferred; open to Sydney) | Rolling (not stated) | Online form (cover letter; CV; transcripts) | [link](https://cezanneondemand.intervieweb.it/rbbecon/jobs/2627-application-to-rbb-economics-63289/en/) | `Australia/RBB Economics - Economist/` | Complete |
+
+## Abu Dhabi
+
+| Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| Zayed University, College of Interdisciplinary Studies (CIS) | Assistant / Associate Professor in Economics (JOE 2026-02_111478200; applied micro or applied macro track) | 2026-12-01 (review ongoing until filled) | Interfolio (cover letter must state micro vs macro track); three letters via Interfolio | [Interfolio](https://apply.interfolio.com/194915) ; [JOE](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478200) ; [EJM](https://econjobmarket.org/positions/12780) | `Abu Dhabi/Zayed University CIS - Faculty Economics/` | To apply |
+
+## Riyadh
+
+| Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| University of New Haven–Riyadh (NHU-Riyadh), College of Business and Digital Innovation | Assistant Professor of Practice — Economics (JOE 2026-02_111477814; teaching track) | 2026-09-18 (full consideration) | Portal (cover letter; CV; research statement; teaching statement; sample teaching evaluations; sample publications); three referee contacts (not letters) | [apply](https://newhaven.hrmdirect.com/employment/job-opening.php?req=3798642) ; [JOE](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477814) ; [link](https://sa.newhaven.edu) | `Riyadh/University of New Haven Riyadh - Assistant Professor of Practice Economics/` | To apply |
 
 ## Jiangsu
 

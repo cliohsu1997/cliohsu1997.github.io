@@ -29,6 +29,9 @@ Corporate Finance, FinTech, Quantitative Finance, Digital Accounting, Digital Ma
 7. Identification documents
 8. Educational and degree certificates
 
+## Recommendation letters
+Three recommendation letters (listed among email PDF materials to **zibs-hr@intl.zju.edu.cn**). Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
+
 ## Application materials
 
 (Place CV, cover letter, statements, and other docs here.)

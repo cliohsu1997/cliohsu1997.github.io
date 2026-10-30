@@ -28,4 +28,4 @@ Three-year fixed-term research fellowship for outstanding young international sc
 - Copies of degree certificates and other supporting materials
 
 ## Recommendation letters
-Letters of reference (via JOE / writers). Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
+At least **two** recommendation letters — institute page asks materials (including letters) emailed to **iesr_job@126.com**. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
