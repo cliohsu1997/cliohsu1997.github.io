@@ -12,7 +12,7 @@ Dear Members of the Faculty Search Committee,
 I am writing to apply for the Lecturer position in Economics and Finance at the International College of Liberal Arts, Yamanashi Gakuin University (JREC-IN D126101270). I am a Ph.D. candidate in Economics at the Hong Kong University of Science and Technology. My expected graduation date is June 2027, and I can move my defense forward and complete the degree earlier upon receiving an offer so that I can begin on 1 April 2027. My research fields are Empirical Industrial Organization and Digital Economics.
 
 Please find attached:
-1. Curriculum vitae on the iCLA form (Word and PDF), plus a supplementary English CV with hyperlinks
+1. Curriculum vitae on the iCLA form, plus a supplementary English CV with hyperlinks
 2. Letter of interest
 3. Statement of teaching philosophy
 4. Two academic papers: “Designing Return Policy in E-Commerce: A Trade-off between Purchase and Return Efficiency” and “Search for Niches or Generics? Product Designs with Heterogeneous Search Costs” (with Pak Hung Au)
@@ -35,8 +35,7 @@ https://cliohsu1997.github.io/
 
 ## Attachments checklist (before send)
 
-- [ ] `01_CV_HSU_Ke_Cheng_Yamanashi_Gakuin_iCLA_2027.docx` (required iCLA form)
-- [ ] `01_CV_HSU_Ke_Cheng_Yamanashi_Gakuin_iCLA_2027.pdf`
+- [ ] `01_CV_HSU_Ke_Cheng_Yamanashi_Gakuin_iCLA_2027.pdf` (iCLA form)
 - [ ] `01b_CV_English_HSU_Ke_Cheng.pdf` (supplement)
 - [ ] `02_Letter_of_Interest_HSU_Ke_Cheng.pdf`
 - [ ] `03_Teaching_Philosophy_HSU_Ke_Cheng.pdf`
