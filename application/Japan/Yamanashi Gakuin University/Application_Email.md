@@ -1,7 +1,7 @@
 # Application email — Yamanashi Gakuin University, iCLA
 
 **To:** faculty.search@c2c.ac.jp  
-**Subject:** Application for Lecturer/Associate Professor/Professor in Economics and Finance — Ke Cheng HSU (JREC-IN D126101270)
+**Subject:** Application for Lecturer Position in Economics and Finance — Ke Cheng HSU (JREC-IN D126101270)
 
 **Attach from:** `application/Japan/Yamanashi Gakuin University/Application_Package_HSU_Ke_Cheng/`
 
@@ -9,7 +9,7 @@
 
 Dear Members of the Faculty Search Committee,
 
-I am writing to apply for the Lecturer / Associate Professor / Professor position in Economics and Finance at the International College of Liberal Arts, Yamanashi Gakuin University (JREC-IN D126101270). I am a Ph.D. candidate in Economics at the Hong Kong University of Science and Technology. My expected graduation date is June 2027, and I can move my defense forward and complete the degree earlier upon receiving an offer so that I can begin on 1 April 2027. My research fields are Empirical Industrial Organization and Digital Economics.
+I am writing to apply for the Lecturer position in Economics and Finance at the International College of Liberal Arts, Yamanashi Gakuin University (JREC-IN D126101270). I am a Ph.D. candidate in Economics at the Hong Kong University of Science and Technology. My expected graduation date is June 2027, and I can move my defense forward and complete the degree earlier upon receiving an offer so that I can begin on 1 April 2027. My research fields are Empirical Industrial Organization and Digital Economics.
 
 Please find attached:
 1. Curriculum vitae on the iCLA form (Word and PDF), plus a supplementary English CV with hyperlinks
