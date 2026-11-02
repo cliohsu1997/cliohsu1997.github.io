@@ -17,8 +17,8 @@ from docx import Document
 from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
 
-SRC = r"C:\Users\birdy\Desktop\cliohsu1997.github.io\application\faculty\Japan\Yamanashi Gakuin University\CV-and-Achievement-in-Education-and-Research-for-2027.docx"
-OUT = r"C:\Users\birdy\Desktop\cliohsu1997.github.io\application\faculty\Japan\Yamanashi Gakuin University\CV_HSU_Ke_Cheng_Yamanashi_Gakuin_iCLA_2027.docx"
+SRC = r"C:\Users\birdy\Desktop\cliohsu1997.github.io\application\Japan\Yamanashi Gakuin University\CV-and-Achievement-in-Education-and-Research-for-2027.docx"
+OUT = r"C:\Users\birdy\Desktop\cliohsu1997.github.io\application\Japan\Yamanashi Gakuin University\01_CV_HSU_Ke_Cheng_Yamanashi_Gakuin_iCLA_2027.docx"
 
 
 def tcs(table, ri):
@@ -150,9 +150,9 @@ for p in doc.paragraphs:
         for r in p.runs:
             r.text = ""
         if p.runs:
-            p.runs[0].text = "(As of October 20, 2026)"
+            p.runs[0].text = "(As of November 2, 2026)"
         else:
-            p.add_run("(As of October 20, 2026)")
+            p.add_run("(As of November 2, 2026)")
 
 # ========== TABLE 0 Personal ==========
 t0 = doc.tables[0]
@@ -208,35 +208,57 @@ def edu_detail(row_i, date, lines, status):
     set_first_para(r[5], status)
 
 
-# Template: each degree = Entered row + University/School/Major row
+# Each degree = Entered row (stage label kept) + detail row
+# Detail row keeps the form's three fields on separate lines.
 edu_enter(2, "09/15", "Educational background pertaining to bachelor's degree", "Entered")
 edu_detail(
     3,
     "12/19",
-    ["HKUST, B.Sc. in Mathematics and Economics (Minor in Actuarial Mathematics)"],
+    [
+        "University: The Hong Kong University of Science and Technology",
+        "Undergraduate School: School of Science; School of Business and Management",
+        "Major: Mathematics and Economics (Minor in Actuarial Mathematics)",
+    ],
     "Graduated",
 )
 edu_enter(4, "08/20", "Educational background pertaining to master's degree", "Entered")
-edu_detail(5, "08/22", ["HKUST, M.Phil. in Economics"], "Completed")
+edu_detail(
+    5,
+    "08/22",
+    [
+        "University: The Hong Kong University of Science and Technology",
+        "Graduate School: HKUST Business School, Department of Economics",
+        "Major: Economics (M.Phil.)",
+    ],
+    "Completed",
+)
 edu_enter(6, "08/22", "Educational background pertaining to doctoral degree", "Entered")
-edu_detail(7, "07 27 (expected)", ["HKUST, Ph.D. in Economics"], "Current student")
+edu_detail(
+    7,
+    "06/27 (expected)",
+    [
+        "University: The Hong Kong University of Science and Technology",
+        "Graduate School: HKUST Business School, Department of Economics",
+        "Major: Economics (Ph.D.)",
+    ],
+    "Current student",
+)
 
-# Doctoral Degree box
+# Doctoral Degree box — form asks MM DD, YYYY
 r = tcs(t1, 8)
 clear_write(r[2], ["Degree name", "Ph.D. in Economics"], 9)
-clear_write(r[3], ["Conferring university", "HKUST"], 9)
-clear_write(r[4], ["Date of conferment", "07 27, 2027 (expected)"], 9)
+clear_write(r[3], ["Conferring university", "The Hong Kong University of Science and Technology"], 9)
+clear_write(r[4], ["Date of conferment", "06 30, 2027 (expected)"], 9)
 
 # ========== TABLE 2 Work ==========
 t2 = doc.tables[2]
-# Only Research Assistant
+# Paid work only. Teaching stays under Educational Activities.
 r = tcs(t2, 2)
 set_first_para(r[0], "      From 01/20")
-set_first_para(r[1], "To 12/20")
-clear_write(r[2], ["Research Assistant for Prof. Benjamin Bernard, National Taiwan University"], 8)
-clear_write(r[3], [""], 8)  # no Full time / Part time
+set_first_para(r[1], "To 07/20")
+clear_write(r[2], ["Research Assistant", "Prof. Benjamin Bernard, National Taiwan University"], 8)
+clear_write(r[3], ["Full time"], 8)
 
-# Clear unused job rows (leave blank — do not leave MM/YY placeholders)
 for ri in range(3, 7):
     r = tcs(t2, ri)
     clear_write(r[0], [""], 8)
@@ -244,15 +266,15 @@ for ri in range(3, 7):
     clear_write(r[2], [""], 8)
     clear_write(r[3], [""], 8)
 
-# Current organization: leave blank (PhD belongs under Education, not Work)
+# Current affiliation (studentship), dated from the start of the Ph.D.
 r = tcs(t2, 7)
 for p in paragraphs(r[0]):
     full = "".join((t.text or "") for rr in runs(p) for t in rr.findall(qn("w:t")))
     if "From" in full or "MM" in full:
-        set_para(p, "      From MM/YY")
-clear_write(r[1], [""], 8)
+        set_para(p, "      From 08/22")
+clear_write(r[1], ["Ph.D. Candidate", "Department of Economics, HKUST"], 8)
 clear_write(r[2], [""], 8)
-clear_write(r[3], [""], 8)  # no Full time / Part time
+clear_write(r[3], ["Full time"], 8)
 
 # ========== TABLE 3 ==========
 t3 = doc.tables[3]
@@ -295,17 +317,29 @@ append_lines_after_label(
     body,
     "Academic conference presentations",
     [
-        '"Designing Return Policy in E-Commerce..." — APIOC 2026*; ESAM 2026*; China Economics Annual Conference Summer Forum 2026*; HKUST Business School PhD Conference; CEP Brownbag, HKUST.',
         '"Product Design with Heterogeneous Search Costs" — APIOC 2023; AMES 2023, NTU Singapore.',
+        '"Designing Return Policy in E-Commerce..." — APIOC 2026*; ESAM 2026*;',
+        "China Economics Annual Conference Summer Forum 2026*;",
+        "HKUST Business School PhD Conference; CEP Brownbag, HKUST.",
+        "(* scheduled)",
     ],
     9,
 )
-append_lines_after_label(body, "Acquisition of external research funds", ["N/A"], 9)
+append_lines_after_label(
+    body,
+    "Acquisition of external research funds",
+    ["Research Travel Grant, HKUST (2023; 2026)."],
+    9,
+)
 append_lines_after_label(
     body,
     "Any other achievements",
     [
-        'Working papers: "Pass-Through and Incidence with Product Returns"; "Too Much Unsold Stock?: Environmental Consequences of Price Commitment."',
+        "Red Bird PhD Award (2022).",
+        "HKUST Postgraduate Studentship (2020–present).",
+        'Working paper: "Pass-Through and Incidence with Product Returns," with Ce Bian and Liang Zhao.',
+        'Working paper: "Too Much Unsold Stock?: Environmental Consequences of Price Commitment," with Kohei Kawaguchi and Kei Kawai.',
+        "Website: https://cliohsu1997.github.io/",
     ],
     9,
 )
@@ -317,29 +351,31 @@ for p in list(paragraphs(body)):
     body.remove(p)
 
 edu_blocks = [
-    # 1) evaluations only — do not repeat the course list here
-    "Awards received for educational activities, educational evaluations (teaching awards, etc.)",
+    "1. Awards received for educational activities, educational evaluations (teaching awards, etc.)",
     "Lecturer, Math Camp for MSc in Economics, HKUST: 4.53/5 (2026).",
-    "Teaching Assistant, Department of Economics, HKUST: average 4.72/5 (2020-2025).",
-    # 2) teaching subjects — only place the course list appears
-    "List of teaching subjects that you were in charge of up until now",
-    "Math Camp for MSc in Economics (Lecturer, HKUST, 2026)",
-    "ECON2123 Macroeconomics (Teaching Assistant, HKUST)",
-    "ECON4134 Economics of Uncertainty and Information (Teaching Assistant, HKUST)",
-    "ECON4999T Economics of Uncertainty and Information (Teaching Assistant, HKUST)",
-    "ECON5210 Microeconomic Theory I (Teaching Assistant, HKUST)",
-    "Number of students you advised on their thesis/dissertation over the last 3 years:",
+    "Teaching Assistant, Department of Economics, HKUST: average 4.72/5 (2020–2025).",
+    "",
+    "2. List of teaching subjects that you were in charge of up until now",
+    "Math Camp for MSc in Economics — Lecturer, HKUST, 2026 (4.53/5)",
+    "ECON2123 Macroeconomics — Teaching Assistant, HKUST (4.53/5)",
+    "ECON4134 Economics of Uncertainty and Information — Teaching Assistant, HKUST (4.83/5)",
+    "ECON4999T Economics of Uncertainty and Information — Teaching Assistant, HKUST (4.56/5)",
+    "ECON5210 Microeconomic Theory I — Teaching Assistant, HKUST (4.85/5; 4.82/5)",
+    "",
+    "3. Number of students you advised on their thesis/dissertation over the last 3 years:",
     "N/A",
     "",
+    "4. Textbooks, educational materials, reference books created",
+    "N/A",
     "",
-    "Textbooks, educational materials, reference books created",
+    "5. Presentations, lectures, etc. related to educational techniques and practices",
     "N/A",
-    "Presentations, lectures, etc. related to educational techniques and practices",
+    "",
+    "6. Attendance of seminars, training programs, etc. related to educational techniques",
     "N/A",
-    "Attendance of seminars, training programs, etc. related to educational techniques",
-    "N/A",
-    "Other items that should be specially noted with regard to educational activities",
-    "Teaching Assistant Coordinator, Business School, HKUST (2025-2026).",
+    "",
+    "7. Other items that should be specially noted with regard to educational activities",
+    "Teaching Assistant Coordinator, Business School, HKUST (2025–2026).",
 ]
 for line in edu_blocks:
     body.append(make_para(line, 9))
