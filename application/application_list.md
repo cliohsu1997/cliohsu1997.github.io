@@ -106,7 +106,7 @@ Grouped by location.
 
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
 | --- | --- | --- | --- | --- | --- | --- |
-| Yamanashi Gakuin University, iCLA | Faculty | — | Form + materials | — | `Japan/Yamanashi Gakuin University/` | In progress |
+| Yamanashi Gakuin University, iCLA | Lecturer — Economics and Finance (D126101270) | 2026-11-06 (receipt) | Email (iCLA CV form; letter of interest; teaching philosophy ≤500 words; two papers; teaching evaluations; expected-graduation confirmation); three letters via writers / HKUST | [JREC-IN](https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126101270) ; [faculty.search@c2c.ac.jp](mailto:faculty.search@c2c.ac.jp) ; [link](https://www.icla.ygu.ac.jp/en/) | `Japan/Yamanashi Gakuin University/` | Complete |
 | Musashi University, SLAS | Full-time Faculty — Economics (Micro / Applied Micro; D126070158) | 2026-10-31 (receipt) | JREC-IN Portal zip (cover letter; CV since high school; publication list; up to 3 papers + 400-word summaries; two referees’ contacts) | [link](https://jrecin.jst.go.jp/seek/SeekJorDetail/Changelang?id=D126070158&lang=1) ; [link](https://www.musashigakuen.jp/recruit/university/smrcr400000007mx.html) ; [job6@sec.musashi.ac.jp](mailto:job6@sec.musashi.ac.jp) | `Japan/Musashi University - Faculty Economics/` | In progress |
 
 ## Osaka
