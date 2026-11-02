@@ -108,6 +108,12 @@ Grouped by location.
 | Yamanashi Gakuin University, iCLA | Faculty | — | Form + materials | — | `Japan/Yamanashi Gakuin University/` | In progress |
 | Musashi University, SLAS | Full-time Faculty — Economics (Micro / Applied Micro; D126070158) | 2026-10-31 (receipt) | JREC-IN Portal zip (cover letter; CV since high school; publication list; up to 3 papers + 400-word summaries; two referees’ contacts) | [link](https://jrecin.jst.go.jp/seek/SeekJorDetail/Changelang?id=D126070158&lang=1) ; [link](https://www.musashigakuen.jp/recruit/university/smrcr400000007mx.html) ; [job6@sec.musashi.ac.jp](mailto:job6@sec.musashi.ac.jp) | `Japan/Musashi University - Faculty Economics/` | In progress |
 
+## Osaka
+
+| Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| Osaka University, Osaka School of International Public Policy (OSIPP) | Professor / Associate Professor (tenured) or Associate / Lecturer (tenure-track) — Applied Economics (JREC-IN D126100330) | 2027-01-10 | JOE (CV + pubs list; up to 3 papers; optional cover letter / teaching evals); tenure-track also needs ≥2 referee contacts on CV and ≥2 letters via JOE | [JREC-IN](https://jrecin.jst.go.jp/seek/SeekJorDetail?id=D126100330&lang=1) ; [OSIPP](https://www.osipp.osaka-u.ac.jp/en/topics/%ef%bc%bb10-january%ef%bc%bd-osipp-faculty-position/) ; [JOE](https://www.aeaweb.org/joe/) ; [econjob@osipp.osaka-u.ac.jp](mailto:econjob@osipp.osaka-u.ac.jp) | `Osaka/Osaka University OSIPP - Faculty Applied Economics/` | To apply |
+
 ## UK
 
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
@@ -153,12 +159,6 @@ Grouped by location.
 | --- | --- | --- | --- | --- | --- | --- |
 | Zayed University, College of Interdisciplinary Studies (CIS) | Assistant / Associate Professor in Economics (JOE 2026-02_111478200; applied micro or applied macro track) | 2026-12-01 (review ongoing until filled) | Interfolio (cover letter must state micro vs macro track); three letters via Interfolio | [Interfolio](https://apply.interfolio.com/194915) ; [JOE](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478200) ; [EJM](https://econjobmarket.org/positions/12780) | `Abu Dhabi/Zayed University CIS - Faculty Economics/` | To apply |
 
-## Riyadh
-
-| Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
-| --- | --- | --- | --- | --- | --- | --- |
-| University of New Haven–Riyadh (NHU-Riyadh), College of Business and Digital Innovation | Assistant Professor of Practice — Economics (JOE 2026-02_111477814; teaching track) | 2026-09-18 (full consideration) | Portal (cover letter; CV; research statement; teaching statement; sample teaching evaluations; sample publications); three referee contacts (not letters) | [apply](https://newhaven.hrmdirect.com/employment/job-opening.php?req=3798642) ; [JOE](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477814) ; [link](https://sa.newhaven.edu) | `Riyadh/University of New Haven Riyadh - Assistant Professor of Practice Economics/` | To apply |
-
 ## Jiangsu
 
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
@@ -185,6 +185,7 @@ Grouped by location.
 | CUHK-SZ (Han Jiang / 姜翰 Project, PR2026/023/01) | Post Doctoral Fellow | 2026-12-31 (official page; open until filled) | Email (CN/EN CV; application form; two recommenders’ contacts; one first/corresponding-author English paper) | [jianghan@cuhk.edu.cn](mailto:jianghan@cuhk.edu.cn); [link](https://www.cuhk.edu.cn/zh-hans/recruitment/9485) | `Shenzhen/CUHK Jianghan/` | To apply |
 | CUHK-SZ (Wang Jingqi / 王竞奇 Project, PR2026/057/01) | Post Doctoral Fellow | 2026-12-31 (official page; open until filled) | Email (CN/EN CV; application form; two recommenders’ contacts) | [wangjingqi@cuhk.edu.cn](mailto:wangjingqi@cuhk.edu.cn); [link](https://www.cuhk.edu.cn/zh-hans/recruitment/15546) | `Shenzhen/CUHK Wang Jingqi/` | In progress |
 | CUHK-SZ (Shen Rui / 申睿 Project, PR2026/035/01) | Post Doctoral Fellow | 2026-12-31 (official page; open until filled) | Email (CN/EN CV; application form; article PDF; two recommenders’ contacts) | [ruishen@cuhk.edu.cn](mailto:ruishen@cuhk.edu.cn); [link](https://www.cuhk.edu.cn/zh-hans/recruitment/14460) | `Shenzhen/CUHK Shen Rui/` | In progress |
+| Shenzhen University (SZU), College of Economics | Hundred Talents Program — Assistant / Associate / Full Professor (any field; postdoc + college-level Asst Prof track if pubs not yet top-tier) | 2027-03-09 (midnight UTC) | EJM + SZU talent platform (Faculty Recruitment → Hundred Talents Program); prior EJM cycles asked for three letters via EJM | [EJM](https://econjobmarket.org/) ; [zp.szu.edu.cn](http://zp.szu.edu.cn) ; [econtheory@szu.edu.cn](mailto:econtheory@szu.edu.cn) ; [econ_szu@outlook.com](mailto:econ_szu@outlook.com) | `Shenzhen/SZU College of Economics - Hundred Talents Program/` | To apply |
 
 ## Singapore
 
