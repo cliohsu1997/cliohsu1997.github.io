@@ -38,6 +38,7 @@ Grouped by location.
 | Compass Lexecon | Analyst — Beijing | — | Workday portal | — | `Beijing/Compass Lexecon - Economist Beijing Q3 2026/` | Complete |
 | Econic Partners | PhD Associate / Analyst / Intern (Beijing) | — | Email / careers | [pli@econic.com](mailto:pli@econic.com) (Peixuan Li); [link](https://econicpartners.com/careers/) | `Beijing/Econic Partners - PhD Associate Beijing/` | Complete |
 | Capital University of Economics and Business (CUEB), International School of Economics and Management (ISEM) | Assistant / Associate / Full Professor (JOE 2026-02_111478355; any field; indicate research group) | 2026-11-30 | Email (cover letter indicating research field(s)/group; CV; samples of written work); two letters via writers | [hr_isem@163.com](mailto:hr_isem@163.com) ; [JOE](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478355) | `Beijing/CUEB ISEM - Faculty Economics/` | To apply |
+| University of International Business and Economics (UIBE), School of International Trade and Economics (SITE) | Assistant / Associate / Full Professor (JOE 2026-02_111478415; pref. trade / digital economy / finance / industrial econ / etc.) | 2026-12-11 | JOE (cover letter; CV; JMP; research papers; transcripts; teaching evaluations; other supporting materials); letters via JOE | [JOE](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478415) ; [sitezhaopin@163.com](mailto:sitezhaopin@163.com) ; [link](https://site.uibe.edu.cn/) | `Beijing/UIBE SITE - Faculty Economics/` | To apply |
 
 ## Haining
 
