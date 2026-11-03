@@ -10,6 +10,12 @@ Grouped by location.
 | --- | --- | --- | --- | --- | --- | --- |
 | Dongbei University of Finance and Economics (DUFE), Institute for Advanced Economic Research (IAER) | Assistant / Associate / Full Professor (JOE 2026-02_111478252; all fields; priority econometrics) | 2026-12-15 (full consideration; JOE open until 2027-01-31) | JOE (cover letter; CV; JMP; teaching evaluations; research papers; transcripts optional); three letters via JOE for Assistant | [JOE](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478252) ; [iaer@dufe.edu.cn](mailto:iaer@dufe.edu.cn) ; [link](https://iaer.dufe.edu.cn) | `Dalian/DUFE IAER - Faculty Economics/` | To apply |
 
+## Shenyang
+
+| Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| Liaoning University | Assistant / Associate / Full Professor (JOE 2026-02_111478466; all fields) | 2026-12-20 (full consideration CST; JOE until 2026-12-31) | JOE (cover letter; CV; JMP; research papers); three letters via JOE; after deadline also email materials | [JOE](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478466) ; [LNU_Recruiting@163.com](mailto:LNU_Recruiting@163.com) ; [link](https://www.lnu.edu.cn/) | `Shenyang/Liaoning University - Faculty Economics/` | To apply |
+
 ## Wuhan
 
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
