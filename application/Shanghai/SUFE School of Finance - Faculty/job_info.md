@@ -7,8 +7,9 @@ Tenure-track Assistant / Associate / Full Professor in Finance (start Fall 2027)
 Shanghai, China (No.777 Guoding Road, Yangpu District)
 
 ## Deadline
-**2026-11-29** (submission / target date stated in the ad).  
-EJM application deadline: **2026-12-13** midnight UTC (posting ends 2027-02-28).
+**2026-11-29**
+
+Note: EJM also lists a later system close of 2026-12-13 midnight UTC; use **29 Nov 2026** as the working deadline.
 
 ## How to apply
 Submit via **EJM**: [https://econjobmarket.org/positions/12823](https://econjobmarket.org/positions/12823). Contact Ms. Wang: +86 21 6590-8400.
