@@ -387,6 +387,8 @@ a:hover { color: var(--accent-dark); }
 .contact-name { margin: 0; font-size: 1.5rem; font-weight: 700; letter-spacing: -.02em; }
 .contact-role { margin: .3rem 0 0; color: var(--muted); font-size: .95rem; }
 .contact-mail { margin: .55rem 0 0; }
+.contact-links { margin: .45rem 0 0; }
+.contact-links i { font-style: normal; color: var(--blue-300); padding: 0 .45rem; }
 .affiliation {
   flex: 0 0 auto;
   color: var(--ink);
