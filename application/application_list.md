@@ -66,12 +66,6 @@ Grouped by location.
 | --- | --- | --- | --- | --- | --- | --- |
 | HKUST (Guangzhou), CNCC Thrust (Wang / Houde) | Postdoctoral Researcher — Environmental Economics / Empirical IO (EJM 12293) | Until filled (rolling) | Email (CV; job market paper); subject `Postdoc Application – [Your Name]` | [wenjunwang@hkust-gz.edu.cn](mailto:wenjunwang@hkust-gz.edu.cn); [link](https://econjobmarket.org/positions/12293) | `Guangdong/HKUST GZ - Postdoc Environmental Economics/` | Complete |
 
-## Shandong
-
-| Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
-| --- | --- | --- | --- | --- | --- | --- |
-| Dalhousie University (joint with SDUFE, Jinan) | Instructor of Economics (2 positions; F825P; limited term; JOE 2026-02_111478389) | 2026-11-20 (review begins; open until filled; JOE until 2027-01-15) | PeopleAdmin (CV; cover letter; teaching statement; list of three referees) | [link](https://dal.peopleadmin.ca/postings/22333) ; [JOE](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478389) | `Shandong/Dalhousie - Instructor of Economics SDUFE/` | To apply |
-
 ## Hangzhou
 
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
@@ -149,6 +143,12 @@ Grouped by location.
 | Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
 | --- | --- | --- | --- | --- | --- | --- |
 | Australian National University (ANU), Research School of Economics | Lecturer / Senior Lecturer (JOE 2026-02_111477886; several tenure-track; pref. econometrics / empirical) | 2026-12-05 (midnight UTC; ANU page 2026-12-06 AEDT) | EJM (cover letter; CV; JMP; optional video/extra papers); three letters via EJM | [JOE](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477886) ; [EJM](https://econjobmarket.org/positions/12610) ; [schoolmanager.rse@anu.edu.au](mailto:schoolmanager.rse@anu.edu.au) | `Canberra/ANU Research School of Economics - Lecturer/` | To apply |
+
+## Melbourne
+
+| Institution / unit | Position | Deadline | How to apply | Link / email | Folder | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| Deakin University, Deakin Business School | Lecturer / Senior Lecturer in Economics (job 590231; JOE 2026-02_111478445; all fields; pref. macro / trade / micro theory) | 2026-12-07 (AEDT) | Deakin Careers (CV; short cover letter; responses to the Key Selection Criteria; three reference letters uploaded by the applicant) | [link](https://careers.deakin.edu.au/en/job/590231/lecturer-or-senior-lecturer-in-economics) ; [JOE](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478445) ; [f.silva@deakin.edu.au](mailto:f.silva@deakin.edu.au) | `Melbourne/Deakin University - Lecturer Economics/` | To apply |
 
 ## Sydney
 
