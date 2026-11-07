@@ -27,5 +27,15 @@ Two full-time faculty positions. Ph.D. in Economics, Political Economy, Politica
 - Publication list or job market paper
 - Copies of academic degree certificates
 
+There is no doctoral diploma. The package uses the expected-graduation confirmation. See `Application_Email.md`.
+
+Files in `Application_Package/`:
+- `Cover_Letter_HSU_Ke_Cheng_NSYSU.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `Research_Statement_HSU_Ke_Cheng.pdf`
+- `Teaching_Statement_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Expected_Graduation_Confirmation.pdf`
+
 ## Recommendation letters
 Three letters of recommendation. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.

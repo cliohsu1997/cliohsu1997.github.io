@@ -29,5 +29,11 @@ National “211 Project” university; Applied Economics in “Double First Clas
 - Job market paper
 - Research papers (JOE requirements also list research papers)
 
+Files in `Application_Package/`:
+- `Cover_Letter_HSU_Ke_Cheng_Liaoning.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
+
 ## Recommendation letters
 Three letters of recommendation via **JOE**. Not email-to-school for the standard path — not added to the email-only `recommendation_letters_to_send` tracker.

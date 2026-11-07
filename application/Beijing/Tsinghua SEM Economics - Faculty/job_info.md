@@ -26,5 +26,14 @@ All fields welcome. Priority areas: applied microeconomics (labor, public, educa
 - Evidence of research and teaching excellence
 - Selected articles or working papers
 
+See `Application_Email.md`.
+
+Files in `Application_Package/`:
+- `Cover_Letter_HSU_Ke_Cheng_Tsinghua_SEM.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
+- `Teaching_Evaluations.pdf`
+
 ## Recommendation letters
 Three letters of reference (not required for tenured applicants), emailed to **scholar@sem.tsinghua.edu.cn**. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.

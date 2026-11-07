@@ -28,5 +28,13 @@ Tenure-track positions at all ranks. PhD (or firm expectation) by August 2027. C
 - Teaching evaluations
 - Transcripts
 
+Files in `Application_Package/`:
+- `Cover_Letter_HSU_Ke_Cheng_Hunan_SET.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
+- `Teaching_Evaluations.pdf`
+- `Transcript.pdf`
+
 ## Recommendation letters
-Letters of reference (via JOE; typically three). Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
+Letters of reference via JOE. Writers submit on JOE, so this job is not on the email tracker.
