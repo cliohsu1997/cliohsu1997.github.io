@@ -28,5 +28,11 @@ Prefer econometrics or empirical economic research; any field considered. Tenure
 - Video presentation of JMP (optional)
 - Additional paper(s) / other material (optional)
 
+There is no JMP video. Files in `Application_Package/`:
+- `Cover_Letter_HSU_Ke_Cheng_ANU.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
+
 ## Recommendation letters
 Three letters of recommendation (via EJM). Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
