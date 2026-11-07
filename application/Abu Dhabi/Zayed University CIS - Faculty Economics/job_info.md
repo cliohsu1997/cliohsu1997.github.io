@@ -31,5 +31,12 @@ PhD in Economics that is recognized (or can be recognized) by the UAE Ministry o
 - Cover letter (must state applied micro vs applied macro track)
 - Remaining Interfolio packet as required on the Interfolio form (JOE/EJM text does not list a full file checklist beyond the cover-letter track choice)
 
+The cover letter states the applied microeconomics track. Files in `Application_Package/`:
+- `Cover_Letter_HSU_Ke_Cheng_Zayed.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+
+The Interfolio form may ask for more files than these three.
+
 ## Recommendation letters
 **Three** letters of reference via **Interfolio** (not email). Not added to the email-only `recommendation_letters_to_send` tracker.
