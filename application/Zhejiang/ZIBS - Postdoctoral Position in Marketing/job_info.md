@@ -34,4 +34,18 @@ Three recommendation letters (listed among email PDF materials to **zibs-hr@intl
 
 ## Application materials
 
-(Place CV, cover letter, statements, and other docs here.)
+Package: `Application_Package/`. Email draft: `Application_Email.md`.
+
+Included:
+1. CV (no photo yet)
+2. Cover letter
+3. Research statement
+4. Teaching statement
+6. Job market paper and the search-cost working paper (two papers, not three)
+8. Expected-graduation confirmation (degree not yet awarded)
+
+Not included:
+5. Three recommendation letters (writers email them)
+7. Identification document
+- Recent color ID photo on the CV
+- A third representative paper
