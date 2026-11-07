@@ -30,5 +30,16 @@ Start Fall Semester 2027. PhD by employment. Teach undergraduate and graduate co
 - Research papers
 - Teaching evaluations
 
+Email `Cover_Letter_and_CV_HSU_Ke_Cheng_NCU.pdf` with the subject `Faculty Position Application for NCU Economics`. Upload the other files on JOE.
+
+Files in `Application_Package/`:
+- `Cover_Letter_and_CV_HSU_Ke_Cheng_NCU.pdf`
+- `Cover_Letter_HSU_Ke_Cheng_NCU.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
+- `Transcript.pdf`
+- `Teaching_Evaluations.pdf`
+
 ## Recommendation letters
 Three letters of recommendation. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
