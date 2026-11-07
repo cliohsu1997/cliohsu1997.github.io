@@ -26,5 +26,13 @@ Start August 2027. All fields welcome; all ranks. Ph.D. requirements completed b
 - Transcripts
 - Teaching evaluations
 
+JOE asks for separate uploads, not one file in a set order. Files in `Application_Package/`:
+- `Cover_Letter_HSU_Ke_Cheng_NTHU.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
+- `Transcript.pdf`
+- `Teaching_Evaluations.pdf`
+
 ## Recommendation letters
-Letters of reference (via JOE). Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
+Three letters of reference, submitted by the writers through JOE. Not on the email tracker.

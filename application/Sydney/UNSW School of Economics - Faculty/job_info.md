@@ -26,5 +26,10 @@ Any area of economics. Ph.D. completed or near completion; strong research abili
 - CV
 - Research paper (JMP)
 
+Prepared package (EJM upload): `Application_Package/`
+1. `01_Letter_of_Application_HSU_Ke_Cheng_UNSW.pdf`
+2. `02_CV_HSU_Ke_Cheng.pdf`
+3. `03_JMP_HSU_Ke_Cheng.pdf`
+
 ## Recommendation letters
-Three letters of reference (via EJM). Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
+Three letters of reference, submitted by the writers through EJM. Not on the email tracker.

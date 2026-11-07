@@ -30,5 +30,16 @@ Finance (also insurance-related fields). Ph.D. in finance, economics, actuarial 
 - Teaching statement (optional on EJM)
 - Additional paper / other material (optional on EJM)
 
+The EJM form requires the research statement. The ad text asks for teaching evaluations only if applicable. The teaching statement is optional and is not in the package.
+
+EJM asks for separate uploads, not one file in a set order. Files in `Application_Package/`:
+- `Cover_Letter_HSU_Ke_Cheng_SUFE_Finance.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
+- `Research_Statement_HSU_Ke_Cheng.pdf`
+- `Teaching_Evaluations.pdf`
+- `Transcript.pdf`
+
 ## Recommendation letters
 Three recommendation letters via **EJM**. Not email-to-school — not added to the email-only `recommendation_letters_to_send` tracker.
