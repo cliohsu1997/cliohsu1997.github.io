@@ -28,5 +28,13 @@ Full-time academic (permanent / tenure-track / tenured). Strong candidates in al
 - Research papers
 - Transcripts (optional)
 
+Files in `Application_Package/`:
+- `Cover_Letter_HSU_Ke_Cheng_DUFE_IAER.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
+- `Teaching_Evaluations.pdf`
+- `Transcript.pdf`
+
 ## Recommendation letters
-Three letters of recommendation for Assistant Professor rank (via JOE). Associate/Full: names and contact information of at least three references. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
+Three letters of recommendation for Assistant Professor rank (via JOE). Associate/Full: names and contact information of at least three references. Writers submit on JOE, so this job is not on the email tracker.

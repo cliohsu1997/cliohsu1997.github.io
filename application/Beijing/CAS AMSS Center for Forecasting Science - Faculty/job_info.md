@@ -29,5 +29,15 @@ Any field. Named areas include data science, forecasting science, economics, fin
 - Research proposal for work at the Center
 - Cover letter, job market paper, and transcripts (listed on the JOE requirements box)
 
+Two finished paper PDFs are available. A third sample paper is not. The research statement is the general statement, not a proposal written for the Center.
+
+Files in `Application_Package/`:
+- `Cover_Letter_HSU_Ke_Cheng_CAS_AMSS.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
+- `Research_Statement_HSU_Ke_Cheng.pdf`
+- `Transcript.pdf`
+
 ## Recommendation letters
 Three reference letters, emailed by the writers to [cefs@amss.ac.cn](mailto:cefs@amss.ac.cn) before **2026-12-31**. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.

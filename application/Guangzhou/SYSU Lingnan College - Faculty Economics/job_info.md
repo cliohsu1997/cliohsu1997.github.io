@@ -30,5 +30,13 @@ Fields include digital economics, political economy, finance, environmental econ
 - Job market paper(s)
 - Evidence of teaching effectiveness (if any)
 
+The Assistant Professor rank asks for at least three high-quality journal articles, and the postdoc rank asks for at least one. There are no journal publications. The letter applies at Assistant Professor and says so.
+
+Files in `Application_Package/`:
+- `Cover_Letter_HSU_Ke_Cheng_SYSU_Lingnan.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Teaching_Evaluations.pdf`
+
 ## Recommendation letters
 Three letters of reference via **JOE** (writers submit on JOE). Not email-to-school — not added to the email-only `recommendation_letters_to_send` tracker.
