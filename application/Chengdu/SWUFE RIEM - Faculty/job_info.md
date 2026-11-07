@@ -26,5 +26,16 @@ Any field. Most or all teaching in English. Competitive compensation with resear
 - CV
 - Research samples (published or working papers)
 
+Prepared package (email): `Application_Package/`
+1. `01_Cover_Letter_HSU_Ke_Cheng_SWUFE_RIEM.pdf`
+2. `02_CV_HSU_Ke_Cheng.pdf`
+3. `03_JMP_HSU_Ke_Cheng.pdf`
+4. `04_Product_Design_with_Heterogeneous_Search_Costs.pdf`
+
+Email draft: `Application_Email.md`.
+
 ## Recommendation letters
-Three recommendation letters to **recruit@swufe.edu.cn**. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
+Three recommendation letters to **recruit@swufe.edu.cn**. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`. Subject: `Recommendation Letters for Ke Cheng HSU — Tenure-track / Tenured Faculty`.
+
+## Status
+Applicant materials complete (ready to email). Letters pending / to send.
