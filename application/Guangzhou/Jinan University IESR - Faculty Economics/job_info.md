@@ -27,6 +27,12 @@ Multiple tenure-track positions. Especially applied microeconomics. PhD by Augus
 - Job market paper
 - Research statement
 
+Files in `Application_Package/`:
+- `Cover_Letter_HSU_Ke_Cheng_IESR.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Research_Statement_HSU_Ke_Cheng.pdf`
+
 ## Recommendation letters
 Three reference letters submitted directly by referees. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
 
