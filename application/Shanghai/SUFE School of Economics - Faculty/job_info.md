@@ -29,5 +29,12 @@ Fields: Microeconomics (including Behavioral and Experimental), Macroeconomics, 
 - Job market paper
 - Other working papers
 
+Files in `Application_Package/`:
+- `Cover_Letter_HSU_Ke_Cheng_SUFE_Economics.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
+- `Teaching_Evaluations.pdf`
+
 ## Recommendation letters
 Three letters of reference (upload on system; if sent separately, email **soerecruit@mail.shufe.edu.cn**). Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
