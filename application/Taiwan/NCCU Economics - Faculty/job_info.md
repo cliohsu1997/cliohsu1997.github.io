@@ -30,5 +30,16 @@ Start **2027-08-01**. All fields welcome; preference for Assistant or Associate 
 - List of publications
 - Sample syllabi for 2–4 courses
 
+The cover letter applies at the Assistant Professor rank. There is no doctoral diploma. Sample syllabi for 2–4 courses are not in the folder yet.
+
+Email takes separate files. Files in `Application_Package/`:
+- `Cover_Letter_HSU_Ke_Cheng_NCCU.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
+- `Publication_List_HSU_Ke_Cheng.pdf`
+- `Transcript.pdf`
+- `Expected_Graduation_Confirmation.pdf`
+
 ## Recommendation letters
 Three letters of recommendation — email to **econ@nccu.edu.tw**. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
