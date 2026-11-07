@@ -29,5 +29,7 @@ Up to three full-time faculty positions. Field open; priority to international t
 - Research papers
 - Transcripts
 
+`Application_Package/` holds the upload set: cover letter, CV, the full job market paper, the Pak Hung Au working paper, and the unofficial transcript. The official transcript is not yet available.
+
 ## Recommendation letters
-Letters of reference (via JOE). Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
+Three letters of reference, submitted by the writers through JOE. Not on the email tracker.
