@@ -24,5 +24,10 @@ Start September 2027. Particular interest in Applied Microeconomics, Industrial 
 - CV
 - Job market paper
 
+Files in `Application_Package/`:
+- `Cover_Letter_HSU_Ke_Cheng_SUFE_COB.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+
 ## Recommendation letters
-Three recommendation letters (via JOE). Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
+Three recommendation letters (via JOE). Writers submit on JOE, so this job is not on the email tracker.

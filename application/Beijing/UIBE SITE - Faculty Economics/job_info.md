@@ -29,5 +29,13 @@ Tenure-track faculty; all fields of economics welcome. Preferred areas include i
 - Teaching evaluations
 - Other materials supporting research and teaching ability
 
+Files in `Application_Package/`:
+- `Cover_Letter_HSU_Ke_Cheng_UIBE_SITE.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
+- `Transcript.pdf`
+- `Teaching_Evaluations.pdf`
+
 ## Recommendation letters
 Letters of reference via **JOE** (writers submit on JOE). Not email-to-school — not added to the email-only `recommendation_letters_to_send` tracker.

@@ -29,5 +29,15 @@ The application instructions ask for:
 
 The listing body also mentions research and teaching statements and available teaching evaluations.
 
+The posting does not ask for a cover letter. Email subject: `Ke Cheng HSU + Digital Economics + Assistant Professor`. See `Application_Email.md`.
+
+Files in `Application_Package/`:
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
+- `Research_Statement_HSU_Ke_Cheng.pdf`
+- `Teaching_Statement_HSU_Ke_Cheng.pdf`
+- `Teaching_Evaluations.pdf`
+
 ## Recommendation letters
 Three reference letters to **jjxy@zuel.edu.cn** (included with the emailed package or sent to that address). Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`. Deadline **2026-12-10**.

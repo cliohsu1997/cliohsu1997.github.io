@@ -28,5 +28,14 @@ The JOE text omits the reference letters. The careers page, which is the applica
 - Responses to the Key Selection Criteria
 - Three reference letters, uploaded with the application
 
+The criteria answered in the responses are the five bullets under “To be successful” on the careers page. The position-description PDFs are the generic Level B and Level C templates. The application is written for Lecturer (Level B).
+
+Files in `Application_Package/`:
+- `Cover_Letter_HSU_Ke_Cheng_Deakin.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `Key_Selection_Criteria_HSU_Ke_Cheng_Deakin.pdf`
+
+The three reference-letter PDFs are not in the package. The applicant uploads them on the careers form.
+
 ## Recommendation letters
 Three reference letters, submitted by the applicant on the careers portal. Writers do not email the school, so this job is not on `recommendation_letters_to_send`.

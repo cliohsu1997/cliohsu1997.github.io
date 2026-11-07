@@ -31,6 +31,17 @@ Applied microeconometrics, empirical IO, applied microeconomics. Teach quantitat
 - Ph.D. dissertation or job market paper
 - Recent publications or working papers
 
+There is no doctoral diploma. The package uses the transcript and the expected-graduation confirmation. Email subject must be `Application for Faculty Position at the Graduate Institute of Industrial Economics in NCU`. See `Application_Email.md`.
+
+Files in `Application_Package/`:
+- `Cover_Letter_and_CV_HSU_Ke_Cheng_NCU_IE.pdf` (the single PDF to email)
+- `Cover_Letter_HSU_Ke_Cheng_NCU_IE.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
+- `Transcript.pdf`
+- `Expected_Graduation_Confirmation.pdf`
+
 ## Recommendation letters
 Three reference letters — email to **ncu6450@ncu.edu.tw**. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
 
