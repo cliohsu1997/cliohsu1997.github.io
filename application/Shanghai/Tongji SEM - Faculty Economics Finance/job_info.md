@@ -27,5 +27,15 @@ All areas of finance and economics; particular focus on big data and artificial 
 - Research statement
 - Recent teaching evaluations (if available)
 
+Email subject: `Hsu, Ke Cheng + Digital Economics + Assistant Professor`. Draft: `Application_Email.md`.
+
+Email takes separate files. Files in `Application_Package/`:
+- `Cover_Letter_HSU_Ke_Cheng_Tongji.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
+- `Research_Statement_HSU_Ke_Cheng.pdf`
+- `Teaching_Evaluations.pdf`
+
 ## Recommendation letters
 Three letters of recommendation — send directly to **semhr@tongji.edu.cn**. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
