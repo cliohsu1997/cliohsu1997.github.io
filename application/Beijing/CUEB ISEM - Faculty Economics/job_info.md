@@ -33,5 +33,13 @@ PhD required by September 2027. Online interviews planned for December. Salary r
 - CV
 - Samples of written work
 
+The cover letter names Group 1, with subfields Industrial Organization, Information Economics, and Digital Economics.
+
+Email takes separate files, not one ordered package. Files in `Application_Package/`:
+- `Cover_Letter_HSU_Ke_Cheng_CUEB_ISEM.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
+
 ## Recommendation letters
 Two reference letters — email to **hr_isem@163.com** (tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`).
