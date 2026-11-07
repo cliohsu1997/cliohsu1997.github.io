@@ -32,5 +32,13 @@ Start September 2027. Any field; preferred specializations include econometrics,
 - Teaching evaluations / evidence of teaching effectiveness
 - Transcripts
 
+Also register at the Chow online form. Files in `Application_Package/`:
+- `Cover_Letter_HSU_Ke_Cheng_XMU_Chow.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
+- `Teaching_Evaluations.pdf`
+- `Transcript.pdf`
+
 ## Recommendation letters
 Three reference letters to **chow.recruit@xmu.edu.cn** by **2026-11-30**. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
