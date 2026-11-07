@@ -26,5 +26,12 @@ Economics, finance, statistics, data science, and related mathematics/CS with ap
 - Job market paper or other representative research paper, plus selected publications (if any)
 - Other relevant supplementary materials (optional)
 
+Email subject: `Application - Ke Cheng HSU - Digital Economics - Assistant Professor`. Draft: `Application_Email.md`.
+
+Files in `Application_Package/`:
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
+
 ## Recommendation letters
 Three reference letters — sent directly by referees to **wls@zuel.edu.cn** by **2026-12-01**; subject line must include applicant’s full name. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
