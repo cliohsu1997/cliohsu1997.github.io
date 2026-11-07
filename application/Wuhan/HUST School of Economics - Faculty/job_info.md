@@ -30,5 +30,14 @@ Full-time tenure-track faculty at all ranks. PhD in Economics, Finance, Manageme
 - Teaching statement
 - Research statement
 
+JOE takes separate uploads, not one ordered package. Files in `Application_Package/`:
+- `Cover_Letter_HSU_Ke_Cheng_HUST.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
+- `Research_Statement_HSU_Ke_Cheng.pdf`
+- `Teaching_Statement_HSU_Ke_Cheng.pdf`
+- `Teaching_Evaluations.pdf`
+
 ## Recommendation letters
-Three reference letters via JOE; if letters cannot be submitted via JOE, send to **eco_hust@163.com**. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
+Three reference letters via JOE; if letters cannot be submitted via JOE, send to **eco_hust@163.com**. Not on the email tracker unless the writers email them.
