@@ -12,9 +12,10 @@ Shanghai, China
 ## How to apply
 Email one package to **hrfdms@fudan.edu.cn**.
 
-Subject (required): `FDSM Faculty Application 2026- Applied Economics (CICE)`
+Subject (required, from JOE): `FDSM Faculty Application 2026-Applied Economics (AEA)`
 
-Finance track, if used later: `FDSM Faculty Application 2026- Finance (CICE)`
+Finance track, if used later: `FDSM Faculty Application 2026-Finance (AEA)`  
+(CICE/SSRN mirrors may use `(CICE)` / `(SSRN)` instead of `(AEA)`.)
 
 ## Link / email
 - CICE: [http://www.cicecon.org.cn/careers/detail.html?k=E153FEE8CC8E11B5](http://www.cicecon.org.cn/careers/detail.html?k=E153FEE8CC8E11B5)
@@ -39,4 +40,4 @@ Files in `Application_Package_HSU_Ke_Cheng_FDSM/`:
 - `Teaching_Evaluations.pdf`
 
 ## Recommendation letters
-Three letters can be sent later, in separate emails, directly to **hrfdms@fudan.edu.cn**. The posting requires the subject `FDSM Faculty Application 2026- Applied Economics (CICE)` for the **applicant** package only; it does not set a letter subject. Letter emails use a subject with name and position. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`. Subject in the Excel file: `Recommendation Letters for Ke Cheng HSU — Assistant Professor`.
+Three letters can be sent later, in separate emails, directly to **hrfdms@fudan.edu.cn**. The posting requires the subject `FDSM Faculty Application 2026-Applied Economics (AEA)` for the **applicant** package only; it does not set a letter subject. Letter emails use a subject with name and position. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`. Subject in the Excel file: `Recommendation Letters for Ke Cheng HSU — Assistant Professor`.

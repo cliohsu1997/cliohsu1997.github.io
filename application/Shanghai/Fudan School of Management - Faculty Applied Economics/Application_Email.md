@@ -1,7 +1,7 @@
 # Application email — Fudan University, School of Management
 
 **To:** hrfdms@fudan.edu.cn
-**Subject:** FDSM Faculty Application 2026- Applied Economics (CICE)
+**Subject:** FDSM Faculty Application 2026-Applied Economics (AEA)
 
 ---
 
