@@ -26,7 +26,7 @@ Donghua University (MOE “211” / Double First-Class). GSSEM keywords on JOE: 
 
 **Email mirror (AAA-style):** personal CV and future research plan (1–2 pages); two representative papers; academic CV of the doctoral advisor; doctoral dissertation draft if available; two recommendation letters — typically as one combined PDF.
 
-The drafted cover letter / `Application_Package_HSU_Ke_Cheng_Donghua/` includes: cover letter; CV; JMP; second paper; research statement (with future agenda); teaching statement; teaching evaluations; and (when available) academic CVs of Pak Hung Au and Kohei Kawaguchi.
+The drafted cover letter / `Application_Package_HSU_Ke_Cheng_Donghua/` includes: cover letter; CV; JMP; second paper; research statement (with future agenda); and academic CVs of Pak Hung Au and Kohei Kawaguchi.
 
 ## Recommendation letters
 Pak Hung Au, Kohei Kawaguchi, and Kei Kawai email three letters directly to [zhoulili@dhu.edu.cn](mailto:zhoulili@dhu.edu.cn).  
