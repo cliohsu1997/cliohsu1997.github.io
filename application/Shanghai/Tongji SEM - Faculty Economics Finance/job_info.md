@@ -38,4 +38,4 @@ Email takes separate files. Files in `Application_Package_HSU_Ke_Cheng_Tongji/`:
 - `Teaching_Evaluations.pdf`
 
 ## Recommendation letters
-Three letters of recommendation — send directly to **semhr@tongji.edu.cn**. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
+Three letters of recommendation — send directly to **semhr@tongji.edu.cn**. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`. Subject in the Excel file (same shared inbox): `Hsu, Ke Cheng + Digital Economics + Assistant Professor`.

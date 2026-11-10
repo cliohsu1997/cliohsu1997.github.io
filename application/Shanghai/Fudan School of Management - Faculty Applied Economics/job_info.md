@@ -39,4 +39,4 @@ Files in `Application_Package_HSU_Ke_Cheng_FDSM/`:
 - `Teaching_Evaluations.pdf`
 
 ## Recommendation letters
-Three letters can be sent later, in separate emails, directly to **hrfdms@fudan.edu.cn**. The posting does not set a letter subject. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`. Subject in the Excel file: `Recommendation Letters for Ke Cheng HSU — Assistant Professor`.
+Three letters can be sent later, in separate emails, directly to **hrfdms@fudan.edu.cn**. The posting requires the subject `FDSM Faculty Application 2026- Applied Economics (CICE)` for the **applicant** package only; it does not set a letter subject. Letter emails use a subject with name and position. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`. Subject in the Excel file: `Recommendation Letters for Ke Cheng HSU — Assistant Professor`.

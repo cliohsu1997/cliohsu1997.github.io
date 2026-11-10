@@ -43,7 +43,7 @@ Files in `Application_Package_HSU_Ke_Cheng_NCU_IE/`:
 - `Expected_Graduation_Confirmation.pdf`
 
 ## Recommendation letters
-Three reference letters — email to **ncu6450@ncu.edu.tw**. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
+Three reference letters — email to **ncu6450@ncu.edu.tw**. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`. Subject in the Excel file (same shared inbox as the cover-letter+CV email): `Application for Faculty Position at the Graduate Institute of Industrial Economics in NCU`.
 
 ## Related posting
 Separate NCU Department of Economics faculty search: JOE `2026-02_111477598` (`Taoyuan/NCU Economics - Faculty/`).

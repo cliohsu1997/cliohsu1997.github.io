@@ -40,4 +40,4 @@ Files in `Application_Package_HSU_Ke_Cheng_ZUEL_Economics/`:
 - `Teaching_Evaluations.pdf`
 
 ## Recommendation letters
-Three reference letters to **jjxy@zuel.edu.cn** (included with the emailed package or sent to that address). Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`. Deadline **2026-12-10**.
+Three reference letters to **jjxy@zuel.edu.cn** (included with the emailed package or sent to that address). Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`. Deadline **2026-12-10**. Subject in the Excel file (same shared inbox): `Ke Cheng HSU + Digital Economics + Assistant Professor`.
