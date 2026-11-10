@@ -1,7 +1,7 @@
 # Donghua University — Glorious Sun School of Economics and Management (GSSEM)
 
 ## Position
-Faculty Recruitment (full-time academic; permanent / tenure-track / tenured). Cover letter targets tenure-track Lecturer in Industrial Economics.
+Faculty Recruitment (full-time academic; permanent / tenure-track / tenured). Cover letter targets tenure-track Assistant Professor in Industrial Economics.
 
 ## Location
 Shanghai, China
@@ -28,10 +28,12 @@ Donghua University (MOE “211” / Double First-Class). GSSEM keywords on JOE: 
 
 The drafted cover letter / `Application_Package_HSU_Ke_Cheng_Donghua/` includes: cover letter; CV; JMP; second paper; research statement (with future agenda); and academic CVs of Pak Hung Au and Kohei Kawaguchi.
 
+Email draft: `Application_Email.md`.
+
 ## Recommendation letters
 Pak Hung Au, Kohei Kawaguchi, and Kei Kawai email three letters directly to [zhoulili@dhu.edu.cn](mailto:zhoulili@dhu.edu.cn).  
 Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf` (Status: To send).
 
 **Letter email subject:** the JD does not require a subject for recommendation letters. Excel uses the default  
-`Recommendation Letters for Ke Cheng HSU — Lecturer (Industrial Economics)`.  
+`Recommendation Letters for Ke Cheng HSU — Assistant Professor (Industrial Economics)`.  
 (The AAA/AOM “Name + School + Position + AAA/AOM” rule is for the applicant’s combined PDF filename, not for letters. The Chinese school page subject `毕业院校+姓名+专业+预计到岗时间` is for the applicant email.)
