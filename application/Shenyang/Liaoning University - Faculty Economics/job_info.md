@@ -29,7 +29,7 @@ National “211 Project” university; Applied Economics in “Double First Clas
 - Job market paper
 - Research papers (JOE requirements also list research papers)
 
-Files in `Application_Package/`:
+Files in `Application_Package_HSU_Ke_Cheng_Liaoning/`:
 - `Cover_Letter_HSU_Ke_Cheng_Liaoning.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`

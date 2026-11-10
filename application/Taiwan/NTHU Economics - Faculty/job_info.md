@@ -26,7 +26,7 @@ Start August 2027. All fields welcome; all ranks. Ph.D. requirements completed b
 - Transcripts
 - Teaching evaluations
 
-JOE asks for separate uploads, not one file in a set order. Files in `Application_Package/`:
+JOE asks for separate uploads, not one file in a set order. Files in `Application_Package_HSU_Ke_Cheng_NTHU/`:
 - `Cover_Letter_HSU_Ke_Cheng_NTHU.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`

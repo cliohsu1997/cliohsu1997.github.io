@@ -31,7 +31,7 @@ Any field. Named areas include data science, forecasting science, economics, fin
 
 Two finished paper PDFs are available. A third sample paper is not. The research statement is the general statement, not a proposal written for the Center.
 
-Files in `Application_Package/`:
+Files in `Application_Package_HSU_Ke_Cheng_CAS_AMSS/`:
 - `Cover_Letter_HSU_Ke_Cheng_CAS_AMSS.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`

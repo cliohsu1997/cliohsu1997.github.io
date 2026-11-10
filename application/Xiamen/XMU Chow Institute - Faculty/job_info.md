@@ -32,7 +32,7 @@ Start September 2027. Any field; preferred specializations include econometrics,
 - Teaching evaluations / evidence of teaching effectiveness
 - Transcripts
 
-Also register at the Chow online form. Files in `Application_Package/`:
+Also register at the Chow online form. Files in `Application_Package_HSU_Ke_Cheng_XMU_Chow/`:
 - `Cover_Letter_HSU_Ke_Cheng_XMU_Chow.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`

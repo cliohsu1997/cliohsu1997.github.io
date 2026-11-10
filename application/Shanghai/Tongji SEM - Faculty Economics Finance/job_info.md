@@ -29,7 +29,7 @@ All areas of finance and economics; particular focus on big data and artificial 
 
 Email subject: `Hsu, Ke Cheng + Digital Economics + Assistant Professor`. Draft: `Application_Email.md`.
 
-Email takes separate files. Files in `Application_Package/`:
+Email takes separate files. Files in `Application_Package_HSU_Ke_Cheng_Tongji/`:
 - `Cover_Letter_HSU_Ke_Cheng_Tongji.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`

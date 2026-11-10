@@ -26,7 +26,7 @@ Start **August 2027**. Teach and develop modules in Finance, Economics, Real Est
 ## Applicant materials
 The official page does not list documents. The portal is the application. The list status remains **Not now**.
 
-Files in `Application_Package/`:
+Files in `Application_Package_HSU_Ke_Cheng_HSUHK/`:
 - `Cover_Letter_HSU_Ke_Cheng_HSUHK.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`

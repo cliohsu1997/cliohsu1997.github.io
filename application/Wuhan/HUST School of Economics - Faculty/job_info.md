@@ -30,7 +30,7 @@ Full-time tenure-track faculty at all ranks. PhD in Economics, Finance, Manageme
 - Teaching statement
 - Research statement
 
-JOE takes separate uploads, not one ordered package. Files in `Application_Package/`:
+JOE takes separate uploads, not one ordered package. Files in `Application_Package_HSU_Ke_Cheng_HUST/`:
 - `Cover_Letter_HSU_Ke_Cheng_HUST.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`

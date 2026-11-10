@@ -31,7 +31,7 @@ The listing body also mentions research and teaching statements and available te
 
 The posting does not ask for a cover letter. Email subject: `Ke Cheng HSU + Digital Economics + Assistant Professor`. See `Application_Email.md`.
 
-Files in `Application_Package/`:
+Files in `Application_Package_HSU_Ke_Cheng_ZUEL_Economics/`:
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`
 - `Product_Design_with_Heterogeneous_Search_Costs.pdf`

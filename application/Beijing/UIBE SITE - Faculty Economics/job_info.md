@@ -29,7 +29,7 @@ Tenure-track faculty; all fields of economics welcome. Preferred areas include i
 - Teaching evaluations
 - Other materials supporting research and teaching ability
 
-Files in `Application_Package/`:
+Files in `Application_Package_HSU_Ke_Cheng_UIBE_SITE/`:
 - `Cover_Letter_HSU_Ke_Cheng_UIBE_SITE.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`

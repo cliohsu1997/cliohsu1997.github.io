@@ -28,7 +28,7 @@ All fields welcome. Priority areas: applied microeconomics (labor, public, educa
 
 See `Application_Email.md`.
 
-Files in `Application_Package/`:
+Files in `Application_Package_HSU_Ke_Cheng_Tsinghua_SEM/`:
 - `Cover_Letter_HSU_Ke_Cheng_Tsinghua_SEM.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`

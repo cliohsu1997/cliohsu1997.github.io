@@ -28,7 +28,7 @@ Tenure-track positions at all ranks. PhD (or firm expectation) by August 2027. C
 - Teaching evaluations
 - Transcripts
 
-Files in `Application_Package/`:
+Files in `Application_Package_HSU_Ke_Cheng_Hunan_SET/`:
 - `Cover_Letter_HSU_Ke_Cheng_Hunan_SET.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`

@@ -32,7 +32,7 @@ Start Fall Semester 2027. PhD by employment. Teach undergraduate and graduate co
 
 Email `Cover_Letter_and_CV_HSU_Ke_Cheng_NCU.pdf` with the subject `Faculty Position Application for NCU Economics`. Upload the other files on JOE.
 
-Files in `Application_Package/`:
+Files in `Application_Package_HSU_Ke_Cheng_NCU/`:
 - `Cover_Letter_and_CV_HSU_Ke_Cheng_NCU.pdf`
 - `Cover_Letter_HSU_Ke_Cheng_NCU.pdf`
 - `CV_HSU_Ke_Cheng.pdf`

@@ -26,7 +26,7 @@ Any field. Most or all teaching in English. Competitive compensation with resear
 - CV
 - Research samples (published or working papers)
 
-Prepared package (email): `Application_Package/`
+Prepared package (email): `Application_Package_HSU_Ke_Cheng_SWUFE_RIEM/`
 1. `01_Cover_Letter_HSU_Ke_Cheng_SWUFE_RIEM.pdf`
 2. `02_CV_HSU_Ke_Cheng.pdf`
 3. `03_JMP_HSU_Ke_Cheng.pdf`

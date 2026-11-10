@@ -24,7 +24,7 @@ Start September 2027. Particular interest in Applied Microeconomics, Industrial 
 - CV
 - Job market paper
 
-Files in `Application_Package/`:
+Files in `Application_Package_HSU_Ke_Cheng_SUFE_COB/`:
 - `Cover_Letter_HSU_Ke_Cheng_SUFE_COB.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`

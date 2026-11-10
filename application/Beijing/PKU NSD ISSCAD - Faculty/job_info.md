@@ -30,7 +30,7 @@ Upload on JOE:
 - Teaching evaluations
 - Three recommendation letters, sent by the writers
 
-Files in `Application_Package/`:
+Files in `Application_Package_HSU_Ke_Cheng_PKU_NSD/`:
 - `Cover_Letter_HSU_Ke_Cheng_PKU_NSD.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`

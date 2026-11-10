@@ -32,7 +32,7 @@ Fields include digital economics, political economy, finance, environmental econ
 
 The Assistant Professor rank asks for at least three high-quality journal articles, and the postdoc rank asks for at least one. There are no journal publications. The letter applies at Assistant Professor and says so.
 
-Files in `Application_Package/`:
+Files in `Application_Package_HSU_Ke_Cheng_SYSU_Lingnan/`:
 - `Cover_Letter_HSU_Ke_Cheng_SYSU_Lingnan.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`

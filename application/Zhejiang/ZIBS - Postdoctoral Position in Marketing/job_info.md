@@ -34,7 +34,7 @@ Three recommendation letters (listed among email PDF materials to **zibs-hr@intl
 
 ## Application materials
 
-Package: `Application_Package/`. Email draft: `Application_Email.md`.
+Package: `Application_Package_HSU_Ke_Cheng_ZIBS/`. Email draft: `Application_Email.md`.
 
 Included:
 1. CV (no photo yet)

@@ -30,7 +30,7 @@ Research areas named on the post include digital-era innovation economics, indus
 - CV
 - Representative work and related academic evidence
 
-Files in `Application_Package/`:
+Files in `Application_Package_HSU_Ke_Cheng_NJU/`:
 - `許可證-特任研究系列-香港科技大学-简历.pdf`
 - `許可證-特任研究系列-香港科技大学-求职信.pdf`
 - `許可證-特任研究系列-香港科技大学-代表作.pdf`

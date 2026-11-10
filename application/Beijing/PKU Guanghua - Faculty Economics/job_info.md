@@ -29,7 +29,7 @@ All fields of economics. Ph.D. in economics or a related field by appointment. C
 - One research writing sample
 - Three recommendation letters
 
-Files in `Application_Package/`:
+Files in `Application_Package_HSU_Ke_Cheng_PKU_Guanghua/`:
 - `Cover_Letter_HSU_Ke_Cheng_PKU_Guanghua.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `Teaching_Statement_HSU_Ke_Cheng.pdf`

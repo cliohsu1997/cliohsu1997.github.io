@@ -32,7 +32,7 @@ Finance (also insurance-related fields). Ph.D. in finance, economics, actuarial 
 
 The EJM form requires the research statement. The ad text asks for teaching evaluations only if applicable. The teaching statement is optional and is not in the package.
 
-EJM asks for separate uploads, not one file in a set order. Files in `Application_Package/`:
+EJM asks for separate uploads, not one file in a set order. Files in `Application_Package_HSU_Ke_Cheng_SUFE_Finance/`:
 - `Cover_Letter_HSU_Ke_Cheng_SUFE_Finance.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`

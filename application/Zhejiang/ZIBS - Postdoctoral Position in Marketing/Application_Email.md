@@ -5,7 +5,7 @@
 **Note in the email:** source platform jobs.ac.uk  
 **Deadline:** 15 December 2026 (open until filled)
 
-**Attach from:** `application/Zhejiang/ZIBS - Postdoctoral Position in Marketing/Application_Package/`
+**Attach from:** `application/Zhejiang/ZIBS - Postdoctoral Position in Marketing/Application_Package_HSU_Ke_Cheng_ZIBS/`
 
 ---
 

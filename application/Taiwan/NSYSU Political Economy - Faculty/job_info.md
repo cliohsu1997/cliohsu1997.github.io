@@ -29,7 +29,7 @@ Two full-time faculty positions. Ph.D. in Economics, Political Economy, Politica
 
 There is no doctoral diploma. The package uses the expected-graduation confirmation. See `Application_Email.md`.
 
-Files in `Application_Package/`:
+Files in `Application_Package_HSU_Ke_Cheng_NSYSU/`:
 - `Cover_Letter_HSU_Ke_Cheng_NSYSU.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `Research_Statement_HSU_Ke_Cheng.pdf`

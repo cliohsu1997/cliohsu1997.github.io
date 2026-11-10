@@ -3,7 +3,7 @@
 **To:** faculty.search@c2c.ac.jp  
 **Subject:** Application for Lecturer Position in Economics and Finance — Ke Cheng HSU (JREC-IN D126101270)
 
-**Attach from:** `application/Japan/Yamanashi Gakuin University/Application_Package_HSU_Ke_Cheng/`
+**Attach from:** `application/Japan/Yamanashi Gakuin University/Application_Package_HSU_Ke_Cheng_Yamanashi_iCLA/`
 
 ---
 

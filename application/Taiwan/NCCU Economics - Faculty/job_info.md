@@ -32,7 +32,7 @@ Start **2027-08-01**. All fields welcome; preference for Assistant or Associate 
 
 The cover letter applies at the Assistant Professor rank. There is no doctoral diploma. Five sample syllabi are in `syllabi/`. The package includes four, which is the posting's upper limit.
 
-Email takes separate files. Files in `Application_Package/`:
+Email takes separate files. Files in `Application_Package_HSU_Ke_Cheng_NCCU/`:
 - `Cover_Letter_HSU_Ke_Cheng_NCCU.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`

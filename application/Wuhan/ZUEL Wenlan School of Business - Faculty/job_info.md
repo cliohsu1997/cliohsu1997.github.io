@@ -28,7 +28,7 @@ Economics, finance, statistics, data science, and related mathematics/CS with ap
 
 Email subject: `Application - Ke Cheng HSU - Digital Economics - Assistant Professor`. Draft: `Application_Email.md`.
 
-Files in `Application_Package/`:
+Files in `Application_Package_HSU_Ke_Cheng_ZUEL_Wenlan/`:
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`
 - `Product_Design_with_Heterogeneous_Search_Costs.pdf`

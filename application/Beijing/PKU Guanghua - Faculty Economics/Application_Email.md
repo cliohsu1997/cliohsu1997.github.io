@@ -2,7 +2,7 @@
 
 To: recruitment@gsm.pku.edu.cn
 
-Attach the files in `Application_Package/`.
+Attach the files in `Application_Package_HSU_Ke_Cheng_PKU_Guanghua/`.
 
 Three letters from Pak Hung Au, Kohei Kawaguchi, and Kei Kawai go to the same address. Suggested subject for those letters: `Recommendation Letters for Ke Cheng HSU — Assistant Professor`.
 

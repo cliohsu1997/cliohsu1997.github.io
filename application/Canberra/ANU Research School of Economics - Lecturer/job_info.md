@@ -28,7 +28,7 @@ Prefer econometrics or empirical economic research; any field considered. Tenure
 - Video presentation of JMP (optional)
 - Additional paper(s) / other material (optional)
 
-There is no JMP video. Files in `Application_Package/`:
+There is no JMP video. Files in `Application_Package_HSU_Ke_Cheng_ANU/`:
 - `Cover_Letter_HSU_Ke_Cheng_ANU.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`

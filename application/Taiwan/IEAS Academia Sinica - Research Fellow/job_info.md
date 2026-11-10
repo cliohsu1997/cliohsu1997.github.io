@@ -25,7 +25,7 @@ Research-focused faculty positions starting Summer 2027. No teaching obligation.
 - CV
 - Job market paper
 
-JOE takes separate uploads. Files in `Application_Package/`:
+JOE takes separate uploads. Files in `Application_Package_HSU_Ke_Cheng_IEAS/`:
 - `Cover_Letter_HSU_Ke_Cheng_IEAS.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`

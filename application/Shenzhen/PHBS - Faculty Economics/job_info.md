@@ -29,7 +29,7 @@ Upload on Interfolio:
 - Three reference letters, submitted by the writers
 - Evidence of effective teaching
 
-Files in `Application_Package/`:
+Files in `Application_Package_HSU_Ke_Cheng_PHBS/`:
 - `Cover_Letter_HSU_Ke_Cheng_PHBS.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`

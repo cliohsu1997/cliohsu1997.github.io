@@ -29,7 +29,7 @@ All in PDF, uploaded on JOE:
 
 The posting does not ask for a cover letter.
 
-Files in `Application_Package/`:
+Files in `Application_Package_HSU_Ke_Cheng_PKU_SOE/`:
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`
 

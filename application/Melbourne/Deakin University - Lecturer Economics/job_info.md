@@ -30,7 +30,7 @@ The JOE text omits the reference letters. The careers page, which is the applica
 
 The criteria answered in the responses are the five bullets under “To be successful” on the careers page. The position-description PDFs are the generic Level B and Level C templates. The application is written for Lecturer (Level B).
 
-Files in `Application_Package/`:
+Files in `Application_Package_HSU_Ke_Cheng_Deakin/`:
 - `Cover_Letter_HSU_Ke_Cheng_Deakin.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `Key_Selection_Criteria_HSU_Ke_Cheng_Deakin.pdf`

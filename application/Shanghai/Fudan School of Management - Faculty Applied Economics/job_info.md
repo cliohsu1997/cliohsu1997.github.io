@@ -31,7 +31,7 @@ Departments of Applied Economics and Finance. Ph.D. in the relevant field. Assis
 - Samples of published or working papers
 - Evidence of teaching effectiveness (a plus, if available)
 
-Files in `Application_Package/`:
+Files in `Application_Package_HSU_Ke_Cheng_FDSM/`:
 - `Cover_Letter_HSU_Ke_Cheng_FDSM.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`

@@ -29,7 +29,7 @@ Fields: Microeconomics (including Behavioral and Experimental), Macroeconomics, 
 - Job market paper
 - Other working papers
 
-Files in `Application_Package/`:
+Files in `Application_Package_HSU_Ke_Cheng_SUFE_Economics/`:
 - `Cover_Letter_HSU_Ke_Cheng_SUFE_Economics.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`

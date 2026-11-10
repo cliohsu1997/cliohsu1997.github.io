@@ -28,7 +28,7 @@ Full-time academic (permanent / tenure-track / tenured). Strong candidates in al
 - Research papers
 - Transcripts (optional)
 
-Files in `Application_Package/`:
+Files in `Application_Package_HSU_Ke_Cheng_DUFE_IAER/`:
 - `Cover_Letter_HSU_Ke_Cheng_DUFE_IAER.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`

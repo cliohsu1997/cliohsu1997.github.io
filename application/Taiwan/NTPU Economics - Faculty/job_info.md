@@ -31,7 +31,7 @@ All fields welcome; particular interest in Macroeconomics, International Economi
 - Application Form for New Faculty Members (download from posting)
 - List of Publications for New Recruitment (download from posting)
 
-Email takes separate files. Files in `Application_Package/`:
+Email takes separate files. Files in `Application_Package_HSU_Ke_Cheng_NTPU/`:
 - `Cover_Letter_HSU_Ke_Cheng_NTPU.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`

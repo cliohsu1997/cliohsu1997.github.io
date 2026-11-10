@@ -28,7 +28,7 @@ Start August 2027. All fields of economics welcome. Ph.D. in economics or a rela
 
 The posting requires the Ph.D. by **2026-12-31**. Expected graduation is June 2027, so there is no doctoral diploma. The package includes the expected-graduation confirmation instead.
 
-JOE asks for separate uploads, not one file in a set order. Files in `Application_Package/`:
+JOE asks for separate uploads, not one file in a set order. Files in `Application_Package_HSU_Ke_Cheng_NCKU/`:
 - `Cover_Letter_HSU_Ke_Cheng_NCKU.pdf` (rank: Assistant Professor)
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`

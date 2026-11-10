@@ -26,7 +26,7 @@ Any area of economics. Ph.D. completed or near completion; strong research abili
 - CV
 - Research paper (JMP)
 
-Prepared package (EJM upload): `Application_Package/`
+Prepared package (EJM upload): `Application_Package_HSU_Ke_Cheng_UNSW/`
 1. `01_Letter_of_Application_HSU_Ke_Cheng_UNSW.pdf`
 2. `02_CV_HSU_Ke_Cheng.pdf`
 3. `03_JMP_HSU_Ke_Cheng.pdf`

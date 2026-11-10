@@ -4,7 +4,7 @@
 **Subject:** Application — Ke Cheng HSU — Tenure-track Faculty (Economics)  
 **Deadline:** 20 November 2026
 
-**Attach from:** `application/Chengdu/SWUFE RIEM - Faculty/Application_Package/`
+**Attach from:** `application/Chengdu/SWUFE RIEM - Faculty/Application_Package_HSU_Ke_Cheng_SWUFE_RIEM/`
 
 ---
 
