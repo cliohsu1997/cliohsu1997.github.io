@@ -25,14 +25,14 @@ Email items 1–4 to **fangru@cier.edu.tw**. See `Application_Email.md`.
 Foreign degrees must be authenticated by an overseas mission before reporting for duty. Not required with the application.
 
 Files in `Application_Package_HSU_Ke_Cheng_CIER/`:
-- `CV_HSU_Ke_Cheng.pdf` (English CV first, Traditional Chinese CV follows in the same file; 6 pages)
+- `履歷表_許可證.pdf` (English CV first, Traditional Chinese CV follows in the same file; 6 pages)
 - `研究興趣與未來研究計畫_許可證.pdf` (English statement first, Traditional Chinese statement follows in the same file; 6 pages)
 - `Publication_List_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`
 - `Expected_Graduation_Confirmation.pdf`
 - `Unofficial_Transcript.pdf`
 
-Sources: English statement `Research_Interests_and_Future_Plans_HSU_Ke_Cheng.tex` (pdflatex), Chinese statement `研究興趣與未來研究計畫_許可證.tex` (xelatex, DFKai-SB), CIER CV `CV_HSU_Ke_Cheng_CIER.tex`, Chinese CV `CV_HSU_Ke_Cheng_zh.tex`. Bilingual package PDFs are built with `mutool merge -o <merged> <english>.pdf <chinese>.pdf` and copied over the package files.
+Sources: English statement `Research_Interests_and_Future_Plans_HSU_Ke_Cheng.tex` (pdflatex), Chinese statement `研究興趣與未來研究計畫_許可證.tex` (xelatex, DFKai-SB), CIER CV `CV_HSU_Ke_Cheng_CIER.tex`, Chinese CV `履歷表_許可證.tex`. Bilingual package PDFs are built with `mutool merge -o <merged> <english>.pdf <chinese>.pdf` and copied over the package files.
 
 ## Fit
 
