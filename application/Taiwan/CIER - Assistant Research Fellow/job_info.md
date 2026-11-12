@@ -26,7 +26,7 @@ Foreign degrees must be authenticated by an overseas mission before reporting fo
 
 Files in `Application_Package_HSU_Ke_Cheng_CIER/`:
 - `CV_HSU_Ke_Cheng.pdf` (English CV first, Traditional Chinese CV follows in the same file; 6 pages)
-- `Research_Interests_and_Future_Plans_HSU_Ke_Cheng.pdf` (English statement first, Traditional Chinese statement follows in the same file; 6 pages)
+- `研究興趣與未來研究計畫_許可證.pdf` (English statement first, Traditional Chinese statement follows in the same file; 6 pages)
 - `Publication_List_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`
 - `Expected_Graduation_Confirmation.pdf`
