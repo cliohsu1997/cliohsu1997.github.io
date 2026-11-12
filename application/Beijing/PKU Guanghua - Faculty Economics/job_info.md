@@ -9,6 +9,9 @@ Beijing, China
 ## Deadline
 **2026-11-20** for full consideration at Assistant Professor. The JOE box uses the same date. Senior candidates may apply year-round.
 
+## Decision
+Will not apply (12 November 2026). The rank is too senior. Do not send the application or the recommendation letters.
+
 ## How to apply
 Email all materials to **recruitment@gsm.pku.edu.cn**. This is not a JOE upload. Interviews at the 2026 China International Conference in Economics.
 
