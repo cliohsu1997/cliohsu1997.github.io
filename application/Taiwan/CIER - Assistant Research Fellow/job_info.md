@@ -32,7 +32,7 @@ Files in `Application_Package_HSU_Ke_Cheng_CIER/`:
 - `Expected_Graduation_Confirmation.pdf`
 - `Unofficial_Transcript.pdf`
 
-Sources: English statement `Research_Interests_and_Future_Plans_HSU_Ke_Cheng.tex` (pdflatex), Chinese statement `Research_Interests_and_Future_Plans_HSU_Ke_Cheng_zh.tex` (xelatex, DFKai-SB), CIER CV `CV_HSU_Ke_Cheng_CIER.tex`, Chinese CV `CV_HSU_Ke_Cheng_zh.tex`. Bilingual package PDFs are built with `mutool merge -o <merged> <english>.pdf <chinese>.pdf` and copied over the package files.
+Sources: English statement `Research_Interests_and_Future_Plans_HSU_Ke_Cheng.tex` (pdflatex), Chinese statement `研究興趣與未來研究計畫_許可證.tex` (xelatex, DFKai-SB), CIER CV `CV_HSU_Ke_Cheng_CIER.tex`, Chinese CV `CV_HSU_Ke_Cheng_zh.tex`. Bilingual package PDFs are built with `mutool merge -o <merged> <english>.pdf <chinese>.pdf` and copied over the package files.
 
 ## Fit
 
