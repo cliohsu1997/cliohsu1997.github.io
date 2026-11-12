@@ -13,17 +13,30 @@
 
 ## What to send
 
-1. Detailed CV. State nationality. Include a short statement of research interests and future plans (`Research_Interests_and_Future_Plans_HSU_Ke_Cheng.pdf`, and the academic CV at `files/CV_HSU_Ke_Cheng.pdf`).
-2. Ph.D. certificate, or, if not yet graduated, `application/Expected_Graduation_Confirmation_Letter.pdf` plus the Ph.D. transcript.
-3. List of works: included at the end of the research-interests statement.
-4. Research work: job-market paper, `files/JMP_package_HSU_Ke_Cheng/JMP_HSU_Ke_Cheng.pdf` (one representative work is enough; a second optional).
-5. Three recommendation letters, sent by the writers directly to fangru@cier.edu.tw (not by the applicant). Writers on the CV: Pak Hung Au, Kohei Kawaguchi, Kei Kawai.
+Email items 1–4 to **fangru@cier.edu.tw**. See `Application_Email.md`.
 
-Foreign degrees must be authenticated by an overseas mission before the start date. Not required at application if the degree is from HKUST.
+1. Detailed CV. The posting requires nationality on the CV. The current CV does not state it. Confirm the wording before sending; do not infer it.
+2. Statement of research interests and future plans.
+3. Because the diploma is not ready: advisor’s expected-graduation letter (on or before 30 June 2027) and the unofficial Ph.D. transcript. The official transcript is not ready. The email says the graduation date is firm and that the diploma and official transcript will follow when issued.
+4. List of works.
+5. Representative research work: the job market paper. One work meets the posting (one or two).
+6. Three recommendation letters, sent by the writers directly to fangru@cier.edu.tw. Writers: Pak Hung Au, Kohei Kawaguchi, and Kei Kawai.
+
+Foreign degrees must be authenticated by an overseas mission before reporting for duty. Not required with the application.
+
+Files in `Application_Package_HSU_Ke_Cheng_CIER/`:
+- `CV_HSU_Ke_Cheng.pdf` (English CV first, Traditional Chinese CV follows in the same file; 6 pages)
+- `Research_Interests_and_Future_Plans_HSU_Ke_Cheng.pdf` (English statement first, Traditional Chinese statement follows in the same file; 6 pages)
+- `Publication_List_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Expected_Graduation_Confirmation.pdf`
+- `Unofficial_Transcript.pdf`
+
+Sources: English statement `Research_Interests_and_Future_Plans_HSU_Ke_Cheng.tex` (pdflatex), Chinese statement `Research_Interests_and_Future_Plans_HSU_Ke_Cheng_zh.tex` (xelatex, DFKai-SB), CIER CV `CV_HSU_Ke_Cheng_CIER.tex`, Chinese CV `CV_HSU_Ke_Cheng_zh.tex`. Bilingual package PDFs are built with `mutool merge -o <merged> <english>.pdf <chinese>.pdf` and copied over the package files.
 
 ## Fit
 
-The posting wants economic policy analysis for a think tank. The research statement leads with digital platforms and marketplace rules: return and refund menus as policy instruments, platform fees and taxes when buyers can reverse a purchase, and pricing commitments that create unsold stock and environmental waste. The earlier interbank no-bailout exercise appears as prior policy work. Merger simulation is labeled as coursework. Do not send the consulting or UBS resume.
+The posting wants economic policy analysis for a think tank. The research statement leads with the shared mechanism of decisions made before uncertainty resolves, then returns, search, and unsold inventory. The five-year plan leans on the environmental and circular-economy angle: quantify the waste in returns and unsold stock and compare instruments (restocking fees, return-shipping charges, deposit-refund taxes, price flexibility) that reduce it, tied to CIER’s centers for energy and environment, green economy, and forecasting. The interbank no-bailout exercise appears as prior policy work. Merger simulation is labeled as coursework. Do not send the consulting or UBS resume.
 
 ## Before sending
 
