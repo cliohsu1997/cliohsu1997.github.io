@@ -1,0 +1,159 @@
+\documentclass[11pt,letterpaper]{article}
+
+\usepackage[margin=0.9in]{geometry}
+\usepackage{fontspec}
+\usepackage{xeCJK}
+\setmainfont{Times New Roman}
+\setCJKmainfont[AutoFakeBold=true]{DFKai-SB}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{setspace}
+\usepackage{tabularx}
+\usepackage{array}
+
+\hypersetup{colorlinks=true, allcolors=black}
+\setlist[itemize]{leftmargin=1.2em, itemsep=0.3em, topsep=0.2em, parsep=0.1em}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.18em}
+\pagestyle{empty}
+\setstretch{1.22}
+
+\newlength{\cvdatecol}
+\setlength{\cvdatecol}{10.5em}
+
+\newcommand{\sectionheader}[1]{%
+  \vspace{0.55em}
+  {\large\bfseries #1}\\[-0.15em]
+  \rule{\textwidth}{0.4pt}\par
+  \vspace{0.25em}
+}
+
+\newcommand{\cvline}[3][0em]{%
+  \par\nobreak
+  \noindent\hspace*{#1}%
+  \begin{tabularx}{\dimexpr\textwidth-#1\relax}{@{}X@{\hspace{0.75em}}>{\raggedleft\arraybackslash}p{\cvdatecol}@{}}
+  #2 & #3 \\
+  \end{tabularx}%
+}
+
+\newcommand{\courseline}[1]{%
+  \par\addvspace{0.28em}%
+  \noindent\hspace*{3.2em}#1\par
+}
+
+\begin{document}
+
+\begin{center}
+{\LARGE\bfseries 許可證（Ke Cheng HSU, Clio）}\\[0.55em]
+\href{mailto:khsu@connect.ust.hk}{khsu@connect.ust.hk}\\[0.2em]
+\href{https://cliohsu1997.github.io}{https://cliohsu1997.github.io/}\\[0.2em]
+國籍：中華民國（臺灣）
+\end{center}
+
+\vspace{0.7em}
+
+\textbf{通訊地址}\\[0.2em]
+\hspace{1.5em} 香港九龍清水灣 香港科技大學李兆基商學大樓5067室\\
+\hspace{1.5em} 經濟系
+
+\vspace{0.55em}
+
+\textbf{研究領域}\\[0.2em]
+\hspace{1.5em} 產業組織、數位經濟、計量行銷
+
+\sectionheader{學歷}
+{\setstretch{0.88}
+香港科技大學\\[-0.35em]
+\cvline[1.5em]{經濟學博士}{2022 -- 2027（預計）}
+\vspace{-0.15em}
+\cvline[1.5em]{經濟學哲學碩士（M.Phil.）}{2020 -- 2022}
+\vspace{-0.15em}
+\cvline[1.5em]{數學與經濟學理學士（副修精算數學）}{2015 -- 2019}
+}
+
+\vspace{-0.55em}
+\sectionheader{工作論文}
+\begin{itemize}
+  \item 「Designing Return Policy in E-Commerce: A Trade-off between Purchase and Return Efficiency」\textit{（求職論文）}\\[0.2em]
+  \textit{摘要：}本文研究退貨政策是否同時促進有效率的購買與退貨。較嚴格的退貨政策可抑制事後無效率的退貨，但退貨率下降會使賣家更傾向提高價格，可能排擠事前有效率的購買。本文在六個服裝品類、獨占定價下估計購買、運費保險與退貨決策的結構模型，比較自動給付退貨運費的保障（RI）與可選購的保障（CI）。寬鬆政策（如RI）在高毛利、高殘值品類表現較佳，因為它擴大有價值的購買；嚴格政策（如CI）在毛利較薄的品類表現較佳，因為它抑制過度退貨。部分RPD（折扣價搭配適度補貨費的選單）在多數品類中比RI與CI更能平衡購買效率與退貨效率。\\[0.2em]
+  \textit{報告（$^{\ast}$為已安排）：}APIOC 2026$^{\ast}$；2026 Econometric Society Australasia Meeting（ESAM 2026）$^{\ast}$；中國經濟學年會夏季論壇2026；香港科技大學商學院博士生會議；香港科技大學CEP Brownbag。
+
+  \item 「Product Design with Heterogeneous Search Costs」，與Pak Hung AU合著\\[0.2em]
+  \textit{摘要：}本文在Wolinsky（1986）差異化產品序貫搜尋模型的基礎上引入搜尋成本異質性，分析廠商如何利用可觀察的產品設計影響消費者的搜尋行為。均衡中消費者的搜尋呈現分割結構：搜尋成本較低者傾向尋找利基產品，搜尋成本較高者傾向標準化產品。在兩種產品設計下，若搜尋模式的內生轉變（組成效果）主導了鼓勵搜尋的效果，搜尋成本下降可能使兩類產品的價格同時上升。此外，價格對搜尋成本下降的反應並不對稱，取決於衝擊落在成本分布中的位置。\\[0.2em]
+  \textit{報告：}APIOC 2023；AMES 2023（新加坡南洋理工大學）。
+\end{itemize}
+
+\sectionheader{進行中的研究}
+\begin{itemize}
+  \item 「Too Much Unsold Stock?: Environmental Consequences of Price Commitment」，與Kohei Kawaguchi、Kei Kawai合著\\[0.2em]
+  \textit{摘要：}維持轉售價格具有促進競爭的一面，因為它鼓勵賣家在需求低迷時仍持有庫存。但當實際需求低於庫存時，賣家無法降價出清，未售出的存貨被退回並造成環境成本。我們建立含需求不確定性的動態寡占模型，以書店月度資料估計，探討有多少滯銷存貨源自價格承諾，以及押金退款稅如何減少浪費。
+  \item 「Pass-Through and Incidence with Product Returns」，與Ce Bian、Liang Zhao合著\\[0.2em]
+  \textit{摘要：}本文研究存在產品退貨時的價格轉嫁與租稅歸宿。與無退貨的情形不同，平台佣金或銷售稅等租稅可能產生負向轉嫁並提升社會福利。當高價格顯著提高消費者退貨機率時，有效利潤率下降，賣家減少供給。這條向下傾斜的供給曲線可使均衡價格隨租稅上升而下降，並透過降低退貨率提高社會剩餘。
+\end{itemize}
+
+\sectionheader{經歷}
+{\setstretch{0.88}
+\textit{研究}\\[-0.5em]
+\cvline[1.5em]{研究助理，Benjamin Bernard教授，國立臺灣大學}{2020}
+
+\vspace{-0.1em}
+\textit{教學}\\[-0.5em]
+\cvline[1.5em]{講師，經濟學碩士班數學營，香港科技大學（4.53/5）}{2026}
+\vspace{-0.12em}
+\cvline[1.5em]{教學助理協調人，商學院，香港科技大學}{2025 -- 2026}
+\vspace{-0.12em}
+\cvline[1.5em]{教學助理，經濟系，香港科技大學（平均4.72/5）}{2020 -- 2025}
+\vspace{0.1em}
+\courseline{ECON2123 總體經濟學（4.53/5）}
+\courseline{ECON4134 不確定性與資訊經濟學（4.83/5）}
+\courseline{ECON4999T 不確定性與資訊經濟學（4.56/5）}
+\courseline{ECON5210 個體經濟理論 I（4.85/5；4.82/5）}
+}
+
+\sectionheader{獎助與獎項}
+{\setstretch{0.9}
+\cvline[1.5em]{研究差旅補助}{2023；2026}
+\vspace{-0.12em}
+\cvline[1.5em]{Red Bird博士獎}{2022}
+\vspace{-0.12em}
+\cvline[1.5em]{香港科技大學研究生助學金}{2020 -- 至今}
+\vspace{-0.12em}
+\cvline[1.5em]{學術成就獎章}{2019}
+\vspace{-0.12em}
+\cvline[1.5em]{大學獎學金（73萬港元）}{2015 -- 2019}
+}
+
+\sectionheader{技能}
+技術：R、Python、C++、\LaTeX、AWS\\
+語言：國語（母語）、臺語（母語）、英語（流利）、粵語（基礎）
+
+\sectionheader{推薦人（論文指導委員會）}
+{\setstretch{0.95}
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+\textbf{\href{https://aupakhung.weebly.com/}{Pak Hung AU}}\\
+副教授\\
+經濟系\\
+香港科技大學\\
+\href{mailto:aupakhung@ust.hk}{aupakhung@ust.hk}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.48\textwidth}
+\textbf{\href{https://www.kohei-kawaguchi.com/}{Kohei Kawaguchi}}\\
+副教授\\
+經濟系\\
+香港科技大學\\
+\href{mailto:kkawaguchi@ust.hk}{kkawaguchi@ust.hk}
+\end{minipage}
+
+\vspace{1.0em}
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+\textbf{\href{https://www.e.u-tokyo.ac.jp/fservice/faculty/kawai/kawai-e/kawai01-e.html}{Kei Kawai}}\\
+教授\\
+經濟系\\
+東京大學\\
+\href{mailto:kawaixkei@gmail.com}{kawaixkei@gmail.com}
+\end{minipage}
+}
+
+\end{document}
