@@ -19,7 +19,10 @@
 \setbeamercolor{normal text}{fg=ink,bg=paper}
 \setbeamercolor{background canvas}{bg=paper}
 \setbeamertemplate{navigation symbols}{}
-\setbeamertemplate{footline}{}
+\setbeamertemplate{footline}{%
+  \hfill{\scriptsize\color{softink}%
+  \insertframenumber\,/\,\inserttotalframenumber}\hspace{6mm}\vspace{3mm}%
+}
 \setbeamertemplate{headline}{}
 \setbeamersize{text margin left=14mm,text margin right=14mm}
 
@@ -275,6 +278,62 @@ $(125-120)/120\approx\textbf{4.2\%}$\\
 CPI rose both periods $\Rightarrow$ \textbf{inflation}.\quad
 $\pi$ fell $20\%\rightarrow4.2\%$ $\Rightarrow$ \textbf{disinflation}, not deflation.
 }}
+\end{frame}
+
+% ---- What can cause inflation (US examples) ----
+\begin{frame}[plain,label=causes]
+\atmosphere
+\vspace{2mm}
+{\fontsize{11}{14}\selectfont\color{accent}What can cause inflation?}\\[1.5mm]
+{\scriptsize\color{softink}Three channels --- illustrations from the United States.}\\[4mm]
+{\footnotesize\color{ink}
+\begin{tabular}{@{}p{0.22\textwidth}p{0.68\textwidth}@{}}
+{\scriptsize\color{accent}1.\ Demand}
+& COVID ``helicopter money'': cash sent to households
+$\Rightarrow$ spending rises faster than supply
+$\Rightarrow$ prices are pulled up.\\[4mm]
+{\scriptsize\color{accent}2.\ Supply}
+& Oil shocks (Gulf / Hormuz) and trade wars:
+higher energy costs, tariffs, broken chains
+$\Rightarrow$ costs rise
+$\Rightarrow$ prices are pushed up.\\[4mm]
+{\scriptsize\color{accent}3.\ Expectations}
+& Inflation high
+$\Rightarrow$ workers expect higher prices
+$\Rightarrow$ demand higher wages
+$\Rightarrow$ firms pass on costs
+$\Rightarrow$ inflation stays high
+$\Rightarrow$ \ldots\\
+\end{tabular}}
+\end{frame}
+
+% ---- Output--inflation tradeoff ----
+\begin{frame}[plain,label=tradeoff]
+\atmosphere
+\vspace{2mm}
+{\fontsize{11}{14}\selectfont\color{accent}The output--inflation tradeoff}\\[2.5mm]
+\colorbox{wash}{\parbox{0.90\textwidth}{\centering\footnotesize\color{ink}
+Different causes need different responses.\\
+Fighting a supply shock only by cutting demand
+can cause \textbf{stagflation}.
+}}\\[4mm]
+\begin{columns}[T]
+\column{0.48\textwidth}
+{\scriptsize\color{accent}Demand-driven}\\[1.5mm]
+{\footnotesize\color{ink}
+Raise rates
+$\Rightarrow$ spending cools
+$\Rightarrow$ inflation falls.\\[2mm]
+{\scriptsize\color{softink}Cost: slower growth.}}
+\column{0.48\textwidth}
+{\scriptsize\color{accent}Supply-driven}\\[1.5mm]
+{\footnotesize\color{ink}
+Oil / trade war:
+prices \textcolor{rise}{up},
+output \textcolor{rise}{down}
+--- \textbf{stagflation}.\\[2mm]
+{\scriptsize\color{softink}Cutting demand alone deepens the slump.}}
+\end{columns}
 \end{frame}
 
 \end{document}

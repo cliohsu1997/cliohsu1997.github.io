@@ -49,3 +49,23 @@ Here is the price table. Milk: 100 yen at the base, then 120, then 125. Rice: 20
 Solution. Basket cost equals two times the milk price plus two times the rice price. At the base, t-zero: two times 100 plus two times 200 — that is 200 plus 400 — 600 yen. CPI equals 100 by construction. At t-one: two times 120 plus two times 240 — 240 plus 480 — 720. CPI equals one hundred times 720 over 600 — 120. At t-two: two times 125 plus two times 250 — 250 plus 500 — 750. CPI equals one hundred times 750 over 600 — 125.
 
 Now the inflation rates. At t-one: 120 minus 100, over 100 — 20 percent. At t-two: 125 minus 120, over 120 — about 4.2 percent. The CPI rose from 100 to 120 to 125, so both periods are inflation — the price level is still going up. But the inflation rate fell from 20 percent to about 4.2 percent. Prices are still rising, just more slowly. That is disinflation — not deflation. Deflation would require the CPI itself to fall.
+
+## What can cause inflation?
+
+So far we have measured inflation. Now: what can cause it? Three channels — demand, supply, and expectations. I will use the United States to illustrate.
+
+First, demand. During COVID, the U.S. government sent cash directly to households — “helicopter money.” People received money in their accounts. Spending jumped faster than firms could supply. Too much spending chasing goods — prices get pulled up.
+
+Second, supply. This is the cost side. An oil shock — a war in the Persian Gulf, or a threat to the Strait of Hormuz — makes energy scarce and expensive. Oil feeds into transport, plastics, heating, almost everything. A trade war belongs here too: tariffs and broken supply chains raise the cost of imports and production. Same channel — supply is constrained or more expensive — so prices are pushed up even without a demand boom.
+
+Third, expectations. Suppose inflation is already high. Workers expect prices to keep rising, so they demand higher wages. Firms pass those labor costs into prices. Inflation stays high, expectations rise again, and the loop continues. That wage–price spiral can turn a temporary shock into persistent inflation.
+
+## The output--inflation tradeoff
+
+So different causes need different responses.
+
+If inflation is mainly from hot demand — helicopter money — cooling demand can make sense. Raise rates. Borrowing becomes more expensive. Spending and investment cool. Inflation comes down. The cost is slower growth. That is the classic output–inflation tradeoff: lower inflation, but weaker output.
+
+But if inflation is from a supply shock — oil, Hormuz, trade war — the picture is different. Costs are already pushing prices up, and firms are already cutting production because inputs are scarce or expensive. So you can get prices up and output down at the same time. That combination is stagflation: stagnation plus inflation.
+
+If policymakers then fight that inflation only by cutting demand hard, they deepen the slump while energy costs are still high. So the lesson is not “never cool demand.” It is: diagnose the cause. Demand-driven inflation and supply-driven inflation are not the same problem — and treating a Hormuz-style oil shock as if it were only hot demand is how you walk into stagflation.
