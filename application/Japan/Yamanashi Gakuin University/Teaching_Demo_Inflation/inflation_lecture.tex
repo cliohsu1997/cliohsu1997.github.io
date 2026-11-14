@@ -1,0 +1,225 @@
+\documentclass[aspectratio=169,11pt]{beamer}
+
+\usetheme{default}
+\usepackage[T1]{fontenc}
+\usepackage[lining]{CrimsonPro}
+\usepackage[default]{sourcesanspro}
+\usepackage{tikz}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{textcomp}
+
+\definecolor{ink}{RGB}{28,34,42}
+\definecolor{softink}{RGB}{72,82,94}
+\definecolor{accent}{RGB}{26,102,92}
+\definecolor{wash}{RGB}{214,228,224}
+\definecolor{paper}{RGB}{250,251,249}
+\definecolor{rise}{RGB}{170,45,45}
+
+\setbeamercolor{normal text}{fg=ink,bg=paper}
+\setbeamercolor{background canvas}{bg=paper}
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{footline}{}
+\setbeamertemplate{headline}{}
+\setbeamersize{text margin left=14mm,text margin right=14mm}
+
+\newcommand{\atmosphere}{%
+  \begin{tikzpicture}[remember picture,overlay]
+    \fill[paper] (current page.south west) rectangle (current page.north east);
+    \shade[left color=wash,right color=paper]
+      (current page.north west) rectangle ([xshift=7.2cm]current page.south west);
+    \fill[accent]
+      (current page.north west) rectangle ([xshift=0.28cm]current page.south west);
+    \fill[accent!14]
+      ([xshift=-4.8cm]current page.north east)
+      -- (current page.north east)
+      -- ([yshift=-4.6cm]current page.north east)
+      -- cycle;
+  \end{tikzpicture}%
+}
+
+\begin{document}
+
+\begin{frame}[plain]
+\atmosphere
+\vspace{12mm}
+{\fontsize{11}{14}\selectfont\color{accent}Teaching demonstration}\\[5mm]
+{\rmfamily\fontsize{34}{40}\selectfont\color{ink}Understanding Inflation}\\[2mm]
+{\rmfamily\fontsize{20}{26}\selectfont\color{softink}%
+Why Prices Rise and\\[0.6mm]
+How Central Banks Respond}\\[7mm]
+{\color{accent}\rule{24mm}{1.1pt}}\\[6mm]
+{\fontsize{15}{18}\selectfont\color{ink}Ke Cheng Hsu}\\[1.2mm]
+{\fontsize{10.5}{13}\selectfont\color{softink}%
+Ph.D.\ Candidate in Economics\\[0.2mm]
+The Hong Kong University of Science and Technology}
+\end{frame}
+
+\begin{frame}[plain]
+\atmosphere
+\vspace{10mm}
+{\fontsize{11}{14}\selectfont\color{accent}Three questions for today}\\[9mm]
+{\rmfamily\fontsize{17}{24}\selectfont\color{ink}%
+\begin{minipage}{0.92\textwidth}
+{\tiny\color{accent}1}\hspace{2.5mm}What is inflation and how is it measured?\\[7mm]
+{\tiny\color{accent}2}\hspace{2.5mm}Is inflation good or bad?\\[7mm]
+{\tiny\color{accent}3}\hspace{2.5mm}What do central banks do, and at what cost?
+\end{minipage}}
+\end{frame}
+
+% ---- existing receipt slide (restored; do not alter structure above) ----
+\begin{frame}[plain]
+\atmosphere
+\vspace{2mm}
+{\fontsize{11}{14}\selectfont\color{accent}A receipt from the same store, 24 years apart}\\[3mm]
+\begin{columns}[T]
+\column{0.34\textwidth}
+\centering
+\includegraphics[width=\linewidth]{receipt.jpg}
+\column{0.64\textwidth}
+\centering
+{\footnotesize
+\begin{tabular}{@{}lrrr@{}}
+\toprule
+Item & 2002 & 2026 & Change\\
+\midrule
+Rice, 5\,kg & \textyen 980 & \textyen 4{,}200 & \textcolor{rise}{+329\%}\\
+Milk, 1\,L & \textyen 98 & \textyen 260 & \textcolor{rise}{+165\%}\\
+Eggs, 10 & \textyen 78 & \textyen 310 & \textcolor{rise}{+297\%}\\
+Bread, 1 loaf & \textyen 68 & \textyen 210 & \textcolor{rise}{+209\%}\\
+Cabbage & \textyen 58 & \textyen 230 & \textcolor{rise}{+297\%}\\
+\midrule
+\textbf{Total} & \textbf{\textyen 1{,}282} & \textbf{\textyen 5{,}210} & \textbf{\textcolor{rise}{+306\%}}\\
+\bottomrule
+\end{tabular}}
+
+\vspace{2.5mm}
+{\scriptsize\color{softink}Store: JUSCO Hadano, 12 May 2002 $\rightarrow$ AEON Hadano, 12 Oct 2026\\
+(same supermarket; JUSCO was later renamed AEON)}
+\end{columns}
+
+\vspace{2.5mm}
+\centering
+\colorbox{wash}{\parbox{0.92\textwidth}{\centering\footnotesize
+Average of the five product increases:
+$(329 + 165 + 297 + 209 + 297)\,/\,5 = \textbf{259\%}$\\[2mm]
+Average inflation per year (compound):
+$\displaystyle
+\left(\frac{\text{final}}{\text{initial}}\right)^{1/\text{years}}-1
+=
+\left(\frac{5210}{1282}\right)^{1/24}-1
+\approx \textbf{6\%}$}}
+\end{frame}
+
+% ---- NEW: is 6% the inflation rate? ----
+\begin{frame}[plain]
+\atmosphere
+\vspace{8mm}
+{\fontsize{11}{14}\selectfont\color{accent}From the receipt to the inflation rate}\\[10mm]
+\centering
+{\rmfamily\fontsize{22}{30}\selectfont\color{ink}%
+Do you think \textcolor{accent}{6\%}\\[2mm]
+is the inflation rate?}\\[12mm]
+\colorbox{wash}{\parbox{0.78\textwidth}{\centering\small\color{ink}
+Not everyone buys the same things.\\
+So how should the items be weighted?}}
+\end{frame}
+
+% ---- CPI: definition, weights, formula ----
+\begin{frame}[plain]
+\atmosphere
+\vspace{2mm}
+{\fontsize{11}{14}\selectfont\color{accent}The Consumer Price Index}\\[3mm]
+
+\begin{columns}[T]
+\column{0.50\textwidth}
+{\scriptsize\color{accent}1.\ Definition}\\[1.5mm]
+{\rmfamily\fontsize{13}{17}\selectfont\color{ink}
+The cost of a fixed basket of goods and services, relative to a base period.}\\[5mm]
+{\scriptsize\color{accent}2.\ Weights}\\[1.5mm]
+{\footnotesize\color{ink}
+Weight $=$ category spending $\div$ total spending.\\[1mm]
+{\scriptsize\color{softink}Larger share of spending $\Rightarrow$ larger weight.}}\\[5mm]
+{\scriptsize\color{accent}3.\ Formula}\\[1.5mm]
+\colorbox{wash}{\parbox{0.95\columnwidth}{\centering\small\color{ink}
+$\displaystyle
+\mathrm{CPI}_t = 100\times\frac{\sum p_t q_0}{\sum p_0 q_0}$}}\\[2mm]
+{\scriptsize\color{softink}$p$ = price \textperiodcentered{} $q$ = quantity \textperiodcentered{} $0$ = base}
+
+\column{0.46\textwidth}
+{\scriptsize\color{accent}What's in the basket}\\[3mm]
+\centering
+\begin{tikzpicture}[x=0.58cm,y=0.5cm]
+\fill[accent!55] (0,0) rectangle (2.75,1);
+\fill[accent!40] (2.75,0) rectangle (4.93,1);
+\fill[accent!28] (4.93,0) rectangle (6.37,1);
+\fill[accent!18] (6.37,0) rectangle (6.84,1);
+\fill[softink!25] (6.84,0) rectangle (10,1);
+\draw[ink!30] (0,0) rectangle (10,1);
+\node at (1.38,0.5) {\tiny Food};
+\node at (3.84,0.5) {\tiny Housing};
+\node at (5.65,0.5) {\tiny Transport};
+\node[above] at (6.6,1) {\tiny Health};
+\node at (8.42,0.5) {\tiny Other};
+\end{tikzpicture}\\[3mm]
+{\scriptsize\color{ink}
+\begin{tabular}{@{}lr@{}}
+Food & 27.5\%\\
+Housing & 21.8\%\\
+Transport & 14.4\%\\
+Health & 4.7\%\\
+Other & 31.5\%\\
+\end{tabular}}\\[2mm]
+{\scriptsize\color{softink}Statistics Bureau of Japan, 2025 base}
+\end{columns}
+\end{frame}
+
+% ---- CPI level over time (inflation, deflation, disinflation) ----
+\begin{frame}[plain]
+\atmosphere
+\vspace{1mm}
+{\fontsize{11}{14}\selectfont\color{accent}Inflation, Deflation, and Disinflation}\\[1mm]
+{\scriptsize\color{softink}Vertical axis $=$ CPI (price level).\quad
+Slope of the curve $=$ inflation.}\\[2mm]
+
+\centering
+\begin{tikzpicture}[x=0.9cm,y=0.45cm]
+  \draw[->,softink] (0,0) -- (13.0,0) node[right,font=\scriptsize]{time};
+  \draw[->,softink] (0,0) -- (0,8.8) node[above,font=\scriptsize]{CPI};
+
+  % 1. Inflation: CPI rising (steep)
+  \draw[line width=1.6pt,rise]
+    plot[smooth] coordinates
+      {(0.5,1.6) (1.5,3.2) (2.5,5.0) (3.6,7.0)};
+  \node[rise,font=\scriptsize,align=center] at (2.0,8.0)
+    {\textbf{1. Inflation}\\[-0.5pt]{\tiny CPI rising}};
+  \draw[->,rise,thick] (1.2,2.4) -- (2.6,5.2);
+
+  % 2. Deflation: CPI falling
+  \draw[line width=1.6pt,softink]
+    plot[smooth] coordinates
+      {(3.6,7.0) (4.8,5.0) (6.0,3.4) (7.0,2.4)};
+  \node[softink,font=\scriptsize,align=center] at (5.4,1.0)
+    {\textbf{2. Deflation}\\[-0.5pt]{\tiny CPI falling}};
+  \draw[->,softink,thick] (4.2,6.2) -- (6.2,3.2);
+
+  % 3. Disinflation last: CPI still rising, slope flattening
+  \draw[line width=1.6pt,accent]
+    plot[smooth] coordinates
+      {(7.0,2.4) (8.2,4.0) (9.5,5.0) (11.0,5.5) (12.4,5.7)};
+  \node[accent,font=\scriptsize,align=center] at (10.0,7.2)
+    {\textbf{3. Disinflation}\\[-0.5pt]{\tiny still rising, slower}};
+  \draw[->,accent,thick] (7.6,2.9) -- (8.6,4.2);
+  \draw[->,accent!70,thick] (10.2,5.35) -- (11.6,5.55);
+
+  \draw[dashed,softink!45] (3.6,0) -- (3.6,8.2);
+  \draw[dashed,softink!45] (7.0,0) -- (7.0,8.2);
+\end{tikzpicture}
+
+\vspace{1mm}
+\centering
+{\footnotesize\color{softink}
+Disinflation is last: the level is still up, but the rise is slowing.}
+\end{frame}
+
+\end{document}
