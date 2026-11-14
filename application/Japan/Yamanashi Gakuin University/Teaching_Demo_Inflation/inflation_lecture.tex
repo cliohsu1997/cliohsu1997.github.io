@@ -120,9 +120,9 @@ $\displaystyle
 {\rmfamily\fontsize{22}{30}\selectfont\color{ink}%
 Do you think \textcolor{accent}{6\%}\\[2mm]
 is the inflation rate?}\\[12mm]
-\colorbox{wash}{\parbox{0.78\textwidth}{\centering\small\color{ink}
-Not everyone buys the same things.\\
-So how should the items be weighted?}}
+\colorbox{wash}{\parbox{0.82\textwidth}{\centering\small\color{ink}
+Milk rose 165\%; rice rose 329\%.\\
+Whose basket — and how should items be weighted?}}
 \end{frame}
 
 % ---- CPI: definition, weights, formula ----
@@ -135,16 +135,20 @@ So how should the items be weighted?}}
 \column{0.50\textwidth}
 {\scriptsize\color{accent}1.\ Definition}\\[1.5mm]
 {\rmfamily\fontsize{13}{17}\selectfont\color{ink}
-The cost of a fixed basket of goods and services, relative to a base period.}\\[5mm]
+The cost of a fixed basket of goods and services, relative to a base period.}\\[1.5mm]
+{\scriptsize\color{softink}Basket from household spending surveys\\
+(average purchases in the base year).}\\[4mm]
 {\scriptsize\color{accent}2.\ Weights}\\[1.5mm]
 {\footnotesize\color{ink}
 Weight $=$ category spending $\div$ total spending.\\[1mm]
-{\scriptsize\color{softink}Larger share of spending $\Rightarrow$ larger weight.}}\\[5mm]
+{\scriptsize\color{softink}Larger share of spending $\Rightarrow$ larger weight.}}\\[4mm]
 {\scriptsize\color{accent}3.\ Formula}\\[1.5mm]
 \colorbox{wash}{\parbox{0.95\columnwidth}{\centering\small\color{ink}
 $\displaystyle
-\mathrm{CPI}_t = 100\times\frac{\sum p_t q_0}{\sum p_0 q_0}$}}\\[2mm]
-{\scriptsize\color{softink}$p$ = price \textperiodcentered{} $q$ = quantity \textperiodcentered{} $0$ = base}
+\mathrm{CPI}_t = 100\times\frac{\sum_j p_{tj}\,q_{0j}}{\sum_j p_{0j}\,q_{0j}}$}}\\[2mm]
+{\scriptsize\color{softink}$j$ = item \textperiodcentered{}
+$p_{tj}$ = today's price \textperiodcentered{}
+$q_{0j}$ = base quantity}
 
 \column{0.46\textwidth}
 {\scriptsize\color{accent}What's in the basket}\\[3mm]
@@ -174,13 +178,70 @@ Other & 31.5\%\\
 \end{columns}
 \end{frame}
 
+% ---- Bridge + check: inflation rate from CPI ----
+\begin{frame}[plain]
+\atmosphere
+\vspace{1mm}
+{\fontsize{11}{14}\selectfont\color{accent}From the CPI to the inflation rate}\\[2mm]
+{\footnotesize\color{ink}
+CPI $=$ a \emph{level}.\quad
+Inflation $=$ the \emph{percent change} in that level.}\\[2.5mm]
+\centering
+\colorbox{wash}{\parbox{0.70\textwidth}{\centering
+{\normalsize\color{ink}
+$\displaystyle
+\pi_t
+=
+\frac{\mathrm{CPI}_t - \mathrm{CPI}_{t-1}}{\mathrm{CPI}_{t-1}}
+$}}}\\[3.5mm]
+\begin{columns}[T]
+\column{0.40\textwidth}
+{\scriptsize\color{accent}Example}\\[2mm]
+{\footnotesize\color{ink}
+\begin{tabular}{@{}lrr@{}}
+\toprule
+Year & CPI & $\pi$\\
+\midrule
+$t-1$ & 100 & ---\\
+$t$ & 103 & ?\\
+$t+1$ & 105 & ?\\
+\bottomrule
+\end{tabular}}\\[3mm]
+{\scriptsize\color{softink}
+1.\ Compute both inflation rates.\\[1.2mm]
+2.\ CPI rose again. Is that deflation?}
+\column{0.56\textwidth}
+{\scriptsize\color{accent}Answers}\\[2mm]
+{\footnotesize\color{ink}
+\textbf{1.}\quad
+$\displaystyle
+\pi_t
+=
+\frac{103-100}{100}
+=
+\textbf{3\%}$\\[2.5mm]
+$\displaystyle
+\pi_{t+1}
+=
+\frac{105-103}{103}
+\approx
+\textbf{1.9\%}$\\[3.5mm]
+\textbf{2.}\quad No --- CPI is still rising.\\[1mm]
+{\scriptsize\color{softink}
+Inflation fell from 3\% to 1.9\%:\\
+that is \textbf{disinflation}.\\
+High / rising level $\neq$ deflation.}}
+\end{columns}
+\end{frame}
+
 % ---- CPI level over time (inflation, deflation, disinflation) ----
 \begin{frame}[plain]
 \atmosphere
 \vspace{1mm}
 {\fontsize{11}{14}\selectfont\color{accent}Inflation, Deflation, and Disinflation}\\[1mm]
 {\scriptsize\color{softink}Vertical axis $=$ CPI (price level).\quad
-Slope of the curve $=$ inflation.}\\[2mm]
+Slope of the curve $=$ inflation.\quad
+Same idea as $3\% \rightarrow 1.9\%$.}\\[2mm]
 
 \centering
 \begin{tikzpicture}[x=0.9cm,y=0.45cm]
@@ -219,7 +280,8 @@ Slope of the curve $=$ inflation.}\\[2mm]
 \vspace{1mm}
 \centering
 {\footnotesize\color{softink}
-Disinflation is last: the level is still up, but the rise is slowing.}
+Disinflation $=$ CPI still up, but the rise is slowing
+(like $100 \rightarrow 103 \rightarrow 105$).}
 \end{frame}
 
 \end{document}
