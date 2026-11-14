@@ -2,7 +2,7 @@
 
 Good morning. Today we will answer three questions. What is inflation, and how is it measured? Is inflation good or bad? And what do central banks do — and at what cost?
 
-Why should you care? Because this shows up in your life every week: groceries, rent, bus fare, wages, and savings. When central banks act, it reaches you too — your loan rates, and how easy it is to find a job. Let's start with something you have all seen: a receipt.
+Why should you care? Because this shows up in your life every week: groceries, rent, bus fare, wages, and savings. When central banks act, it reaches you too — your loan rates, and how easy it is to find a job. So today we will look at what the numbers actually measure, when rising prices hurt and when they are normal, and what the central bank can do — and what that costs. Let's start with something you have all seen: a receipt.
 
 ## The receipt
 
@@ -24,26 +24,28 @@ So even with only five items, different consumers experience different price ris
 
 The CPI is how we move from “whose milk and whose rice?” to one official number. Three things.
 
-First, the definition. The CPI is the cost of a fixed basket, relative to a base period. Same basket. Different dates. Not your list or mine — one shared basket for the country. Based on what? Household spending surveys: what households buy, on average, in a base year. In Japan, that base is 2025.
+First, the definition. The CPI is the cost of a fixed basket of goods and services, relative to a base period. Same basket. Different dates. Not your personal shopping list, and not mine — one shared basket for the country. Determined based on what? On what households actually buy and spend. In Japan, the Statistics Bureau runs household expenditure surveys — they ask many households what they purchase — and builds the basket and its weights from average spending in a base year. Right now that base is 2025. So the shared basket is an average shopping list for the country, not any one person's.
 
-Second, the weights. Weight equals category spending over total spending. Food about 28 percent, housing 22, transport 14, health 5, other about 32. The Bureau uses average spending shares — not the milk drinker, not the rice buyer. Bigger share, bigger weight.
+Second, the weights — this is the same survey answer, turned into shares. A weight is category spending divided by total spending. In Japan: food about 28 percent, housing about 22, transport about 14, health about 5. Other, about 32 percent, covers the rest — education, clothing, fuel and utilities, furniture, culture and recreation, and miscellaneous. So the Bureau does not pick the milk drinker or the rice buyer. It uses those average spending shares. Bigger share of spending, bigger weight. Milk and rice both matter — but only in proportion to how much households actually spend on them.
 
-Third, the formula. Each item j has a base quantity, q-zero-j — fixed from the survey. Only prices change. Top: today's prices times those q-zero-j. Bottom: base-year prices times the same q-zero-j. Ratio, times one hundred — that is the CPI. If it is 103, the same basket costs 3 percent more than in the base year.
-
-## From the CPI to the inflation rate
-
-The CPI is a level. Inflation is the percent change in that level. The formula: this year's CPI minus last year's, divided by last year's.
-
-Quick check. Look at the table. Year t-minus-one: CPI 100. Year t: 103. Year t-plus-one: 105. First — compute both inflation rates. [pause]
-
-Year t: 103 minus 100, over 100 — 3 percent. Year t-plus-one: 105 minus 103, over 103 — about 1.9 percent.
-
-Second — the CPI rose again, to 105. Is that deflation? [pause] No. Deflation means the CPI itself is falling. Here the CPI is still rising. But inflation fell from 3 percent to 1.9 percent. Prices are still going up — just more slowly. That has a name: disinflation. Remember this path: 100, to 103, to 105. We will see it on the next slide.
+Third, the formula. Look at the box on the slide. Each item j has a base quantity, q-zero-j — fixed from the survey. Think of two shopping trips with the exact same cart: the same items, the same quantities. That cart does not change. Only the prices change. In the denominator: what did that cart cost in the base year? Base-year prices times those fixed quantities, q-zero-j. In the numerator: what does that same cart cost today? Today's prices times the same q-zero-j. Divide today's cost by the base-year cost, multiply by one hundred — that is the CPI. If the CPI is 103, the same basket costs 3 percent more than in the base year.
 
 ## Inflation, Deflation, and Disinflation
 
-Time runs left to right. The vertical axis is the CPI — the price level. The slope of this curve is inflation: the percent change we just computed.
+The CPI is a level. The inflation rate tells you how fast that level is changing — and in which direction. The formula is: this year's CPI minus last year's CPI, divided by last year's CPI. That percent change is the slope of the CPI curve on the graph.
 
-On the left: inflation. The CPI is rising. The curve goes up steeply. In the middle: deflation. The CPI is falling. The price level itself drops. Falling prices sound good — they are not. If people expect cheaper prices next year, they postpone spending. Firms earn less, stop hiring, incomes fall, and recession risk rises. Japan lived with this for years — including all-items CPI of minus 0.2 percent in 2021. That is why the Bank of Japan targets 2 percent, not zero.
+Inflation means the CPI is rising. The rate is positive. Prices are higher than before. Deflation means the CPI is falling. The rate is negative. The price level itself is dropping. Disinflation means the CPI is still rising — so inflation is still positive — but more slowly. The rate is still positive, but smaller than before. The slope is getting flatter.
 
-Last: disinflation. This is the same idea as our example — 3 percent, then 1.9 percent. The CPI is still rising, so inflation is still positive. But each step up is smaller. The slope flattens. Prices still rise; they just rise more slowly. That is not deflation. Deflation would require the curve to fall.
+Look at the graph. Time runs left to right. The vertical axis is the CPI — the price level. On the left: inflation. The CPI is rising. The curve goes up steeply. In the middle: deflation. The CPI is falling. The curve turns down. Falling prices sound good. They are not. When people expect cheaper prices next year, they postpone spending. Firms then earn less revenue, so they stop hiring. Incomes fall. And that raises the risk of a recession. Japan lived with this for years: low inflation and, at times, falling prices — including all-items CPI of minus 0.2 percent in 2021 — and that is why the Bank of Japan targets 2 percent rather than zero. On the right: disinflation. The CPI is still rising, so inflation is still positive. But each step up is smaller than the last. Prices are still rising, just more slowly. That is not deflation. Deflation would require the curve to fall.
+
+## Example: milk and rice
+
+Let's make this concrete. Basket: two litres of milk and two bags of rice. Quantities stay fixed. Only prices change.
+
+Question. Compute the CPI at t-zero, t-one, and t-two. Then compute the inflation rate at t-one and at t-two. At t-two, the CPI rose again — is that deflation?
+
+Here is the price table. Milk: 100 yen at the base, then 120, then 125. Rice: 200 at the base, then 240, then 250. Take a few seconds and work it out. [pause — then advance for the solution]
+
+Solution. Basket cost equals two times the milk price plus two times the rice price. At the base, t-zero: two times 100 plus two times 200 — that is 200 plus 400 — 600 yen. CPI equals 100 by construction. At t-one: two times 120 plus two times 240 — 240 plus 480 — 720. CPI equals one hundred times 720 over 600 — 120. At t-two: two times 125 plus two times 250 — 250 plus 500 — 750. CPI equals one hundred times 750 over 600 — 125.
+
+Now the inflation rates. At t-one: 120 minus 100, over 100 — 20 percent. At t-two: 125 minus 120, over 120 — about 4.2 percent. The CPI rose from 100 to 120 to 125, so both periods are inflation — the price level is still going up. But the inflation rate fell from 20 percent to about 4.2 percent. Prices are still rising, just more slowly. That is disinflation — not deflation. Deflation would require the CPI itself to fall.
