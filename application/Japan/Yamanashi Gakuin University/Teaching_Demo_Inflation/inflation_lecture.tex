@@ -38,6 +38,9 @@
       -- (current page.north east)
       -- ([yshift=-4.6cm]current page.north east)
       -- cycle;
+    \node[anchor=south east,font=\scriptsize\color{softink}]
+      at ([xshift=-6mm,yshift=4mm]current page.south east)
+      {\insertframenumber\,/\,\inserttotalframenumber};
   \end{tikzpicture}%
 }
 
@@ -148,10 +151,10 @@ Weight $=$ category spending $\div$ total spending.\\[1mm]
 {\scriptsize\color{accent}3.\ Formula}\\[1.5mm]
 \colorbox{wash}{\parbox{0.95\columnwidth}{\centering\small\color{ink}
 $\displaystyle
-\mathrm{CPI}_t = 100\times\frac{\sum_j p_{tj}\,q_{0j}}{\sum_j p_{0j}\,q_{0j}}$}}\\[2mm]
+\mathrm{CPI}_t = 100\times\frac{\sum_j p_{tj}\,q_{j}}{\sum_j p_{0j}\,q_{j}}$}}\\[2mm]
 {\scriptsize\color{softink}$j$ = item \textperiodcentered{}
 $p_{tj}$ = today's price \textperiodcentered{}
-$q_{0j}$ = base quantity}
+$q_{j}$ = basket quantity}
 
 \column{0.46\textwidth}
 {\scriptsize\color{accent}What's in the basket}\\[3mm]
@@ -280,11 +283,146 @@ $\pi$ fell $20\%\rightarrow4.2\%$ $\Rightarrow$ \textbf{disinflation}, not defla
 }}
 \end{frame}
 
-% ---- What can cause inflation (US examples) ----
+% ---- Three costs of inflation ----
+\begin{frame}[plain,label=costs]
+\atmosphere
+\vspace{1.5mm}
+{\fontsize{11}{14}\selectfont\color{accent}Three costs of inflation}\\[3mm]
+{\footnotesize\color{ink}
+\begin{tabular}{@{}p{0.28\textwidth}p{0.62\textwidth}@{}}
+{\scriptsize\color{accent}1.\ Shoe-leather}
+& Cash loses value when prices rise.
+People hold less cash and make more trips to the bank
+--- time wasted protecting money.\\[3.5mm]
+{\scriptsize\color{accent}2.\ Menu costs}
+& Firms change prices more often
+(menus, websites, shelves).
+Prices update at different speeds
+$\Rightarrow$ price confusion.\\[3.5mm]
+{\scriptsize\color{accent}3.\ Unexpected inflation}
+& Moves wealth around when inflation differs from expectations:
+borrowers gain, lenders and fixed pensions lose.
+Unpredictable inflation creates uncertainty
+--- planning gets harder for everyone.\\
+\end{tabular}}
+\end{frame}
+
+% ---- Benefits of inflation ----
+\begin{frame}[plain,label=benefits]
+\atmosphere
+\vspace{1.5mm}
+{\fontsize{11}{14}\selectfont\color{accent}Benefits of inflation}\\[3mm]
+{\footnotesize\color{ink}
+\begin{tabular}{@{}p{0.28\textwidth}p{0.62\textwidth}@{}}
+{\scriptsize\color{accent}1.\ Encourage investment}
+& Modest inflation makes idle cash lose a little value,
+nudging people toward productive investment
+(stocks, equipment, new firms).\\[4.5mm]
+{\scriptsize\color{accent}2.\ Grease the job market}
+& Firms rarely cut nominal pay.
+With a little inflation, real wages can adjust down
+without a pay cut --- helping keep unemployment lower.\\
+\end{tabular}}
+\end{frame}
+
+% ---- Hyperinflation (Zimbabwe) ----
+\begin{frame}[plain,label=hyperinflation]
+\atmosphere
+\vspace{1.5mm}
+{\fontsize{11}{14}\selectfont\color{accent}Hyperinflation: Zimbabwe}\\[2.5mm]
+{\footnotesize\color{ink}
+\begin{tabular}{@{}p{0.24\textwidth}p{0.66\textwidth}@{}}
+{\scriptsize\color{accent}What it is}
+& Extremely rapid price increases
+--- prices can double in hours or days.\\[3mm]
+{\scriptsize\color{accent}Zimbabwe}
+& 2008 peak: inflation exploded;
+people abandoned the Zimbabwean dollar,
+turned to foreign currency and barter.\\[3mm]
+{\scriptsize\color{accent}Why}
+& Money printed to cover deficits;
+confidence in the currency collapsed.\\[3mm]
+{\scriptsize\color{accent}Today}
+& Argentina and Venezuela still hyperinflationary;
+Zimbabwe's new currency is still watched closely.\\
+\end{tabular}}
+\end{frame}
+
+% ---- Policy tools: interest rates ----
+\begin{frame}[plain,label=tool-rates]
+\atmosphere
+\vspace{1.5mm}
+{\fontsize{11}{14}\selectfont\color{accent}Tool 1: Interest rates}\\[1.5mm]
+{\scriptsize\color{softink}Which tool to use depends on how costly inflation is.}\\[3mm]
+{\footnotesize\color{ink}
+\begin{tabular}{@{}p{0.28\textwidth}p{0.62\textwidth}@{}}
+{\scriptsize\color{accent}Raise rates}
+& Borrowing gets more expensive
+$\Rightarrow$ spending and investment cool
+$\Rightarrow$ demand falls
+$\Rightarrow$ inflation eases.\\[4mm]
+{\scriptsize\color{accent}Lower rates}
+& Borrowing gets cheaper
+$\Rightarrow$ spending and investment rise
+$\Rightarrow$ demand rises
+$\Rightarrow$ can push inflation up.\\[4mm]
+{\scriptsize\color{accent}Tradeoff}
+& Fighting inflation with higher rates
+often means slower growth.\\
+\end{tabular}}
+\end{frame}
+
+% ---- Policy tools: reserve requirements ----
+\begin{frame}[plain,label=tool-reserves]
+\atmosphere
+\vspace{1.5mm}
+{\fontsize{11}{14}\selectfont\color{accent}Tool 2: Reserve requirements}\\[1.5mm]
+{\scriptsize\color{softink}The share of deposits banks must keep as reserves.}\\[3mm]
+{\footnotesize\color{ink}
+\begin{tabular}{@{}p{0.28\textwidth}p{0.62\textwidth}@{}}
+{\scriptsize\color{accent}Raise the ratio}
+& Banks must hold more cash idle
+$\Rightarrow$ less lending
+$\Rightarrow$ money and demand tighten
+$\Rightarrow$ inflation pressure falls.\\[4mm]
+{\scriptsize\color{accent}Lower the ratio}
+& Banks can lend more
+$\Rightarrow$ credit expands
+$\Rightarrow$ spending can rise
+$\Rightarrow$ inflation pressure rises.\\[4mm]
+{\scriptsize\color{accent}Idea}
+& Control credit at the source
+--- how much banks are allowed to create.\\
+\end{tabular}}
+\end{frame}
+
+% ---- Policy tools: yield curve control (Japan) ----
+\begin{frame}[plain,label=tool-ycc]
+\atmosphere
+\vspace{1.5mm}
+{\fontsize{11}{14}\selectfont\color{accent}Tool 3: Yield curve control}\\[1.5mm]
+{\scriptsize\color{softink}Japan's case --- pinning long-term interest rates.}\\[3mm]
+{\footnotesize\color{ink}
+\begin{tabular}{@{}p{0.28\textwidth}p{0.62\textwidth}@{}}
+{\scriptsize\color{accent}What it is}
+& The central bank targets not only short rates,
+but also long-term bond yields.\\[3.5mm]
+{\scriptsize\color{accent}Bank of Japan}
+& Bought government bonds as needed
+to keep long yields near a target
+--- cheap long-term borrowing.\\[3.5mm]
+{\scriptsize\color{accent}Why}
+& When short rates are already near zero,
+YCC tries to keep stimulus flowing
+through the whole yield curve.\\
+\end{tabular}}
+\end{frame}
+
+% ---- Diagnosing the cause ----
 \begin{frame}[plain,label=causes]
 \atmosphere
 \vspace{2mm}
-{\fontsize{11}{14}\selectfont\color{accent}What can cause inflation?}\\[1.5mm]
+{\fontsize{11}{14}\selectfont\color{accent}Diagnosing the cause}\\[1.5mm]
 {\scriptsize\color{softink}Three channels --- illustrations from the United States.}\\[4mm]
 {\footnotesize\color{ink}
 \begin{tabular}{@{}p{0.22\textwidth}p{0.68\textwidth}@{}}
