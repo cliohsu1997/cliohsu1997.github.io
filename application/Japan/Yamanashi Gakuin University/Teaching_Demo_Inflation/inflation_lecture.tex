@@ -131,35 +131,19 @@ Milk rose 165\%; rice rose 329\%.\\
 Whose basket — and how should items be weighted?}}
 \end{frame}
 
-% ---- CPI: definition, weights, formula ----
+% ---- CPI: definition + what's in the basket ----
 \begin{frame}[plain]
 \atmosphere
 \vspace{2mm}
-{\fontsize{11}{14}\selectfont\color{accent}The Consumer Price Index}\\[3mm]
+{\fontsize{11}{14}\selectfont\color{accent}The Consumer Price Index}\\[4mm]
 
-\begin{columns}[T]
-\column{0.50\textwidth}
-{\scriptsize\color{accent}1.\ Definition}\\[1.5mm]
+{\scriptsize\color{accent}Definition}\\[1.5mm]
 {\rmfamily\fontsize{13}{17}\selectfont\color{ink}
-The cost of a fixed basket of goods and services, relative to a base period.}\\[1.5mm]
-{\scriptsize\color{softink}Basket from household spending surveys\\
-(average purchases in the base year).}\\[4mm]
-{\scriptsize\color{accent}2.\ Weights}\\[1.5mm]
-{\footnotesize\color{ink}
-Weight $=$ category spending $\div$ total spending.\\[1mm]
-{\scriptsize\color{softink}Larger share of spending $\Rightarrow$ larger weight.}}\\[4mm]
-{\scriptsize\color{accent}3.\ Formula}\\[1.5mm]
-\colorbox{wash}{\parbox{0.95\columnwidth}{\centering\small\color{ink}
-$\displaystyle
-\mathrm{CPI}_t = 100\times\frac{\sum_j p_{tj}\,q_{j}}{\sum_j p_{0j}\,q_{j}}$}}\\[2mm]
-{\scriptsize\color{softink}$j$ = item \textperiodcentered{}
-$p_{tj}$ = today's price \textperiodcentered{}
-$q_{j}$ = basket quantity}
+The cost of a \textbf{fixed basket} of goods and services relative to a \textbf{base period} (the cost in the base period is normalized to 100).}\\[6mm]
 
-\column{0.46\textwidth}
 {\scriptsize\color{accent}What's in the basket}\\[3mm]
 \centering
-\begin{tikzpicture}[x=0.58cm,y=0.5cm]
+\begin{tikzpicture}[x=0.65cm,y=0.55cm]
 \fill[accent!55] (0,0) rectangle (2.75,1);
 \fill[accent!40] (2.75,0) rectangle (4.93,1);
 \fill[accent!28] (4.93,0) rectangle (6.37,1);
@@ -181,7 +165,21 @@ Health & 4.7\%\\
 Other & 31.5\%\\
 \end{tabular}}\\[2mm]
 {\scriptsize\color{softink}Statistics Bureau of Japan, 2025 base}
-\end{columns}
+\end{frame}
+
+% ---- CPI formula only ----
+\begin{frame}[plain]
+\atmosphere
+\vspace{8mm}
+{\fontsize{11}{14}\selectfont\color{accent}The Consumer Price Index --- formula}\\[8mm]
+\centering
+\colorbox{wash}{\parbox{0.82\textwidth}{\centering\large\color{ink}
+$\displaystyle
+\mathrm{CPI}_t = 100\times\frac{\sum_j p_{tj}\,q_{j}}{\sum_j p_{0j}\,q_{j}}$}}\\[6mm]
+{\footnotesize\color{softink}$j$ = item \textperiodcentered{}
+$p_{tj}$ = today's price \textperiodcentered{}
+$q_{j}$ = basket quantity \textperiodcentered{}
+$p_{0j}$ = \textbf{base year} price}
 \end{frame}
 
 % ---- Inflation / deflation / disinflation + formula ----

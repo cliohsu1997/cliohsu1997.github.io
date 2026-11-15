@@ -20,11 +20,11 @@ So do you think 6% is the official inflation rate? Here we just focus on one sho
 
 Because not everyone buys the same thing, not everyone feels the same rise. Look back at the table: milk rose 165%, and rice rose much more — about two times that magnitude. So if your basket is mainly milk, the price increase would be less for you than if your basket is mainly rice, eggs, and cabbage. People with different shopping lists feel inflation differently.
 
-The problem is that without a shared basket, everyone has their own inflation story. To deal with this, we need to find out what basket a normal household uses, and how the CPI — the consumer price index — traces the price change of that basket over time.
+The problem is that without a shared basket, everyone has their own inflation story. To deal with this, we need to find out a basket that is common to all consumers. And how the consumer price index, CPI, traces the price change of that basket over time.
 
 ## The Consumer Price Index
 
-CPI is the cost of a fixed basket of goods and services compared to a base year. It measures what a typical household actually buys. In Japan, it is regulated by the Statistics Bureau. The Statistics Bureau runs household surveys that ask a lot of households what they actually buy, and then builds a basket based on that. Right now the base year is 2025, so the CPI for 2025 is 100. And when we move to today, CPI measures on average how prices increase for a fixed bundle of products chosen by the Statistics Bureau.
+So CPI is the cost of a fixed basket of goods and services compared to a base year. Currently the base year is 2025. So the CPI in 2025 is normalized to 100. In 2026, CPI is defined as how much the price increases for a fixed bundle — a fixed basket decided by the Statistics Bureau. In Japan, the Statistics Bureau runs household surveys that ask a lot of families what they actually buy, and then builds a basket based on the behavior of actual consumers. It's not your bundle or my bundle — it's the bundle of an average consumer.
 
 In Japan, food accounts for about 28 percent, housing about 22, transport about 14, health about 5, and the rest — about 32 percent — covers education, clothing, culture, and maybe your daily recreation, like going to the movies and so on. So the Bureau doesn't pick a particular consumer with a specific spending habit. It just uses average spending shares. The bigger the share of spending, the more weight we put on that price increase. Milk and rice both matter, but rice matters more if households actually spend more on it.
 
