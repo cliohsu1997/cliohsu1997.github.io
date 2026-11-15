@@ -72,11 +72,13 @@ The bigger problem is uncertainty. When inflation is unpredictable, nobody knows
 
 ## Benefits of inflation
 
-So inflation is not only costs. If it were only bad, central banks would aim for zero. There are also benefits. Two of them are on the slide.
+So inflation is not only costs. If it were only bad, central banks would aim for zero. There are also benefits. Three of them are on the slide.
 
-First: modest inflation can encourage investment. Start from cash. When inflation is low but positive, cash sitting in a checking account loses a little value each year. That pushes people to invest in things that grow — stocks, equipment, new businesses. Some economists argue that a little inflation pushes money into real investments instead of letting it sit still. This is not an argument for high inflation. But it is one reason why some central banks aim for a small positive inflation rate instead of zero.
+First: modest inflation can encourage investment. When inflation is low but positive, cash sitting in a bank account gradually loses value every year. That pushes people to withdraw money and invest it in the real economy — like new business equipment — instead of letting it sit still. That is one reason some central banks aim for a small positive rate instead of zero.
 
-Second: a little inflation helps the job market. Here is the friction. Companies rarely cut workers’ pay. Workers hate pay cuts. But sometimes the economy needs real wages to fall — for example, when demand for a certain type of worker drops. With zero inflation, the only way to cut real wages is a pay cut in dollar terms, which is hard to do. With a little inflation — say 2 or 3 percent — real wages can fall gradually without anyone taking a pay cut. A 2 percent pay cut with no inflation feels terrible. But a 3 percent raise with 5 percent inflation feels like a raise — even though buying power went down. So a little inflation can “grease the wheels” of the job market and help keep unemployment lower.
+Second: the real value of government debt can be diluted over time. Most public debt is written in fixed yen or dollars. When prices rise gradually, each yen of debt buys less in real terms — so the burden on public finances eases a little without the government rewriting the contracts. Again, this is about modest inflation, not a runaway case.
+
+Third: a little inflation helps the job market. Companies rarely cut workers’ pay — workers hate pay cuts. But sometimes real wages need to fall when demand for a certain type of worker drops. With zero inflation, that means a nominal cut, which is hard to do. With a little inflation — say 2 or 3 percent — real wages can adjust down gradually without anyone taking a pay cut. A 2 percent cut with no inflation feels terrible; a 3 percent raise with 5 percent inflation still feels like a raise even though buying power fell. So a little inflation can “grease the wheels” of the job market and help keep unemployment lower.
 
 We will not focus on seigniorage today — revenue from creating money — even though it sometimes shows up in textbook lists of benefits.
 
