@@ -10,7 +10,7 @@ Usually people think inflation is bad because the same money buys less. Grocerie
 
 If we want to talk about rising prices, the easiest place to start is something you already know how to read. Look at the slide. On the left are two real receipts from the same supermarket in Hadano. May 12, 2002: JUSCO. October 12, 2026: AEON. Same store family — JUSCO was later renamed AEON. Same five items. Same quantities.
 
-Now look at the table. Rice, five kilograms: 980 yen to 4,200 — up 329 percent. Milk, one litre: 98 to 260 — up 165 percent. Ten eggs: 78 to 310 — up 297 percent. One loaf of bread: 68 to 210 — up 209 percent. One cabbage: 58 to 230 — up 297 percent. The whole basket: 1,282 yen to 5,210 — up 306 percent.
+So now look at the table. Five-kilogram rice: from 980 yen to 4,200 yen — up 329 percent. On the other hand, one-liter milk rises from 98 yen to 260 yen — up about 165 percent. The other groceries rise around 300 percent over the 25 years. The whole basic basket increases from 1,200 yen to about 5,200 yen — also up around threefold.
 
 So if we average those five numbers and divide by 5, we get about 259 percent increase, uh, over 24 years. That's the average across product, not year per year. Uh, for average inflation per year, we take the final expense over the initial expense, and then take the 24th root and subtract 1. The number we get is about 6 percent a year. So over 24 years, roughly 6 percent, uh, so over 24 years, the expense increases roughly 6 percent on, per year on average, okay?
 
