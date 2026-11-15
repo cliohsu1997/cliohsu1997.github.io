@@ -118,7 +118,7 @@ But if inflation comes from a supply shock — oil, Hormuz, or a trade war — t
 
 ## Case study: Japan through the CPI chart
 
-Now let's look at Japan — the economy you live in, and one of the biggest inflation stories in modern history. This World Bank chart shows Japan's yearly CPI inflation. Above zero means prices are going up; below zero means deflation — prices are falling. Let's walk through it in six short chapters.
+Now let's look at Japan — the economy you live in, and one of the biggest inflation stories in modern history. This World Bank chart shows Japan's yearly CPI inflation from 1990 to 2025. Above zero means prices are going up; below zero means deflation — prices are falling. Let's walk through it in six short chapters.
 
 Chapter one: the bubble peak around 1990. Back in 1985, under the Plaza Accord, the U.S. pushed Japan to let the yen get stronger so American goods could compete better. The stronger yen hurt Japanese exports, so the Bank of Japan cut rates way down to protect the economy. Cheap money fueled a massive boom in stocks and real estate — at the peak, Tokyo's Imperial Palace grounds were estimated to equal all the land in California, and Japanese land overall was valued at five times the entire U.S. When the BOJ raised rates in 1989, stocks crashed in 1990 and land prices fell soon after. Look at the chart: CPI inflation was still around 3 percent in 1990–91, but firms and banks had borrowed heavily against overpriced land and were suddenly in deep trouble.
 
