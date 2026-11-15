@@ -40,9 +40,7 @@ Look at the graph. Time runs left to right. The vertical axis is the CPI — the
 
 ## Example: milk and rice
 
-We've defined CPI and the inflation rate. Let's make this concrete with a tiny example so you can compute it yourself. Basket: two litres of milk and two bags of rice. Quantities stay fixed. Only prices change.
-
-Here is the question. Compute the CPI at t-zero, t-one, and t-two. Then compute the inflation rate at t-one and at t-two. At t-two, the CPI rose again — is that deflation?
+We've defined CPI and inflation rates. Let's make this concrete by walking through a tiny example. The consumer basket now consists of two bags of rice and two liters of milk. Quantity gives the weight of the basket, and we want to compute the CPI at T0, T1, and T2, and the corresponding inflation rate. And finally, we want to understand whether deflation happens at T2.
 
 Here is the price table. Milk: 100 yen at the base, then 120, then 125. Rice: 200 at the base, then 240, then 250. Take a few seconds and work it out. [pause — then advance for the solution]
 
