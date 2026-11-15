@@ -56,9 +56,11 @@ We have measured inflation. Before we ask what causes it, is inflation only bad?
 
 Cost one: shoe-leather costs — the hassle of holding cash. Think about what happens when prices keep rising. Cash in your wallet loses value. So people hold less cash and make more trips to the bank or ATM. They spend time managing money instead of doing something useful. Economists call this the shoe-leather cost — like wearing out your shoes going back and forth to the bank. Even moderate inflation makes people waste time and energy just trying to protect the value of their money.
 
+How big are these costs in total? Estimates suggest the cost of 10% inflation is between 1% and 2% of GDP, and even 3% inflation costs about half a percent of GDP — roughly 40 billion dollars at the time of the estimate. So these are not just textbook labels. Even moderate inflation is expensive for the economy as a whole.
+
 Cost two: menu costs — the cost of changing prices. From the firm's side, rising prices are not free to update. When inflation is high, businesses have to change prices more often. That means printing new menus, updating websites, re-pricing shelves, and telling customers. These are called menu costs. There is also a second problem: price confusion. If some businesses change prices quickly and others lag behind, it becomes harder for everyone to tell what things are really worth. That makes buying, selling, and planning harder for everyone.
 
-Cost three: unexpected inflation moves wealth around — and creates uncertainty. This is the most important cost, and the one that catches people off guard. Loans and pensions are usually written in fixed yen or dollars. When inflation is higher or lower than people expected, it quietly moves wealth from one group to another.
+Cost three: unexpected inflation moves wealth around — and creates uncertainty. This is the most important cost. Unexpected inflation moves wealth around and creates uncertainty. Loans and pensions usually return in fixed nominal amounts. So when inflation becomes higher, the money is worth less. So if you are the borrower, it means that you need to pay back less in terms of real goods. Loans and pensions are usually written in fixed yen or dollars. When inflation is higher or lower than people expected, it quietly moves wealth from one group to another.
 
 Here is how it works with loans. Suppose you borrow 10,000 dollars to buy a car. The bank charges you 5 percent interest because it expects inflation to be 2 percent. That means the bank expects to earn a real return of about 3 percent — a fair deal. But if inflation actually turns out to be 6 percent, the bank only earns about minus 1 percent after inflation. You, the borrower, win because you pay back the loan with dollars that are worth less. The bank loses. The opposite happens if inflation is lower than expected.
 
@@ -67,8 +69,6 @@ A real-world example: in 1960, a typical mortgage had an interest rate of about 
 The same thing happens with pensions. If you are retired and living on a fixed pension, higher-than-expected inflation hurts you. Your pension buys less, and you cannot do anything about it. You are like the bank in the mortgage example — you get paid back in dollars that are worth less.
 
 The bigger problem is uncertainty. When inflation is unpredictable, nobody knows what to expect. Borrowers and lenders have to guess. Workers and retirees have to guess. Businesses have to guess. And most people do not like uncertainty — they are risk-averse. So unpredictable inflation makes everyone worse off, even if they end up on the winning side by accident. It is like playing a game where the rules keep changing — you might win, but you cannot plan, and that is stressful and costly.
-
-How big are these costs in total? Estimates suggest the cost of 10% inflation is between 1% and 2% of GDP, and even 3% inflation costs about half a percent of GDP — roughly 40 billion dollars at the time of the estimate. So these are not just textbook labels. Even moderate inflation is expensive for the economy as a whole.
 
 ## Benefits of inflation
 
