@@ -167,19 +167,39 @@ Other & 31.5\%\\
 {\scriptsize\color{softink}Statistics Bureau of Japan, 2025 base}
 \end{frame}
 
-% ---- CPI formula only ----
+% ---- CPI table: goods, prices, expenditure, CPI ----
 \begin{frame}[plain]
 \atmosphere
-\vspace{8mm}
-{\fontsize{11}{14}\selectfont\color{accent}The Consumer Price Index --- formula}\\[8mm]
+\vspace{2mm}
+{\fontsize{11}{14}\selectfont\color{accent}The Consumer Price Index --- from prices to CPI}\\[1mm]
 \centering
-\colorbox{wash}{\parbox{0.82\textwidth}{\centering\large\color{ink}
-$\displaystyle
-\mathrm{CPI}_t = 100\times\frac{\sum_j p_{tj}\,q_{j}}{\sum_j p_{0j}\,q_{j}}$}}\\[6mm]
-{\footnotesize\color{softink}$j$ = item \textperiodcentered{}
-$p_{tj}$ = today's price \textperiodcentered{}
-$q_{j}$ = basket quantity \textperiodcentered{}
-$p_{0j}$ = \textbf{base year} price}
+{\small\color{ink}
+\vspace{-2mm}
+\[
+\mathrm{CPI}_{T}
+=
+100\times
+\dfrac{\displaystyle\sum_{j=1}^{J} p_{T}^{j}\,q^{j}}
+{\displaystyle\sum_{j=1}^{J} p_{0}^{j}\,q^{j}}
+\]}\\[-1mm]
+{\footnotesize\color{ink}
+\begin{tabular}{@{}lcccccc@{}}
+\toprule
+& Good 1 & Good 2 & $\cdots$ & Good $J$ & Total expenditure & CPI \\
+\midrule
+Base period $T{=}0$
+& $p_{01}$ & $p_{02}$ & $\cdots$ & $p_{0J}$
+& $\sum_j p_{0j}\,q_j$
+& $100$ \\[2.5mm]
+Period $T$
+& $p_{T1}$ & $p_{T2}$ & $\cdots$ & $p_{TJ}$
+& $\sum_j p_{Tj}\,q_j$
+& $100\times\dfrac{\sum_j p_{Tj}\,q_j}{\sum_j p_{0j}\,q_j}$ \\
+\bottomrule
+\end{tabular}}\\[4mm]
+{\scriptsize\color{softink}
+$q_j$ = fixed basket quantity \textperiodcentered{}
+prices change; quantities stay fixed}
 \end{frame}
 
 % ---- Inflation / deflation / disinflation + formula ----

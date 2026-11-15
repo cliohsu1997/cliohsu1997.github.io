@@ -68,6 +68,8 @@ The same thing happens with pensions. If you are retired and living on a fixed p
 
 The bigger problem is uncertainty. When inflation is unpredictable, nobody knows what to expect. Borrowers and lenders have to guess. Workers and retirees have to guess. Businesses have to guess. And most people do not like uncertainty — they are risk-averse. So unpredictable inflation makes everyone worse off, even if they end up on the winning side by accident. It is like playing a game where the rules keep changing — you might win, but you cannot plan, and that is stressful and costly.
 
+How big are these costs in total? Estimates suggest the cost of 10% inflation is between 1% and 2% of GDP, and even 3% inflation costs about half a percent of GDP — roughly 40 billion dollars at the time of the estimate. So these are not just textbook labels. Even moderate inflation is expensive for the economy as a whole.
+
 ## Benefits of inflation
 
 So inflation is not only costs. If it were only bad, central banks would aim for zero. There are also benefits. Two of them are on the slide.
