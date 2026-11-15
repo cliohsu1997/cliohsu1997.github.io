@@ -16,11 +16,11 @@ So if we average those five numbers and divide by 5, we get about 259 percent in
 
 ## Is 6% the inflation rate?
 
-So — do you think 6 percent is the inflation rate? One shop. Two days. Five items. That's just a story from a receipt. It's not the official number yet.
+So do you think 6% is the official inflation rate? Here we just focus on one shop — with two days and five items. That's not the official number yet.
 
-Here is another problem. Not everyone buys the same things, so not everyone felt the same rise. Look back at the table. Milk rose 165 percent. Rice rose 329 percent. If your basket is mainly milk, prices rose a lot less for you than if your basket is heavy in rice — or eggs, or cabbage. Bread sits in between. Same store. Same years. Different shopping lists — so different people feel inflation differently.
+Because not everyone buys the same thing, not everyone feels the same rise. Look back at the table: milk rose 165%, and rice rose much more — about two times that magnitude. So if your basket is mainly milk, the price increase would be less for you than if your basket is mainly rice, eggs, and cabbage. People with different shopping lists feel inflation differently.
 
-So even with only five items, different people feel different price rises. How should those items be weighted? Whose basket should we use — the milk drinker's, or the rice buyer's? That is exactly what the official inflation rate has to answer. And the answer is the Consumer Price Index.
+The problem is that without a shared basket, everyone has their own inflation story. To deal with this, we need to find out what basket a normal household uses, and how the CPI — the consumer price index — traces the price change of that basket over time.
 
 ## The Consumer Price Index
 
