@@ -10,7 +10,7 @@ Taipei, Taiwan
 **2026-11-30**
 
 ## How to apply
-Email application materials to **econ@nccu.edu.tw**. Incomplete applications will not be considered. Short-listed candidates invited for interview and job talk.
+Email application materials to **econ@nccu.edu.tw**. Applying as **Assistant Professor** only. Draft: `Application_Email.md`. Incomplete applications will not be considered. Short-listed candidates invited for interview and job talk.
 
 ## Link / email
 - JOE: [https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477745](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477745)

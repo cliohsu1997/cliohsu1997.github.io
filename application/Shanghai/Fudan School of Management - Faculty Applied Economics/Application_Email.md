@@ -16,7 +16,7 @@ Please find attached:
 4. Working paper: “Product Design with Heterogeneous Search Costs” (with Pak Hung Au)
 5. Teaching evaluations
 
-Three recommendation letters from Pak Hung Au, Kohei Kawaguchi, and Kei Kawai will be sent separately to this address.
+Crystal, the secretary of the Department of Economics at HKUST, will send the three recommendation letters on behalf of Pak Hung Au, Kohei Kawaguchi, and Kei Kawai to this address.
 
 Sincerely,
 Ke Cheng Hsu

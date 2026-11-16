@@ -16,4 +16,4 @@ National Central University
 No. 300, Zhongda Road, Zhongli District
 Taoyuan City 32001, Taiwan (R.O.C.)
 
-The mailed set is the cover letter, CV, job market paper, second research paper, transcript, and expected-graduation confirmation. A doctoral diploma is not required for a new Ph.D. and is not available. Three reference letters go separately to ncu6450@ncu.edu.tw.
+The mailed set is the cover letter, CV, job market paper, second research paper, transcript, and expected-graduation confirmation. A doctoral diploma is not required for a new Ph.D. and is not available. Crystal, the secretary of the Department of Economics at HKUST, will send the three recommendation letters on behalf of Pak Hung Au, Kohei Kawaguchi, and Kei Kawai to ncu6450@ncu.edu.tw.

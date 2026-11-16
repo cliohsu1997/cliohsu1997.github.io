@@ -10,7 +10,7 @@ Shanghai, China
 **2026-11-30** (online applications). Senior scholars may inquire year-round about job talks.
 
 ## How to apply
-Email materials to **semhr@tongji.edu.cn** (electronic only). Subject: `Name + Primary Research Field + Desired Position` (e.g. `Surname, Given Name + Labor Economics + Assistant Professor`).
+Email materials to **semhr@tongji.edu.cn** (electronic only). Applying as **Assistant Professor** only. Subject: `Name + Primary Research Field + Desired Position` (e.g. `Surname, Given Name + Labor Economics + Assistant Professor`). Draft: `Application_Email.md`.
 
 ## Link / email
 - JOE: [https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478372](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478372)

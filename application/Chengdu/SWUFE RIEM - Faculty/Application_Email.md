@@ -18,7 +18,7 @@ Please find attached:
 3. Job market paper: “Designing Return Policy in E-Commerce: A Trade-off between Purchase and Return Efficiency”
 4. Working paper: “Product Design with Heterogeneous Search Costs” (with Pak Hung Au)
 
-Three recommendation letters from Pak Hung Au, Kohei Kawaguchi, and Kei Kawai will be sent separately to this address.
+Crystal, the secretary of the Department of Economics at HKUST, will send the three recommendation letters on behalf of Pak Hung Au, Kohei Kawaguchi, and Kei Kawai to this address.
 
 Thank you for your consideration.
 
@@ -38,5 +38,5 @@ https://cliohsu1997.github.io/
 - [ ] `02_CV_HSU_Ke_Cheng.pdf`
 - [ ] `03_JMP_HSU_Ke_Cheng.pdf`
 - [ ] `04_Product_Design_with_Heterogeneous_Search_Costs.pdf`
-- [ ] Ask Au, Kawaguchi, and Kawai to email letters to recruit@swufe.edu.cn by **20 Nov 2026**  
+- [ ] Ask Crystal (HKUST admin) to email letters on behalf of Au, Kawaguchi, and Kawai to recruit@swufe.edu.cn by **20 Nov 2026**  
   Subject: `Recommendation Letters for Ke Cheng HSU — Tenure-track / Tenured Faculty`

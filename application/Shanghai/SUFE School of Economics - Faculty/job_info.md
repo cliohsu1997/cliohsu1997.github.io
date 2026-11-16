@@ -10,7 +10,7 @@ Shanghai, China
 **2026-12-01** (register and upload on recruitment system)
 
 ## How to apply
-Register on the recruitment system [https://jjjxcg.shufe.edu.cn/](https://jjjxcg.shufe.edu.cn/), enter basic personal information, and upload materials.
+Register on the recruitment system [https://jjjxcg.shufe.edu.cn/](https://jjjxcg.shufe.edu.cn/), enter basic personal information, and upload materials. Applying as **Assistant Professor** only. Draft: `Application_Email.md`.
 
 ## Link / email
 - JOE: [https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478293](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478293)

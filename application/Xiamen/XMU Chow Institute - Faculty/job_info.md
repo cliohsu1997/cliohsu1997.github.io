@@ -10,6 +10,7 @@ Xiamen, Fujian, China
 **2026-11-30** (all materials, including letters)
 
 ## How to apply
+Applying as **Assistant Professor** only. Draft: `Application_Email.md`.
 1. Apply via **JOE** or email materials to **chow.recruit@xmu.edu.cn** (electronic only)
 2. Also register and complete the online application at [https://econpub.xmu.edu.cn/chowjobs/login.aspx](https://econpub.xmu.edu.cn/chowjobs/login.aspx)
 

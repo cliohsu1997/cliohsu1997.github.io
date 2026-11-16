@@ -10,7 +10,7 @@ Beijing, China
 **2026-11-30**
 
 ## How to apply
-Email materials to **hr_isem@163.com**.
+Email materials to **hr_isem@163.com**. Applying as **Assistant Professor** only. Draft: `Application_Email.md`.
 
 ## Link / email
 - JOE: [https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478355](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478355)
@@ -42,4 +42,4 @@ Email takes separate files, not one ordered package. Files in `Application_Packa
 - `Product_Design_with_Heterogeneous_Search_Costs.pdf`
 
 ## Recommendation letters
-Two reference letters (Pak Hung Au, Kohei Kawaguchi) — email to **hr_isem@163.com** (tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`).
+Two reference letters (Pak Hung Au, Kohei Kawaguchi) — Crystal sends on behalf of the writers to **hr_isem@163.com**. Subject: `Recommendation Letters for Ke Cheng HSU — Assistant Professor`. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.

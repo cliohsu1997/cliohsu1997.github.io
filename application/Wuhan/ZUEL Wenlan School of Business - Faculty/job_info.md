@@ -10,7 +10,7 @@ Wuhan, Hubei, China
 **2026-12-01** (applicant materials and reference letters)
 
 ## How to apply
-Email materials to **wls@zuel.edu.cn**. Subject: `Application - First Name Last Name - Field - Position (Assistant, Associate, or Full Professor)`.
+Email materials to **wls@zuel.edu.cn**. Applying as **Assistant Professor** only. Subject: `Application - First Name Last Name - Field - Position (Assistant, Associate, or Full Professor)`. Draft: `Application_Email.md`.
 
 ## Link / email
 - JOE: [https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478022](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478022)

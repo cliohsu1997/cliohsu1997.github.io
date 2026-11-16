@@ -10,7 +10,7 @@ Guangzhou, Guangdong, China
 **2026-12-01**
 
 ## How to apply
-Submit materials (JOE listing / institute process). Contact: **iesr_job@126.com**.
+Submit materials (JOE listing / institute process). Contact: **iesr_job@126.com**. Applying as **Assistant Professor** only. Draft: `Application_Email.md`.
 
 ## Link / email
 - JOE: [https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477972](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477972)

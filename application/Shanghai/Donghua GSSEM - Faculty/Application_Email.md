@@ -22,7 +22,7 @@ Please find attached:
 5. Research statement (including future research agenda)
 6. Academic CVs of my two supervisors, Pak Hung Au and Kohei Kawaguchi
 
-Three recommendation letters from Pak Hung Au, Kohei Kawaguchi, and Kei Kawai will be sent separately to this address.
+Crystal, the secretary of the Department of Economics at HKUST, will send the three recommendation letters on behalf of Pak Hung Au, Kohei Kawaguchi, and Kei Kawai to this address.
 
 Thank you for your consideration.
 
@@ -45,5 +45,5 @@ https://cliohsu1997.github.io/
 - [ ] `05_Research_Statement_HSU_Ke_Cheng.pdf`
 - [ ] `06_1_CV_Pak_Hung_Au.pdf`
 - [ ] `06_2_CV_Kohei_Kawaguchi.pdf`
-- [ ] Ask Au, Kawaguchi, and Kawai to email letters to zhoulili@dhu.edu.cn  
+- [ ] Ask Crystal (HKUST admin) to email letters on behalf of Au, Kawaguchi, and Kawai to zhoulili@dhu.edu.cn  
   Subject: `Recommendation Letters for Ke Cheng HSU — Assistant Professor (Industrial Economics)`

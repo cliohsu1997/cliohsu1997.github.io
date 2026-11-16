@@ -22,7 +22,7 @@ Please find attached:
 6. Working paper, “Product Design with Heterogeneous Search Costs”
 7. Expected-graduation confirmation
 
-Three recommendation letters from Pak Hung Au, Kohei Kawaguchi, and Kei Kawai will be sent to this address.
+Crystal, the secretary of the Department of Economics at HKUST, will send the three recommendation letters on behalf of Pak Hung Au, Kohei Kawaguchi, and Kei Kawai to this address.
 
 Thank you for your consideration.
 
@@ -41,5 +41,5 @@ https://cliohsu1997.github.io/
 - [ ] Recent color ID photo on the CV (passport-style headshot). The current CV has none.
 - [ ] Identification document (passport or ID copy). Not in this folder.
 - [ ] A third representative paper, if you want to match the posting’s “three” exactly. Only two papers are ready.
-- [ ] Letters from Au, Kawaguchi, and Kawai to zibs-hr@intl.zju.edu.cn  
+- [ ] Ask Crystal (HKUST admin) to send letters on behalf of Au, Kawaguchi, and Kawai to zibs-hr@intl.zju.edu.cn  
   Subject: `Ke Cheng HSU - Postdoctoral Position in Marketing`

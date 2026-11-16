@@ -19,7 +19,7 @@ Please find attached:
 5. Evidence of teaching effectiveness (course evaluations)
 6. Signed confirmation of expected Ph.D. graduation
 
-Three confidential letters of reference will be sent separately by HKUST on behalf of my referees (Pak Hung Au, Kohei Kawaguchi, and Kei Kawai) to this address.
+Crystal, the secretary of the Department of Economics at HKUST, will send the three recommendation letters on behalf of Pak Hung Au, Kohei Kawaguchi, and Kei Kawai to this address.
 
 Thank you for your consideration.
 
@@ -43,4 +43,4 @@ https://cliohsu1997.github.io/
 - [ ] `04b_Product_Design_with_Heterogeneous_Search_Costs.pdf`
 - [ ] `06_Teaching_Evaluations_HSU_Ke_Cheng.pdf`
 - [ ] `07_Expected_Graduation_Confirmation.pdf`
-- [ ] Ask HKUST to email letters on behalf of Au, Kawaguchi, and Kawai to faculty.search@c2c.ac.jp by **6 Nov 2026**
+- [ ] Ask Crystal (HKUST admin) to email letters on behalf of Au, Kawaguchi, and Kawai to faculty.search@c2c.ac.jp by **6 Nov 2026**
