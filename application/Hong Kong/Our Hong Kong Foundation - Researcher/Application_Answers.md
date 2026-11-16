@@ -1,11 +1,13 @@
 # Our Hong Kong Foundation — Researcher application answers
 
 ## Materials to attach / upload
-One combined PDF: `Application_HSU_Ke_Cheng_OHKF.pdf`
+Prefer one combined PDF: `Application_HSU_Ke_Cheng_OHKF.pdf` (cover, resume, transcript, writing sample last).
+
+Or from `Application_Package_HSU_Ke_Cheng_OHKF/` / `.zip`:
 1. Cover letter
 2. Industry resume
 3. Academic transcript
-4. Writing sample (job market paper; last)
+4. Writing sample (job market paper)
 
 ## Present and expected salary
 - **Present:** Postgraduate studentship, HKUST (Ph.D. candidate)
