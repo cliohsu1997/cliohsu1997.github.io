@@ -36,5 +36,5 @@ https://cliohsu1997.github.io/
 
 ---
 
-**Attach:** `Application_HSU_Ke_Cheng_Chu_Hai.pdf`  
-(or the individual files in `Application_Package_HSU_Ke_Cheng_Chu_Hai/`)
+**Attach:** `Application_Package_HSU_Ke_Cheng_Chu_Hai.zip`  
+(or `Application_HSU_Ke_Cheng_Chu_Hai.pdf`)
