@@ -1,0 +1,96 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[margin=0.28in]{geometry}
+\usepackage{hyperref}
+\hypersetup{colorlinks=false, urlcolor=black, pdfborder=0 0 0}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\renewcommand{\baselinestretch}{0.82}
+\setlength{\lineskip}{0pt}
+\setlength{\lineskiplimit}{0pt}
+
+\makeatletter
+\renewcommand{\@listi}{%
+  \leftmargin=\leftmargini
+  \rightmargin=0pt
+  \labelsep=4pt
+  \labelwidth=16pt
+  \itemindent=0pt
+  \listparindent=0pt
+  \topsep=0pt
+  \partopsep=0pt
+  \parsep=0pt
+  \itemsep=-11pt
+}
+\let\saveditemize\itemize
+\let\savedenditemize\enditemize
+\renewcommand{\itemize}{\bgroup\setlength{\baselineskip}{0.65\baselineskip}\saveditemize}
+\renewcommand{\enditemize}{\savedenditemize\egroup}
+\makeatother
+
+\begin{document}
+
+{\Large \textbf{HSU, Ke-Cheng (Clio)}}\\[1pt]
+(852) 6840 9753 \quad $|$ \quad \href{mailto:khsu@connect.ust.hk}{khsu@connect.ust.hk} \quad $|$ \quad \href{https://github.com/cliohsu1997}{github.com/cliohsu1997} \quad $|$ \quad \href{https://cliohsu1997.github.io/}{cliohsu1997.github.io}
+
+\vspace{0.15pt}
+
+{\large \textbf{Professional Summary}}\\[-0.5pt]
+PhD candidate in Economics at HKUST (Math \& Econ B.Sc.\ top~1\% medal; M.Phil.\ CGA 4.1/4.3) seeking Digital Asset Trading Operator role. Learns proprietary systems and procedures quickly; follows instructions exactly; monitors live transaction/position/balance data; investigates anomalies; reconciles records; produces clear P\&L/risk summaries; Mandarin/English handovers. Open to 24/7 rotating shifts. Hong Kong permanent resident; available as early as February 2027.
+
+\vspace{0.15pt}
+
+{\large \textbf{Education}}\\[-0.5pt]
+\textbf{The Hong Kong University of Science and Technology}, Hong Kong\\
+\textit{Doctor of Philosophy in Economics} \hfill Expected: June 2027 (available Feb 2027)\\
+\textit{Master of Philosophy in Economics}, CGA: 4.1/4.3 \hfill 2020--2022\\
+\textit{Bachelor of Science in Mathematics and Economics, Minor in Actuarial Mathematics}, CGA: 3.9/4.3 \hfill 2015--2019\\
+Awards: Dean's List (2016--2019); University Scholarship (730K HKD); Academic Achievement Medal (top 1\%); Postgraduate studentship (1.5M HKD).
+
+\vspace{0.15pt}
+
+{\large \textbf{Relevant Experience}}\\[-0.5pt]
+\textbf{Research Assistant}, National Taiwan University \hfill 2020\\
+\vspace{-6pt}
+\begin{itemize}
+  \item Simulated interbank crisis dynamics; tracked cash/liquidity pressure and counterparty exposure when risk controls fail---practice thinking in balances, limits, and cascade risk.
+\end{itemize}
+\textbf{Teaching Assistant Coordinator}, Business School, HKUST \hfill 2025--2026\\
+\vspace{-6pt}
+\begin{itemize}
+  \item Enforced one operating standard for team materials before release; clear handoffs and procedure compliance.
+\end{itemize}
+\textbf{Teaching Assistant \& Lecturer}, Department of Economics, HKUST \hfill 2020--present\\
+\vspace{-6pt}
+\begin{itemize}
+  \item Deliver precise instructions under fixed schedules (lecturer 4.53/5; TA avg 4.72/5).
+\end{itemize}
+
+\vspace{0.15pt}
+
+{\large \textbf{Projects (operations-relevant)}}\\[-0.5pt]
+\textbf{Large-scale transaction pipeline (Taobao return-policy study)} \textit{--- sole-authored JMP}\\
+\vspace{-6pt}
+\begin{itemize}
+  \item Executed a controlled Python / R / C++ workflow on AWS/HPC: ingest trades, link orders/prices/insurance/returns, flag anomalies, and reconcile raw files to final tables before any decision output.
+  \item Produced daily-style summaries of volumes, profits, and scenario P\&L/welfare (e.g.\ moderate restocking-fee menu: about +2M RMB welfare / $\sim$5\% and +1.2M RMB profit vs status quo).
+\end{itemize}
+\vspace{-3pt}
+\textbf{Position and flow monitoring (bookstore RPM study)} \textit{--- w/ Kawaguchi \& Kawai}\\
+\vspace{-6pt}
+\begin{itemize}
+  \item Built and reconciled POS panels (deliveries, sales, returns; tens of billions of records); monitored stockouts and inventory flows; issued weekly position/performance figures on a hard deadline.
+\end{itemize}
+
+\vspace{0.15pt}
+
+{\large \textbf{Skills}}\\[-0.5pt]
+\textbf{Languages:} Mandarin (Native), English (Fluent), Cantonese (Basic).\\
+\textbf{Tools:} Python, Excel, R, MATLAB, C++, Word, PowerPoint; reconciliation, anomaly detection, automation, reporting.\\
+\textbf{Fit notes:} Fast learner of proprietary systems; willing to work day/night/weekend/public-holiday shifts.\\
+\textbf{References:} Kei Kawai (UTokyo; Compass Lexecon), Kohei Kawaguchi (HKUST), Pak Hung Au (HKUST).
+
+\end{document}
