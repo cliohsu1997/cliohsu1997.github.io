@@ -42,4 +42,4 @@ Email takes separate files, not one ordered package. Files in `Application_Packa
 - `Product_Design_with_Heterogeneous_Search_Costs.pdf`
 
 ## Recommendation letters
-Two reference letters — email to **hr_isem@163.com** (tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`).
+Two reference letters (Pak Hung Au, Kohei Kawaguchi) — email to **hr_isem@163.com** (tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`).

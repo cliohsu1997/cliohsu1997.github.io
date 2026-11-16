@@ -26,5 +26,12 @@ SAE (formed 2019) has four units: National Economy Management, Energy Economics,
 - Job market paper(s)
 - Evidence of teaching effectiveness
 
+JOE takes separate uploads. Files in `Application_Package_HSU_Ke_Cheng_Renmin_SAE/`:
+- `Cover_Letter_HSU_Ke_Cheng_Renmin_SAE.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
+- `Teaching_Evaluations.pdf`
+
 ## Recommendation letters
-Three reference letters via **JOE**. Not added to the email-only `recommendation_letters_to_send` tracker.
+Three reference letters via **JOE** (Pak Hung Au, Kohei Kawaguchi, Kei Kawai). Not added to the email-only `recommendation_letters_to_send` tracker.
