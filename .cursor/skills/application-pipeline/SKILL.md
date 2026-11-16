@@ -5,14 +5,34 @@ description: >-
   job description or posting URL, scrape/confirm the JD, create the location
   and job folders under application/, write job_info.md, update
   application_list and recommendation_letters_to_send (Excel + PDF), and
-  recompile list PDFs. Use when the user adds a new JD, asks to update the
-  application list, recommendation letters list, or says to follow the
-  application pipeline.
+  recompile list PDFs. HARD REQUIREMENT: every industry CV and cover letter
+  must be a full dense exactly-1-page document (never short stubs). Use when
+  the user adds a new JD, asks to update the application list, recommendation
+  letters list, or says to follow the application pipeline.
 ---
 
 # Application pipeline
 
 Repo root: `cliohsu1997.github.io`. All paths below are under `application/`.
+
+## HARD REQUIREMENT — full-page industry CV + cover letter (never skip)
+
+**Non-negotiable for every industry / finance / consulting / MT / ops / quant / data / banking / trading role:**
+
+1. **CV = full dense exactly 1 page.** Baseline = OHKF/FTI density. Required body:
+   - Full Education + research line + CGA + full awards (Dean's List, University Scholarship, Academic Achievement Medal, Postgraduate studentship, Redbird)
+   - Experience: RA + Teaching (full ratings); fold TA Coordinator into teaching if needed for space
+   - Projects: **full** RPM (3 bullets) + **full** JMP (3 bullets) — never one-line stubs
+   - Skills: Languages + Technical
+   - Tailor **only** Professional Summary / light fit wording to the JD
+2. **Cover letter = full dense exactly 1 page.** JD-mapped paragraphs with concrete evidence and numbers. Never a half-page / sparse letter.
+3. **Verify with `pdfinfo` (or equivalent): Pages = 1** for both PDFs before telling the user the package is ready.
+4. If overflow: trim summary or merge teaching lines — **never** gut projects or ship a short CV/letter.
+5. Copy both full PDFs into `Application_Package_*`.
+6. Canonical CV: `application/Hong Kong/Our Hong Kong Foundation - Researcher/Resume_HSU_Ke_Cheng_OHKF.tex`.
+7. Also mirrored in `.cursor/rules/application-materials.mdc`.
+
+**Forbidden:** short/thin/abbreviated industry resumes; stub project sections; half-page cover letters; “lighter CV for MT/ops” shortcuts.
 
 ## When to use
 
@@ -72,15 +92,12 @@ Use this skill whenever the user:
    - When the user marks jobs for Crystal, set Status to **To send** (`Sent?` = No). After Crystal sends, set Status to **Sent** and `Sent?` to **Yes**, then re-unify (re-sort, recolor Excel, regenerate `.tex`, recompile PDF).
    - If the user says “unify the recommendation list,” run this full Excel↔PDF sync even when row content did not change.
 
-7. **Resumes / CVs (when drafting) — industry = full page always**
-   - For **every industry / finance / consulting / MT / ops / quant / data** role: use the **full dense OHKF/FTI one-pager**, never a short stub CV.
-   - Required: full Education + awards; RA + teaching (full ratings); **full** RPM (3 bullets) + **full** JMP (3 bullets); Languages + Technical skills.
-   - Tailor only the Professional Summary / light fit wording to the JD. Do **not** gut projects or education to “match” the role.
-   - Must compile to **exactly 1 page**. If overflow, trim summary or merge teaching lines — never replace full projects with one-line stubs.
+7. **Resumes / CVs (when drafting)**
+   - Obey the **HARD REQUIREMENT** section above. No exceptions for “simple” or MT/ops roles.
    - Canonical template: `application/Hong Kong/Our Hong Kong Foundation - Researcher/Resume_HSU_Ke_Cheng_OHKF.tex`.
-   - Also enforced in `.cursor/rules/application-materials.mdc`.
 
 8. **Cover letters (when drafting)**
+   - Obey the **HARD REQUIREMENT** section above (full dense 1 page for industry).
    - Do **not** put the AEA JOE ID / JOE listing number (or similar AEA reference codes) in the cover letter body or letterhead.
    - Prefer the school / unit name and position title only.
    - For email-path apps, say Crystal (secretary, Department of Economics, HKUST) will send the letters on behalf of the named referees.
@@ -104,6 +121,7 @@ Use this skill whenever the user:
 
 ## Do not
 
+- **Ship a short industry CV or short industry cover letter** (violates HARD REQUIREMENT).
 - Invent nationality, deadlines, or materials not in the JD.
 - Put recommendation letters in the application-list Materials / How-to-apply as if the applicant mails them, when the JD says writers send letters directly.
 - Put AEA JOE / listing numbers in cover letters.
@@ -115,4 +133,4 @@ Use this skill whenever the user:
 
 ## After finishing
 
-Briefly tell the user: folder path, application-list row, whether a recommendation-letter row was added, and what applicant materials the JD lists.
+Briefly tell the user: folder path, application-list row, whether a recommendation-letter row was added, what applicant materials the JD lists, and confirm **both CV and cover are full 1-page** (`pdfinfo` Pages: 1).
