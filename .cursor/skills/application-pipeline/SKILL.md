@@ -72,7 +72,15 @@ Use this skill whenever the user:
    - When the user marks jobs for Crystal, set Status to **To send** (`Sent?` = No). After Crystal sends, set Status to **Sent** and `Sent?` to **Yes**, then re-unify (re-sort, recolor Excel, regenerate `.tex`, recompile PDF).
    - If the user says “unify the recommendation list,” run this full Excel↔PDF sync even when row content did not change.
 
-7. **Cover letters (when drafting)**
+7. **Resumes / CVs (when drafting) — industry = full page always**
+   - For **every industry / finance / consulting / MT / ops / quant / data** role: use the **full dense OHKF/FTI one-pager**, never a short stub CV.
+   - Required: full Education + awards; RA + teaching (full ratings); **full** RPM (3 bullets) + **full** JMP (3 bullets); Languages + Technical skills.
+   - Tailor only the Professional Summary / light fit wording to the JD. Do **not** gut projects or education to “match” the role.
+   - Must compile to **exactly 1 page**. If overflow, trim summary or merge teaching lines — never replace full projects with one-line stubs.
+   - Canonical template: `application/Hong Kong/Our Hong Kong Foundation - Researcher/Resume_HSU_Ke_Cheng_OHKF.tex`.
+   - Also enforced in `.cursor/rules/application-materials.mdc`.
+
+8. **Cover letters (when drafting)**
    - Do **not** put the AEA JOE ID / JOE listing number (or similar AEA reference codes) in the cover letter body or letterhead.
    - Prefer the school / unit name and position title only.
    - For email-path apps, say Crystal (secretary, Department of Economics, HKUST) will send the letters on behalf of the named referees.

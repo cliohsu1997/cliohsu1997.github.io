@@ -27,6 +27,19 @@ alwaysApply: false
 - CV and cover letter must use identical phrasing and numbers for the same fact.
 - Graduation date appears once (Education), not repeated in the summary.
 
+## Industry / non-academic resumes — ALWAYS FULL PAGE (hard rule)
+- **NEVER** ship a short / thin / abbreviated industry resume (one-line experience bullets, stub project sections, missing awards, missing full JMP/RPM detail).
+- **ALWAYS** use the full dense OHKF / FTI one-pager as the baseline for every industry, finance, consulting, MT, ops, quant, and data role under `application/`.
+- Required content on every industry resume (adapt summary/skills to the JD; do not strip body):
+  - Full Education block with research line, CGA lines, and full awards (Dean's List, University Scholarship, Academic Achievement Medal, Postgraduate studentship, Redbird).
+  - Experience: Research Assistant + Teaching Assistant & Lecturer (full ratings); fold TA Coordinator into teaching if space is tight — do not delete substance to make a “short CV”.
+  - Projects: **full** RPM (3 bullets) + **full** JMP / Return Policy (3 bullets) at OHKF length — never a one-bullet stub.
+  - Skills: Languages + Technical (+ AI / role Fit only if it still fits **one** page).
+- Tailor the **Professional Summary** and light role-fit wording to the JD; do **not** “simplify” by gutting projects or education.
+- Compile and confirm **exactly 1 page**. If it overflows, trim summary / merge teaching lines — **never** by deleting full project bullets into stubs.
+- After compiling, copy the resume PDF into that job’s `Application_Package_*` folder so the package matches the full CV.
+- Canonical density reference: `application/Hong Kong/Our Hong Kong Foundation - Researcher/Resume_HSU_Ke_Cheng_OHKF.tex`.
+
 ## Workflow
 - After any .tex edit: run pdflatex twice, then delete .aux/.log/.out.
 - CV and cover letter must each stay on 1 page.
