@@ -11,6 +11,7 @@
 \renewcommand{\arraystretch}{1.08}
 \definecolor{headerblue}{HTML}{1F4E79}
 \definecolor{subheader}{HTML}{5B6B7A}
+\definecolor{sent}{HTML}{D6EAF8}
 \definecolor{tosend}{HTML}{E2EFDA}
 \definecolor{pending}{HTML}{FFF2CC}
 \newcommand{\headercell}[1]{\textcolor{white}{\bfseries #1}}
@@ -19,25 +20,26 @@
 {\color{headerblue}\rule{\textwidth}{1.6pt}}\\[-0.4em]
 {\color{headerblue}\rule{\textwidth}{0.4pt}}
 \vspace{0.25em}
-{\color{subheader}\scriptsize Ke Cheng Hsu (Clio) $\cdot$ Department of Economics, HKUST $\cdot$ Updated 12 November 2026}\\[0.1em]
-{\scriptsize Only jobs where writers \textbf{email} letters (not JOE / EJM / portal upload). Only send rows with Status \textbf{To send}. Leave \textbf{Pending} rows unsent. Ordered Sent $\rightarrow$ To send $\rightarrow$ Pending. Email subject lines are in the Excel tracker only.}
+{\color{subheader}\scriptsize Ke Cheng Hsu (Clio) $\cdot$ Department of Economics, HKUST $\cdot$ Updated 16 November 2026}\\[0.1em]
+{\scriptsize Only jobs where writers \textbf{email} letters (not JOE / EJM / portal upload). Colors: \textbf{blue} = already sent; \textbf{green} = To send; \textbf{yellow} = Pending. Ordered by status group, then deadline. Email subject lines are in the Excel tracker only.}
 \vspace{0.35em}
 \scriptsize
 \begin{tabularx}{\textwidth}{@{}>{\raggedright\arraybackslash}p{3.1cm}>{\raggedright\arraybackslash}p{1.85cm}>{\raggedright\arraybackslash}p{1.5cm}>{\raggedright\arraybackslash}p{2.1cm}>{\raggedright\arraybackslash}p{3.1cm}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{1.1cm}>{\raggedright\arraybackslash}p{0.8cm}@{}}
 \rowcolor{headerblue}
 \headercell{Institution} & \headercell{Position} & \headercell{Deadline} & \headercell{How to apply} & \headercell{Email / contact} & \headercell{Materials} & \headercell{Referees} & \headercell{Status} & \headercell{Sent?} \\
-\rowcolor{tosend}
-CUHK-SZ (Zhang Yiming Project, PR2026/049/01) & Post Doctoral Fellow & 2026-11-01 & Email (writers send letters directly) & \href{mailto:zhangyiming@cuhk.edu.cn}{zhangyiming@cuhk.edu.cn} & Two recommendation letters & Kohei Kawaguchi, Kei Kawai & \textbf{To send} & Yes \\
-\rowcolor{tosend}
-Fudan University (School of Economics) & Assistant Professor & 2026-11-01 & Email (writers send letters directly) & \href{mailto:econsearch@fudan.edu.cn}{econsearch@fudan.edu.cn} & Three recommendation letters & Pak Hung Au, Kohei Kawaguchi, Kei Kawai & \textbf{To send} & Yes \\
-\rowcolor{tosend}
-Yamanashi Gakuin University (iCLA) & Lecturer (Economics and Finance) & 2026-11-06 & Email (HKUST sends on behalf of writers) & \href{mailto:faculty.search@c2c.ac.jp}{faculty.search@c2c.ac.jp} & Three recommendation letters & Pak Hung Au, Kohei Kawaguchi, Kei Kawai & \textbf{To send} & Yes \\
-\rowcolor{tosend}
-Fudan University School of Management (Applied Economics) & Assistant Professor & 2026-11-15 & Email (writers send letters directly) & \href{mailto:hrfdms@fudan.edu.cn}{hrfdms@fudan.edu.cn} & Three recommendation letters & Pak Hung Au, Kohei Kawaguchi, Kei Kawai & \textbf{To send} & Yes \\
-\rowcolor{tosend}
-SWUFE RIEM & Tenure-track / tenured & 2026-11-20 & Email (writers send letters directly) & \href{mailto:recruit@swufe.edu.cn}{recruit@swufe.edu.cn} & Three recommendation letters & Pak Hung Au, Kohei Kawaguchi, Kei Kawai & \textbf{To send} & Yes \\
-\rowcolor{tosend}
-Donghua University GSSEM & Assistant Professor (Industrial Economics) & 2027-01-01 & Email (writers send letters directly) & \href{mailto:zhoulili@dhu.edu.cn}{zhoulili@dhu.edu.cn} & Three recommendation letters & Pak Hung Au, Kohei Kawaguchi, Kei Kawai & \textbf{To send} & Yes \\
+
+\rowcolor{sent}
+CUHK-SZ (Zhang Yiming Project, PR2026/049/01) & Post Doctoral Fellow & 2026-11-01 & Email (writers send letters directly) & \href{mailto:zhangyiming@cuhk.edu.cn}{zhangyiming@cuhk.edu.cn} & Two recommendation letters & Kohei Kawaguchi, Kei Kawai & \textbf{Sent} & Yes \\
+\rowcolor{sent}
+Fudan University (School of Economics) & Assistant Professor & 2026-11-01 & Email (writers send letters directly) & \href{mailto:econsearch@fudan.edu.cn}{econsearch@fudan.edu.cn} & Three recommendation letters & Pak Hung Au, Kohei Kawaguchi, Kei Kawai & \textbf{Sent} & Yes \\
+\rowcolor{sent}
+Yamanashi Gakuin University (iCLA) & Lecturer (Economics and Finance) & 2026-11-06 & Email (HKUST sends on behalf of writers) & \href{mailto:faculty.search@c2c.ac.jp}{faculty.search@c2c.ac.jp} & Three recommendation letters & Pak Hung Au, Kohei Kawaguchi, Kei Kawai & \textbf{Sent} & Yes \\
+\rowcolor{sent}
+Fudan University School of Management (Applied Economics) & Assistant Professor & 2026-11-15 & Email (writers send letters directly) & \href{mailto:hrfdms@fudan.edu.cn}{hrfdms@fudan.edu.cn} & Three recommendation letters & Pak Hung Au, Kohei Kawaguchi, Kei Kawai & \textbf{Sent} & Yes \\
+\rowcolor{sent}
+SWUFE RIEM & Tenure-track / tenured & 2026-11-20 & Email (writers send letters directly) & \href{mailto:recruit@swufe.edu.cn}{recruit@swufe.edu.cn} & Three recommendation letters & Pak Hung Au, Kohei Kawaguchi, Kei Kawai & \textbf{Sent} & Yes \\
+\rowcolor{sent}
+Donghua University GSSEM & Assistant Professor (Industrial Economics) & 2027-01-01 & Email (writers send letters directly) & \href{mailto:zhoulili@dhu.edu.cn}{zhoulili@dhu.edu.cn} & Three recommendation letters & Pak Hung Au, Kohei Kawaguchi, Kei Kawai & \textbf{Sent} & Yes \\
 \rowcolor{tosend}
 Peking University Guanghua School of Management & Assistant Professor & 2026-11-20 & Email (writers send letters directly) & \href{mailto:recruitment@gsm.pku.edu.cn}{recruitment@gsm.pku.edu.cn} & Three recommendation letters & Pak Hung Au, Kohei Kawaguchi, Kei Kawai & \textbf{To send} & No \\
 \rowcolor{tosend}
