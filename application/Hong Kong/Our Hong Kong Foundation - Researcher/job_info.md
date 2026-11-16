@@ -33,9 +33,7 @@ Hands-on policy research lifecycle (data, literature, synthesis, reports); draft
 
 Employer form questions (Jobsdb / Apply Now): right to work in Hong Kong; years as a Researcher; highest education; expected monthly basic salary.
 
-- Combined PDF: `Application_HSU_Ke_Cheng_OHKF.pdf` (cover, resume, transcript, writing sample / JMP last)
-- Separate files / zip: `Application_Package_HSU_Ke_Cheng_OHKF/` and `Application_Package_HSU_Ke_Cheng_OHKF.zip`
-- `Application_Answers.md` (salary, availability, form answers)
+Submit one combined PDF: `Application_HSU_Ke_Cheng_OHKF.pdf` (cover, resume, transcript, writing sample / JMP last). See also `Application_Answers.md` (salary, availability, form answers).
 
 ## Recommendation letters
 Not required. Do not add to `recommendation_letters_to_send`.
