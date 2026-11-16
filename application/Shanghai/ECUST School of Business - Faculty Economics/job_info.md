@@ -21,8 +21,17 @@ Submit via the **AEA / JOE** online system. Questions: **Dr. Li** at **jingchaol
 Priority fields: Microeconomics; Econometrics; Public economics; International trade; Regional economics; Industrial organization (including economics of contracts and the digital economy).
 
 ## Applicant materials
+JOE lists:
 - CV
 - Job market paper
+- Letters of reference
+
+Cover letter is optional (not required on JOE). Drafted anyway for upload if the portal allows other materials.
+
+Files in `Application_Package_HSU_Ke_Cheng_ECUST/`:
+- `Cover_Letter_HSU_Ke_Cheng_ECUST.pdf` (optional)
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
 
 ## Recommendation letters
-Letters of reference (via JOE). Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
+Letters of reference via **JOE**. Writers submit on JOE, so this job is not on the email-only `recommendation_letters_to_send` tracker.
