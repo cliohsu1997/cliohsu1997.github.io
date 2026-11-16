@@ -30,20 +30,19 @@ Start **2027-08-01**. All fields welcome; preference for Assistant or Associate 
 - List of publications
 - Sample syllabi for 2–4 courses
 
-The cover letter applies at the Assistant Professor rank. There is no doctoral diploma. Five sample syllabi are in `syllabi/`. The package includes four, which is the posting's upper limit.
+The cover letter applies at the Assistant Professor rank. There is no doctoral diploma. Source syllabi live in `syllabi/`. The package sends three (within the posting’s 2–4 range); Industrial Economics is omitted.
 
 Email takes separate files. Files in `Application_Package_HSU_Ke_Cheng_NCCU/`:
-- `Cover_Letter_HSU_Ke_Cheng_NCCU.pdf`
-- `CV_HSU_Ke_Cheng.pdf`
-- `JMP_HSU_Ke_Cheng.pdf`
-- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
-- `Publication_List_HSU_Ke_Cheng.pdf`
-- `Transcript.pdf`
-- `Expected_Graduation_Confirmation.pdf`
-- `Syllabus_Principles_of_Microeconomics.pdf`
-- `Syllabus_Microeconomic_Theory_I.pdf`
-- `Syllabus_Industrial_Economics.pdf`
-- `Syllabus_Uncertainty_and_Information.pdf`
+- `01_Cover_Letter_HSU_Ke_Cheng_NCCU.pdf`
+- `02_CV_HSU_Ke_Cheng.pdf`
+- `03_Expected_Graduation_Confirmation.pdf`
+- `04_Transcript.pdf`
+- `05_JMP_HSU_Ke_Cheng.pdf`
+- `06_Product_Design_with_Heterogeneous_Search_Costs.pdf`
+- `07_Publication_List_HSU_Ke_Cheng.pdf`
+- `08_1_Syllabus_Principles_of_Microeconomics.pdf`
+- `08_2_Syllabus_Microeconomic_Theory_I.pdf`
+- `08_3_Syllabus_Uncertainty_and_Information.pdf`
 
 ## Recommendation letters
 Three letters of recommendation — email to **econ@nccu.edu.tw**. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
