@@ -27,18 +27,13 @@ Hands-on policy research lifecycle (data, literature, synthesis, reports); draft
 - Full resume / CV
 - Cover letter
 - Academic transcripts (public examination results if applicable)
-- Short writing sample or prior research studies (package uses JMP as `04_Writing_Sample`)
+- Short writing sample or prior research studies (JMP, last in combined PDF)
 - Present and expected salary
 - Availability
 
 Employer form questions (Jobsdb / Apply Now): right to work in Hong Kong; years as a Researcher; highest education; expected monthly basic salary.
 
-Files in `Application_Package_HSU_Ke_Cheng_OHKF/`:
-- `01_Cover_Letter_HSU_Ke_Cheng_OHKF.pdf`
-- `02_Resume_HSU_Ke_Cheng_OHKF.pdf` (industry resume)
-- `03_Transcript.pdf`
-- `04_Writing_Sample_HSU_Ke_Cheng.pdf` (job market paper)
-- `Application_Answers.md` (salary, availability, form answers)
+Submit one combined PDF: `Application_HSU_Ke_Cheng_OHKF.pdf` (cover letter, industry resume, transcript, then writing sample / JMP). See also `Application_Answers.md` (salary, availability, form answers).
 
 ## Recommendation letters
 Not required. Do not add to `recommendation_letters_to_send`.
