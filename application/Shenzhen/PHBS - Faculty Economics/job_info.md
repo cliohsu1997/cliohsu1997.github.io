@@ -36,3 +36,6 @@ Files in `Application_Package_HSU_Ke_Cheng_PHBS/`:
 - `Teaching_Evaluations.pdf`
 
 The posting asks for one sample paper. The job market paper is that file. Teaching evaluations are the teaching evidence. The three letters are not in this folder.
+
+## Status
+Will not apply (removed from application list).

@@ -34,4 +34,4 @@ Undergraduate International Business Studies (IBS), TUJ’s largest major. Conne
 The posting asks for three references’ **contact information on the CV**. It does not ask writers to email letters at the initial stage. Not added to `recommendation_letters_to_send.xlsx`.
 
 ## Status
-To apply.
+Will not apply (removed from application list).

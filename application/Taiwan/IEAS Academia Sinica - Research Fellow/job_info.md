@@ -10,7 +10,7 @@ Taipei, Taiwan
 **2026-12-01**
 
 ## How to apply
-Submit a complete application package (JOE listing). Contact: **searchcommit@econ.sinica.edu.tw** (Ms. Hanpei Tseng).
+Submit via **AEA JOE** only (cover letter; CV; JMP; three letters of reference via JOE). Contact: **searchcommit@econ.sinica.edu.tw** (Ms. Hanpei Tseng).
 
 ## Link / email
 - JOE: [https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477843](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111477843)
@@ -31,4 +31,4 @@ JOE takes separate uploads. Files in `Application_Package_HSU_Ke_Cheng_IEAS/`:
 - `JMP_HSU_Ke_Cheng.pdf`
 
 ## Recommendation letters
-Three recommendation letters. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
+Three letters via **JOE**. Not on the email recommendation-letter tracker.
