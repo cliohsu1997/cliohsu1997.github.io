@@ -10,7 +10,7 @@
 
 Dear Ms. Cheng,
 
-I am writing to apply for a full-time tenure-track faculty position in the Department of International Business, National Taiwan University, to begin Fall 2027. Please find attached my cover letter addressed to Professor Jr-Yan Wang, Chairperson, my curriculum vitae, and my research statement with current publications.
+I am writing to apply for a full-time tenure-track faculty position in the Department of International Business, National Taiwan University, to begin Fall 2027. Please find attached my cover letter addressed to Professor Jr-Yan Wang, Chairperson, my curriculum vitae, my research statement with current working papers, and my job market paper.
 
 I am a Ph.D. candidate in Economics at the Hong Kong University of Science and Technology (expected June 2027). My research is in quantitative marketing and empirical industrial organization.
 
@@ -32,6 +32,7 @@ https://cliohsu1997.github.io/
 1. `01_Cover_Letter_HSU_Ke_Cheng_NTU_IB.pdf`
 2. `02_CV_HSU_Ke_Cheng.pdf`
 3. `03_Research_Statement_HSU_Ke_Cheng_NTU_IB.pdf`
+4. `04_JMP_HSU_Ke_Cheng.pdf`
 
 ## Letters (writers / Crystal)
 - To: stellacheng@ntu.edu.tw  

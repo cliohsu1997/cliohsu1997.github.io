@@ -27,11 +27,12 @@ Tenure-track Assistant or Associate Professor. Doctoral degree required. Strong 
 - Cover letter addressed to Professor Jr-Yan Wang, Chairperson
 - Curriculum vitae
 - Research statement with current publications
+- Job market paper (attached as supporting working paper; not required by JD)
 
 (Background check and degree verification upon contingent offer.)
 
 ## Files
-- `Application_Package_HSU_Ke_Cheng_NTU_IB/` — cover + CV + research statement
+- `Application_Package_HSU_Ke_Cheng_NTU_IB/` — cover + CV + research statement + JMP
 - `Application_Email.md`
 
 ## Recommendation letters
