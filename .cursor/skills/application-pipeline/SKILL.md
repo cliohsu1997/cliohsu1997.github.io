@@ -15,6 +15,10 @@ description: >-
 
 Repo root: `cliohsu1997.github.io`. All paths below are under `application/`.
 
+## HARD REQUIREMENT — full JMP in every application package (never compressed)
+
+**Non-negotiable:** every `application/**` package JMP must be the **full** PDF from `files/JMP_HSU_Ke_Cheng.pdf` (~5–7 MB). **Never** copy `JMP_HSU_Ke_Cheng_compressed.pdf` or any ~1 MB compressed JMP into an application folder, zip, or email package. Compressed is website-only.
+
 ## HARD REQUIREMENT — full-page industry CV + cover letter (never skip)
 
 **Non-negotiable for every industry / finance / consulting / MT / ops / quant / data / banking / trading role:**

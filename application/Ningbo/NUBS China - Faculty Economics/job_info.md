@@ -34,6 +34,9 @@ JMP included in the package as an optional extra for the portal if upload slots 
 ## Recommendation letters
 Not required on this posting. No recommendation-letter tracker row.
 
+## Status
+Will not apply (removed from application list).
+
 ## Files
 - `Cover_Letter_HSU_Ke_Cheng_NUBS.tex` / `.pdf`
 - `Application_Package_HSU_Ke_Cheng_NUBS/` — cover, CV, publication list, full JMP
