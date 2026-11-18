@@ -7,10 +7,10 @@ Lecturer (Assistant Professor) / Senior Lecturer / Associate Professor (one or m
 Sydney, New South Wales, Australia
 
 ## Deadline
-**2026-11-27**
+**2026-11-27** (midnight UTC). Online interviews early December 2026. Desired start **2027-08-02**.
 
 ## How to apply
-Submit online via **Econ Job Market**: [https://econjobmarket.org/positions/12744](https://econjobmarket.org/positions/12744).
+Submit online via **Econ Job Market**: [https://econjobmarket.org/positions/12744](https://econjobmarket.org/positions/12744). This is not an email application. Letters are submitted by the writers through EJM.
 
 ## Link / email
 - JOE: [https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478270](https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-02_111478270)
@@ -22,14 +22,9 @@ Submit online via **Econ Job Market**: [https://econjobmarket.org/positions/1274
 Any area of economics. Ph.D. completed or near completion; strong research abilities and commitment to education. Lecturer: promise of international recognition and excellent teaching. Senior appointments: excellence in research, teaching, and supervision, plus academic leadership. Develop an independent research program with international recognition; supervise postgraduate research; teach undergraduate and postgraduate programs.
 
 ## Applicant materials
-- Letter of application
-- CV
-- Research paper (JMP)
-
-Prepared package (EJM upload): `Application_Package_HSU_Ke_Cheng_UNSW/`
-1. `01_Letter_of_Application_HSU_Ke_Cheng_UNSW.pdf`
-2. `02_CV_HSU_Ke_Cheng.pdf`
-3. `03_JMP_HSU_Ke_Cheng.pdf`
+- Cover letter (letter of application) — `Cover_Letter_HSU_Ke_Cheng_UNSW.pdf` in this folder
+- CV — `files/CV_HSU_Ke_Cheng.pdf`
+- Research paper (JMP) — `files/JMP_HSU_Ke_Cheng.pdf`
 
 ## Recommendation letters
 Three letters of reference, submitted by the writers through EJM. Not on the email tracker.
