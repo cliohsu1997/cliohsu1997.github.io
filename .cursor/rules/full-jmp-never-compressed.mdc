@@ -1,24 +1,17 @@
 ---
-description: NEVER put compressed JMP in application packages, zips, or emails — full PDF only
+description: Compressed JMP file is banned and deleted — full PDF only everywhere
 alwaysApply: true
 ---
 
-# Full JMP only — never compressed
+# Full JMP only — compressed file banned
 
 ## Absolute rule
 
-When preparing **any** job-application material under `application/`:
-
-1. **ONLY** use the full JMP: `files/JMP_HSU_Ke_Cheng.pdf` (about 5–7 MB).
-2. **NEVER** use `files/JMP_HSU_Ke_Cheng_compressed.pdf`.
-3. **NEVER** copy a ~1 MB / compressed JMP into an `Application_Package_*` folder, zip, email draft, or portal upload set.
-4. Compressed JMP is **website download only** (`files/JMP_HSU_Ke_Cheng_compressed.pdf`). It is not for schools.
+1. **ONLY** use `files/JMP_HSU_Ke_Cheng.pdf` (full, ~5–7 MB).
+2. **`files/JMP_HSU_Ke_Cheng_compressed.pdf` must not exist.** Do not create it. Do not restore it. If it appears, delete it.
+3. **NEVER** put any compressed / ~1 MB JMP into `application/**`, zips, emails, or packages.
+4. The `update-jmp` script must sync **full only** and remove any compressed artifacts.
 
 ## Before saying a package is ready
 
-- Confirm the package JMP file size is the **full** size (multi-MB, matching `files/JMP_HSU_Ke_Cheng.pdf`), not ~1 MB.
-- If refreshing packages, copy from `files/JMP_HSU_Ke_Cheng.pdf` every time.
-
-## Violations
-
-Putting compressed JMP in an application package is a hard failure. Fix by overwriting with the full PDF before commit, push, or telling the user the package is ready.
+Confirm package JMP size matches the full `files/JMP_HSU_Ke_Cheng.pdf`, not ~1 MB.

@@ -8,7 +8,7 @@ alwaysApply: false
 
 ## JMP — FULL ONLY (never compressed)
 
-**Hard ban:** Never put `JMP_HSU_Ke_Cheng_compressed.pdf` or any ~1 MB compressed JMP into `application/**` packages, zips, or emails. Always copy `files/JMP_HSU_Ke_Cheng.pdf` (full, ~5–7 MB). Compressed is website-only. Verify file size before saying a package is ready.
+**Hard ban:** `JMP_HSU_Ke_Cheng_compressed.pdf` is deleted and must not be recreated. Always copy `files/JMP_HSU_Ke_Cheng.pdf` (full, ~5–7 MB) into packages, zips, and emails. Never use a ~1 MB compressed JMP. Verify file size before saying a package is ready.
 
 ## Facts
 - NEVER add facts the user did not provide or ask for (e.g., residency status, skills, claims). Polish what exists; do not invent.
