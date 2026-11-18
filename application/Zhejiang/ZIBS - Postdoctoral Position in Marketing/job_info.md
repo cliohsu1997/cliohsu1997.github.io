@@ -34,18 +34,16 @@ Three recommendation letters (listed among email PDF materials to **zibs-hr@intl
 
 ## Application materials
 
-Package: `Application_Package_HSU_Ke_Cheng_ZIBS/`. Email draft: `Application_Email.md`.
+Package: `Application_Package_HSU_Ke_Cheng_ZIBS/` (+ zip). Email draft: `Application_Email.md`.
 
 Included:
-1. CV (no photo yet)
-2. Cover letter
-3. Research statement
-4. Teaching statement
-6. Job market paper and the search-cost working paper (two papers, not three)
-8. Expected-graduation confirmation (degree not yet awarded)
+1. `01_CV_HSU_Ke_Cheng.pdf` (with photo)
+2. `02_Cover_Letter_HSU_Ke_Cheng_ZIBS.pdf`
+3. `03_Research_Statement_HSU_Ke_Cheng.pdf`
+4. `04_Teaching_Statement_HSU_Ke_Cheng.pdf`
+6a–b. Full JMP; Product Design search-cost paper (two working papers)
+8. `08_Expected_Graduation_Confirmation.pdf` (degree not yet awarded)
 
-Not included:
-5. Three recommendation letters (writers email them)
-7. Identification document
-- Recent color ID photo on the CV
-- A third representative paper
+Not included (add before send):
+5. Three recommendation letters (writers / Crystal email them — on recommendation list)
+7. Identification document (`07_Identification.pdf` — passport or ID scan; not in repo)

@@ -5,7 +5,18 @@
 **Note in the email:** source platform jobs.ac.uk  
 **Deadline:** 15 December 2026 (open until filled)
 
-**Attach from:** `application/Zhejiang/ZIBS - Postdoctoral Position in Marketing/Application_Package_HSU_Ke_Cheng_ZIBS/`
+**Attach from:** `application/Zhejiang/ZIBS - Postdoctoral Position in Marketing/Application_Package_HSU_Ke_Cheng_ZIBS/`  
+(or the zip: `Application_Package_HSU_Ke_Cheng_ZIBS.zip`)
+
+| # | File |
+| --- | --- |
+| 1 | `01_CV_HSU_Ke_Cheng.pdf` (with photo) |
+| 2 | `02_Cover_Letter_HSU_Ke_Cheng_ZIBS.pdf` |
+| 3 | `03_Research_Statement_HSU_Ke_Cheng.pdf` |
+| 4 | `04_Teaching_Statement_HSU_Ke_Cheng.pdf` |
+| 5 | `06a_JMP_HSU_Ke_Cheng.pdf` |
+| 6 | `06b_Product_Design_with_Heterogeneous_Search_Costs.pdf` |
+| 7 | `08_Expected_Graduation_Confirmation.pdf` |
 
 ---
 
@@ -38,8 +49,6 @@ https://cliohsu1997.github.io/
 
 ## Still needed before send
 
-- [ ] Recent color ID photo on the CV (passport-style headshot). The current CV has none.
-- [ ] Identification document (passport or ID copy). Not in this folder.
-- [ ] A third representative paper, if you want to match the posting’s “three” exactly. Only two papers are ready.
-- [ ] Ask Crystal (HKUST admin) to send letters on behalf of Au, Kawaguchi, and Kawai to zibs-hr@intl.zju.edu.cn  
+- [ ] Identification document (passport or ID copy) — not in the repo; add as `07_Identification.pdf` when you have a scan.
+- [ ] Ask Crystal to send letters on behalf of Au, Kawaguchi, and Kawai to zibs-hr@intl.zju.edu.cn  
   Subject: `Ke Cheng HSU - Postdoctoral Position in Marketing`
