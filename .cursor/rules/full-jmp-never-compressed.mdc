@@ -12,6 +12,10 @@ alwaysApply: true
 3. **NEVER** put any compressed / ~1 MB JMP into `application/**`, zips, emails, or packages.
 4. The `update-jmp` script must sync **full only** and remove any compressed artifacts.
 
-## Before saying a package is ready
+## Package inclusion
+
+See `jmp-package-email-only.mdc`: JMP goes in the package **only for email** apps; **not for JOE**.
+
+## Before saying an email package is ready
 
 Confirm package JMP size matches the full `files/JMP_HSU_Ke_Cheng.pdf`, not ~1 MB.

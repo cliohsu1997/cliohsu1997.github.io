@@ -6,9 +6,11 @@ alwaysApply: false
 
 # Application Materials Rules (CV / Cover Letter)
 
-## JMP — FULL ONLY (never compressed)
+## JMP — email packages only; full PDF never compressed
 
-**Hard ban:** `JMP_HSU_Ke_Cheng_compressed.pdf` is deleted and must not be recreated. Always copy `files/JMP_HSU_Ke_Cheng.pdf` (full, ~5–7 MB) into packages, zips, and emails. Never use a ~1 MB compressed JMP. Verify file size before saying a package is ready.
+**When to include:** put JMP in `Application_Package_*` **only** if the application is sent by **email**. For **JOE** (and portal-only JMP upload: EJM / Interfolio), do **not** put JMP in the package.
+
+**Hard ban:** `JMP_HSU_Ke_Cheng_compressed.pdf` is deleted and must not be recreated. When JMP is included, always copy `files/JMP_HSU_Ke_Cheng.pdf` (full, ~5–7 MB). Never use a ~1 MB compressed JMP. Verify file size before saying an email package is ready.
 
 ## Facts
 - NEVER add facts the user did not provide or ask for (e.g., residency status, skills, claims). Polish what exists; do not invent.

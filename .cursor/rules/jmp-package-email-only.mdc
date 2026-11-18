@@ -1,0 +1,18 @@
+---
+description: Put JMP in Application_Package only for email applications; never for JOE
+alwaysApply: true
+---
+
+# JMP in packages — email only
+
+## Rule
+
+1. **Email applications:** put the **full** `files/JMP_HSU_Ke_Cheng.pdf` in `Application_Package_*` (and attach it in the email). Never use a compressed JMP.
+2. **JOE applications:** do **not** put JMP in the package. Upload JMP on JOE if required; the local package is cover letter / CV / other non-JMP materials only.
+3. Same idea for other portal-only submits (EJM / Interfolio) when JMP is uploaded on the portal: **no JMP file in `Application_Package_*`**.
+4. If a JOE (or portal) package already contains a JMP PDF, **remove it**.
+
+## Check before saying a package is ready
+
+- How to apply = email → package includes full JMP (~5–7 MB).
+- How to apply = JOE (or portal JMP upload) → package has **no** JMP PDF.

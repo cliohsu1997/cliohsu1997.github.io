@@ -15,9 +15,14 @@ description: >-
 
 Repo root: `cliohsu1997.github.io`. All paths below are under `application/`.
 
-## HARD REQUIREMENT — full JMP in every application package (never compressed)
+## HARD REQUIREMENT — JMP in packages only for email apps (full PDF, never compressed)
 
-**Non-negotiable:** every `application/**` package JMP must be the **full** PDF from `files/JMP_HSU_Ke_Cheng.pdf` (~5–7 MB). **`JMP_HSU_Ke_Cheng_compressed.pdf` is deleted and must never be recreated or used.** Never put any ~1 MB compressed JMP into an application folder, zip, or email package.
+**When to include JMP in `Application_Package_*`:**
+- **Email** applications → include the **full** `files/JMP_HSU_Ke_Cheng.pdf` (~5–7 MB).
+- **JOE** applications → **do not** put JMP in the package (upload on JOE if needed). Same for portal-only JMP upload (EJM / Interfolio).
+- If a JOE/portal package already has a JMP PDF, remove it.
+
+**Non-negotiable when JMP is included:** use only the full PDF from `files/JMP_HSU_Ke_Cheng.pdf`. **`JMP_HSU_Ke_Cheng_compressed.pdf` is deleted and must never be recreated or used.** Never put any ~1 MB compressed JMP into an application folder, zip, or email.
 
 ## HARD REQUIREMENT — full-page industry CV + cover letter (never skip)
 
