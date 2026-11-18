@@ -36,12 +36,12 @@ There is no doctoral diploma. The package uses the transcript and the expected-g
 Email-only (outside the mail package): `Cover_Letter_and_CV_HSU_Ke_Cheng_NCU_IE.pdf` in the job folder.
 
 Mail package `Application_Package_HSU_Ke_Cheng_NCU_IE/` (+ zip):
-- `Cover_Letter_HSU_Ke_Cheng_NCU_IE.pdf`
-- `CV_HSU_Ke_Cheng.pdf`
-- `JMP_HSU_Ke_Cheng.pdf`
-- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
-- `Transcript.pdf`
-- `Expected_Graduation_Confirmation.pdf`
+- `01_Cover_Letter_HSU_Ke_Cheng_NCU_IE.pdf`
+- `02_CV_HSU_Ke_Cheng.pdf`
+- `03a_JMP_HSU_Ke_Cheng.pdf`
+- `03b_Product_Design_with_Heterogeneous_Search_Costs.pdf`
+- `04_Transcript.pdf`
+- `05_Expected_Graduation_Confirmation.pdf`
 
 ## Recommendation letters
 Three reference letters — email to **ncu6450@ncu.edu.tw**. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`. Subject in the Excel file (same shared inbox as the cover-letter+CV email): `Application for Faculty Position at the Graduate Institute of Industrial Economics in NCU`.

@@ -35,9 +35,10 @@ https://cliohsu1997.github.io/
 ---
 
 ## Mail package contents
-- `Cover_Letter_HSU_Ke_Cheng_NCU_IE.pdf`
-- `CV_HSU_Ke_Cheng.pdf`
-- `JMP_HSU_Ke_Cheng.pdf`
-- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
-- `Transcript.pdf`
-- `Expected_Graduation_Confirmation.pdf`
+1. `01_Cover_Letter_HSU_Ke_Cheng_NCU_IE.pdf`
+2. `02_CV_HSU_Ke_Cheng.pdf`
+3. Research papers  
+   - `03a_JMP_HSU_Ke_Cheng.pdf`  
+   - `03b_Product_Design_with_Heterogeneous_Search_Costs.pdf`
+4. `04_Transcript.pdf`
+5. `05_Expected_Graduation_Confirmation.pdf`
