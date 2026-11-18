@@ -1,19 +1,43 @@
 # NCU Graduate Institute of Industrial Economics
 
-Email one PDF of the cover letter and CV.
+**To:** ncu6450@ncu.edu.tw  
+**Subject:** Application for Faculty Position at the Graduate Institute of Industrial Economics in NCU  
 
-To: ncu6450@ncu.edu.tw
+**Email attachment:** `Cover_Letter_and_CV_HSU_Ke_Cheng_NCU_IE.pdf` (job folder; not in the mail zip)
 
-Subject: Application for Faculty Position at the Graduate Institute of Industrial Economics in NCU
-
-Attachment: Cover_Letter_and_CV_HSU_Ke_Cheng_NCU_IE.pdf
-
-Mail the full package to:
-
-Recruiting Committee
-Graduate Institute of Industrial Economics
-National Central University
-No. 300, Zhongda Road, Zhongli District
+**Mail package:** `Application_Package_HSU_Ke_Cheng_NCU_IE.zip`  
+Recruiting Committee  
+Graduate Institute of Industrial Economics  
+National Central University  
+No. 300, Zhongda Road, Zhongli District  
 Taoyuan City 32001, Taiwan (R.O.C.)
 
-The mailed set is the cover letter, CV, job market paper, second research paper, transcript, and expected-graduation confirmation. A doctoral diploma is not required for a new Ph.D. and is not available. Crystal, the secretary of the Department of Economics at HKUST, will send the three recommendation letters on behalf of Pak Hung Au, Kohei Kawaguchi, and Kei Kawai to ncu6450@ncu.edu.tw.
+---
+
+Dear Members of the Recruiting Committee,
+
+I am writing to apply for a faculty position at the Graduate Institute of Industrial Economics, National Central University. I am a Ph.D. candidate in Economics at the Hong Kong University of Science and Technology. I expect to graduate in June 2027. My fields are Empirical Industrial Organization and Digital Economics.
+
+Please find attached a single PDF containing my cover letter and CV, as requested. I am also preparing the full hard-copy application package for mailing to the Recruiting Committee. Because the physical package requires printing and international postage from Hong Kong, delivery may take some time; I will send it as soon as possible and aim for a postmark well before the 12 December 2026 deadline.
+
+Crystal, the secretary of the Department of Economics at HKUST, will send three recommendation letters on behalf of Pak Hung Au, Kohei Kawaguchi, and Kei Kawai to this address.
+
+Thank you for your consideration.
+
+Sincerely,  
+Ke Cheng HSU (Clio)  
+Ph.D. Candidate, Department of Economics  
+The Hong Kong University of Science and Technology  
++852 6840 9753  
+khsu@connect.ust.hk  
+https://cliohsu1997.github.io/
+
+---
+
+## Mail package contents
+- `Cover_Letter_HSU_Ke_Cheng_NCU_IE.pdf`
+- `CV_HSU_Ke_Cheng.pdf`
+- `JMP_HSU_Ke_Cheng.pdf`
+- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
+- `Transcript.pdf`
+- `Expected_Graduation_Confirmation.pdf`
