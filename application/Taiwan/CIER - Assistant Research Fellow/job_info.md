@@ -19,7 +19,7 @@ Email items 1–4 to **fangru@cier.edu.tw**. See `Application_Email.md`.
 2. Statement of research interests and future plans.
 3. Because the diploma is not ready: advisor’s expected-graduation letter (on or before 30 June 2027) and the unofficial Ph.D. transcript. The official transcript is not ready. The email says the graduation date is firm and that the diploma and official transcript will follow when issued.
 4. List of works.
-5. Representative research work: the job market paper. One work meets the posting (one or two).
+5. Representative research work: the job market paper and the working paper “Product Design with Heterogeneous Search Costs” (posting allows one or two).
 6. Three recommendation letters, sent by the writers directly to fangru@cier.edu.tw. Writers: Pak Hung Au, Kohei Kawaguchi, and Kei Kawai.
 
 Foreign degrees must be authenticated by an overseas mission before reporting for duty. Not required with the application.
@@ -29,6 +29,7 @@ Files in `Application_Package_HSU_Ke_Cheng_CIER/`:
 - `研究興趣與未來研究計畫_許可證.pdf` (English statement first, Traditional Chinese statement follows in the same file; 6 pages)
 - `Publication_List_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`
+- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
 - `Expected_Graduation_Confirmation.pdf`
 - `Unofficial_Transcript.pdf`
 
