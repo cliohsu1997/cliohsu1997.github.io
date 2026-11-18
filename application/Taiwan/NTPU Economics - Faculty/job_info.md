@@ -32,15 +32,15 @@ All fields welcome; particular interest in Macroeconomics, International Economi
 - List of Publications for New Recruitment (download from posting)
 
 Email takes separate files. Files in `Application_Package_HSU_Ke_Cheng_NTPU/`:
-- `Cover_Letter_HSU_Ke_Cheng_NTPU.pdf`
-- `CV_HSU_Ke_Cheng.pdf`
-- `JMP_HSU_Ke_Cheng.pdf`
-- `Product_Design_with_Heterogeneous_Search_Costs.pdf`
-- `Transcript.pdf` (the unofficial transcript; the official transcript is not available yet)
-- `Expected_Graduation_Confirmation.pdf`
-- `Teaching_Evaluations.pdf`
-- `Application_Form.odt` (template; name, fields, and courses are still blank)
-- `List_of_Publications.odt` (job market paper is entered; the date line is still a placeholder)
+- `01_Cover_Letter_HSU_Ke_Cheng_NTPU.pdf`
+- `02_CV_HSU_Ke_Cheng.pdf`
+- `03a_JMP_HSU_Ke_Cheng.pdf`
+- `03b_Product_Design_with_Heterogeneous_Search_Costs.pdf`
+- `04_Transcript.pdf` (unofficial; official transcript not yet available)
+- `05_Expected_Graduation_Confirmation.pdf`
+- `06_Teaching_Evaluations.pdf`
+- `07a_Application_Form_for_New_Faculty_Members.odt` (required form; fill before sending)
+- `07b_List_of_Publications_for_New_Recruitment.odt` (required form; fill before sending)
 
 ## Recommendation letters
 Three reference letters — sent separately by referees. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
