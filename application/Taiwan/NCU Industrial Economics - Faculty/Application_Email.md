@@ -1,5 +1,11 @@
 # NCU Graduate Institute of Industrial Economics
 
+## Email to uncle (print & mail)
+**Subject:** 許可證 — 香港科技大學（國立中央大學產業經濟研究所應徵資料）  
+**Ask:** print files in order 01→05, put in envelope, mail to address below. Thank you.
+
+---
+
 **To:** ncu6450@ncu.edu.tw  
 **Subject:** Application for Faculty Position at the Graduate Institute of Industrial Economics in NCU  
 
