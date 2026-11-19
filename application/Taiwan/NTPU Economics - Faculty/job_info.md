@@ -39,8 +39,8 @@ Email takes separate files. Files in `Application_Package_HSU_Ke_Cheng_NTPU/`:
 - `04_Transcript.pdf` (unofficial; official transcript not yet available)
 - `05_Expected_Graduation_Confirmation.pdf`
 - `06_Teaching_Evaluations.pdf`
-- `07a_Application_Form_for_New_Faculty_Members.odt` (required form; fill before sending)
-- `07b_List_of_Publications_for_New_Recruitment.odt` (required form; fill before sending)
+- `07a_Application_Form_for_New_Faculty_Members.pdf` (converted from filled ODT)
+- `07b_List_of_Publications_for_New_Recruitment.pdf` (converted from filled ODT)
 
 ## Recommendation letters
 Three reference letters — sent separately by referees. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.

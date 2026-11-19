@@ -39,8 +39,8 @@ https://cliohsu1997.github.io/
 5. `05_Expected_Graduation_Confirmation.pdf`
 6. `06_Teaching_Evaluations.pdf`
 7. Required faculty forms  
-   - `07a_Application_Form_for_New_Faculty_Members.odt`  
-   - `07b_List_of_Publications_for_New_Recruitment.odt`
+   - `07a_Application_Form_for_New_Faculty_Members.pdf`  
+   - `07b_List_of_Publications_for_New_Recruitment.pdf`
 
 ## Letters (Crystal)
 - To: econ_job@mail.ntpu.edu.tw  
