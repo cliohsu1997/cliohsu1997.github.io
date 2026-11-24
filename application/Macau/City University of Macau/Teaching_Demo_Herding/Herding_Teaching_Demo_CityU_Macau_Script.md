@@ -15,9 +15,9 @@ Key terms / 关键术语：**\(G/B\)** = true state 真实状态（好吃/不好
 
 ## 2 · Margaret's 玛嘉烈蛋挞（~2 min）
 
-**EN:** “Margaret's Café e Nata — it's tucked in an alley just off the main road, and there's always this long, winding queue. Honestly? I really can't taste the difference between it and a normal egg tart. Lots of people say it's too sweet and too oily — they'd rather have Lord Stow's, or one of the smaller local bakeries. The queue is basically guidebook hype. My guess? The first few people just lined up because they had nothing better to do. Then everyone else sees the line and thinks, 'Well, it must be good.' I did exactly the same thing — saw the crowd, joined for twenty minutes, no questions asked. And then I took a bite: that's it? So here's the puzzle — if there had been no queue, I probably wouldn't have bought one at all. So why did I still end up in that line?”
+**EN:** “Margaret's Café e Nata — it's tucked in an alley just off the main road, and there's always this long, winding queue outside. Honestly? I really can't taste much difference between it and a normal egg tart. Lots of people say it's too sweet and too oily — they'd rather have Lord Stow's, or one of the smaller local bakeries. The queue is basically guidebook hype. My guess? The first few people probably lined up just because they had nothing better to do. Then everyone after them sees the line and thinks, 'Well, it must be good.' I did exactly the same thing — saw the crowd, joined for twenty minutes, no questions asked. And then I took a bite: that's it? So here's the real puzzle: if there had been no queue, I probably wouldn't have bought one at all. I myself didn't even think it was worth it. So why did the queue still outweigh my own information?”
 
-**中：** 「玛嘉烈蛋挞藏在新马路拐进去的一条小巷里，门口永远排着绕来绕去的长队。说实话，我真吃不出它跟普通蛋挞有多大区别。不少人都说它又甜又油，还不如安德鲁，或者那些不太出名的小店——排队基本就是被旅游攻略带起来的。我猜，最早那几个人可能只是闲着没事，随便排一下；后面的人一看队伍这么长，就觉得“那肯定好吃”。我也一样，一看人这么多，二话不说跟着排了二十分钟。结果咬一口：就这？所以问题来了——要是门口根本没这条队，我大概根本不会买。那为什么最后还是被这条队带进去了？」
+**中：** 「玛嘉烈蛋挞藏在新马路拐进去的一条小巷里，门口永远排着绕来绕去的长队。说实话，我真吃不出它跟普通蛋挞有多大区别。不少人都说它又甜又油，还不如安德鲁，或者那些不太出名的小店——排队基本就是被旅游攻略带起来的。我猜，最早那几个人可能只是闲着没事，随便排一下；后面的人一看队伍这么长，就觉得“那肯定好吃”。我也一样，一看人这么多，二话不说跟着排了二十分钟。结果咬一口：就这？所以真正的问题是：要是门口根本没这条队，我大概根本不会买——我自己明明觉得不值。那为什么这条队最后还是压过了我自己的判断？」
 
 ---
 
