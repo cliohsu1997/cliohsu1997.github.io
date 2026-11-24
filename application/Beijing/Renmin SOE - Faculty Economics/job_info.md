@@ -34,7 +34,7 @@ School of Economics (Departments of Economics, International Economics, Digital 
 - Three letters of reference (writers email to jjxyzhaopin@ruc.edu.cn)
 
 ## Recommendation letters
-Three letters by **email** to [jjxyzhaopin@ruc.edu.cn](mailto:jjxyzhaopin@ruc.edu.cn). Tracked in `recommendation_letters_to_send` (Pending). Subject: `Recommendation Letters for Ke Cheng HSU — Assistant Professor (Digital Economics)`.
+Three letters by **email** to [jjxyzhaopin@ruc.edu.cn](mailto:jjxyzhaopin@ruc.edu.cn). Tracked in `recommendation_letters_to_send` (**To send**). Subject: `Recommendation Letters for Ke Cheng HSU — Assistant Professor (Digital Economics)`.
 
 ## Files
 - `Cover_Letter_HSU_Ke_Cheng_Renmin_SOE.tex` / `.pdf`

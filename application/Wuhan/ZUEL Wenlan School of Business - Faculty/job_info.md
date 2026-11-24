@@ -32,6 +32,8 @@ Files in `Application_Package_HSU_Ke_Cheng_ZUEL_Wenlan/`:
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`
 - `Product_Design_with_Heterogeneous_Search_Costs.pdf`
+- `Research_Statement_HSU_Ke_Cheng.pdf`
+- `Teaching_Evaluations.pdf`
 
 ## Recommendation letters
 Three reference letters — sent directly by referees to **wls@zuel.edu.cn** by **2026-12-01**; subject line must include applicant’s full name. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`. Subject in the Excel file (same shared inbox as the application): `Application - Ke Cheng HSU - Digital Economics - Assistant Professor`.
