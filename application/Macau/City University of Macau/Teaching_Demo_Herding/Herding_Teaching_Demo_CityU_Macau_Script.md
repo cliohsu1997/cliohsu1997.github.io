@@ -15,9 +15,9 @@ Key terms / 关键术语：**\(G/B\)** = true state 真实状态（好/坏）; *
 
 ## 2 · Margaret's 玛嘉烈蛋挞（~2 min）
 
-**EN:** “Margaret's Café e Nata — it's tucked in an alley off the main road, and there's always this long, winding queue. Honestly? I can't really tell how it's different from a normal egg tart. A lot of people say it's too sweet or too oily compared to Lord Stow's or other local bakeries — they think the queue is mostly guidebook hype. Maybe the first few people just lined up because they were bored. Then everyone else saw the queue and thought, 'Oh, it must be good.' I did exactly the same thing: I saw the crowd, joined for twenty minutes, and in the end it didn't even taste that good. And that's the puzzle, right? I had my own eyes and my own tongue — and I still got talked into the queue by the crowd.”
+**EN:** “Margaret's Café e Nata — it's tucked in an alley just off the main road, and there's always this long, winding queue. Honestly? I really can't taste the difference between it and a normal egg tart. Lots of people say it's too sweet and too oily — they'd rather have Lord Stow's, or one of the smaller local bakeries. The queue is basically guidebook hype. My guess? The first few people just lined up because they had nothing better to do. Then everyone else sees the line and thinks, 'Well, it must be good.' I did exactly the same thing — saw the crowd, joined for twenty minutes, no questions asked. And then I took a bite: that's it? So here's the puzzle — if there had been no queue, I probably wouldn't have bought one at all. So why did I still end up in that line?”
 
-**中：** 「玛嘉烈蛋挞藏在新马路附近的一条小巷里，门口永远排着弯弯曲曲的长队。说实话，我吃不出它跟普通蛋挞有多大区别。很多人觉得它比 Lord Stow's 或者其他本地小店做得更甜、更油，觉得排队主要是被旅游书炒出来的。很可能最早排队的那几个人只是闲得无聊，后面的人一看队伍这么长，就自动把它当成“好吃”的证据。我也一样：看到那么多人排，就跟着排了二十分钟，结果吃完觉得也就那样。这里就有个有意思的问题：我明明有自己的眼睛、自己的舌头，为什么最后还是被人群“劝”进了队伍？」
+**中：** 「玛嘉烈蛋挞就藏在新马路拐进去的一条小巷里，门口永远在排长队，绕来绕去的。讲真，我是真吃不出来它跟普通蛋挞有啥区别。好多人都说它又甜又油，还不如安德鲁蛋挞，或者那些没那么出名的小店——排队基本就是被旅游攻略带起来的。我猜啊，最早那几个人八成就是闲着没事，随便排一下；后面的人一看，哟，队伍这么长，那肯定好吃啊。我也一样，一看那么多人，二话不说跟着排了二十分钟。结果吃完：就这？所以问题就来了——要是门口压根没这条队，我大概连买都不会买。那为什么最后还是被这条队伍给带进去了？」
 
 ---
 
