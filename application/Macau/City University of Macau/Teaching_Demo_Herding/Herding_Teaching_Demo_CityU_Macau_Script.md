@@ -9,7 +9,7 @@ Key terms / 关键术语：**\(G/B\)** = true state 真实状态（好/坏）; *
 
 **EN:** “Hi, I’m Ke Cheng Hsu from HKUST Economics. Today we’ll talk about herding under imperfect information. Plan: start with a Macau queue you all know, a few everyday examples, what herding means, Bayes with a restaurant, then Person 1, 2, 3 — to see why following the crowd can be rational, and still go wrong.”
 
-**中：** 「大家好，我是香港科技大学经济系的许克丞。今天讲『不完美信息下的羊群效应』。流程：先从大家熟悉的澳门排队说起，再看几个日常例子，解释什么是羊群效应，用一家餐厅讲贝氏定理，最后走一遍第一、第二、第三个人——看为什么跟风有时是理性的，却仍会出错。」
+**中：** 「大家好，我是香港科技大学经济系的许克丞。今天讲「不完美信息下的羊群效应」。流程很简单：先从大家在澳门都见过的排队讲起，再看几个日常例子，讲清楚什么是羊群效应，然后用一家餐厅把贝氏定理算一遍，最后跟着第一个、第二个、第三个人走一遍——看看为什么跟风有时是理性的，却还是可能出错。」
 
 ---
 
@@ -17,7 +17,7 @@ Key terms / 关键术语：**\(G/B\)** = true state 真实状态（好/坏）; *
 
 **EN:** “Margaret’s Café e Nata, hidden in an alley near Sintra Square — there’s always a long winding queue. To be honest, I don’t see how it really differs from a usual egg tart. But I saw so many people lining up, so I lined up for twenty minutes — and eventually it didn’t even taste good. That’s the puzzle: I used my own eyes and tongue, yet the crowd still talked me into the queue.”
 
-**中：** 「新马路附近巷子里藏着玛嘉烈蛋挞，永远大排长龙。说实话，我看不出它跟普通蛋挞有什么分别；但看到那么多人在排，我就跟着排了二十分钟——结果吃起来也不怎么样。问题就在这：我有自己的眼睛和舌头，但人群还是把我劝进了队伍。」
+**中：** 「玛嘉烈蛋挞藏在新马路附近的一条小巷里，门口永远排长龙。说实话，我吃不出它跟一般蛋挞有什么差别。但当时看到那么多人排队，我也就跟着排了二十分钟——结果吃下去觉得也不怎么样。问题就在这里：我明明有自己的眼睛和舌头，最后还是被人群劝进了队伍。」
 
 ---
 
@@ -29,15 +29,15 @@ First, NVIDIA’s recent slide. There was gossip around Jensen Huang — the Chi
 
 Second, Labubu. I never found it appealing. My girlfriend didn’t either at first. But then she saw her friends buying Labubu and hanging them on their bags. She reasoned: if so many people like it, it must have some appeal I haven’t noticed. Popularity itself became a quality signal — so she started liking it and bought one.
 
-And homework copying, the smallest version: the best econ student finishes first; the second-best compares answers with the best and adopts them; the third person — even if their own answer was originally correct — sees two agreeing answers and switches to match. Each step is locally reasonable; together they form an **information cascade** — the 信息瀑布.”
+And homework copying, the same logic in miniature: the best econ student finishes first; the second-best compares answers with the best and adopts them; the third person — even if their own answer was originally correct — sees two agreeing answers and switches to match. Each step is locally reasonable; together they form an **information cascade** — the 信息瀑布.”
 
 **中：** 「讲两个更完整的例子。
 
-第一个，最近的英伟达下跌。当时围绕黄仁勋——华人圈叫老黄——有小一小二小三的传言。但问一下：英伟达的基本面真的变了吗？AI 需求、财报、业绩指引——基本没变。如果你相信自己的分析，股价其实不该动这么多。可是当第一批投资者卖出、价格下跌，后面的人看到下跌，就会推断别人可能掌握了自己不知道的信息。如果这种推断压过了自己对基本面的判断，他们也会跟着卖。每一波卖出都把价格压得更低，给下一个人更强的理由跟进——跌势自我加强。
+第一个，最近英伟达的下跌。当时围绕黄仁勋——华人圈叫他老黄——传着小一小二小三的说法。但先问一句：英伟达的基本面真的变了吗？AI 需求、财报、业绩指引，基本上都没变。如果你相信自己的分析，股价其实不该动这么多。可是当第一批投资者卖出、价格开始跌，后面的人看到下跌，就会想：别人是不是知道什么我不知道的事？一旦这种想法压过了自己对基本面的判断，他们也会跟着卖。每一波卖出都把价格压得更低，又给下一个人更强的理由跟进——跌势就这样自我加强。
 
-第二个，Labubu。我自己一直不觉得它可爱。我女朋友原本也是。但后来她看到朋友都买 Labubu、挂在包上，她就想：这么多人喜欢，它一定有我还没发现的好处。热门本身变成了品质信号——于是她也开始喜欢，自己也买了一只。
+第二个，Labubu。我自己一直不觉得它有什么可爱。我女朋友原本也是。但后来她看到身边的朋友都在买 Labubu、挂在包上，她就想：这么多人喜欢，它一定有我还没发现的好处。热门本身变成了品质的证明——于是她也开始喜欢，自己也去买了一只。
 
-最小号的版本是抄作业：经济最好的同学先写完；第二名跟第一名对答案就照抄；第三个人——就算自己本来写对了——看到两份一样的答案也改过去。每一步单独看都合理，合起来就是一条**信息瀑布**——信息级联。」
+抄作业也是一样的道理，只是规模更小：经济最好的同学先写完；第二名拿来跟第一名对答案，干脆照抄；第三个人——就算自己原本写对了——看到两份一样的答案，也把自己的改成一样。每一步单独看都说得通，但合在一起，就是一条**信息瀑布**，也就是信息级联。」
 
 ---
 
@@ -45,7 +45,7 @@ And homework copying, the smallest version: the best econ student finishes first
 
 **EN:** “You have a private clue, but you also see what others chose — and sometimes you follow the crowd even when your own clue says the opposite. Why? Other people’s choices carry information. When signals are imprecise, early information can be wrong, so early actions can be wrong — and later people infer that wrong information from those actions.”
 
-**中：** 「你有自己的私人线索，但你也看到别人怎么选——有时你会跟着人群走，哪怕你的线索说的是另一回事。为什么？因为别人的选择本身带有信息。当信号不精确时，早期信息可能是错的，所以早期行动也可能是错的——而后面的人从这些行动推断信息，就继承了这个错误。」
+**中：** 「你自己手上有一条私人线索，但你也看得到别人怎么选——有时候你会跟着人群走，哪怕你的线索说的是另一回事。为什么？因为别人的选择本身就带着信息。当信号不够精确时，最早的信息可能是错的，最早的行动也就跟着错——而后面的人从这些行动里反推信息，就把这个错误一路传下去。」
 
 ---
 
@@ -57,11 +57,11 @@ Signals are *conditionally independent given the state* — meaning once you kno
 
 Actions: Line up or Drop. Break-even: Line up if \(\Pr(G\mid\text{info})>1/2\), Drop if \(<1/2\); if \(=1/2\), choose each with probability \(1/2\). Goal: Person 1–3; watch Person 3 discard his own signal.”
 
-**中：** 「一家餐厅，状态是好或坏，事前各二分之一。大家一个个到，各自拿到私人信号 \(g\) 或 \(b\)，准确率七成：\(\Pr(g\mid G)=0.7\)、\(\Pr(b\mid G)=0.3\)、\(\Pr(g\mid B)=0.3\)、\(\Pr(b\mid B)=0.7\)。
+**中：** 「设定很简单：一家餐厅，真实状态是好或坏，事前各二分之一。大家一个接一个到，每人拿到一个私人信号 \(g\) 或 \(b\)，准确率七成：\(\Pr(g\mid G)=0.7\)、\(\Pr(b\mid G)=0.3\)、\(\Pr(g\mid B)=0.3\)、\(\Pr(b\mid B)=0.7\)。
 
-信号是『给定状态下条件独立』——意思是：一旦你知道餐厅是好是坏，A 拿到什么信号完全不影响 B 拿到什么；他们只透过共同的状态连动。
+这些信号是「给定状态下条件独立」——意思是：一旦餐厅是好是坏已经定了，A 拿到什么信号完全不影响 B 拿到什么；他们只是因为同一个状态才看起来相关。
 
-行动：排队或离开。损益两平：看好概率大于二分之一就排，小于就离开；刚好二分之一就各半随机。目标：走一遍第一到第三个人，看第三个人怎么丢掉自己的信号。」
+行动只有两个：排队，或离开。规则是：看好概率大于二分之一就排，小于就离开，刚好二分之一就各丢一半硬币。目标是跟着第一、第二、第三个人走一遍——看第三个人怎么干脆丢掉自己的信号。」
 
 ---
 
@@ -71,9 +71,9 @@ Actions: Line up or Drop. Break-even: Line up if \(\Pr(G\mid\text{info})>1/2\), 
 
 Person 1 only has his own signal \(g\). Bayes: \(\Pr(G\mid g)\) is the Good slice over the whole \(g\) area — \(0.35 / (0.35+0.15) = 0.7\). Above one half, so he Lines up. Everyone else only sees his *action*, not his raw signal.”
 
-**中：** 「看图：面积就是概率。左半是 \(G\)、右半是 \(B\)；\(g\) 区域盖住好边的七成、坏边的三成。
+**中：** 「先看这张图：面积就是概率。左半边是 \(G\)，右半边是 \(B\)；画出来的 \(g\) 区域盖住好边的七成、坏边的三成。
 
-第一个人只有自己的信号 \(g\)。用贝氏：\(\Pr(G\mid g)\) 就是 \(g\) 里面属于好边的比例——\(0.35 / (0.35+0.15)=0.7\)。大于二分之一，所以他排队。其他人只看到他的『行动』，看不到他的信号。」
+第一个人手上只有自己的信号 \(g\)。用贝氏算：\(\Pr(G\mid g)\) 就是 \(g\) 这块里面属于好边的比例——\(0.35\) 除以 \(0.35+0.15\)，等于 \(0.7\)。大于二分之一，所以他去排队。重点是：后面的人只看得见他的**行动**，看不见他拿到的信号。」
 
 ---
 
@@ -85,11 +85,11 @@ Case \(s_2=g\): two good clues, posterior above one half, Line up.
 
 Case \(s_2=b\): one good clue and one bad clue of the same strength. Joint under \(G\) is \(0.7\cdot0.3=0.21\), joint under \(B\) is \(0.3\cdot0.7=0.21\) — by conditional independence. Equal, so the posterior is exactly one half. He is indifferent — Line up or Drop with probability one half each.”
 
-**中：** 「第二个人看到第一个人排队——这就揭露了 \(s_1=g\)。分两种情况。
+**中：** 「第二个人看到第一个人排队——这一下就等于告诉他 \(s_1=g\)。分两种情形。
 
-若 \(s_2=g\)：两个好线索，看好概率大于二分之一，排队。
+如果他自己拿到 \(s_2=g\)：两条好线索，看好概率大于二分之一，直接排队。
 
-若 \(s_2=b\)：一个好线索配一个坏线索，强度一样。在 \(G\) 下的联合概率是 \(0.7\times0.3=0.21\)，在 \(B\) 下是 \(0.3\times0.7=0.21\)——靠条件独立。两边相等，所以看好概率刚好二分之一。他无差异——排队或离开各二分之一概率。」
+如果他拿到的是 \(s_2=b\)：一条好线索配一条坏线索，力道一样大。算一下：在 \(G\) 之下的联合概率是 \(0.7\times0.3=0.21\)，在 \(B\) 之下是 \(0.3\times0.7=0.21\)——靠的就是条件独立。两边一模一样，所以看好概率刚好二分之一。他排不排都行——排队或离开各一半概率。」
 
 ---
 
@@ -101,11 +101,11 @@ Write Bayes with the *actions and my signal*: numerator \(\Pr(\mathrm{LU},\mathr
 
 Important: do **not** replace Line up by \(g\). Line up is an action; \(g\) is a signal — especially since Person 2 sometimes Lines up even with \(b\). Next we need the conditional probabilities \(\Pr(\mathrm{LU},\mathrm{LU},b\mid G)\) and \(\Pr(\mathrm{LU},\mathrm{LU},b\mid B)\).”
 
-**中：** 「情境：前面两个人都在排队，而我拿到坏信号 \(b\)。该排还是该走？取决于 \(\Pr(G\mid \mathrm{LU},\mathrm{LU},b)\)。
+**中：** 「现在进入正题：前面已经有两个人在排队，而我自己拿到的是坏信号 \(b\)。我该跟着排，还是转身走？答案取决于 \(\Pr(G\mid \mathrm{LU},\mathrm{LU},b)\)。
 
-写贝氏，用『行动加我的信号』：分子是 \(\Pr(\mathrm{LU},\mathrm{LU},b\mid G)\Pr(G)\)，分母再加上 \(B\) 下的同样一项。
+写贝氏，条件要用「行动加上我的信号」：分子是 \(\Pr(\mathrm{LU},\mathrm{LU},b\mid G)\Pr(G)\)，分母是这一项再加上 \(B\) 之下同样的一项。
 
-注意：**不要**把排队直接换成 \(g\)。排队是行动，\(g\) 是信号——尤其第二个人有 \(b\) 时也可能排队。接下来要算 \(\Pr(\mathrm{LU},\mathrm{LU},b\mid G)\) 和 \(\Pr(\mathrm{LU},\mathrm{LU},b\mid B)\) 这两个条件概率。」
+这里要特别注意：**不能**把「排队」直接换成 \(g\)。排队是行动，\(g\) 是信号——尤其第二个人就算拿到 \(b\) 也有机会排队。接下来要算的就是 \(\Pr(\mathrm{LU},\mathrm{LU},b\mid G)\) 和 \(\Pr(\mathrm{LU},\mathrm{LU},b\mid B)\) 这两个条件概率。」
 
 ---
 
@@ -117,11 +117,11 @@ Under \(G\): Person 1 Lines up only if \(s_1=g\), probability 0.7. Given that, P
 
 Under \(B\): same logic with flipped likelihoods — Person 1 Lines up only if \(s_1=g\) (0.3); Person 2 Lines up for sure if \(s_2=g\) (0.3), or half the time if \(s_2=b\) (0.7). That is \(0.195\), times \(\Pr(b\mid B)=0.7\) gives \(0.1365\).”
 
-**中：** 「为什么可以拆成乘积？前面两个排队只取决于 \(s_1\) 和 \(s_2\)。给定状态下，这两个信号跟第三个人的 \(b\) 独立，所以 \(b\) 跟（排队、排队）条件独立：概率＝（排队、排队）的概率 × \(b\) 的概率。
+**中：** 「为什么可以拆成两个概率相乘？前面两个人排不排队，只取决于 \(s_1\) 和 \(s_2\)。给定状态之后，这两个信号跟第三个人的 \(b\) 彼此独立，所以 \(b\) 跟「两人排队」条件独立：联合概率等于「两人排队」的概率乘上 \(b\) 的概率。
 
-在 \(G\) 下：第一个人只有 \(s_1=g\) 才排，概率 0.7。接着第二个人：若 \(s_2=g\)（0.7）必排；若 \(s_2=b\)（0.3）以二分之一概率排。所以 \(0.7(0.7+0.3\cdot\tfrac12)=0.595\)，再乘上 \(\Pr(b\mid G)=0.3\)，得 \(0.1785\)。
+在 \(G\) 之下：第一个人只有拿到 \(s_1=g\) 才会排，概率 0.7。在这个前提下，第二个人拿到 \(s_2=g\)（概率 0.7）一定排；拿到 \(s_2=b\)（概率 0.3）则以一半概率排。合起来是 \(0.7(0.7+0.3\cdot\tfrac12)=0.595\)，再乘上 \(\Pr(b\mid G)=0.3\)，得到 \(0.1785\)。
 
-在 \(B\) 下：同样逻辑、概率对调——第一个人只有 \(s_1=g\) 才排（0.3）；第二个人 \(s_2=g\)（0.3）必排、\(s_2=b\)（0.7）一半排。得 \(0.195\)，乘 \(\Pr(b\mid B)=0.7\)，是 \(0.1365\)。」
+在 \(B\) 之下：逻辑完全一样，只是信号概率对调——第一个人只有 \(s_1=g\) 才排（概率 0.3）；第二个人 \(s_2=g\)（0.3）必排、\(s_2=b\)（0.7）一半排。算出来是 \(0.195\)，乘上 \(\Pr(b\mid B)=0.7\)，得到 \(0.1365\)。」
 
 ---
 
@@ -131,9 +131,9 @@ Under \(B\): same logic with flipped likelihoods — Person 1 Lines up only if \
 
 So Person 3 still Lines up — he discards his own bad signal. That is the start of the **information cascade**: two public Line-ups outweigh his private clue.”
 
-**中：** 「事前各二分之一，代入：\(0.1785\cdot\tfrac12\) 除以 \(0.1785\cdot\tfrac12+0.1365\cdot\tfrac12\)，约 0.57——大于二分之一。
+**中：** 「事前各二分之一，代进去算：\(0.1785\cdot\tfrac12\) 除以 \(0.1785\cdot\tfrac12+0.1365\cdot\tfrac12\)，大约是 0.57——大于二分之一。
 
-所以第三个人还是排队——他丢掉了自己的坏信号。这就是**信息级联**（信息瀑布）的开始：两个公开的排队行动，压过了他的私人线索。」
+所以第三个人还是去排队——他干脆丢掉自己的坏信号。这就是**信息级联**（信息瀑布）的起点：两个公开的排队行动，压过了他手上的私人线索。」
 
 ---
 
@@ -143,6 +143,6 @@ So Person 3 still Lines up — he discards his own bad signal. That is the start
 
 Same logic as Margaret’s queues, NVDA, Labubu — and homework copying. Questions?”
 
-**中：** 「如果每个人都只用自己的信号、我们再加总，私人信息会一直进入公共记录。但在信息级联里，选择是序贯的：早期行动变成公开线索，后人就可能理性地忽略自己的信号。
+**中：** 「如果每个人都只用自己的信号，我们再把结果加总，私人信息就会不断累积进公共记录。但在信息级联里，选择是一个接一个的：早期的行动变成公开线索，后来的人就可能理性地忽略自己的信号。
 
-同样的逻辑：玛嘉烈的长龙、英伟达、Labubu——还有抄作业。有问题吗？」
+玛嘉烈的长队、英伟达的下跌、Labubu、还有抄作业——背后是同一套逻辑。有问题吗？」
