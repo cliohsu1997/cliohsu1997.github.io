@@ -24,5 +24,7 @@ Fields: Public Economics, Public Finance, Taxation, Applied Econometrics, Microe
 - CV
 - Job market paper and other representative research samples
 
+Cover letter drafted: `Cover_Letter_HSU_Ke_Cheng_ZUFE_Public_Finance.tex` / `.pdf` (1 page). Package not assembled yet.
+
 ## Recommendation letters
-Three reference letters. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf`.
+Three reference letters to **czsw@zufe.edu.cn**. Tracked in `application/recommendation_letters_to_send.xlsx` / `.pdf` (**Pending**). Subject: `Recommendation Letters for Ke Cheng HSU — Assistant Professor`.
