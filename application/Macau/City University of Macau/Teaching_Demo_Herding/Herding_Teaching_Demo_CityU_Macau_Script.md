@@ -43,9 +43,9 @@ And homework copying, the same logic in miniature: the student with the best gra
 
 ## 4 · What is herding 什么是羊群效应（~1.5 min）
 
-**EN:** “The pattern behind all three stories: you have a private clue, but you also see what others chose — and sometimes you follow the crowd even when your own clue says the opposite. Why? Other people’s choices carry information. When signals are imprecise, early information can be wrong, so early actions can be wrong — and later people infer that wrong information from those actions. In the examples: the first few in line may have had no real reason, the first NVDA sellers may have been wrong, and the first Labubu fans may have been lucky — yet their actions still moved everyone after them.”
+**EN:** “The pattern behind all three stories is the same — following the crowd: you only have one piece of information that you know yourself, but you also see how others choose — and sometimes you follow the crowd even when your own information points the other way. Why? Other people’s choices carry information. When signals are imprecise, early information can be wrong, so early actions can be wrong — and later people infer that wrong information from those actions. In the examples: the first few in line may have had no real reason, the first NVDA sellers may have misread the news, and the first Labubu buyers may simply have liked the design — yet their actions still moved everyone after them.”
 
-**中：** 「这三个故事背后是同一个模式：你自己手上有一条私人线索，但你也看得到别人怎么选——有时候你会跟着人群走，哪怕你的线索说的是另一回事。为什么？因为别人的选择本身就带着信息。当信号不够精确时，最早的信息可能是错的，最早的行动也就跟着错——而后面的人从这些行动里反推信息，就把这个错误一路传下去。放回刚才的例子：最早排蛋挞的可能只是无聊，最早卖英伟达的可能判断错了，最早买 Labubu 的可能只是跟风——但他们的行动照样影响了后面所有人。」
+**中：** 「这三个故事背后都是同一个模式——从众。你只有一条自己知道的信息，但你也看到别人怎么选；有时候你会跟着别人走，哪怕你自己的信息跟他们说的是相反的。为什么？因为别人的选择本身就带着信息。当信号不够精确时，最早的信息可能是错的，最早的行动也就跟着错——而后面的人从这些行动里反推信息，就把这个错误一路传下去。放回刚才的例子：最早排蛋挞的可能只是无聊，最早卖英伟达的可能误读了消息，最早买 Labubu 的可能只是单纯喜欢那个设计——但他们的行动照样影响了后面所有人。」
 
 ---
 
