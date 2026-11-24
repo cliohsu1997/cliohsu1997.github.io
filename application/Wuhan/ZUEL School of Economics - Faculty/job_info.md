@@ -29,9 +29,10 @@ The application instructions ask for:
 
 The listing body also mentions research and teaching statements and available teaching evaluations.
 
-The posting does not ask for a cover letter. Email subject: `Ke Cheng HSU + Digital Economics + Assistant Professor`. See `Application_Email.md`.
+Cover letter prepared even though the posting does not require one. Email subject: `Ke Cheng HSU + Digital Economics + Assistant Professor`. See `Application_Email.md`.
 
 Files in `Application_Package_HSU_Ke_Cheng_ZUEL_Economics/`:
+- `Cover_Letter_HSU_Ke_Cheng_ZUEL_Economics.pdf`
 - `CV_HSU_Ke_Cheng.pdf`
 - `JMP_HSU_Ke_Cheng.pdf`
 - `Product_Design_with_Heterogeneous_Search_Costs.pdf`
