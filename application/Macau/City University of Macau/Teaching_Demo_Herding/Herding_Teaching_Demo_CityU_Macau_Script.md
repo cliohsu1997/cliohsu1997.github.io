@@ -23,11 +23,15 @@ Key terms / 关键术语：**\(G/B\)** = true state 真实状态（好/坏）; *
 
 ## 3 · Other examples 其他例子（~2–2.5 min）
 
-**EN:** “The same pattern shows up everywhere. Sam Bankman-Fried and FTX — people piled into crypto because others seemed to get rich, and when trust broke, everyone rushed for the exit and withdrawals cascaded. The recent NVDA crush — the stock rose on AI enthusiasm; then when sentiment flipped, including talk around Jensen Huang’s personal news, many investors sold together and the price fell sharply. Labubu toys — people chase them because they’re everywhere online; popularity itself looks like a quality signal, so the queue feeds itself.
+**EN:** “Take the recent NVDA slide. There was gossip around Jensen Huang — the Chinese internet nickname 老黄, the 小一小二小三 talk. But did NVIDIA’s fundamentals really change? If you trust your own read on the company, probably not much. Yet when the first person sells and the price dips, you see the price fall and think: maybe others know something I don’t. If their information feels bigger than my own view of the fundamentals, I ignore my fundamentals and just dump everything. My dump pushes the price lower, the next person sees the same thing — the fall feeds itself.
 
-And homework copying, the smallest version: the best econ student finishes first; the second-best compares answers with the best and adopts them; the third person — even if their own answer was originally correct — sees two agreeing answers and switches to match. Each step is locally reasonable; together they make an **information cascade** — the 信息瀑布.”
+Or Labubu. I don’t care much for it. My girlfriend didn’t either at first — but she saw all her friends buying Labubu and hanging them on their bags, so she thought: it must have something good I don’t know about. Now she likes it too.
 
-**中：** 「同样的模式到处都在。Sam Bankman-Fried 和 FTX——大家看别人好像赚钱就涌进币圈；信任一崩，所有人一起挤兑出逃。最近的 NVDA 大跌——股价因 AI 热潮上去；后来情绪翻转，连 Jensen Huang 个人新闻的传言也推波助澜，大家跟着一起卖，价格急挫。Labubu——因为网上到处都是就抢，热门本身看起来像品质保证，所以队伍自我加强。
+Smallest version, homework copying: the best econ student finishes first; the second-best compares answers with the best and adopts them; the third person — even if their own answer was originally correct — sees two agreeing answers and switches. Each step is locally reasonable; together they make an **information cascade** — the 信息瀑布.”
+
+**中：** 「就说最近英伟达股价大跌，因为老黄，华人圈传小一小二小三。但实际上，英伟达的基本面有改变吗？如果你对公司有自己的判断，可能没有很大改变。但是当第一个人开始卖的时候，价格往下跌；你看到价格往下跌，就觉得：啊，可能别人有我不知道的信息。那如果这些信息比我自己觉得这家公司基本面更重要的话，我就不管我觉得基本面怎样，直接一键清仓。当我一键清仓的时候，价格就继续跌——下一个人看到同样的事，跌势自我加强。
+
+或是 Labubu。我自己没有很喜欢。我女朋友原本也没有很喜欢，但她看她的朋友都有买 Labubu、挂在包上，她就想：啊，Labubu 一定有它什么我不知道的好地方——现在她也喜欢了。
 
 最小号的版本是抄作业：经济最好的同学先写完；第二名跟第一名对答案就照抄；第三个人——就算自己本来写对了——看到两份一样的答案也改过去。每一步单独看都合理，合起来就是一条**信息瀑布**——信息级联。」
 
@@ -133,8 +137,8 @@ So Person 3 still Lines up — he discards his own bad signal. That is the start
 
 **EN:** “If everyone only used their own signal and we aggregated, private information would keep entering the public record. But in a cascade, choices are sequential: early actions become public clues, so later people can rationally ignore their own signals.
 
-Same logic as Margaret’s queues, SBF/FTX, NVDA, Labubu — and homework copying. Questions?”
+Same logic as Margaret’s queues, NVDA, Labubu — and homework copying. Questions?”
 
 **中：** 「如果每个人都只用自己的信号、我们再加总，私人信息会一直进入公共记录。但在信息级联里，选择是序贯的：早期行动变成公开线索，后人就可能理性地忽略自己的信号。
 
-同样的逻辑：玛嘉烈的长龙、SBF/FTX、NVDA、Labubu——还有抄作业。有问题吗？」
+同样的逻辑：玛嘉烈的长龙、英伟达、Labubu——还有抄作业。有问题吗？」
