@@ -1,134 +1,98 @@
-# Verbal script — Herding  
-**City University of Macau · ~20 minutes**
+# Verbal script — Herding
+**City University of Macau · ~20 minutes · English (colloquial)**
 
-**Notation (say this clearly):**  
-- **\(G\) / \(B\)** = actual state (Good / Bad)  
-- **\(g\) / \(b\)** = private signal (good clue / bad clue)  
-- **Line up / Drop** = action  
+Notation up front: **\(G/B\)** = true state (Good/Bad), **\(g/b\)** = private signal (good clue / bad clue), **Line up / Drop** = action.
 
 ---
 
-## Title (~45–60 sec) · ROADMAP SPOKEN ONLY
+## 1 · Title (~45 sec)
 
-“I’m Ke Cheng Hsu. Today: herding under imperfect information.
-
-What we’ll cover—not on the slides as a list: everyday examples; what herding means; Bayes with a restaurant example; then Person 1, Person 2, Person 3.
-
-Goal: see why following the crowd can be rational—and still go wrong.”
+“Hi, I’m Ke Cheng Hsu from HKUST. Today we’ll talk about herding under imperfect information. Plan: start with a Macau queue you all know, a couple more everyday examples, then what herding is, Bayes with a restaurant, and finally Person 1, 2, 3 to see why following the crowd can be rational — and still go wrong.”
 
 ---
 
-## Slide 1 — Margaret’s (~2 min)
+## 2 · Margaret’s (~2 min)
 
-“Margaret’s Café e Nata near Sintra Square: winding queue; many say overly sweet or oily vs Lord Stow’s; line often from guidebook fame.
+“Margaret’s Café e Nata, the egg tart place near Sintra Square — there’s always a long winding queue. Many people say the tarts are actually too sweet or oily compared to Lord Stow’s, and the line is mostly guidebook fame.
 
-Personal version: after I had it, I felt so-so; my friend also felt so-so. I like egg tarts, but not enough for twenty minutes. I lined up only because I saw many people lining up, so I thought it must be super good.”
-
----
-
-## Slide 2 — Other examples (~2 min)
-
-“SBF/FTX; NVDA crush—*spoken only:* Jensen Huang scandal talk as crowd-flipping news; Labubu.
-
-Homework: best econ student finishes first; second-best checks against the best; third may discard their own correct answer and copy the first two—same cascade logic as Person 3.”
+My own version: after I tried it, I felt so-so; my friend felt the same. I like egg tarts, but not enough to stand there for twenty minutes. I only lined up because I saw so many people lining up, so I thought it must be amazing.”
 
 ---
 
-## Slide 3 — What is herding (~1.5–2 min)
+## 3 · Other examples (~2 min)
 
-“Private clue plus others’ actions; sometimes follow the crowd against your own clue.
+“Same thing elsewhere. SBF and FTX — people piled in because others seemed to get rich; once trust broke, everyone ran for the exit. The recent NVDA crush — the stock rose on AI enthusiasm; when sentiment flipped, everyone sold together. Labubu toys — people want them because they’re everywhere online; popularity itself looks like a quality signal.
 
-When signals are imprecise, early information can be wrong—so the early action can be wrong. Later people infer previous players’ information from those actions, and can pick up the wrong information.”
-
----
-
-## Slide 4 — Prior vs posterior (~1.5–2 min)
-
-“Rectangle split into \(G\) and \(B\)—prior one half each. Circle is signal \(g\), labeled on top, sitting more toward \(G\). Inside the circle: \(G\cap g\) on the Good side and \(B\cap g\) on the Bad side. Posterior \(\Pr(G\mid g)\) is the Good slice of the signal circle.”
+And homework copying: the best econ student finishes first; the second-best checks answers with the best; the third person — even if their own answer was originally correct — may still switch to match the first two. That’s exactly the cascade we’ll build.”
 
 ---
 
-## Slide 5 — Notation (~1.5 min)
+## 4 · What is herding (~1.5 min)
 
-“State \(G\)/\(B\) with equal prior one half. Signals \(g\)/\(b\) are 70% accurate and *conditionally independent given the state*—briefly: given Good or Bad, what signal A draws does not change what signal B draws; they only co-move through the common state. Action: Line up or Drop. Goal later: show Person 3 discards his own signal.”
-
----
-
-## Slide 6 — Venn (~1.5 min)
-
-“Then the picture: \(G\cap g\) and \(B\cap g\) inside signal circle \(g\).”
+“You have your own private clue, but you also see what others chose — and sometimes you follow the crowd even when your clue says the opposite. Why? Other people’s choices carry information. When signals are imprecise, early information can be wrong, so the early action can be wrong — and later people infer that wrong information from those actions.”
 
 ---
 
-## Slide 7–8 — Bayes (~4 min)
+## 5 · Setup (~1.5 min)
 
-“Write the final formula directly:
-\(\Pr(G\mid g)=\Pr(g\mid G)\Pr(G)/[\Pr(g\mid G)\Pr(G)+\Pr(g\mid B)\Pr(B)]\).
+“One restaurant: state is Good or Bad, prior one half each. People arrive one by one. Each gets a private signal, \(g\) or \(b\), that’s 70% accurate — \(\Pr(g\mid G)=0.7\), \(\Pr(b\mid B)=0.7\).
 
-Next page: plug in numbers → 0.7. Same idea for signal \(b\) → 0.3.”
+Signals are *conditionally independent given the state* — meaning once you know the restaurant is Good or Bad, what signal person A draws tells you nothing extra about person B’s signal; they only move together through the common state.
 
----
-
-## Slide 8 — Setup + break-even (~1.5 min)
-
-“Break-even: Line up if posterior on \(G\) is above one half; Drop if below; if exactly one half, coin flip.
-
-Important for later: each person’s decision is based on (i) their own signal and (ii) the actions taken previously—because previous actions are noisy public clues about previous signals.”
+Actions: Line up or Drop. Break-even: Line up if the posterior on \(G\) is above one half, Drop if below; exactly one half, coin flip. Goal: Person 1–3, and watch Person 3 discard his own signal.”
 
 ---
 
-## Slide 9 — Person 1 (~2 min)
+## 6 · Person 1 (~2 min)
 
-“Only signal \(g\) → \(\Pr(G\mid g)=0.7\) → **Line up**. Others see the action, not the raw signal.”
+“The picture: area equals probability. Left half is \(G\), right half \(B\); the \(g\) regions cover 70% of the Good side and 30% of the Bad side.
 
----
-
-## Slide 10 — Person 2 (~2.5 min)
-
-“Sees Line up ⇒ \(s_1=g\). Two cases for own signal.
-
-Case \(s_2=g\): Line up. Case \(s_2=b\): one joint \(\Pr(s_1=g,s_2=b\mid G)=0.21\) (same under \(B\) by conditional independence); Bayes → one half, indifferent coin flip.
-
-*[Next slide assumes the history we need for Person 3: two Line-ups. Speak that only when you turn the page.]*”
+Person 1 only has his own signal \(g\). Bayes: \(\Pr(G\mid g)\) is the Good slice over the whole \(g\) area — \(0.35 / (0.35+0.15) = 0.7\). Above one half, so he Lines up. Everyone else only sees his *action*, not his signal.”
 
 ---
 
-## Slide 11 — Person 3: write Bayes with actions (~2 min)
+## 7 · Person 2 (~2 min)
 
-“Story: two consumers are lining up in front of me; I draw a bad signal \(b\). Should I wait in line or leave? That depends on \(\Pr(G\mid \mathrm{LU},\mathrm{LU},b)\).
+“Person 2 sees Person 1 Line up — that reveals \(s_1=g\). Two cases.
 
-Write Bayes: numerator \(\Pr(\mathrm{LU},\mathrm{LU},b\mid G)\Pr(G)\); denominator that plus the same under \(B\).
+Case \(s_2=g\): two good clues, posterior above one half, Line up.
 
-Do **not** replace Line up by signal \(g\). Line up is an action; \(g\) is a signal. Next we need the conditional probabilities \(\Pr(\mathrm{LU},\mathrm{LU},b\mid G)\) and \(\Pr(\mathrm{LU},\mathrm{LU},b\mid B)\).”
-
----
-
-## Slide 12 — Conditional probabilities under \(G\) and under \(B\) (~2.5–3 min)
-
-“Slide stays short: product split + two plugged numbers. Say the rest out loud. Call them conditional probabilities, not likelihoods.
-
-Why the product? Earlier Line-ups depend only on \(s_1,s_2\). Given the state, those signals are independent of Person 3’s \(b\), so \(b\) is conditionally independent of \((\mathrm{LU},\mathrm{LU})\).
-
-When state is \(G\): Person 1 Lines up only if \(s_1=g\) (prob \(0.7\)). Then Person 2 Lines up for sure if \(s_2=g\) (prob \(0.7\)), or with probability one half if \(s_2=b\) (prob \(0.3\)). That gives \(0.7(0.7+0.3\cdot\tfrac12)=0.595\), times \(\Pr(b\mid G)=0.3\) → \(0.1785\).
-
-When state is \(B\): same logic with flipped signal probs — Person 1 LU only if \(s_1=g\) (prob \(0.3\)); Person 2 LU for sure if \(s_2=g\) (prob \(0.3\)), or half the time if \(s_2=b\) (prob \(0.7\)) → \(0.195\cdot 0.7=0.1365\).”
+Case \(s_2=b\): one good clue and one bad clue of the same strength. Write Bayes: joint under \(G\) is \(0.7\cdot0.3=0.21\), joint under \(B\) is \(0.3\cdot0.7=0.21\) — by conditional independence. Equal, so the posterior is exactly one half. He’s indifferent — Line up or Drop with probability one half each.”
 
 ---
 
-## Slide 13 — Combine (~2 min)
+## 8 · Person 3 — write the posterior (~2 min)
 
-“Equal priors: posterior \(= 0.1785 / (0.1785+0.1365) \approx 0.57 > 1/2\).
+“Now the story: two people are lining up in front of me, and I draw a bad signal \(b\). Should I wait in line or leave? That depends on \(\Pr(G\mid \mathrm{LU},\mathrm{LU},b)\).
 
-Still **Line up**—Person 3 *discards* his own signal \(b\). That is the cascade: two public Line-ups outweigh his private bad clue.”
+Write Bayes with the *actions and my signal*: numerator \(\Pr(\mathrm{LU},\mathrm{LU},b\mid G)\Pr(G)\), denominator that plus the same under \(B\).
+
+Important: do **not** replace Line up by \(g\). Line up is an action; \(g\) is a signal — especially since Person 2 sometimes Lines up even with \(b\). Next we need the conditional probabilities \(\Pr(\mathrm{LU},\mathrm{LU},b\mid G)\) and \(\Pr(\mathrm{LU},\mathrm{LU},b\mid B)\).”
 
 ---
 
-## Slide 14 — Takeaways (~2 min)
+## 9 · Person 3 — conditional probabilities (~2.5 min)
 
-“If everyone decided only on their own signal and we aggregated those independent choices, private information would keep showing up.
+“Why can we split the product? The earlier Line-ups depend only on \(s_1\) and \(s_2\). Given the state, those signals are independent of Person 3’s \(b\), so \(b\) is conditionally independent of the two Line-ups: probability of (LU, LU, \(b\)) equals probability of (LU, LU) times probability of \(b\).
 
-In a cascade, information is sequential: you condition on previous actions and your own signal; early Line-ups can make Person 3 rationally ignore \(b\).
+Now walk through Person 1 and 2 under each state.
 
-Same logic: Margaret’s, SBF/FTX, NVDA, Labubu.
+Under \(G\): Person 1 Lines up only if \(s_1=g\), probability 0.7. Given that, Person 2 Lines up for sure if \(s_2=g\) (0.7), or with probability one half if \(s_2=b\) (0.3). So \(0.7\,(0.7+0.3\cdot\tfrac12)=0.595\), times \(\Pr(b\mid G)=0.3\) gives \(0.1785\).
 
-Questions?”
+Under \(B\): same logic with the flipped likelihoods — Person 1 Lines up only if \(s_1=g\) (0.3); Person 2 Lines up for sure if \(s_2=g\) (0.3), or half the time if \(s_2=b\) (0.7). That’s \(0.195\), times \(\Pr(b\mid B)=0.7\) gives \(0.1365\).”
+
+---
+
+## 10 · Person 3 — combine (~2 min)
+
+“Equal priors, so plug in: \(0.1785\cdot\tfrac12\) over \(0.1785\cdot\tfrac12 + 0.1365\cdot\tfrac12\), about 0.57 — above one half.
+
+So Person 3 still Lines up — he discards his own bad signal. That’s the start of the cascade: two public Line-ups outweigh his private clue.”
+
+---
+
+## 11 · Takeaways (~2 min)
+
+“If everyone only used their own signal and we aggregated, private information would keep entering the public record. But in a cascade, choices are sequential: early actions become public clues, so later people can rationally ignore their own signals.
+
+Same logic as Margaret’s queues, SBF/FTX, NVDA, Labubu — and homework copying. Questions?”
