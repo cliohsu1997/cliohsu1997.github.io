@@ -129,7 +129,7 @@ Under \(B\): same logic, flipped probabilities. Person 1 Lines up only if \(s_1=
 
 **EN:** “Priors are equal, so just plug in: \(0.1785\cdot\tfrac12\) over \(0.1785\cdot\tfrac12+0.1365\cdot\tfrac12\). That’s about 0.57 — above one half.
 
-So Person 3 still Lines up. He throws away his own bad signal. But let’s slow down here, because this is the key step — and ‘throws away’ doesn’t mean he literally forgets it.
+So Person 3 still Lines up. He discards his own bad signal — the information derived from the previous players’ actions outweighs his private signal. But let’s slow down here, because this is the key step — and ‘discards’ doesn’t mean he literally forgets it.
 
 Person 3 draws \(b\). If he were alone — no other information — what would he do? With only \(b\), the probability of Good is 0.3. Below one half — he would Drop. His own signal says: leave.
 
@@ -147,7 +147,7 @@ That’s also why this is the start of the information cascade. Person 3’s Lin
 
 **中：** 「事前各二分之一，代进去算：\(0.1785\cdot\tfrac12\) 除以 \(0.1785\cdot\tfrac12+0.1365\cdot\tfrac12\)，大约是 0.57——大于二分之一。
 
-所以第三个人还是去排队——他干脆丢掉自己的坏信号。但我们在这里慢一点，因为这是关键的一步；而且“丢掉”不是说他真的把信号忘了。
+所以第三个人还是去排队——他干脆丢掉自己的坏信号：从前面玩家的行动里推出的信息，压过了他手上的私人信号。但我们在这里慢一点，因为这是关键的一步；而且“丢掉”不是说他真的把信号忘了。
 
 第三个人拿到的是坏信号 \(b\)。如果他是一个人，没有任何其他信息，他会怎么做？只有 \(b\) 的时候，餐厅是好的概率是 0.3，低于一半，所以他应该离开。他自己的信号是叫他走的。
 
