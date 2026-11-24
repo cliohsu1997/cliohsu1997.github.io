@@ -7,9 +7,9 @@ Key terms / 关键术语：**\(G/B\)** = true state 真实状态（好/坏）; *
 
 ## 1 · Title 开场（~45 sec）
 
-**EN:** “Hi, I’m Ke Cheng Hsu from HKUST Economics. Today we’ll talk about herding under imperfect information. Plan: start with a Macau queue you all know, a few everyday examples, what herding means, Bayes with a restaurant, then Person 1, 2, 3 — to see why following the crowd can be rational, and still go wrong.”
+**EN:** “Hi everyone, I’m Ke Cheng Hsu from HKUST. Today I want to talk about herding under imperfect information. We’ll start with something from daily life — queuing — and then look at a few more examples to build some intuition. After that, I’ll teach you Bayes’ rule with a restaurant example, and walk through Person 1, 2, and 3. The goal is to see why following the crowd can be rational for each individual — but not necessarily good for the group as a whole. In the end, we’ll use a small example to drive that point home.”
 
-**中：** 「大家好，我是香港科技大学经济系的许克丞。今天讲「不完美信息下的羊群效应」。流程很简单：先从大家在澳门都见过的排队讲起，再看几个日常例子，讲清楚什么是羊群效应，然后用一家餐厅把贝氏定理算一遍，最后跟着第一个、第二个、第三个人走一遍——看看为什么跟风有时是理性的，却还是可能出错。」
+**中：** 「大家好，我是香港科技大学的许克丞。今天我想讲「不完美信息下的羊群效应」。我们会先从大家生活中的排队说起，再看几个例子，给大家一个比较直觉的解释。接着我会用一个餐厅的例子教大家贝叶斯定理，跟着第一个、第二个、第三个人走一遍。目标是讲清楚一件事：为什么跟风有时候对每一个人来讲是理性的，但对整个群体来讲并不是一件好事。最后我们会用一个小例子，把这个道理再说透。」
 
 ---
 
@@ -27,7 +27,7 @@ Key terms / 关键术语：**\(G/B\)** = true state 真实状态（好/坏）; *
 
 First, NVIDIA’s recent slide. There was gossip around Jensen Huang — the Chinese internet nickname 老黄, the 小一小二小三 rumors. But ask: did NVIDIA’s fundamentals actually change? AI demand, earnings, guidance — largely the same. If you trust your own analysis, not much should move the price. Still, when the first investors sell and the price dips, later investors see the drop and infer that others may know something they don’t. If that inference outweighs their own read on fundamentals, they sell too. Each wave of selling pushes the price lower, giving the next investor an even stronger reason to follow — the price fall feeds on itself.
 
-Second, a bank run. You hear a rumor that a bank is in trouble. You might not believe it yourself, but you see a long line of people withdrawing at the branch. You think: maybe they know something I don’t. So you queue up and withdraw too. Your withdrawal makes the line longer and the bank weaker, which gives the next person an even stronger reason to run. Even if the rumor was false, the run itself can bring the bank down.
+Second, a bank run. You hear a rumor that a bank is in trouble. You might not believe it yourself, but you see a long line of people withdrawing at the branch. You think: maybe they know something I don’t. So you queue up and withdraw too. Each extra withdrawal makes the line look even more alarming, and gives the next person a stronger reason to run. Even if the rumor was false, the run itself can bring the bank down.
 
 And homework copying, the same logic in miniature: the student with the best grade finishes first; the second-best compares answers with the best and adopts them; the third person — even if their own answer was originally correct — sees two agreeing answers and switches to match. Each step is locally reasonable; together they form an **information cascade** — the 信息瀑布.”
 
@@ -35,7 +35,7 @@ And homework copying, the same logic in miniature: the student with the best gra
 
 第一个，最近英伟达的下跌。当时围绕黄仁勋——华人圈叫他老黄——传着小一小二小三的说法。但先问一句：英伟达的基本面真的变了吗？AI 需求、财报、业绩指引，基本上都没变。如果你相信自己的分析，股价其实不该动这么多。可是当第一批投资者卖出、价格开始跌，后面的人看到下跌，就会想：别人是不是知道什么我不知道的事？一旦这种想法压过了自己对基本面的判断，他们也会跟着卖。每一波卖出都把价格压得更低，又给下一个人更强的理由跟进——跌势就这样自我加强。
 
-第二个，银行挤兑。你听到传言说某家银行出了问题。你自己未必信，但你看到分行门口排了一长串人在提款。你会想：他们是不是知道什么我不知道的事？于是你也去排队把钱取出来。你的提款让队伍更长、银行更虚弱，又给下一个人更强的理由去挤兑。就算最初的传言是假的，挤兑本身也可能把银行拖垮。
+第二个，银行挤兑。你听到传言说某家银行出了问题。你自己未必信，但你看到分行门口排了一长串人在提款。你会想：他们是不是知道什么我不知道的事？于是你也去排队把钱取出来。每多一个人提款，队伍看起来就越吓人，又给下一个人更强的理由去挤兑。就算最初的传言是假的，挤兑本身也可能把银行拖垮。
 
 抄作业也是一样的道理，只是规模更小：成绩最好的同学先写完；第二名拿来跟第一名对答案，干脆照抄；第三个人——就算自己原本写对了——看到两份一样的答案，也把自己的改成一样。每一步单独看都说得通，但合在一起，就是一条**信息瀑布**，也就是信息级联。」
 
@@ -139,10 +139,10 @@ So Person 3 still Lines up — he discards his own bad signal. That is the start
 
 ## 11 · Takeaways 结语（~2 min）
 
-**EN:** “If everyone only used their own signal and we aggregated, private information would keep entering the public record. But in a cascade, choices are sequential: early actions become public clues, so later people can rationally ignore their own signals.
+**EN:** “If everyone only used their own signal and we aggregated, private information would keep entering the public record. But in a cascade, choices are sequential: early actions become public clues, so later people can rationally ignore their own signals. Following the crowd can be rational for each individual — but bad for the group.
 
-Same logic as Margaret’s queues, NVDA, Labubu — and homework copying. Questions?”
+Same logic as Margaret’s queues, NVDA’s slide, the bank run — and homework copying. Questions?”
 
-**中：** 「如果每个人都只用自己的信号，我们再把结果加总，私人信息就会不断累积进公共记录。但在信息级联里，选择是一个接一个的：早期的行动变成公开线索，后来的人就可能理性地忽略自己的信号。
+**中：** 「如果每个人都只用自己的信号，我们再把结果加总，私人信息就会不断累积进公共记录。但在信息级联里，选择是一个接一个的：早期的行动变成公开线索，后来的人就可能理性地忽略自己的信号。跟风对每一个人可能是理性的，对整个群体却不见得是好事。
 
-玛嘉烈的长队、英伟达的下跌、Labubu、还有抄作业——背后是同一套逻辑。有问题吗？」
+玛嘉烈的长队、英伟达的下跌、银行挤兑、还有抄作业——背后是同一套逻辑。有问题吗？」
