@@ -9,7 +9,7 @@ Key terms / 关键术语：**\(G/B\)** = true state 真实状态（好/坏）; *
 
 **EN:** “Hi everyone, I’m Ke Cheng Hsu from HKUST. Today I want to talk about herding under imperfect information. We’ll start with queuing in daily life, build intuition with a few everyday examples, then use one example to teach Bayes’ rule and explain why following the crowd can be rational for each individual — yet not good for the group.”
 
-**中：** 「大家好，我是香港科技大学的徐可震。今天讲「不完美信息下的羊群效应」。我们会先从生活中的排队说起，再用一些生活中的例子建立直觉，然后用一个例子教大家贝叶斯定理，去解释为什么跟风对个人可能是理性的，但对群体来讲却并不是件好事。」
+**中：** 「大家好，我是香港科技大学的許可證。今天讲「不完美信息下的羊群效应」。我们会先从生活中的排队说起，再用一些生活中的例子建立直觉，然后用一个例子教大家贝叶斯定理，去解释为什么跟风对个人可能是理性的，但对群体来讲却并不是件好事。」
 
 ---
 
