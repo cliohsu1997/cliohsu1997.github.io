@@ -13,7 +13,7 @@
 4. `04_Full_Text_Publications_HSU_Ke_Cheng.pdf` (JMP + second paper)
 5. `05_Teaching_Evaluation_HSU_Ke_Cheng.pdf`
 
-**Letters (item 6):** Crystal / writers send separately (two: Au + Kei). Tracker: **Pending**.
+**Letters (item 6):** Crystal / writers send separately (two: Au + Kei). Tracker: **To send**.
 
 ---
 

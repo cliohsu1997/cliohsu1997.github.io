@@ -33,7 +33,7 @@ Package files in `Application_Package_HSU_Ke_Cheng_XMUM_SEM/` use the same label
 6. Two academic references (at least one from current/most recent employer) — Crystal emails on behalf of referees (not attached by applicant)
 
 ## Recommendation letters
-**Two** letters by email via Crystal to [recruit_academic@xmu.edu.my](mailto:recruit_academic@xmu.edu.my): **Pak Hung Au** (current advisor / HKUST) and **Kei Kawai**. Tracked in `recommendation_letters_to_send` (**Pending**). Subject: `Recommendation Letters for Ke Cheng HSU — Assistant Professor`.
+**Two** letters by email via Crystal to [recruit_academic@xmu.edu.my](mailto:recruit_academic@xmu.edu.my): **Pak Hung Au** (current advisor / HKUST) and **Kei Kawai**. Tracked in `recommendation_letters_to_send` (**To send**). Subject: `Recommendation Letters for Ke Cheng HSU — Assistant Professor`.
 
 ## Fit notes
 Strong overlap with listed **Digital Economy** and **E-Commerce** areas; empirical IO / digital economics JMP fits. Teaching language English.
