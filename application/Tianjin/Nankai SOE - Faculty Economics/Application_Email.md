@@ -3,11 +3,11 @@
 **To:** ecojobs@nankai.edu.cn  
 **Deadline:** 2026-12-07, 12:00 Beijing Time (Lecturer-level / Assistant)  
 **Subject:** Ke Cheng HSU — Assistant Professor (Teaching & Research, Lecturer-level)  
-**Also:** submit through Nankai recruitment portal (university notice)
+
+**Also required:** submit through the Nankai portal https://zhaopin.nankai.edu.cn/  
+**Attach:** `Application_Package_HSU_Ke_Cheng_Nankai_SOE_Email.zip` (email-required files only)
 
 Crystal will email recommendation letters from Pak Hung Au, Kohei Kawaguchi, and Kei Kawai to the same address.
-
-Use `CV_HSU_Ke_Cheng_Nankai.pdf` (passport photo included).
 
 ---
 
@@ -15,7 +15,7 @@ Dear Members of the Search Committee,
 
 I am Ke-cheng (Clio) Hsu, a Ph.D. candidate in Economics at the Hong Kong University of Science and Technology. Please find attached my application for an Assistant Professor position (Teaching & Research, Lecturer-level) in the School of Economics. My fields are Empirical Industrial Organization and Digital Economics.
 
-The attachments include my cover letter, CV, job market paper, a second research paper, teaching evaluations, and transcript. Crystal, the secretary of the Department of Economics at HKUST, will send letters of reference from Pak Hung Au, Kohei Kawaguchi, and Kei Kawai to this address on their behalf. I am also submitting through the university recruitment portal.
+The attachments include my cover letter, CV (with photo), job market paper, a second research paper, teaching evaluations, and transcript. Crystal, the secretary of the Department of Economics at HKUST, will send letters of reference from Pak Hung Au, Kohei Kawaguchi, and Kei Kawai to this address on their behalf. I am also submitting through the university recruitment portal.
 
 Thank you for your consideration.
 
@@ -29,12 +29,12 @@ https://cliohsu1997.github.io/
 
 ---
 
-## Attachments
-1. `Cover_Letter_HSU_Ke_Cheng_Nankai_SOE.pdf`
-2. `CV_HSU_Ke_Cheng_Nankai.pdf` (with passport photo)
-3. `JMP_HSU_Ke_Cheng.pdf` (full)
-4. `Product_Design_with_Heterogeneous_Search_Costs.pdf`
-5. `Teaching_Evaluations.pdf`
-6. `Transcript.pdf`
+## Attachments (in the email zip)
+1. `01_Cover_Letter_HSU_Ke_Cheng_Nankai_SOE.pdf`
+2. `02_CV_HSU_Ke_Cheng_Nankai.pdf` (passport photo)
+3. `03_JMP_HSU_Ke_Cheng.pdf` (full)
+4. `04_Product_Design_with_Heterogeneous_Search_Costs.pdf`
+5. `05_Teaching_Evaluations.pdf`
+6. `06_Transcript.pdf`
 
-(Only one CV — `CV_HSU_Ke_Cheng_Nankai.pdf`.)
+Letters: not attached — Crystal / writers send separately.

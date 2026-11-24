@@ -40,7 +40,7 @@ School of Economics tenure-track faculty; competitive salary, benefits, and rese
 Cover letter included in the package for email / portal upload even though not numbered in the school list.
 
 ## Recommendation letters
-JD asks for **two** letters; package lists **three** referees (Au, Kawaguchi, Kawai) via Crystal. Tracked in `recommendation_letters_to_send` (Pending). Email [ecojobs@nankai.edu.cn](mailto:ecojobs@nankai.edu.cn). Subject: `Recommendation Letters for Ke Cheng HSU — Assistant Professor`.
+JD asks for **two** letters; package lists **three** referees (Au, Kawaguchi, Kawai) via Crystal. Tracked in `recommendation_letters_to_send` (**To send**). Email [ecojobs@nankai.edu.cn](mailto:ecojobs@nankai.edu.cn). Subject: `Recommendation Letters for Ke Cheng HSU — Assistant Professor`.
 
 ## Files
 - `Cover_Letter_HSU_Ke_Cheng_Nankai_SOE.tex` / `.pdf`
