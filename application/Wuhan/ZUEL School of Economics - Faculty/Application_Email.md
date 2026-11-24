@@ -17,7 +17,7 @@
 6. `Teaching_Statement_HSU_Ke_Cheng.pdf`
 7. `Teaching_Evaluations.pdf`
 
-**Letters:** Crystal / writers send separately to the same address (three: Au, Kawaguchi, Kawai). Tracker status: **Pending** — move to **To send** when you ask Crystal.
+**Letters:** Crystal / writers send separately to the same address (three: Au, Kawaguchi, Kawai). Tracker status: **To send**.
 
 ---
 
