@@ -27,7 +27,7 @@ Key terms / 关键术语：**\(G/B\)** = true state 真实状态（好/坏）; *
 
 First, NVIDIA’s recent slide. There was gossip around Jensen Huang — the Chinese internet nickname 老黄, the 小一小二小三 rumors. But ask: did NVIDIA’s fundamentals actually change? AI demand, earnings, guidance — largely the same. If you trust your own analysis, not much should move the price. Still, when the first investors sell and the price dips, later investors see the drop and infer that others may know something they don’t. If that inference outweighs their own read on fundamentals, they sell too. Each wave of selling pushes the price lower, giving the next investor an even stronger reason to follow — the price fall feeds on itself.
 
-Second, Labubu. I never found it appealing. My girlfriend didn’t either at first. But then she saw her friends buying Labubu and hanging them on their bags. She reasoned: if so many people like it, it must have some appeal I haven’t noticed. Popularity itself became a quality signal — so she started liking it and bought one.
+Second, a bank run. You hear a rumor that a bank is in trouble. You might not believe it yourself, but you see a long line of people withdrawing at the branch. You think: maybe they know something I don’t. So you queue up and withdraw too. Your withdrawal makes the line longer and the bank weaker, which gives the next person an even stronger reason to run. Even if the rumor was false, the run itself can bring the bank down.
 
 And homework copying, the same logic in miniature: the student with the best grade finishes first; the second-best compares answers with the best and adopts them; the third person — even if their own answer was originally correct — sees two agreeing answers and switches to match. Each step is locally reasonable; together they form an **information cascade** — the 信息瀑布.”
 
@@ -35,7 +35,7 @@ And homework copying, the same logic in miniature: the student with the best gra
 
 第一个，最近英伟达的下跌。当时围绕黄仁勋——华人圈叫他老黄——传着小一小二小三的说法。但先问一句：英伟达的基本面真的变了吗？AI 需求、财报、业绩指引，基本上都没变。如果你相信自己的分析，股价其实不该动这么多。可是当第一批投资者卖出、价格开始跌，后面的人看到下跌，就会想：别人是不是知道什么我不知道的事？一旦这种想法压过了自己对基本面的判断，他们也会跟着卖。每一波卖出都把价格压得更低，又给下一个人更强的理由跟进——跌势就这样自我加强。
 
-第二个，Labubu。我自己一直不觉得它有什么可爱。我女朋友原本也是。但后来她看到身边的朋友都在买 Labubu、挂在包上，她就想：这么多人喜欢，它一定有我还没发现的好处。热门本身变成了品质的证明——于是她也开始喜欢，自己也去买了一只。
+第二个，银行挤兑。你听到传言说某家银行出了问题。你自己未必信，但你看到分行门口排了一长串人在提款。你会想：他们是不是知道什么我不知道的事？于是你也去排队把钱取出来。你的提款让队伍更长、银行更虚弱，又给下一个人更强的理由去挤兑。就算最初的传言是假的，挤兑本身也可能把银行拖垮。
 
 抄作业也是一样的道理，只是规模更小：成绩最好的同学先写完；第二名拿来跟第一名对答案，干脆照抄；第三个人——就算自己原本写对了——看到两份一样的答案，也把自己的改成一样。每一步单独看都说得通，但合在一起，就是一条**信息瀑布**，也就是信息级联。」
 
@@ -43,9 +43,9 @@ And homework copying, the same logic in miniature: the student with the best gra
 
 ## 4 · What is herding 什么是羊群效应（~1.5 min）
 
-**EN:** “The pattern behind all three stories is the same — following the crowd: you only have one piece of information that you know yourself, but you also see how others choose — and sometimes you follow the crowd even when your own information points the other way. Why? Other people’s choices carry information. When signals are imprecise, early information can be wrong, so early actions can be wrong — and later people infer that wrong information from those actions. In the examples: the first few in line may have had no real reason, the first NVDA sellers may have misread the news, and the first Labubu buyers may simply have liked the design — yet their actions still moved everyone after them.”
+**EN:** “The pattern behind all three stories is the same — following the crowd: you only have one piece of information that you know yourself, but you also see how others choose — and sometimes you follow the crowd even when your own information points the other way. Why? Other people’s choices carry information. When signals are imprecise, early information can be wrong, so early actions can be wrong — and later people infer the earlier people’s information from those actions, passing the error all the way down. In the examples: the first few in line may have had no real reason, the first NVDA sellers may have overestimated the impact of Jensen Huang’s scandal on the stock price, and the first bank-run withdrawers may have overreacted to a rumor — yet their actions still moved everyone after them.”
 
-**中：** 「这三个故事背后都是同一个模式——从众。你只有一条自己知道的信息，但你也看到别人怎么选；有时候你会跟着别人走，哪怕你自己的信息跟他们说的是相反的。为什么？因为别人的选择本身就带着信息。当信号不够精确时，最早的信息可能是错的，最早的行动也就跟着错——而后面的人从这些行动里反推信息，就把这个错误一路传下去。放回刚才的例子：最早排蛋挞的可能只是无聊，最早卖英伟达的可能误读了消息，最早买 Labubu 的可能只是单纯喜欢那个设计——但他们的行动照样影响了后面所有人。」
+**中：** 「这三个故事背后都是同一个模式——从众。你只有一条自己知道的信息，但你也看到别人怎么选；有时候你会跟着别人走，哪怕你自己的信息跟他们说的是相反的。为什么？因为别人的选择本身就带着信息。当信号不够精确时，最早的信息可能是错的，最早的行动也就跟着错——而后面的人从这些行动里反推前面人的信息，就把这个错误一路传下去。放回刚才的例子：最早排蛋挞的可能只是无聊，最早卖英伟达的可能高估了黄仁勋出轨对股价的影响，最早去银行提款的可能对一个谣言反应过度——但他们的行动照样影响了后面所有人。」
 
 ---
 
