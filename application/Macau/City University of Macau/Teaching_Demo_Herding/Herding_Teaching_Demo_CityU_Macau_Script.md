@@ -23,15 +23,19 @@ Key terms / 关键术语：**\(G/B\)** = true state 真实状态（好/坏）; *
 
 ## 3 · Other examples 其他例子（~2–2.5 min）
 
-**EN:** “Take the recent NVDA slide. There was gossip around Jensen Huang — the Chinese internet nickname 老黄, the 小一小二小三 talk. But did NVIDIA’s fundamentals really change? If you trust your own read on the company, probably not much. Yet when the first person sells and the price dips, you see the price fall and think: maybe others know something I don’t. If their information feels bigger than my own view of the fundamentals, I ignore my fundamentals and just dump everything. My dump pushes the price lower, the next person sees the same thing — the fall feeds itself.
+**EN:** “Two richer stories.
 
-Or Labubu. I don’t care much for it. My girlfriend didn’t either at first — but she saw all her friends buying Labubu and hanging them on their bags, so she thought: it must have something good I don’t know about. Now she likes it too.
+First, NVIDIA’s recent slide. There was gossip around Jensen Huang — the Chinese internet nickname 老黄, the 小一小二小三 rumors. But ask: did NVIDIA’s fundamentals actually change? AI demand, earnings, guidance — largely the same. If you trust your own analysis, not much should move the price. Still, when the first investors sell and the price dips, later investors see the drop and infer that others may know something they don’t. If that inference outweighs their own read on fundamentals, they sell too. Each wave of selling pushes the price lower, giving the next investor an even stronger reason to follow — the price fall feeds on itself.
 
-Smallest version, homework copying: the best econ student finishes first; the second-best compares answers with the best and adopts them; the third person — even if their own answer was originally correct — sees two agreeing answers and switches. Each step is locally reasonable; together they make an **information cascade** — the 信息瀑布.”
+Second, Labubu. I never found it appealing. My girlfriend didn’t either at first. But then she saw her friends buying Labubu and hanging them on their bags. She reasoned: if so many people like it, it must have some appeal I haven’t noticed. Popularity itself became a quality signal — so she started liking it and bought one.
 
-**中：** 「就说最近英伟达股价大跌，因为老黄，华人圈传小一小二小三。但实际上，英伟达的基本面有改变吗？如果你对公司有自己的判断，可能没有很大改变。但是当第一个人开始卖的时候，价格往下跌；你看到价格往下跌，就觉得：啊，可能别人有我不知道的信息。那如果这些信息比我自己觉得这家公司基本面更重要的话，我就不管我觉得基本面怎样，直接一键清仓。当我一键清仓的时候，价格就继续跌——下一个人看到同样的事，跌势自我加强。
+And homework copying, the smallest version: the best econ student finishes first; the second-best compares answers with the best and adopts them; the third person — even if their own answer was originally correct — sees two agreeing answers and switches to match. Each step is locally reasonable; together they form an **information cascade** — the 信息瀑布.”
 
-或是 Labubu。我自己没有很喜欢。我女朋友原本也没有很喜欢，但她看她的朋友都有买 Labubu、挂在包上，她就想：啊，Labubu 一定有它什么我不知道的好地方——现在她也喜欢了。
+**中：** 「讲两个更完整的例子。
+
+第一个，最近的英伟达下跌。当时围绕黄仁勋——华人圈叫老黄——有小一小二小三的传言。但问一下：英伟达的基本面真的变了吗？AI 需求、财报、业绩指引——基本没变。如果你相信自己的分析，股价其实不该动这么多。可是当第一批投资者卖出、价格下跌，后面的人看到下跌，就会推断别人可能掌握了自己不知道的信息。如果这种推断压过了自己对基本面的判断，他们也会跟着卖。每一波卖出都把价格压得更低，给下一个人更强的理由跟进——跌势自我加强。
+
+第二个，Labubu。我自己一直不觉得它可爱。我女朋友原本也是。但后来她看到朋友都买 Labubu、挂在包上，她就想：这么多人喜欢，它一定有我还没发现的好处。热门本身变成了品质信号——于是她也开始喜欢，自己也买了一只。
 
 最小号的版本是抄作业：经济最好的同学先写完；第二名跟第一名对答案就照抄；第三个人——就算自己本来写对了——看到两份一样的答案也改过去。每一步单独看都合理，合起来就是一条**信息瀑布**——信息级联。」
 
