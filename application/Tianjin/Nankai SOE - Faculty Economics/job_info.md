@@ -40,12 +40,14 @@ School of Economics tenure-track faculty; competitive salary, benefits, and rese
 Cover letter included in the package for email / portal upload even though not numbered in the school list.
 
 ## Recommendation letters
-**Two** letters by **email** to [ecojobs@nankai.edu.cn](mailto:ecojobs@nankai.edu.cn). Tracked in `recommendation_letters_to_send` (Pending). Referees: Pak Hung Au, Kohei Kawaguchi. Subject: `Recommendation Letters for Ke Cheng HSU — Assistant Professor`.
+JD asks for **two** letters; package lists **three** referees (Au, Kawaguchi, Kawai) via Crystal. Tracked in `recommendation_letters_to_send` (Pending). Email [ecojobs@nankai.edu.cn](mailto:ecojobs@nankai.edu.cn). Subject: `Recommendation Letters for Ke Cheng HSU — Assistant Professor`.
 
 ## Files
 - `Cover_Letter_HSU_Ke_Cheng_Nankai_SOE.tex` / `.pdf`
 - `Application_Email.md`
 - `CV_HSU_Ke_Cheng_Nankai.tex` / `.pdf` (photo CV)
 - `photo_formal.jpg`
-- `Application_Package_HSU_Ke_Cheng_Nankai_SOE/` — cover, Nankai CV, **full** JMP, second paper, teaching evaluations, transcript, photo
+- `Application_Package_HSU_Ke_Cheng_Nankai_SOE/` — cover, Nankai CV, **full** JMP, second paper, combined research+teaching statement (research first), teaching evaluations, transcript, photo, reference-letter arrangement note
+- `Research_and_Teaching_Statement_HSU_Ke_Cheng.pdf` — merged research statement then teaching statement (3 pages)
+- `Reference_Letters_HSU_Ke_Cheng_Nankai.tex` / `.pdf` — letters available via Crystal (`cecrystal@ust.hk`) on behalf of Au, Kawaguchi, and Kawai
 - `Application_Package_HSU_Ke_Cheng_Nankai_SOE.zip`
