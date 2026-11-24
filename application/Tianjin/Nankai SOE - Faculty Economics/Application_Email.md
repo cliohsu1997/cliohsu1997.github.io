@@ -7,7 +7,7 @@
 **Also required:** submit through the Nankai portal https://zhaopin.nankai.edu.cn/  
 **Attach:** `Application_Package_HSU_Ke_Cheng_Nankai_SOE_Email.zip` (email-required files only)
 
-Crystal will email recommendation letters from Pak Hung Au, Kohei Kawaguchi, and Kei Kawai to the same address.
+Crystal will email two recommendation letters from Pak Hung Au and Kei Kawai to the same address.
 
 ---
 
@@ -15,7 +15,7 @@ Dear Members of the Search Committee,
 
 I am Ke-cheng (Clio) Hsu, a Ph.D. candidate in Economics at the Hong Kong University of Science and Technology. Please find attached my application for an Assistant Professor position (Teaching & Research, Lecturer-level) in the School of Economics. My fields are Empirical Industrial Organization and Digital Economics.
 
-The attachments include my cover letter, CV (with photo), job market paper, a second research paper, teaching evaluations, and transcript. Crystal, the secretary of the Department of Economics at HKUST, will send letters of reference from Pak Hung Au, Kohei Kawaguchi, and Kei Kawai to this address on their behalf. I am also submitting through the university recruitment portal.
+The attachments include my cover letter, CV (with photo), job market paper, a second research paper, teaching evaluations, and transcript. Crystal, the secretary of the Department of Economics at HKUST, will send two letters of reference from Pak Hung Au and Kei Kawai to this address on their behalf. I am also submitting through the university recruitment portal.
 
 Thank you for your consideration.
 
