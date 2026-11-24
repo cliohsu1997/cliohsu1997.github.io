@@ -27,7 +27,7 @@ Key terms / 关键术语：**\(G/B\)** = true state 真实状态（好/坏）; *
 
 First, NVIDIA's recent crash. The internet was full of gossip about Jensen Huang — Lao Huang, as people call him. But ask the basic question: did NVIDIA's fundamentals actually change? AI demand, earnings, guidance — mostly the same. So if you only trusted your own analysis, you wouldn't be selling at all. But here's what actually happens. The first investors sell, the price dips, and the next wave sees the drop and thinks, 'Maybe they know something I don't.' Once that thought beats their own read on fundamentals, they sell too. Each wave of selling pushes the price lower — and that gives the next person an even stronger reason to follow. The fall feeds on itself.
 
-Second, Labubu. Why is everyone chasing it? Because it's everywhere — social media, stores, everyone's feed. At some point, being popular starts to look like a quality signal: if everyone's buying it, it must be good. But it's the same logic — you see other people buying, and you assume they know something.
+Second, a bank run. You hear a rumor that a bank is in trouble. You might not believe it. But you walk by the branch and see a long line of people withdrawing. You think, 'Maybe they know something I don't.' So you line up and withdraw too. Every extra withdrawal makes the line look scarier, and gives the next person a stronger reason to run. Even if the rumor was false, the run itself can bring the bank down.
 
 And homework copying — same logic, just smaller. The best student finishes first. The second-best checks answers and just copies. The third person — even if their own answer was right — sees two matching answers and switches to match them. Each step looks reasonable on its own. Together, they form an information cascade — a 信息瀑布.”
 
@@ -35,7 +35,7 @@ And homework copying — same logic, just smaller. The best student finishes fir
 
 第一个，英伟达前阵子那波暴跌。网上到处都在传老黄——就是黄仁勋——的八卦。可你先问自己一句：英伟达的基本面，真变了吗？AI 需求、财报、业绩指引，大的东西其实没怎么动。那要只看自己的分析，你压根就不该卖。可现实是：第一批人一卖，价格一跌，后面的人一看跌了，心里就犯嘀咕——是不是有人知道什么我不知道的？这个念头一旦压过他自己的判断，他也跟着卖。每多一波卖，价格就再低一点；价格越低，下一个人跟风的理由就越硬。跌势就这么自己喂自己。
 
-第二个，Labubu。大家为什么追它？因为网上到处都是——刷个社交媒体是它，逛个店是它，每个人的首页上还是它。火本身，看起来就像个质量信号：大家都在买，那肯定错不了。可逻辑是一样的——你看到别人在买，就默认别人知道点什么。
+第二个，银行挤兑。你听到一个传言，说某家银行要出事。你心里未必信。但你走到分行门口，看见一条长队都在取钱。你马上会想：他们是不是知道点什么？于是你也去排队。每多一个人取钱，队伍看起来就更吓人，后面的人就更不敢不取。哪怕一开始的传言是假的，挤兑本身也可能把银行拖垮。
 
 抄作业也一样，只是规模小一点。班里第一名先写完；第二名跟他对答案，一看不一样，干脆就抄了；第三个人本来可能写对了，可一看两个人答案一模一样，自己先虚了，最后也改成一样的。你单看每一步，都挺合理；可合在一起，就是一条信息瀑布，也就是信息级联。」
 
@@ -43,9 +43,9 @@ And homework copying — same logic, just smaller. The best student finishes fir
 
 ## 4 · What is herding 什么是羊群效应（~1.5 min）
 
-**EN:** “So what's the common pattern? It's following the crowd. You've got one piece of information — your own — but you also see what everyone else does. And sometimes you follow the crowd even when your own information points the other way. Why? Because other people's choices carry information too. When signals aren't precise, early information can be wrong — so early actions can be wrong. And later people infer the earlier people's information from those actions — and the error gets passed down the line. Look at the examples: the first people in line may have had no real reason; the first NVDA sellers may have overreacted to the gossip; the first Labubu buyers may have just seen the hype. But their actions still moved everyone after them.”
+**EN:** “So what's the common pattern? It's following the crowd. You've got one piece of information — your own — but you also see what everyone else does. And sometimes you follow the crowd even when your own information points the other way. Why? Because other people's choices carry information too. When signals aren't precise, early information can be wrong — so early actions can be wrong. And later people infer the earlier people's information from those actions — and the error gets passed down the line. Look at the examples: the first people in line may have had no real reason; the first NVDA sellers may have overreacted to the gossip; the first bank-run withdrawers may have overreacted to a rumor. But their actions still moved everyone after them.”
 
-**中：** 「这几个故事背后其实是同一个模式：从众。你手里就一条信息，是你自己知道的；可你还能看到别人怎么选。有时候，哪怕你自己的信息指向另一边，你还是会跟着人群走。为什么？因为别人的选择本身也带信息。信号不准的时候，最早那批人的信息可能是错的，行动也可能是错的；后面的人却从这些行动里反推“他们大概知道什么”，于是错误就一路传下去。放回例子里：最早排蛋挞的可能只是无聊，最早卖英伟达的可能高估了八卦的影响，最早买 Labubu 的可能只是看到了热度——但他们的行动，照样影响了后面所有人。」
+**中：** 「这几个故事背后其实是同一个模式：从众。你手里就一条信息，是你自己知道的；可你还能看到别人怎么选。有时候，哪怕你自己的信息指向另一边，你还是会跟着人群走。为什么？因为别人的选择本身也带信息。信号不准的时候，最早那批人的信息可能是错的，行动也可能是错的；后面的人却从这些行动里反推“他们大概知道什么”，于是错误就一路传下去。放回例子里：最早排蛋挞的可能只是无聊，最早卖英伟达的可能高估了八卦的影响，最早去银行提款的可能对一个谣言反应过度——但他们的行动，照样影响了后面所有人。」
 
 ---
 
@@ -161,8 +161,8 @@ And that's why this is the start of the information cascade. Person 3's Line-up 
 
 **EN:** “So here's the takeaway. If everyone just used their own signal and we aggregated everything, private information would keep entering the public record. But in a cascade, choices are sequential. Early actions become public clues — and later people can rationally ignore their own signals. Following the crowd can be rational for each person — but bad for the group.
 
-And it's the same logic as Margaret's queue, NVIDIA's crash, Labubu — and homework copying. Questions?”
+And it's the same logic as Margaret's queue, NVIDIA's crash, the bank run — and homework copying. Questions?”
 
 **中：** 「如果每个人都只用自己的信号，我们再把结果加总，私人信息就会不断累积进公共记录。但在信息级联里，选择是一个接一个的：早期的行动变成公开线索，后来的人就可能理性地忽略自己的信号。跟风对每一个人可能是理性的，对整个群体却不见得是好事。
 
-玛嘉烈的长队、英伟达的暴跌、Labubu、还有抄作业——背后是同一套逻辑。有问题吗？」
+玛嘉烈的长队、英伟达的暴跌、银行挤兑、还有抄作业——背后是同一套逻辑。有问题吗？」
