@@ -15,9 +15,9 @@ Key terms / 关键术语：**\(G/B\)** = true state 真实状态（好/坏）; *
 
 ## 2 · Margaret’s 玛嘉烈蛋挞（~2 min）
 
-**EN:** “Margaret’s Café e Nata, hidden in an alley near Sintra Square — there’s always a long winding queue. To be honest, I don’t see how it really differs from a usual egg tart. But I saw so many people lining up, so I lined up for twenty minutes — and eventually it didn’t even taste good. That’s the puzzle: I used my own eyes and tongue, yet the crowd still talked me into the queue.”
+**EN:** “Margaret’s Café e Nata, hidden in an alley near Sintra Square — there’s always a long winding queue. To be honest, I don’t see how it really differs from a usual egg tart. Maybe the first few people just lined up out of boredom; then everyone else saw the queue and read it as proof of quality. I did the same: I saw so many people lining up that I joined for twenty minutes — and eventually it didn’t even taste good. That’s the puzzle: I used my own eyes and tongue, yet the crowd still talked me into the queue.”
 
-**中：** 「玛嘉烈蛋挞藏在新马路附近的一条小巷里，门口永远排长龙。说实话，我吃不出它跟一般蛋挞有什么差别。但当时看到那么多人排队，我也就跟着排了二十分钟——结果吃下去觉得也不怎么样。问题就在这里：我明明有自己的眼睛和舌头，最后还是被人群劝进了队伍。」
+**中：** 「玛嘉烈蛋挞藏在新马路附近的一条小巷里，门口永远排长龙。说实话，我吃不出它跟一般蛋挞有什么差别。说不定最早那几个人只是闲着无聊才去排，结果后面的人看到队伍，就把它当成了品质的证明。我也一样：看到那么多人排队，就跟着排了二十分钟——结果吃下去觉得也不怎么样。问题就在这里：我明明有自己的眼睛和舌头，最后还是被人群劝进了队伍。」
 
 ---
 
@@ -29,7 +29,7 @@ First, NVIDIA’s recent slide. There was gossip around Jensen Huang — the Chi
 
 Second, Labubu. I never found it appealing. My girlfriend didn’t either at first. But then she saw her friends buying Labubu and hanging them on their bags. She reasoned: if so many people like it, it must have some appeal I haven’t noticed. Popularity itself became a quality signal — so she started liking it and bought one.
 
-And homework copying, the same logic in miniature: the best econ student finishes first; the second-best compares answers with the best and adopts them; the third person — even if their own answer was originally correct — sees two agreeing answers and switches to match. Each step is locally reasonable; together they form an **information cascade** — the 信息瀑布.”
+And homework copying, the same logic in miniature: the student with the best grade finishes first; the second-best compares answers with the best and adopts them; the third person — even if their own answer was originally correct — sees two agreeing answers and switches to match. Each step is locally reasonable; together they form an **information cascade** — the 信息瀑布.”
 
 **中：** 「讲两个更完整的例子。
 
@@ -37,15 +37,15 @@ And homework copying, the same logic in miniature: the best econ student finishe
 
 第二个，Labubu。我自己一直不觉得它有什么可爱。我女朋友原本也是。但后来她看到身边的朋友都在买 Labubu、挂在包上，她就想：这么多人喜欢，它一定有我还没发现的好处。热门本身变成了品质的证明——于是她也开始喜欢，自己也去买了一只。
 
-抄作业也是一样的道理，只是规模更小：经济最好的同学先写完；第二名拿来跟第一名对答案，干脆照抄；第三个人——就算自己原本写对了——看到两份一样的答案，也把自己的改成一样。每一步单独看都说得通，但合在一起，就是一条**信息瀑布**，也就是信息级联。」
+抄作业也是一样的道理，只是规模更小：成绩最好的同学先写完；第二名拿来跟第一名对答案，干脆照抄；第三个人——就算自己原本写对了——看到两份一样的答案，也把自己的改成一样。每一步单独看都说得通，但合在一起，就是一条**信息瀑布**，也就是信息级联。」
 
 ---
 
 ## 4 · What is herding 什么是羊群效应（~1.5 min）
 
-**EN:** “You have a private clue, but you also see what others chose — and sometimes you follow the crowd even when your own clue says the opposite. Why? Other people’s choices carry information. When signals are imprecise, early information can be wrong, so early actions can be wrong — and later people infer that wrong information from those actions.”
+**EN:** “The pattern behind all three stories: you have a private clue, but you also see what others chose — and sometimes you follow the crowd even when your own clue says the opposite. Why? Other people’s choices carry information. When signals are imprecise, early information can be wrong, so early actions can be wrong — and later people infer that wrong information from those actions. In the examples: the first few in line may have had no real reason, the first NVDA sellers may have been wrong, and the first Labubu fans may have been lucky — yet their actions still moved everyone after them.”
 
-**中：** 「你自己手上有一条私人线索，但你也看得到别人怎么选——有时候你会跟着人群走，哪怕你的线索说的是另一回事。为什么？因为别人的选择本身就带着信息。当信号不够精确时，最早的信息可能是错的，最早的行动也就跟着错——而后面的人从这些行动里反推信息，就把这个错误一路传下去。」
+**中：** 「这三个故事背后是同一个模式：你自己手上有一条私人线索，但你也看得到别人怎么选——有时候你会跟着人群走，哪怕你的线索说的是另一回事。为什么？因为别人的选择本身就带着信息。当信号不够精确时，最早的信息可能是错的，最早的行动也就跟着错——而后面的人从这些行动里反推信息，就把这个错误一路传下去。放回刚才的例子：最早排蛋挞的可能只是无聊，最早卖英伟达的可能判断错了，最早买 Labubu 的可能只是跟风——但他们的行动照样影响了后面所有人。」
 
 ---
 
