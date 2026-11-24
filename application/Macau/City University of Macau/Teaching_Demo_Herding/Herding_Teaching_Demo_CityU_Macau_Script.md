@@ -15,21 +15,21 @@ Key terms / 关键术语：**\(G/B\)** = true state 真实状态（好/坏）; *
 
 ## 2 · Margaret’s 玛嘉烈蛋挞（~2 min）
 
-**EN:** “Margaret’s Café e Nata near Sintra Square — there’s always a long winding queue. Many say the tarts are too sweet or oily compared to Lord Stow’s, and the line is mostly guidebook fame. My version: after I tried it, I felt so-so; my friend felt the same. I like egg tarts, but not enough for twenty minutes. I only lined up because I saw so many people lining up — so I thought it must be amazing.”
+**EN:** “Margaret’s Café e Nata, hidden in an alley near Sintra Square — there’s always a long winding queue. To be honest, I don’t see how it really differs from a usual egg tart. But I saw so many people lining up, so I lined up for twenty minutes — and eventually it didn’t even taste good. That’s the puzzle: I used my own eyes and tongue, yet the crowd still talked me into the queue.”
 
-**中：** 「新马路附近的玛嘉烈蛋挞，永远大排长龙。很多人觉得它比安德鲁甜、又油，队伍多半是旅游书名气。我自己吃过觉得普通，朋友也这么觉得。我喜欢蛋挞，但不值得站二十分钟。我排队只是因为看到很多人在排，就想说一定超好吃。」
+**中：** 「新马路附近巷子里藏着玛嘉烈蛋挞，永远大排长龙。说实话，我看不出它跟普通蛋挞有什么分别；但看到那么多人在排，我就跟着排了二十分钟——结果吃起来也不怎么样。问题就在这：我有自己的眼睛和舌头，但人群还是把我劝进了队伍。」
 
 ---
 
-## 3 · Other examples 其他例子（~2 min）
+## 3 · Other examples 其他例子（~2–2.5 min）
 
-**EN:** “Same pattern elsewhere. SBF and FTX — people piled in because others seemed to get rich; once trust broke, everyone rushed for the exit. The recent NVDA crush — the stock rose on AI enthusiasm; when sentiment flipped, everyone sold together. Labubu toys — people chase them because they’re everywhere online; popularity itself looks like a quality signal.
+**EN:** “The same pattern shows up everywhere. Sam Bankman-Fried and FTX — people piled into crypto because others seemed to get rich, and when trust broke, everyone rushed for the exit and withdrawals cascaded. The recent NVDA crush — the stock rose on AI enthusiasm; then when sentiment flipped, including talk around Jensen Huang’s personal news, many investors sold together and the price fell sharply. Labubu toys — people chase them because they’re everywhere online; popularity itself looks like a quality signal, so the queue feeds itself.
 
-And homework copying: the best econ student finishes first; the second-best compares answers with the best; the third — even if their own answer was originally correct — may still switch to match the first two. That is exactly the cascade we’ll build.”
+And homework copying, the smallest version: the best econ student finishes first; the second-best compares answers with the best and adopts them; the third person — even if their own answer was originally correct — sees two agreeing answers and switches to match. Each step is locally reasonable; together they make an **information cascade** — the 信息瀑布.”
 
-**中：** 「同样的模式到处都是。SBF 和 FTX——大家看别人好像赚钱就涌进去；信任一崩，大家又一起挤兑出逃。最近的 NVDA 大跌——股价因 AI 热潮上去，情绪一翻转，所有人一起卖。Labubu——因为网上到处都是就抢，热门本身看起来像品质保证。
+**中：** 「同样的模式到处都在。Sam Bankman-Fried 和 FTX——大家看别人好像赚钱就涌进币圈；信任一崩，所有人一起挤兑出逃。最近的 NVDA 大跌——股价因 AI 热潮上去；后来情绪翻转，连 Jensen Huang 个人新闻的传言也推波助澜，大家跟着一起卖，价格急挫。Labubu——因为网上到处都是就抢，热门本身看起来像品质保证，所以队伍自我加强。
 
-还有抄作业：经济最好的同学先写完；第二名跟第一名对答案；第三个人——就算自己本来写对了——也可能改成跟前两个人一样。这就是我们待会要建立的信息级联。」
+最小号的版本是抄作业：经济最好的同学先写完；第二名跟第一名对答案就照抄；第三个人——就算自己本来写对了——看到两份一样的答案也改过去。每一步单独看都合理，合起来就是一条**信息瀑布**——信息级联。」
 
 ---
 
