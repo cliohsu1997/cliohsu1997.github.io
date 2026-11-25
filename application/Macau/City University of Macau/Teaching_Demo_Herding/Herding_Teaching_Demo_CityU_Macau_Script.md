@@ -7,9 +7,9 @@ Key terms / 关键术语：**\(G/B\)** = true state 真实状态（好吃/不好
 
 ## 1 · Opening 开场（~45 sec）
 
-**EN:** “Hi everyone, I'm Ke Cheng Hsu from HKUST. Today I want to talk about herding when information isn't perfect. We'll start with something really everyday — queuing — then look at a few examples to build intuition, and finally use one simple model to walk through Bayesian updating. The big question is: why does following the crowd make sense for each person, and yet can still be bad for the group?”
+**EN:** “Hi everyone, I'm Ke Cheng Hsu from HKUST. Today I want to talk about herding when information isn't perfect. What does that mean — 'information isn't perfect'? It means nobody knows the true state of things for sure: whether the restaurant is really good, whether the bank is really safe, or whether the stock is really worth holding. Each of us only gets a noisy private signal — a hint, not the truth — and we can't see what others privately know; we only see what they do. So every decision is made under incomplete information. We'll start with something really everyday — queuing — then look at a few examples to build intuition, and finally use one simple model to walk through Bayesian updating. The big question is: why does following the crowd make sense for each person, and yet can still be bad for the group?”
 
-**中：** 「大家好，我是来自香港科技大学的 Ke Cheng Hsu。今天想和大家聊一个特别日常、背后却很有意思的话题：当信息不完整时，我们为什么会跟着人群走——也就是大家常说的“羊群效应”。我们先从排队这种生活场景讲起，再看几个例子建立直觉，最后用一个简单的模型，来带大家理解贝叶斯更新，还有——为什么对每个人来说，跟风都是理性的，但放在一群人身上，结果却未必是好事？」
+**中：** 「大家好，我是来自香港科技大学的 Ke Cheng Hsu。今天想和大家聊一个特别日常、背后却很有意思的话题：当信息不完整的时候，我们为什么会跟着人群走——也就是大家常说的“羊群效应”。那什么叫“信息不完整”？就是说，没有人能确切知道事情的真实状态：这家餐厅到底好不好、这家银行到底安不安全、这只股票到底值不值得拿。我们每个人手里只有一条带噪声的私人信号——它只是个线索，不是真相；而且我们也看不到别人私下知道什么，只能看到他们怎么做。所以每一个决定，都是在信息不完整的情况下做出的。我们先从排队这种生活场景讲起，再看几个例子建立直觉，最后用一个简单的模型，来带大家理解贝叶斯更新，还有——为什么对每个人来说，跟风都是理性的，但放在一群人身上，结果却未必是好事？」
 
 ---
 
@@ -23,17 +23,17 @@ Key terms / 关键术语：**\(G/B\)** = true state 真实状态（好吃/不好
 
 ## 3 · Other examples 其他例子（~2–2.5 min）
 
-**EN:** “Let me give you two more.
+**EN:** “Let me give you two more — the same thing keeps happening all around us.
 
-First, NVIDIA's recent crash. The internet was full of gossip about Jensen Huang — Lao Huang, as people call him. But ask the basic question: did NVIDIA's fundamentals actually change? AI demand, earnings, guidance — mostly the same. So if you only trusted your own analysis, you wouldn't be selling at all. But here's what actually happens. The first investors sell, the price dips, and the next wave sees the drop and thinks, 'Maybe they know something I don't.' Once that thought beats their own read on fundamentals, they sell too. Each wave of selling pushes the price lower — and that gives the next person an even stronger reason to follow. The fall feeds on itself.
+First, NVIDIA's recent crash — it started with a rumor that Jensen Huang — Lao Huang, as people call him — was a spy. But ask the basic question: are you really selling because you think him being a spy changes the fundamentals? Did NVIDIA's fundamentals change? AI demand, earnings, guidance — the big things barely moved. If you yourself believe he isn't a spy, then, with the fundamentals basically unchanged, you'd say this is just sentiment. But here's what actually happens. The first investors sell, the price dips, and the next wave sees the drop and thinks, 'Maybe they know something I don't — maybe I'm underestimating something, like the impact of a CEO change.' Once that thought beats their own judgment, they sell too. Each wave of selling pushes the price lower — and that gives the next person an even stronger reason to follow. The fall feeds on itself.
 
 Second, a bank run. You hear a rumor that a bank is in trouble. You might not believe it. But you walk by the branch and see a long line of people withdrawing. You think, 'Maybe they know something I don't.' So you line up and withdraw too. Every extra withdrawal makes the line look scarier, and gives the next person a stronger reason to run. Even if the rumor was false, the run itself can bring the bank down.
 
 And homework copying — same logic, just smaller. The best student finishes first. The second-best checks answers and just copies. The third person — even if their own answer was right — sees two matching answers and switches to match them. Each step looks reasonable on its own. Together, they form an information cascade — a 信息瀑布.”
 
-**中：** 「再讲两个例子。
+**中：** 「再讲两个例子——同样的例子，其实不断发生在我们生活里。
 
-同样的例子，其实不断发生在我们生活里。第一个，英伟达前阵子那波暴跌，起因就是老黄——也就是黄仁勋——“是间谍”的传言。但先问一句：你卖，真的是因为你觉得老黄是间谍、这对基本面有什么影响吗？英伟达的基本面变了吗？AI 需求、财报、业绩指引，这些大的东西基本上都没怎么动。如果你自己相信他并不是间谍，照理来说，你会觉得这其实只是情绪的问题——在基本面没怎么变的情况下。可现实是：第一批人一卖，价格一跌，后面的人一看跌了，心里就犯嘀咕——是不是有人知道什么我不知道的事？是不是我低估了，比如换 CEO 对公司的影响？类似这样的念头一旦压过自己的判断，他也跟着卖。每多一波卖出，价格就再低一点；价格越低，下一个人跟风的理由就越硬。跌势就这么自己喂自己。
+第一个，英伟达前阵子那波暴跌，起因就是老黄——也就是黄仁勋——“是间谍”的传言。但先问一句：你卖，真的是因为你觉得老黄是间谍、这对基本面有什么影响吗？英伟达的基本面变了吗？AI 需求、财报、业绩指引，这些大的东西基本上都没怎么动。如果你自己相信他并不是间谍，照理来说，你会觉得这其实只是情绪的问题——在基本面没怎么变的情况下。可现实是：第一批人一卖，价格一跌，后面的人一看跌了，心里就犯嘀咕——是不是有人知道什么我不知道的事？是不是我低估了，比如换 CEO 对公司的影响？类似这样的念头一旦压过自己的判断，他也跟着卖。每多一波卖出，价格就再低一点；价格越低，下一个人跟风的理由就越硬。跌势就这么自己喂自己。
 
 第二个，银行挤兑。你听到一个传言，说某家银行要出事。你未必信。可你走到分行门口，看见一长队人都在取钱，你也会想：他们是不是知道点什么？于是你也去排队。每多一个人取钱，队伍看起来就更吓人，后面的人就更不敢不取。哪怕一开始的传言是假的，挤兑本身也可能把银行拖垮。
 
