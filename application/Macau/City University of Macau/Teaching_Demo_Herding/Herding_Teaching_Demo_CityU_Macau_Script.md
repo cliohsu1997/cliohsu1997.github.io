@@ -43,7 +43,7 @@ And homework copying — same logic, just smaller. The best student finishes fir
 
 ## 4 · What is herding 什么是羊群效应（~1.5 min）
 
-**EN:** “So what's the common pattern? It's following the crowd. You've got one piece of information — your own — but you also see what everyone else does. And sometimes you follow the crowd even when your own information points the other way. Why? Because other people's choices carry information too. When signals aren't precise, early information can be wrong — so early actions can be wrong. And later people infer the earlier people's information from those actions — and the error gets passed down the line. Look at the examples: the first people in line may have had no real reason; the first NVDA sellers may have overreacted to the gossip; the first bank-run withdrawers may have overreacted to a rumor. But their actions still moved everyone after them.”
+**EN:** “So what's the common thread here? It's following the crowd. You've got one piece of information — your own — but you also see what everyone else is doing. And sometimes you follow the crowd even when your own information points the other way. Why? Because other people's choices carry information too. When signals aren't precise, the earliest information can be wrong — so the earliest actions can be wrong. And the people who come later read those actions as clues about what the earlier ones knew — so the error gets passed right down the line. Look back at the examples: the first people in line may have had no real reason at all; the first NVIDIA sellers may have overreacted to the gossip; the first people in the bank run may have overreacted to a rumor. But their actions still moved everyone who came after them.”
 
 **中：** 「这些故事背后，其实是同一个模式：从众。你手里只有一条信息——就是你自己知道的那些；与此同时，你还能看到别人怎么选。有时候，哪怕自己的信号指向相反的方向，你还是会跟着人群走。为什么？因为别人的选择本身也带着信息。信号不准确的时候，最早那批人的信息可能是错的，行动也可能是错的；后面的人却从这些行动里反推“他们大概知道些什么”，错误就这样一路传了下去。放回例子里看：最早排蛋挞的人可能只是无聊；最早抛英伟达的人可能高估了八卦的分量；最早去银行取钱的人可能对一个谣言反应过度——但他们的行动，照样影响了后面的所有人。」
 
@@ -51,11 +51,11 @@ And homework copying — same logic, just smaller. The best student finishes fir
 
 ## 5 · Setup 设定（~1.5 min）
 
-**EN:** “Okay, let's simplify. One restaurant. The true state is either Good or Bad — prior one half each. People arrive one by one. Each person gets a private signal, \(g\) or \(b\), and the signal is 70% accurate. So: probability of \(g\) given \(G\) is 0.7; probability of \(b\) given \(G\) is 0.3; probability of \(g\) given \(B\) is 0.3; probability of \(b\) given \(B\) is 0.7.
+**EN:** “Okay, let's simplify. One restaurant. The true state is either Good or Bad — one half each, to start. People show up one at a time. Each person gets a private signal, \(g\) or \(b\), and that signal is 70% accurate. So: the probability of \(g\) given \(G\) is 0.7; the probability of \(b\) given \(G\) is 0.3; the probability of \(g\) given \(B\) is 0.3; and the probability of \(b\) given \(B\) is 0.7.
 
-Here's the key assumption: signals are conditionally independent given the state. In plain English — once you know whether the restaurant is Good or Bad, what signal A gets doesn't affect what signal B gets. They only look related because they're both about the same state.
+Here's the key assumption: given the state, the signals are conditionally independent. In plain English — once you know whether the restaurant is Good or Bad, the signal A gets has nothing to do with the signal B gets. They only look related because they're both about the same state.
 
-Actions? Just two: Line up or Drop. The rule is simple: if the probability of Good is above one half, Line up; below one half, Drop; exactly one half, flip a coin — each with probability one half. Our goal is to follow Person 1, Person 2, and Person 3 — and watch Person 3 throw away his own signal.”
+And the actions? Just two: Line up or Drop. The rule is simple: if the probability of Good is above one half, Line up; below one half, Drop; exactly one half, flip a coin — each with probability one half. Our goal is to follow Person 1, Person 2, and Person 3 — and watch Person 3 throw away his own signal.”
 
 **中：** 「我们先把场景简化。只有一家餐厅，真实状态要么是“好吃”，要么是“不好吃”，事先各有一半概率。人一个一个地来，每个人都会拿到一个私人信号：\(g\) 或者 \(b\)，准确率七成。也就是说：餐厅真的好吃时，七成的人拿到 \(g\)；餐厅真的不好吃时，七成的人拿到 \(b\)。
 
@@ -67,9 +67,9 @@ Actions? Just two: Line up or Drop. The rule is simple: if the probability of Go
 
 ## 6 · Person 1 第一个人（~2 min）
 
-**EN:** “Here's the picture: area equals probability. Left half is \(G\), right half is \(B\). The \(g\) regions cover 70% of the Good side and 30% of the Bad side.
+**EN:** “Here's the picture: area equals probability. The left half is \(G\), the right half is \(B\). And the \(g\) regions cover 70% of the Good side and 30% of the Bad side.
 
-Person 1 only has his own signal \(g\). Bayes' rule: the probability of \(G\) given \(g\) is the Good slice over the whole \(g\) area — \(0.35\) over \(0.35+0.15\), which is \(0.7\). Above one half — so he Lines up. And remember: everyone else only sees his action, not his raw signal.”
+Person 1 has only his own signal \(g\). By Bayes' rule, the probability of \(G\) given \(g\) is just the Good slice over the whole \(g\) area — \(0.35\) over \(0.35+0.15\), which comes out to \(0.7\). That's above one half — so he Lines up. And remember: everyone else only sees his action, not his raw signal.”
 
 **中：** 「先看这张图：面积就是概率。左半边是 \(G\)，右半边是 \(B\)；而 \(g\) 这块区域，盖住了“好吃”那边的七成、“不好吃”那边的三成。
 
@@ -79,11 +79,11 @@ Person 1 only has his own signal \(g\). Bayes' rule: the probability of \(G\) gi
 
 ## 7 · Person 2 第二个人（~2 min）
 
-**EN:** “Person 2 sees Person 1 Line up. That tells him \(s_1=g\). Two cases.
+**EN:** “Person 2 sees Person 1 line up — which tells him \(s_1=g\). Now there are two cases.
 
-Case one: Person 2 also gets \(s_2=g\). Two good clues — posterior above one half — he Lines up.
+Case one: Person 2 also gets \(s_2=g\). Two good clues — posterior above one half — so he Lines up.
 
-Case two: Person 2 gets \(s_2=b\). Now he has one good clue and one bad clue, equally strong. The joint probability under \(G\) is \(0.7\times 0.3=0.21\). The joint under \(B\) is \(0.3\times 0.7=0.21\) — that's conditional independence at work. Equal, so the posterior is exactly one half. He's indifferent — Line up or Drop with probability one half each.”
+Case two: Person 2 gets \(s_2=b\). Now it's one good clue against one bad clue, equally strong. The joint probability under \(G\) is \(0.7\times 0.3=0.21\); under \(B\) it's \(0.3\times 0.7=0.21\) — that's conditional independence at work. Equal, so the posterior is exactly one half. He's indifferent — Line up or Drop, one half each.”
 
 **中：** 「第二个人看到第一个人排了队——这等于告诉他 \(s_1=g\)。分两种情形。
 
@@ -95,11 +95,11 @@ Case two: Person 2 gets \(s_2=b\). Now he has one good clue and one bad clue, eq
 
 ## 8 · Person 3 — set up Bayes 写出事后概率（~2 min）
 
-**EN:** “Now here's the story. Two people are already lining up in front of me, and I draw a bad signal \(b\). Do I wait, or leave? That depends on the probability of \(G\) given \(\mathrm{LU},\mathrm{LU},b\).
+**EN:** “Now here's the story. Two people are already lining up in front of me, and I draw a bad signal \(b\). Do I stay, or do I leave? That all depends on the probability of \(G\) given \(\mathrm{LU},\mathrm{LU},b\).
 
-So write Bayes with the actions and my signal. Numerator: probability of \(\mathrm{LU},\mathrm{LU},b\) given \(G\), times the prior. Denominator: that plus the same thing under \(B\).
+So let's write Bayes' rule with the actions and my signal. Numerator: the probability of \(\mathrm{LU},\mathrm{LU},b\) given \(G\), times the prior. Denominator: that same term, plus the matching one under \(B\).
 
-And here's the important warning: don't just replace 'Line up' with \(g\). Line up is an action; \(g\) is a signal. Remember — Person 2 sometimes Lines up even with \(b\). So next we need the conditional probabilities: probability of \(\mathrm{LU},\mathrm{LU},b\) given \(G\), and the same given \(B\).”
+And here's the important warning: don't just swap 'Line up' for \(g\). Line up is an action; \(g\) is a signal. Remember — Person 2 sometimes lines up even with \(b\). So next we need two conditional probabilities: the probability of \(\mathrm{LU},\mathrm{LU},b\) given \(G\), and the same given \(B\).”
 
 **中：** 「现在进入正题：前面已经有两个人排上了队，而我自己拿到的是负面信号 \(b\)。我是该跟着排，还是转身走？这取决于 \(\Pr(G\mid \mathrm{LU},\mathrm{LU},b)\)。
 
@@ -111,11 +111,11 @@ And here's the important warning: don't just replace 'Line up' with \(g\). Line 
 
 ## 9 · Person 3 — conditional probabilities 条件概率（~2.5 min）
 
-**EN:** “Why can we split it into a product? Because the earlier Line-ups depend only on \(s_1\) and \(s_2\). Given the state, those signals are independent of Person 3's \(b\). So \(b\) is conditionally independent of the two Line-ups: probability of \((\mathrm{LU},\mathrm{LU},b)\) equals probability of \((\mathrm{LU},\mathrm{LU})\) times probability of \(b\).
+**EN:** “Why can we split it into a product? Because the earlier Line-ups depend only on \(s_1\) and \(s_2\). Given the state, those signals are independent of Person 3's \(b\). So \(b\) is conditionally independent of the two Line-ups: the probability of \((\mathrm{LU},\mathrm{LU},b)\) equals the probability of \((\mathrm{LU},\mathrm{LU})\) times the probability of \(b\).
 
-Under \(G\): Person 1 Lines up only if \(s_1=g\), probability 0.7. Given that, Person 2 Lines up for sure if \(s_2=g\) — probability 0.7 — or with probability one half if \(s_2=b\) — probability 0.3. So we get \(0.7(0.7+0.3\cdot\tfrac12)=0.595\). Multiply by probability of \(b\) given \(G\), which is 0.3 — and we get \(0.1785\).
+Under \(G\): Person 1 lines up only if \(s_1=g\), probability 0.7. Given that, Person 2 lines up for sure if \(s_2=g\) — probability 0.7 — or with probability one half if \(s_2=b\) — probability 0.3. So we get \(0.7(0.7+0.3\cdot\tfrac12)=0.595\). Multiply by the probability of \(b\) given \(G\), which is 0.3, and we get \(0.1785\).
 
-Under \(B\): same logic, flipped probabilities. Person 1 Lines up only if \(s_1=g\), probability 0.3. Person 2 Lines up for sure if \(s_2=g\) — 0.3 — or half the time if \(s_2=b\) — 0.7. That gives \(0.195\). Multiply by probability of \(b\) given \(B\), which is 0.7 — and we get \(0.1365\).”
+Under \(B\): same logic, with the probabilities flipped. Person 1 lines up only if \(s_1=g\), probability 0.3. Person 2 lines up for sure if \(s_2=g\) — 0.3 — or half the time if \(s_2=b\) — 0.7. That gives \(0.195\). Multiply by the probability of \(b\) given \(B\), which is 0.7, and we get \(0.1365\).”
 
 **中：** 「为什么可以拆成两个概率相乘？因为前面两个人排不排队，只取决于 \(s_1\) 和 \(s_2\)。给定状态之后，这两个信号与第三个人的 \(b\) 彼此独立，所以 \(b\) 与“两人排队”这一事件条件独立：联合概率等于“两人排队”的概率乘上 \(b\) 的概率。
 
@@ -127,19 +127,19 @@ Under \(B\): same logic, flipped probabilities. Person 1 Lines up only if \(s_1=
 
 ## 10 · Person 3 — combine, decide, and why he "discards" his signal 合并决定并解释为何丢掉信号（~3.5 min）
 
-**EN:** “Priors are equal, so just plug in: \(0.1785\cdot\tfrac12\) over \(0.1785\cdot\tfrac12+0.1365\cdot\tfrac12\). That's about 0.57 — above one half.
+**EN:** “The priors are equal, so we just plug in: \(0.1785\cdot\tfrac12\) over \(0.1785\cdot\tfrac12+0.1365\cdot\tfrac12\). That comes out to about 0.57 — above one half.
 
-So Person 3 still Lines up. He discards his own bad signal — the information from the previous players' actions outweighs his private signal. But let's slow down here, because this is the key step — and 'discards' doesn't mean he literally forgets it.
+So Person 3 still lines up. He discards his own bad signal — the information in the previous players' actions outweighs his private signal. But let's slow down here, because this is the key step — and 'discards' doesn't mean he literally forgets it.
 
-Person 3 draws \(b\). If he were alone — no other information — what would he do? With only \(b\), the probability of Good is 0.3. Below one half — he would Drop. His own signal says: leave.
+Person 3 draws \(b\). If he were alone — no other information — what would he do? With only \(b\), the probability of Good is 0.3. Below one half — so he'd drop. His own signal says: leave.
 
-But he's not alone. He sees two people Line up. And on the slide you can see what those two Line-ups alone would tell him: \(\Pr(G\mid \mathrm{LU},\mathrm{LU})=0.595/(0.595+0.195)\approx 0.75\). That's strong evidence for Good.
+But he's not alone. He sees two people line up. And on the slide you can see what those two Line-ups alone would tell him: \(\Pr(G\mid \mathrm{LU},\mathrm{LU})=0.595/(0.595+0.195)\approx 0.75\). That's strong evidence for Good.
 
-So put the three numbers side by side. Only his private signal: 0.3 — he'd leave. Only the two Line-ups: 0.75 — he'd line up. Both together: 0.57 — still above one half, so he lines up.
+So put the three numbers side by side. His private signal alone: 0.3 — he'd leave. The two Line-ups alone: 0.75 — he'd line up. Both together: 0.57 — still above one half, so he lines up.
 
-And here's the subtle point: he doesn't delete \(b\) from his mind. \(b\) does lower his belief — from 0.75 down to 0.57. But 0.57 is still above one half, so his action looks the same as if he had ignored \(b\). That's what we mean by 'discarding his own signal': he overrides it in his decision.
+And here's the subtle point: he doesn't delete \(b\) from his mind. \(b\) does pull his belief down — from 0.75 to 0.57. But 0.57 is still above one half, so his action looks exactly the same as if he'd ignored \(b\). That's what we mean by 'discarding his own signal': he overrides it in his decision.
 
-And that's why this is the start of the information cascade. Person 3's Line-up no longer reveals a good private signal. It reveals something weaker: 'I saw two Line-ups, and even my bad signal wasn't enough to make me leave.' To Person 4, that looks like another confirmation. The public record becomes less informative — and the early error gets passed down.”
+And that's why this is the start of the information cascade. Person 3's line-up no longer reveals a good private signal. It reveals something weaker: 'I saw two line-ups, and even my bad signal wasn't enough to make me leave.' To Person 4, that looks like one more confirmation. The public record becomes less and less informative — and the early error keeps getting passed down.”
 
 **中：** 「先验一样，直接代进去：\(0.1785\cdot\tfrac12\) 除以 \(0.1785\cdot\tfrac12+0.1365\cdot\tfrac12\)，大约是 \(0.57\)——大于二分之一。
 
@@ -159,9 +159,9 @@ And that's why this is the start of the information cascade. Person 3's Line-up 
 
 ## 11 · Takeaways 结语（~2 min）
 
-**EN:** “So here's the takeaway. If everyone just used their own signal and we aggregated everything, private information would keep entering the public record. But in a cascade, choices are sequential. Early actions become public clues — and later people can rationally ignore their own signals. Following the crowd can be rational for each person — but bad for the group.
+**EN:** “So here's the takeaway. If everyone just used their own signal, and we aggregated all of them, private information would keep feeding into the public record. But in a cascade, choices come one after another. Early actions become public clues — and the people who come later can rationally ignore their own signals. Following the crowd can be rational for each person — and still bad for the group.
 
-And it's the same logic as Margaret's queue, NVIDIA's crash, the bank run — and homework copying. Questions?”
+And it's the same logic as Margaret's queue, NVIDIA's crash, the bank run — and homework copying. Any questions?”
 
 **中：** 「所以结论是：如果每个人都只用自己手里的信号，我们再把这些结果汇总起来，私人信息就会源源不断地进入公共记录。但在信息级联里，选择是一个接一个发生的：早期的行动变成了公开线索，后来的人也就可能理性地忽略掉自己的信号。跟风，对每个人也许都是理性的，对整个群体却未必是好事。
 
