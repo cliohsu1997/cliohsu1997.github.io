@@ -29,8 +29,9 @@ Full-time Applied Economics faculty with a **strong mathematics** background. Un
 - Curriculum vitae
 - Cover letter (prepared for upload / email)
 - Job Application Form PDF if using email fallback (download from HRO)
-- **Publication / research-output list** (BNBU form: title; date/place; publisher) — `Publication_List_HSU_Ke_Cheng_BNBU_AE.pdf`
-- **Three best / most recent full-text samples:** JMP; Product Design with Heterogeneous Search Costs; Pass-Through and Incidence with Product Returns (WIP draft)
+- **Publication / research-output list** (BNBU form: title; date/place; publisher) — four items: two **working papers** (JMP; Product Design) + two **works in progress** (Unsold Stock; Pass-Through) — `Publication_List_HSU_Ke_Cheng_BNBU_AE.pdf`
+- **Two full-text samples** (combined, JMP first): `Samples_Two_Working_Papers_HSU_Ke_Cheng.pdf`. WIP items are listed but not attached as samples.
+- **Educational Diplomas and Certificates (学历证书):** one file — `Educational_Diplomas_and_Certificates_HSU_Ke_Cheng.pdf`
 
 ## Recommendation letters
 Not required on the public posting (portal may ask for referee contacts). **No** `recommendation_letters_to_send` row unless the portal later requires emailed letters.
@@ -40,6 +41,7 @@ In progress.
 
 ## Files
 - `Cover_Letter_HSU_Ke_Cheng_BNBU_AE.tex` / `.pdf`
-- `CV_HSU_Ke_Cheng_BNBU_AE.tex` / `.pdf` (teaching courses highlighted; **no** separate BNBU-format pub list in CV)
-- `Publication_List_HSU_Ke_Cheng_BNBU_AE.tex` / `.pdf` (standalone working-paper list in BNBU format)
-- `Application_Package_HSU_Ke_Cheng_BNBU_AE/` — cover, CV, publication list, Sample_01–03 PDFs
+- `CV_HSU_Ke_Cheng_BNBU_AE.tex` / `.pdf` (teaching courses highlighted; **no** BNBU-format pub list in CV)
+- `Publication_List_HSU_Ke_Cheng_BNBU_AE.tex` / `.pdf` (2 working papers + 2 WIP in BNBU format)
+- `Educational_Diplomas_and_Certificates_HSU_Ke_Cheng.pdf` (学历证书; 3 pages, time order: BSc 2020 → MPhil 2022 → PhD expected-graduation letter)
+- `Application_Package_HSU_Ke_Cheng_BNBU_AE/` — cover, CV, publication list, diplomas/certificates, combined two-sample PDF
