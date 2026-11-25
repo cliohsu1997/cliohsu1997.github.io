@@ -29,7 +29,8 @@ Full-time Applied Economics faculty with a **strong mathematics** background. Un
 - Curriculum vitae
 - Cover letter (prepared for upload / email)
 - Job Application Form PDF if using email fallback (download from HRO)
-- Supporting research / teaching materials as the portal allows (JMP recommended)
+- **Publication / research-output list** (BNBU form: title; date/place; publisher) — `Publication_List_HSU_Ke_Cheng_BNBU_AE.pdf`
+- **Three best / most recent full-text samples:** JMP; Product Design with Heterogeneous Search Costs; Pass-Through and Incidence with Product Returns (WIP draft)
 
 ## Recommendation letters
 Not required on the public posting (portal may ask for referee contacts). **No** `recommendation_letters_to_send` row unless the portal later requires emailed letters.
@@ -39,5 +40,6 @@ In progress.
 
 ## Files
 - `Cover_Letter_HSU_Ke_Cheng_BNBU_AE.tex` / `.pdf`
-- `CV_HSU_Ke_Cheng_BNBU_AE.tex` / `.pdf` (teaching courses highlighted)
-- `Application_Package_HSU_Ke_Cheng_BNBU_AE/`
+- `CV_HSU_Ke_Cheng_BNBU_AE.tex` / `.pdf` (teaching courses highlighted; **no** separate BNBU-format pub list in CV)
+- `Publication_List_HSU_Ke_Cheng_BNBU_AE.tex` / `.pdf` (standalone working-paper list in BNBU format)
+- `Application_Package_HSU_Ke_Cheng_BNBU_AE/` — cover, CV, publication list, Sample_01–03 PDFs
