@@ -20,51 +20,31 @@ Key terms / 关键术语：\(G/B\) = true state 真实状态（好吃/不好吃�
 
 \vspace{0.35em}\noindent\rule{\textwidth}{0.3pt}\par
 
-\section*{1 · Opening 开场（~45 sec）}
+\section*{1 · Opening 开场 · 第1页}
 
-\textbf{EN:} “Hi everyone, I'm Ke Cheng Hsu from HKUST. Today I want to talk about herding when information isn't perfect. What does that mean — 'information isn't perfect'? It means nobody knows the true state of things for sure: whether the restaurant is really good, whether the bank is really safe, or whether the stock is really worth holding. Each of us only gets a noisy private signal — a hint, not the truth — and we can't see what others privately know; we only see what they do. So every decision is made under incomplete information. We'll start with something really everyday — queuing — then look at a few examples to build intuition, and finally use one simple model to walk through Bayesian updating. The big question is: why does following the crowd make sense for each person, and yet can still be bad for the group?”\par
+大家好，我是香港科技大学的徐可振。今天想跟大家聊一个咱们都经历过、但可能没细想过的事儿，就是从众，也叫羊群效应。简单说就是，当你不太确定、或者信息不够的时候，很容易跟着前面的人做一样的决定。这里有个很关键的假设：你能看见前人的选择，所以你会默认他们掌握了某些你不知道的信息，然后把自己的判断和这些信息混在一起，做决定。那为什么强调是一个一个按顺序来，而不是大家一起投票呢？我举个闺蜜的例子。\par
 
-\textbf{中：} 「大家好，我是来自香港科技大学的 Ke Cheng Hsu。今天想和大家聊一个特别日常、背后却很有意思的话题：当信息不完整的时候，我们为什么会跟着人群走——也就是大家常说的“羊群效应”。那什么叫“信息不完整”？就是说，没有人能确切知道事情的真实状态：这家餐厅到底好不好、这家银行到底安不安全、这只股票到底值不值得拿。我们每个人手里只有一条带噪声的私人信号——它只是个线索，不是真相；而且我们也看不到别人私下知道什么，只能看到他们怎么做。所以每一个决定，都是在信息不完整的情况下做出的。我们先从排队这种生活场景讲起，再看几个例子建立直觉，最后用一个简单的模型，来带大家理解贝叶斯更新，还有——为什么对每个人来说，跟风都是理性的，但放在一群人身上，结果却未必是好事？」\par
-
-\vspace{0.35em}\noindent\rule{\textwidth}{0.3pt}\par
-
-\section*{2 · Margaret's 玛嘉烈蛋挞（~2 min）}
-
-\textbf{EN:} “Margaret's Café e Nata is a well-known egg-tart shop here in Macau — tucked in an alley just off the main road, with a long line outside all day. Honestly? To me it looks no different from an ordinary egg tart. And plenty of people who've tried it say the same: too sweet, too oily — they'd rather have Lord Stow's, or one of those no-name little shops. The queue is basically guidebook hype. My guess? The first few people lined up just because they had nothing better to do; then everyone after them sees how long the line is and thinks, 'Well, it must be good.' Same for me — I saw the crowd, jumped in, and stood there for twenty minutes. Took a bite and thought… nothing special. So here's the real question: with no line, I probably wouldn't have bought one at all — I didn't even think it was worth it myself. So why did the line still outweigh my own judgment?”\par
-
-\textbf{中：} 「玛嘉烈蛋挞是澳门一家很有名的蛋挞店，藏在新马路拐进去的一条小巷子里，门口永远排着一支长队。说实话，我觉得它看起来跟普通蛋挞没有太大差别。很多吃过的人也说它又甜又油，还不如安德鲁蛋挞，或者那些不知名的小店——排队基本上就是被旅游攻略炒起来的。我猜最早那几个人可能也是闲着没事、随便排一排；后面的人一看队伍这么长，就觉得“那肯定好吃”。我也一样，一看人这么多，就跟着排了二十分钟。结果咬一口，发现……也没什么特别的。所以真正的问题是：要是门口没有这条长队，我大概率不会买——我明明自己觉得不值，可为什么最后这条队伍还是压过了我自己的判断？」\par
+假设你朋友谈恋爱了，问你们几个：这男的值不值得嫁。要是她挨个问，闺蜜A说好，闺蜜B也说好，到你这儿，就算你亲眼看见那男的跟别的女生牵手逛街，你可能也会想，哎呀会不会是我看错了，前面俩人都说好，那我也说好呗。结果她一听，觉得这男的可以嫁。可要是她把你们拉个群，让大家同时私下发意见，你看不到别人说什么，那你看到牵手，就会直接讲出来：“他前两天还跟别的女生手牵手逛街呢。”信息就能真正汇总起来。所以这个例子的意思是：顺序决策里，前人的行动会影响后面的人，真实信息反而被盖住了；同时决策，才更能把大家的私人信息整合好。\par
 
 \vspace{0.35em}\noindent\rule{\textwidth}{0.3pt}\par
 
-\section*{3 · Other examples 其他例子（~2–2.5 min）}
+\section*{2 · Examples 例子 · 第2页}
 
-\textbf{EN:} “Let me give you two more — the same thing keeps happening all around us.\par
+同样的事，其实一直在我们身边发生。我举几个例子。\par
 
-First, NVIDIA's recent crash — it started with a rumor that Jensen Huang — Lao Huang, as people call him — had a mistress named Huang Le, who was a spy. But ask the basic question: are you really selling because you think his mistress being a spy changes the fundamentals? Did NVIDIA's fundamentals change? AI demand, earnings, guidance — at that point, the big things hadn't really changed. If you yourself don't believe the rumor, then — at least at that moment — you'd say this is mostly sentiment. But here's what actually happens. The first investors sell, the price dips, and the next wave sees the drop and thinks, 'Maybe they know something I don't — maybe I'm underestimating something, like the impact of a CEO change.' Once that thought beats their own judgment, they sell too. Each wave of selling pushes the price lower — and that gives the next person an even stronger reason to follow. The fall feeds on itself.\par
+第一个，玛嘉烈蛋挞。澳门很有名的一家店，就在新马路拐进去的一个巷子里，门口永远排着长队。说实话，那蛋挞跟肯德基的看起来也没什么分别——好吃不好吃这件事，光看是看不出来的。可我站在门口，看见前面的人在排队，心里就想：是不是有什么我没吃出来的、特别的地方，才让这么多人一起排？最后我还是狠下心，排了二十分钟。一吃，还不如肯德基。那问题就来了：我为什么会排？因为我看见前面的人在排队，就默认他们一定知道一些我不知道的事，比如这蛋挞到底好不好吃。这个从别人行为里推断出来的信息，最后压过了我自己的判断——我明明觉得它跟肯德基没啥区别。这就是羊群效应最关键的地方：别人的行动，成了我的信息来源。\par
 
-Second, a bank run. You hear a rumor that a bank is in trouble. You might not believe it. But you walk by the branch and see a long line of people withdrawing. You think, 'Maybe they know something I don't.' So you line up and withdraw too. Every extra withdrawal makes the line look scarier, and gives the next person a stronger reason to run. Even if the rumor was false, the run itself can bring the bank down.\par
+第二个，英伟达前阵子那波暴跌，起因是一条传言，说老黄的“小三”是间谍。先问一句，你卖，真的是因为相信这条传言、觉得它对基本面有影响吗？英伟达基本面变了吗？AI需求、财报、业绩指引，这些大的东西基本都没动。如果你自己都不信这个传言，那至少在当时，基本面并没有实质变化，你会觉得这就是一波情绪。可现实是，第一批人一卖，价格一跌，后面的人一看跌了，心里就开始犯嘀咕：是不是有人知道什么我不知道的？是不是我低估了，比如换个CEO对公司的影响？这个念头一旦压过自己的判断，他也跟着卖。每多一波卖出，价格就再低一点；价格越低，下一个人跟风的理由就越硬。跌势就这么自己喂自己。\par
 
-And homework copying — same logic, just smaller. The best student finishes first — but gets the answer wrong. The second-best checks answers and just copies — also wrong. The third person, whose own answer was actually right, sees two matching answers, loses confidence, and switches to the wrong one. Each step looks reasonable on its own. Together, they form an information cascade — a 信息瀑布.”\par
+第三个，银行挤兑。你听到一个传言，说某家银行要出事，你未必信。可你走到分行门口，看见一长队人在取钱，你也会想：他们是不是知道点什么？于是你也去排。每多一个人取钱，队伍看起来就更吓人，后面的人就更不敢不取。哪怕一开始的传言是假的，挤兑本身也可能把银行拖垮。\par
 
-\textbf{中：} 「再讲两个例子——同样的例子，其实不断发生在我们生活里。\par
+再小一点的，抄作业。班里第一名先写完，但答案是错的；第二名对一下答案，也没多想，照着抄了，一样是错的；第三个人本来写对了，可一看前面两个人答案一模一样，心里先虚了，最后还是改成了跟他们一样的错答案。\par
 
-第一个，英伟达前阵子那波暴跌，起因就是一条传言——老黄（黄仁勋）的“小三”黄乐是间谍。但先问一句：你卖，真的是因为觉得老黄的小三是间谍、这对基本面有什么影响吗？英伟达的基本面变了吗？AI 需求、财报、业绩指引，这些大的东西基本上都没怎么动。如果你自己并不相信这个传言，那么至少在当时，基本面还没有实质性的变化，你会觉得这更多是一波情绪。可现实是：第一批人一卖，价格一跌，后面的人一看跌了，心里就犯嘀咕——是不是有人知道什么我不知道的事？是不是我低估了，比如换 CEO 对公司的影响？类似这样的念头一旦压过自己的判断，他也跟着卖。每多一波卖出，价格就再低一点；价格越低，下一个人跟风的理由就越硬。跌势就这么自己喂自己。\par
-
-第二个，银行挤兑。你听到一个传言，说某家银行要出事。你未必信。可你走到分行门口，看见一长队人都在取钱，你也会想：他们是不是知道点什么？于是你也去排队。每多一个人取钱，队伍看起来就更吓人，后面的人就更不敢不取。哪怕一开始的传言是假的，挤兑本身也可能把银行拖垮。\par
-
-抄作业也一样，只是规模小一点。班里第一名先写完——但答案是错的；第二名对一下答案，也没多想，直接照着抄了——同样是错的；第三个人本来写对了，可一看前面两个人的答案一模一样，心里先虚了，最后还是改成了跟他们一样的错答案。单看每一步，都挺合理；可合在一起，就成了一条信息瀑布，也就是信息级联。」\par
+你看这几个例子，讲的其实是同一件事。单拎出每一步来看，都不离谱——看见人排队，我就跟着排；看见价格跌，我心里就发慌；看见别人去取钱，我也去取。谁都会这么想，很正常。可问题就在这儿：一个人这么想没事，一千个人都这么想、还一个看着一个，就出事了。前面的人怎么做，后面的人就把它当成线索；后面的人再怎么做，又成了更后面的人的线索。一层一层传下去，越传越离谱，看着看着，就离事实越来越远了。这东西有个名字，叫信息级联。听着挺学术，其实就一句话：大家都在看别人怎么办，看着看着，就离事实越来越远了。\par
 
 \vspace{0.35em}\noindent\rule{\textwidth}{0.3pt}\par
 
-\section*{4 · What is herding 什么是羊群效应（~1.5 min）}
-
-\textbf{EN:} “So what's the common thread here? It's following the crowd. You've got one piece of information — your own — but you also see what everyone else is doing. And sometimes you follow the crowd even when your own information points the other way. Why? Because other people's choices carry information too. When signals aren't precise, the earliest information can be wrong — so the earliest actions can be wrong. And the people who come later read those actions as clues about what the earlier ones knew — so the error gets passed right down the line. Look back at the examples: the first people in line may have had no real reason at all; the first NVIDIA sellers may have overreacted to the gossip; the first people in the bank run may have overreacted to a rumor. But their actions still moved everyone who came after them.”\par
-
-\textbf{中：} 「这些故事背后，其实是同一个模式：从众。你手里只有一条信息——就是你自己知道的那些；与此同时，你还能看到别人怎么选。有时候，哪怕自己的信号指向相反的方向，你还是会跟着人群走。为什么？因为别人的选择本身也带着信息。信号不准确的时候，最早那批人的信息可能是错的，行动也可能是错的；后面的人却从这些行动里反推“他们大概知道些什么”，错误就这样一路传了下去。放回例子里看：最早排蛋挞的人可能只是无聊；最早抛英伟达的人可能高估了八卦的分量；最早去银行取钱的人可能对一个谣言反应过度——但他们的行动，照样影响了后面的所有人。」\par
-
-\vspace{0.35em}\noindent\rule{\textwidth}{0.3pt}\par
-
-\section*{5 · Setup 设定（~1.5 min）}
+\section*{3 · Setup 设定（~1.5 min）}
 
 \textbf{EN:} “Okay, let's simplify. One restaurant. The true state is either Good or Bad — one half each, to start. People show up one at a time. Each person gets a private signal, \(g\) or \(b\), and that signal is 70\% accurate. So: the probability of \(g\) given \(G\) is 0.7; the probability of \(b\) given \(G\) is 0.3; the probability of \(g\) given \(B\) is 0.3; and the probability of \(b\) given \(B\) is 0.7.\par
 
@@ -80,7 +60,7 @@ And the actions? Just two: Line up or Drop. The rule is simple: if the probabili
 
 \vspace{0.35em}\noindent\rule{\textwidth}{0.3pt}\par
 
-\section*{6 · Person 1 第一个人（~2 min）}
+\section*{4 · Person 1 第一个人（~2 min）}
 
 \textbf{EN:} “Here's the picture: area equals probability. The left half is \(G\), the right half is \(B\). And the \(g\) regions cover 70\% of the Good side and 30\% of the Bad side.\par
 
@@ -92,7 +72,7 @@ Person 1 has only his own signal \(g\). By Bayes' rule, the probability of \(G\)
 
 \vspace{0.35em}\noindent\rule{\textwidth}{0.3pt}\par
 
-\section*{7 · Person 2 第二个人（~2 min）}
+\section*{5 · Person 2 第二个人（~2 min）}
 
 \textbf{EN:} “Person 2 sees Person 1 line up — which tells him \(s_1=g\). Now there are two cases.\par
 
@@ -108,7 +88,7 @@ Case two: Person 2 gets \(s_2=b\). Now it's one good clue against one bad clue, 
 
 \vspace{0.35em}\noindent\rule{\textwidth}{0.3pt}\par
 
-\section*{8 · Person 3 — set up Bayes 写出事后概率（~2 min）}
+\section*{6 · Person 3 — set up Bayes 写出事后概率（~2 min）}
 
 \textbf{EN:} “Now here's the story. Two people are already lining up in front of me, and I draw a bad signal \(b\). Do I stay, or do I leave? That all depends on the probability of \(G\) given \(\mathrm{LU},\mathrm{LU},b\).\par
 
@@ -124,7 +104,7 @@ And here's the important warning: don't just swap 'Line up' for \(g\). Line up i
 
 \vspace{0.35em}\noindent\rule{\textwidth}{0.3pt}\par
 
-\section*{9 · Person 3 — conditional probabilities 条件概率（~2.5 min）}
+\section*{7 · Person 3 — conditional probabilities 条件概率（~2.5 min）}
 
 \textbf{EN:} “Why can we split it into a product? Because the earlier Line-ups depend only on \(s_1\) and \(s_2\). Given the state, those signals are independent of Person 3's \(b\). So \(b\) is conditionally independent of the two Line-ups: the probability of \((\mathrm{LU},\mathrm{LU},b)\) equals the probability of \((\mathrm{LU},\mathrm{LU})\) times the probability of \(b\).\par
 
@@ -140,7 +120,7 @@ Under \(B\): same logic, with the probabilities flipped. Person 1 lines up only 
 
 \vspace{0.35em}\noindent\rule{\textwidth}{0.3pt}\par
 
-\section*{10 · Person 3 — combine, decide, and why he "discards" his signal 合并决定并解释为何丢掉信号（~3.5 min）}
+\section*{8 · Person 3 — combine, decide, and why he "discards" his signal 合并决定并解释为何丢掉信号（~3.5 min）}
 
 \textbf{EN:} “The priors are equal, so we just plug in: \(0.1785\cdot\tfrac12\) over \(0.1785\cdot\tfrac12+0.1365\cdot\tfrac12\). That comes out to about 0.57 — above one half.\par
 
@@ -172,7 +152,7 @@ And that's why this is the start of the information cascade. Person 3's line-up 
 
 \vspace{0.35em}\noindent\rule{\textwidth}{0.3pt}\par
 
-\section*{11 · Takeaways 结语（~2 min）}
+\section*{9 · Takeaways 结语（~2 min）}
 
 \textbf{EN:} “So here's the takeaway. If everyone just used their own signal, and we aggregated all of them, private information would keep feeding into the public record. But in a cascade, choices come one after another. Early actions become public clues — and the people who come later can rationally ignore their own signals. Following the crowd can be rational for each person — and still bad for the group.\par
 
